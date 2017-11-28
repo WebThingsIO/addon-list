@@ -1,0 +1,9 @@
+[
+  {
+    "name": "example-adapter",
+    "display_name": "Example",
+    "description": "Example add-on for developers",
+    "version": "0.3.0-pre",
+    "url": "https://github.com/mozilla-iot/example-adapter/releases/download/0.3.0-pre/example-adapter-0.3.0-pre.tgz"
+  }
+]
