@@ -4,6 +4,6 @@
     "display_name": "GPIO",
     "description": "GPIO device support",
     "version": "0.3.0-pre",
-    "url": "https://github.com/mozilla-iot/gpio-adapter/releases/download/0.3.0-pre/gpio-adapter-0.3.0-pre.tgz"
+    "url": "https://github.com/mozilla-iot/gpio-adapter/releases/download/0.3.0-pre2/gpio-adapter-0.3.0-pre2.tgz"
   }
 ]
