@@ -58,8 +58,8 @@
     "name": "zwave-adapter",
     "display_name": "Z-Wave",
     "description": "Z-Wave device support",
-    "version": "0.3.0-pre3",
-    "url": "https://github.com/mozilla-iot/zwave-adapter/releases/download/v0.3.0-pre3/zwave-adapter-0.3.0-pre3.tgz",
+    "version": "0.3.0-pre4",
+    "url": "https://github.com/mozilla-iot/zwave-adapter/releases/download/v0.3.0-pre4/zwave-adapter-0.3.0-pre4.tgz",
     "api": {
       "min": 1,
       "max": 1
