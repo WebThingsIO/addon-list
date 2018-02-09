@@ -14,8 +14,8 @@
     "name": "philips-hue-adapter",
     "display_name": "Philips Hue",
     "description": "Philips Hue color light support. Press the button on your Hue bridge to pair lights.",
-    "version": "0.4.0",
-    "url": "https://github.com/mozilla-iot/philips-hue-adapter/releases/download/0.4.0/philips-hue-adapter-0.4.0.tgz",
+    "version": "0.4.1",
+    "url": "https://github.com/mozilla-iot/philips-hue-adapter/releases/download/0.4.1/philips-hue-adapter-0.4.1.tgz",
     "api": {
       "min": 1,
       "max": 1
@@ -36,8 +36,8 @@
     "name": "virtual-things-adapter",
     "display_name": "Virtual Things",
     "description": "Virtual Things for experimenting with new thing types",
-    "version": "0.1.1",
-    "url": "https://github.com/mozilla-iot/virtual-things-adapter/releases/download/v0.1.1/virtual-things-adapter-0.1.1.tgz",
+    "version": "0.1.2",
+    "url": "https://github.com/mozilla-iot/virtual-things-adapter/releases/download/0.1.2/virtual-things-adapter-0.1.2.tgz",
     "api": {
       "min": 1,
       "max": 1
