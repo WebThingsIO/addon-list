@@ -14,8 +14,8 @@
     "name": "philips-hue-adapter",
     "display_name": "Philips Hue",
     "description": "Philips Hue color light support. Press the button on your Hue bridge to pair lights.",
-    "version": "0.4.2",
-    "url": "https://github.com/mozilla-iot/philips-hue-adapter/releases/download/0.4.2/philips-hue-adapter-0.4.2.tgz",
+    "version": "0.4.3",
+    "url": "https://github.com/mozilla-iot/philips-hue-adapter/releases/download/0.4.3/philips-hue-adapter-0.4.3.tgz",
     "api": {
       "min": 1,
       "max": 1
