@@ -158,6 +158,36 @@ def main():
                       .format(name))
                 cleanup()
 
+        # Verify that the name matches
+        if manifest['name'] != name:
+          print('Name mismatch for package "{}"')
+          print('name from package.json "{}" doesn\'t match '
+                'name from list.json'.format(name, manifest['name']))
+          cleanup()
+
+        # Verify that the version matches
+        if manifest['version'] != entry['version']:
+          print('Version mismatch for package "{}": '
+                'version from package.json "{}" doesn\'t match '
+                'version from list.json "{}"'
+                .format(name, manifest['version'], entry['version']))
+          cleanup()
+
+        # Verify that the API versions matche
+        if manifest['moziot']['api']['min'] != entry['api']['min']:
+          print('api.min Version mismatch for package "{}": '
+                'api.min version from package.json "{}" doesn\'t match '
+                'api.min version from list.json "{}"'
+                .format(name, manifest['moziot']['api']['min'], entry['api']['min']))
+          cleanup()
+
+        if manifest['moziot']['api']['max'] != entry['api']['max']:
+          print('api.max version mismatch for package "{}": '
+                'api.max version from package.json "{}" doesn\'t match '
+                'api.max version from list.json "{}"'
+                .format(name, manifest['moziot']['api']['max'], entry['api']['max']))
+          cleanup()
+
         cleanup(exit=False)
 
 
