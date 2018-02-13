@@ -11,6 +11,17 @@
     }
   },
   {
+    "name": "http-on-off-adapter",
+    "display_name": "HTTP On/Off",
+    "description": "Adapter for https://github.com/mozilla-iot/http-on-off-mkr1000",
+    "version": "0.3.0",
+    "url": "https://github.com/mozilla-iot/http-on-off-adapter/releases/download/v0.3.0/http-on-off-adapter-0.3.0.tgz",
+    "api": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  {
     "name": "philips-hue-adapter",
     "display_name": "Philips Hue",
     "description": "Philips Hue color light support. Press the button on your Hue bridge to pair lights.",
