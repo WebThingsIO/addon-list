@@ -5,6 +5,7 @@
     "description": "Example add-on for developers",
     "version": "0.3.0-pre5",
     "url": "https://github.com/mozilla-iot/example-adapter/releases/download/v0.3.0-pre5/example-adapter-0.3.0-pre5.tgz",
+    "checksum": "cc5e15ee1f9e10a72e4fd9da00683f28222ed46e57679fa0e4405a050f5253aa",
     "api": {
       "min": 1,
       "max": 1

@@ -17,6 +17,7 @@ You can submit a [pull request](https://github.com/mozilla-iot/addon-list/pulls)
 * `description` - A friendly description for your package. This will be shown in the Gateway's UI.
 * `version` - The package version. This should be the same as in your `package.json`.
 * `url` - A URL to download the packaged tarball (`.tar.gz` or `.tgz`) from.
+* `checksum` - Checksum of the tarball
 * `api` - The API levels supported by this add-on. This should be the same as in your `package.json`, so an object with the following 2 properties:
     * `min` - The minimum supported API level
     * `max` - The maximum supported API level
