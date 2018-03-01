@@ -6,6 +6,12 @@
     "version": "0.1.1",
     "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/broadlink-adapter-0.1.1.tgz",
     "checksum": "f9dbe9279415c59f4b459179e0bfca7f03052f5d5a5318aa21b8e553825d29b1",
+    "packages": {
+      "any": {
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/broadlink-adapter-0.1.1.tgz",
+        "checksum": "f9dbe9279415c59f4b459179e0bfca7f03052f5d5a5318aa21b8e553825d29b1"
+      }
+    },
     "api": {
       "min": 1,
       "max": 1
@@ -18,6 +24,12 @@
     "version": "0.3.1",
     "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ESP-adapter-0.3.1.tgz",
     "checksum": "4cf6ca99f8639734ab636ee2a6e3b08f7b184f4db8c35460e14a7a47d745a1ec",
+    "packages": {
+      "any": {
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ESP-adapter-0.3.1.tgz",
+        "checksum": "4cf6ca99f8639734ab636ee2a6e3b08f7b184f4db8c35460e14a7a47d745a1ec"
+      }
+    },
     "api": {
       "min": 1,
       "max": 1
@@ -30,6 +42,12 @@
     "version": "0.3.1",
     "url": "https://github.com/mozilla-iot/gpio-adapter/releases/download/v0.3.1/gpio-adapter-0.3.1.tgz",
     "checksum": "5ace196878a45da373980b1a21f9ce03051e26e8eb6eaa3a6465f9f661ec4788",
+    "packages": {
+      "any": {
+        "url": "https://github.com/mozilla-iot/gpio-adapter/releases/download/v0.3.1/gpio-adapter-0.3.1.tgz",
+        "checksum": "5ace196878a45da373980b1a21f9ce03051e26e8eb6eaa3a6465f9f661ec4788"
+      }
+    },
     "api": {
       "min": 1,
       "max": 1
@@ -42,6 +60,12 @@
     "version": "0.3.0",
     "url": "https://github.com/mozilla-iot/http-on-off-adapter/releases/download/v0.3.0/http-on-off-adapter-0.3.0.tgz",
     "checksum": "183b512b84dd04142d1620c160e833d0f9bc6e9f248f46851256541a29fecb07",
+    "packages": {
+      "any": {
+        "url": "https://github.com/mozilla-iot/http-on-off-adapter/releases/download/v0.3.0/http-on-off-adapter-0.3.0.tgz",
+        "checksum": "183b512b84dd04142d1620c160e833d0f9bc6e9f248f46851256541a29fecb07"
+      }
+    },
     "api": {
       "min": 1,
       "max": 1
@@ -54,6 +78,12 @@
     "version": "0.5.0",
     "url": "https://github.com/mozilla-iot/philips-hue-adapter/releases/download/0.5.0/philips-hue-adapter-0.5.0.tgz",
     "checksum": "ab0d241a3c9e8dc074be1d1129824ad8f55570cf1dc44115671f17b9413d670d",
+    "packages": {
+      "any": {
+        "url": "https://github.com/mozilla-iot/philips-hue-adapter/releases/download/0.5.0/philips-hue-adapter-0.5.0.tgz",
+        "checksum": "ab0d241a3c9e8dc074be1d1129824ad8f55570cf1dc44115671f17b9413d670d"
+      }
+    },
     "api": {
       "min": 1,
       "max": 1
@@ -66,6 +96,12 @@
     "version": "0.3.0",
     "url": "https://github.com/mozilla-iot/serial-adapter/releases/download/v0.3.0/serial-adapter-0.3.0.tgz",
     "checksum": "ec6a2d4c733356258ceff1b2f39145e86b88afb53cddac9fc9163ab29fe45d2d",
+    "packages": {
+      "any": {
+        "url": "https://github.com/mozilla-iot/serial-adapter/releases/download/v0.3.0/serial-adapter-0.3.0.tgz",
+        "checksum": "ec6a2d4c733356258ceff1b2f39145e86b88afb53cddac9fc9163ab29fe45d2d"
+      }
+    },
     "api": {
       "min": 1,
       "max": 1
@@ -78,6 +114,12 @@
     "version": "0.1.0",
     "url": "https://github.com/mozilla-iot/tplink-adapter/releases/download/v0.1.0/tplink-adapter-0.1.0.tgz",
     "checksum": "792e62abc8a884cb8fd10a0bfdfdbbebf76fdfd7e50da7f57bf0c7409b1edf7f",
+    "packages": {
+      "any": {
+        "url": "https://github.com/mozilla-iot/tplink-adapter/releases/download/v0.1.0/tplink-adapter-0.1.0.tgz",
+        "checksum": "792e62abc8a884cb8fd10a0bfdfdbbebf76fdfd7e50da7f57bf0c7409b1edf7f"
+      }
+    },
     "api": {
       "min": 1,
       "max": 1
@@ -90,6 +132,12 @@
     "version": "0.1.2",
     "url": "https://github.com/mozilla-iot/virtual-things-adapter/releases/download/0.1.2/virtual-things-adapter-0.1.2.tgz",
     "checksum": "45e295d8c0bf6e986a3e4f51547363d828ae21c404b9a65ca2d30fa2031558c1",
+    "packages": {
+      "any": {
+        "url": "https://github.com/mozilla-iot/virtual-things-adapter/releases/download/0.1.2/virtual-things-adapter-0.1.2.tgz",
+        "checksum": "45e295d8c0bf6e986a3e4f51547363d828ae21c404b9a65ca2d30fa2031558c1"
+      }
+    },
     "api": {
       "min": 1,
       "max": 1
@@ -102,6 +150,12 @@
     "version": "0.3.1",
     "url": "https://github.com/mozilla-iot/zigbee-adapter/releases/download/v0.3.1/zigbee-adapter-0.3.1.tgz",
     "checksum": "c74dd0ea39ba6bc5551cb3b3eb31b3d393b857d9ea87cc9a0e4d2fb832940db4",
+    "packages": {
+      "any": {
+        "url": "https://github.com/mozilla-iot/zigbee-adapter/releases/download/v0.3.1/zigbee-adapter-0.3.1.tgz",
+        "checksum": "c74dd0ea39ba6bc5551cb3b3eb31b3d393b857d9ea87cc9a0e4d2fb832940db4"
+      }
+    },
     "api": {
       "min": 1,
       "max": 1
@@ -114,6 +168,12 @@
     "version": "0.3.1",
     "url": "https://github.com/mozilla-iot/zwave-adapter/releases/download/v0.3.1/zwave-adapter-0.3.1.tgz",
     "checksum": "7708258061565df48eaed2d5dd8058757c657cc3a7e56c8dfa3c32a96041cc3b",
+    "packages": {
+      "any": {
+        "url": "https://github.com/mozilla-iot/zwave-adapter/releases/download/v0.3.1/zwave-adapter-0.3.1.tgz",
+        "checksum": "7708258061565df48eaed2d5dd8058757c657cc3a7e56c8dfa3c32a96041cc3b"
+      }
+    },
     "api": {
       "min": 1,
       "max": 1
