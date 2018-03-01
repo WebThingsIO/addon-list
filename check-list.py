@@ -77,6 +77,7 @@ def main():
             'description',
             'version',
             'url',
+            'packages',
             'checksum',
             'api.min',
             'api.max',
@@ -90,6 +91,16 @@ def main():
             'moziot.api.max',
         ]
 
+        known_architectures = [
+            'any',
+            'darwin-x64',
+            'linux-arm',
+            'linux-ia32',
+            'linux-x64',
+            'win32-ia32',
+            'win32-x64',
+        ]
+
         for entry in addon_list:
             success, field = verify_fields(required_in_list, entry)
             if not success:
@@ -99,110 +110,133 @@ def main():
 
             name = entry['name']
 
-            # Download the package.
-            try:
-                urllib.request.urlretrieve(entry['url'], 'package.tgz')
-            except urllib.error.URLError:
-                print('Failed to download package for "{}"'.format(name))
-                cleanup()
-
-            # Verify the checksum.
-            if entry['checksum'] != hash_file('./package.tgz'):
-                print('Checksum invalid for "{}"'.format(name))
-                cleanup()
-
-            # Check the package contents.
-            try:
-                with tarfile.open('./package.tgz', 'r:gz') as t:
-                    t.extractall()
-            except (IOError, OSError, tarfile.TarError):
-                print('Failed to untar package for "{}"'.format(name))
-                cleanup()
-
-            try:
-                with open('./package/package.json', 'rt') as f:
-                    manifest = json.load(f)
-            except (IOError, OSError, ValueError):
-                print('Failed to read package.json for "{}"'.format(name))
-                cleanup()
-
-            # Verify required fields in package.json.
-            success, field = verify_fields(required_in_manifest, manifest)
-            if not success:
-                print('Field "{}" missing from:\n{}'
-                      .format(field, json.dumps(manifest, indent=2)))
-                cleanup()
-
-            # Verify some additional fields.
-            if not isinstance(manifest['files'], list) or \
-                    len(manifest['files']) == 0:
-                print('Invalid files array:\n{}'
-                      .format(json.dumps(manifest, indent=2)))
-                cleanup()
-
-            if 'config' in manifest and \
-                    not isinstance(manifest['config'], dict):
-                print('Invalid config object:\n{}'
-                      .format(json.dumps(manifest, indent=2)))
-                cleanup()
-
-            # Verify the files list.
-            for fname in manifest['files']:
-                if not os.path.exists(os.path.join('package', fname)):
-                    print('File missing for package "{}": {}'
-                          .format(name, fname))
+            # Ensure list of architectures is valid.
+            for arch in entry['packages'].keys():
+                if arch not in known_architectures:
+                    print('Unknown architecture for package "{}": {}'
+                          .format(name, arch))
                     cleanup()
 
-            # Verify SHA256SUMS, if present.
-            if 'SHA256SUMS' in manifest['files']:
+            legacy_entry = [
+                {
+                    'url': entry['url'],
+                    'checksum': entry['checksum'],
+                }
+            ]
+
+            # Download the packages.
+            for package in list(entry['packages'].values()) + legacy_entry:
+                if 'url' not in package or 'checksum' not in package:
+                    print('Invalid package entry for "{}": {}'
+                          .format(name, package))
+                    cleanup()
+
+                url = package['url']
+                checksum = package['checksum']
+
                 try:
-                    with open('./package/SHA256SUMS', 'rt') as f:
-                        for line in f:
-                            cksum, fname = \
-                                re.split(r'\s+', line.strip(), maxsplit=1)
-                            fname = os.path.join('package', fname)
-                            if cksum != hash_file(fname):
-                                print('Checksum failed in package "{}": {}'
-                                      .format(name, fname))
-                                cleanup()
-                except (IOError, OSError, ValueError):
-                    print('Failed to read SHA256SUMS file for package "{}"'
-                          .format(name))
+                    urllib.request.urlretrieve(url, 'package.tgz')
+                except urllib.error.URLError:
+                    print('Failed to download package for "{}"'.format(name))
                     cleanup()
 
-            # Verify that the name matches
-            if manifest['name'] != name:
-                print('Name mismatch for package "{}"')
-                print('name from package.json "{}" doesn\'t match '
-                      'name from list.json'.format(name, manifest['name']))
-                cleanup()
+                # Verify the checksum.
+                if checksum != hash_file('./package.tgz'):
+                    print('Checksum invalid for "{}"'.format(name))
+                    cleanup()
 
-            # Verify that the version matches
-            if manifest['version'] != entry['version']:
-                print('Version mismatch for package "{}": '
-                      'version from package.json "{}" doesn\'t match '
-                      'version from list.json "{}"'
-                      .format(name, manifest['version'], entry['version']))
-                cleanup()
+                # Check the package contents.
+                try:
+                    with tarfile.open('./package.tgz', 'r:gz') as t:
+                        t.extractall()
+                except (IOError, OSError, tarfile.TarError):
+                    print('Failed to untar package for "{}"'.format(name))
+                    cleanup()
 
-            # Verify that the API version matches
-            if manifest['moziot']['api']['min'] != entry['api']['min']:
-                print('api.min Version mismatch for package "{}": '
-                      'api.min version from package.json "{}" doesn\'t match '
-                      'api.min version from list.json "{}"'
-                      .format(name, manifest['moziot']['api']['min'],
-                              entry['api']['min']))
-                cleanup()
+                try:
+                    with open('./package/package.json', 'rt') as f:
+                        manifest = json.load(f)
+                except (IOError, OSError, ValueError):
+                    print('Failed to read package.json for "{}"'.format(name))
+                    cleanup()
 
-            if manifest['moziot']['api']['max'] != entry['api']['max']:
-                print('api.max version mismatch for package "{}": '
-                      'api.max version from package.json "{}" doesn\'t match '
-                      'api.max version from list.json "{}"'
-                      .format(name, manifest['moziot']['api']['max'],
-                              entry['api']['max']))
-                cleanup()
+                # Verify required fields in package.json.
+                success, field = verify_fields(required_in_manifest, manifest)
+                if not success:
+                    print('Field "{}" missing from:\n{}'
+                          .format(field, json.dumps(manifest, indent=2)))
+                    cleanup()
 
-            cleanup(exit=False)
+                # Verify some additional fields.
+                if not isinstance(manifest['files'], list) or \
+                        len(manifest['files']) == 0:
+                    print('Invalid files array:\n{}'
+                          .format(json.dumps(manifest, indent=2)))
+                    cleanup()
+
+                if 'config' in manifest and \
+                        not isinstance(manifest['config'], dict):
+                    print('Invalid config object:\n{}'
+                          .format(json.dumps(manifest, indent=2)))
+                    cleanup()
+
+                # Verify the files list.
+                for fname in manifest['files']:
+                    if not os.path.exists(os.path.join('package', fname)):
+                        print('File missing for package "{}": {}'
+                              .format(name, fname))
+                        cleanup()
+
+                # Verify SHA256SUMS, if present.
+                if 'SHA256SUMS' in manifest['files']:
+                    try:
+                        with open('./package/SHA256SUMS', 'rt') as f:
+                            for line in f:
+                                cksum, fname = \
+                                    re.split(r'\s+', line.strip(), maxsplit=1)
+                                fname = os.path.join('package', fname)
+                                if cksum != hash_file(fname):
+                                    print('Checksum failed in package "{}": {}'
+                                          .format(name, fname))
+                                    cleanup()
+                    except (IOError, OSError, ValueError):
+                        print('Failed to read SHA256SUMS file for package "{}"'
+                              .format(name))
+                        cleanup()
+
+                # Verify that the name matches
+                if manifest['name'] != name:
+                    print('Name mismatch for package "{}"')
+                    print('name from package.json "{}" doesn\'t match '
+                          'name from list.json'.format(name, manifest['name']))
+                    cleanup()
+
+                # Verify that the version matches
+                if manifest['version'] != entry['version']:
+                    print('Version mismatch for package "{}": '
+                          'version from package.json "{}" doesn\'t match '
+                          'version from list.json "{}"'
+                          .format(name, manifest['version'], entry['version']))
+                    cleanup()
+
+                # Verify that the API version matches
+                if manifest['moziot']['api']['min'] != entry['api']['min']:
+                    print('api.min Version mismatch for package "{}": '
+                          'api.min version from package.json "{}" doesn\'t '
+                          'match api.min version from list.json "{}"'
+                          .format(name, manifest['moziot']['api']['min'],
+                                  entry['api']['min']))
+                    cleanup()
+
+                if manifest['moziot']['api']['max'] != entry['api']['max']:
+                    print('api.max version mismatch for package "{}": '
+                          'api.max version from package.json "{}" doesn\'t '
+                          'match api.max version from list.json "{}"'
+                          .format(name, manifest['moziot']['api']['max'],
+                                  entry['api']['max']))
+                    cleanup()
+
+                cleanup(exit=False)
 
 
 if __name__ == '__main__':
