@@ -236,6 +236,12 @@ def main():
                                   entry['api']['max']))
                     cleanup()
 
+                # Verify the plugin flag.
+                if not manifest['moziot']['plugin']:
+                    print('Plugin flag set to false for package "{}"'
+                          .format(name))
+                    cleanup()
+
                 cleanup(exit=False)
 
 
