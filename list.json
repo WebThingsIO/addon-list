@@ -147,13 +147,13 @@
     "name": "zigbee-adapter",
     "display_name": "Zigbee",
     "description": "Zigbee device support",
-    "version": "0.3.3",
-    "url": "https://github.com/mozilla-iot/zigbee-adapter/releases/download/v0.3.3/zigbee-adapter-0.3.3.tgz",
-    "checksum": "55a9370b101a40ec5b607baa5934adc55d5e682b0e2dddb8588470ea20a48dc3",
+    "version": "0.3.2",
+    "url": "https://github.com/mozilla-iot/zigbee-adapter/releases/download/v0.3.2/zigbee-adapter-0.3.2.tgz",
+    "checksum": "668d9db82a5d588d9297ef0b7fb6f118fd171153e0e6fe6a730cfa61453da5ea",
     "packages": {
       "any": {
-        "url": "https://github.com/mozilla-iot/zigbee-adapter/releases/download/v0.3.3/zigbee-adapter-0.3.3.tgz",
-        "checksum": "55a9370b101a40ec5b607baa5934adc55d5e682b0e2dddb8588470ea20a48dc3"
+        "url": "https://github.com/mozilla-iot/zigbee-adapter/releases/download/v0.3.2/zigbee-adapter-0.3.2.tgz",
+        "checksum": "668d9db82a5d588d9297ef0b7fb6f118fd171153e0e6fe6a730cfa61453da5ea"
       }
     },
     "api": {
