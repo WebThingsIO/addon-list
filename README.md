@@ -28,6 +28,8 @@ You can submit a [pull request](https://github.com/mozilla-iot/addon-list/pulls)
 * `name`: The package name. This should be the same as in your `package.json`.
 * `display_name`: A friendly display name for your package. This will be shown in the Gateway's UI.
 * `description`: A friendly description for your package. This will be shown in the Gateway's UI.
+* `author`: Name of the add-on author.
+* `homepage`: Homepage of the add-on, i.e. the Github repository.
 * `version`: The package version. This should be the same as in your `package.json`.
 * `packages`: An object describing supported architectures and their packages. Each entry should be of the form:
 

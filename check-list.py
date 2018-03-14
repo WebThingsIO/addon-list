@@ -75,6 +75,8 @@ def main():
             'name',
             'display_name',
             'description',
+            'author',
+            'homepage',
             'version',
             'url',
             'packages',
@@ -86,6 +88,8 @@ def main():
         required_in_manifest = [
             'name',
             'version',
+            # TODO: 'author',
+            'homepage',
             'files',
             'moziot.api.min',
             'moziot.api.max',
@@ -217,6 +221,25 @@ def main():
                           'version from package.json "{}" doesn\'t match '
                           'version from list.json "{}"'
                           .format(name, manifest['version'], entry['version']))
+                    cleanup()
+
+                # Verify that the author matches
+                # TODO: enforce this
+                if 'author' not in manifest:
+                    print('Author missing for package "{}"'.format(name))
+                elif manifest['author'] != entry['author']:
+                    print('Author mismatch for package "{}": '
+                          'author from package.json "{}" doesn\'t match '
+                          'author from list.json "{}"'
+                          .format(name, manifest['author'], entry['author']))
+
+                # Verify that the homepage matches
+                if manifest['homepage'] != entry['homepage']:
+                    print('Homepage mismatch for package "{}": '
+                          'homepage from package.json "{}" doesn\'t match '
+                          'homepage from list.json "{}"'
+                          .format(name, manifest['homepage'],
+                                  entry['homepage']))
                     cleanup()
 
                 # Verify that the API version matches
