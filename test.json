@@ -5,13 +5,13 @@
     "description": "Example add-on for developers",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/example-adapter",
-    "version": "0.3.1",
-    "url": "https://github.com/mozilla-iot/example-adapter/releases/download/v0.3.1/example-adapter-0.3.1.tgz",
-    "checksum": "17e21c3a1aa17981d2f579b0286a576bb9e754a4e5aa5a5fb0955eb3f53bfdfb",
+    "version": "0.3.2",
+    "url": "https://github.com/mozilla-iot/example-adapter/releases/download/v0.3.2/example-adapter-0.3.2.tgz",
+    "checksum": "71ef7a875d258606488bf9ab653eae7f02f477a8145a28db846877a5819cdf38",
     "packages": {
       "any": {
-        "url": "https://github.com/mozilla-iot/example-adapter/releases/download/v0.3.1/example-adapter-0.3.1.tgz",
-        "checksum": "17e21c3a1aa17981d2f579b0286a576bb9e754a4e5aa5a5fb0955eb3f53bfdfb"
+        "url": "https://github.com/mozilla-iot/example-adapter/releases/download/v0.3.2/example-adapter-0.3.2.tgz",
+        "checksum": "71ef7a875d258606488bf9ab653eae7f02f477a8145a28db846877a5819cdf38"
       }
     },
     "api": {
