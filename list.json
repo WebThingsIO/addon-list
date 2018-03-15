@@ -3,7 +3,7 @@
     "name": "broadlink-adapter",
     "display_name": "BroadLink",
     "description": "Support IR devices with BroadLink. See: https://github.com/sogaani/broadlink-adapter",
-    "author": "Soga Ani",
+    "author": "sogaani",
     "homepage": "https://github.com/sogaani/broadlink-adapter",
     "version": "0.1.3",
     "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/broadlink-adapter-0.1.3.tgz",
