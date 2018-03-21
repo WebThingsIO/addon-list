@@ -65,13 +65,13 @@
     "description": "Adapter for https://github.com/mozilla-iot/http-on-off-mkr1000",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/http-on-off-adapter",
-    "version": "0.3.2",
-    "url": "https://github.com/mozilla-iot/http-on-off-adapter/releases/download/v0.3.2/http-on-off-adapter-0.3.2.tgz",
-    "checksum": "24465da028f0d962d5503b0cf77e206a0452f8d24b1e3b54ee5e3d03e98cbaa2",
+    "version": "0.3.3",
+    "url": "https://github.com/mozilla-iot/http-on-off-adapter/releases/download/v0.3.3/http-on-off-adapter-0.3.3.tgz",
+    "checksum": "bf88aeaf8a07bea56510e9e235786c5fae84b62d189a500807382b0188e7f45b",
     "packages": {
       "any": {
-        "url": "https://github.com/mozilla-iot/http-on-off-adapter/releases/download/v0.3.2/http-on-off-adapter-0.3.2.tgz",
-        "checksum": "24465da028f0d962d5503b0cf77e206a0452f8d24b1e3b54ee5e3d03e98cbaa2"
+        "url": "https://github.com/mozilla-iot/http-on-off-adapter/releases/download/v0.3.3/http-on-off-adapter-0.3.3.tgz",
+        "checksum": "bf88aeaf8a07bea56510e9e235786c5fae84b62d189a500807382b0188e7f45b"
       }
     },
     "api": {
