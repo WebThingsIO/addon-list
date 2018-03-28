@@ -2,6 +2,7 @@
 
 import hashlib
 import json
+import jsonschema
 import os
 import re
 import shutil
@@ -178,12 +179,6 @@ def main():
                           .format(json.dumps(manifest, indent=2)))
                     cleanup()
 
-                if 'config' in manifest and \
-                        not isinstance(manifest['config'], dict):
-                    print('Invalid config object:\n{}'
-                          .format(json.dumps(manifest, indent=2)))
-                    cleanup()
-
                 # Verify the files list.
                 for fname in manifest['files']:
                     if not os.path.exists(os.path.join('package', fname)):
@@ -264,6 +259,23 @@ def main():
                     print('Plugin flag set to false for package "{}"'
                           .format(name))
                     cleanup()
+
+                # Verify config is a dict (i.e. object) if present
+                if 'config' in manifest and \
+                        not isinstance(manifest['config'], dict):
+                    print('Invalid config object:\n{}'
+                          .format(json.dumps(manifest, indent=2)))
+                    cleanup()
+
+                # Validate the config schema, if present
+                if 'schema' in manifest['moziot']:
+                    try:
+                        jsonschema.Draft4Validator.check_schema(
+                            manifest['moziot']['schema'])
+                    except jsonschema.SchemaError as e:
+                        print('Invalid config schema for {}: {}'
+                              .format(name, e))
+                        cleanup()
 
                 cleanup(exit=False)
 
