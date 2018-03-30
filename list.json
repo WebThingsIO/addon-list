@@ -100,6 +100,26 @@
     }
   },
   {
+    "name": "lifx-adapter",
+    "display_name": "LIFX",
+    "description": "LIFX smart bulb support",
+    "author": "Stephen Oliver",
+    "homepage": "https://github.com/infincia/lifx-adapter",
+    "version": "0.1.3",
+    "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lifx-adapter-0.1.3.tgz",
+    "checksum": "c1271ddb106f5ff56b42b51d6a67e15de92ce73f908db9879ae188ddfb3d163e",
+    "packages": {
+      "any": {
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lifx-adapter-0.1.3.tgz",
+        "checksum": "c1271ddb106f5ff56b42b51d6a67e15de92ce73f908db9879ae188ddfb3d163e"
+      }
+    },
+    "api": {
+      "min": 1,
+      "max": 2
+    }
+  },
+  {
     "name": "philips-hue-adapter",
     "display_name": "Philips Hue",
     "description": "Philips Hue color light support. Press the button on your Hue bridge to pair devices.",
