@@ -60,6 +60,26 @@
     }
   },
   {
+    "name": "homekit-adapter",
+    "display_name": "HomeKit",
+    "description": "HomeKit device support",
+    "author": "Mozilla IoT",
+    "homepage": "https://github.com/mozilla-iot/homekit-adapter",
+    "version": "0.1.0",
+    "url": "https://github.com/mozilla-iot/homekit-adapter/releases/download/v0.1.0/homekit-adapter-0.1.0.tgz",
+    "checksum": "1cb3f590bb0a5f93c13680ab6c2cf9fca42ee2853c72e6a93cc0331860119768",
+    "packages": {
+      "any": {
+        "url": "https://github.com/mozilla-iot/homekit-adapter/releases/download/v0.1.0/homekit-adapter-0.1.0.tgz",
+        "checksum": "1cb3f590bb0a5f93c13680ab6c2cf9fca42ee2853c72e6a93cc0331860119768"
+      }
+    },
+    "api": {
+      "min": 2,
+      "max": 2
+    }
+  },
+  {
     "name": "http-on-off-adapter",
     "display_name": "HTTP On/Off",
     "description": "Adapter for https://github.com/mozilla-iot/http-on-off-mkr1000",
