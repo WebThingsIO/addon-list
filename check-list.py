@@ -78,10 +78,7 @@ def main():
             'description',
             'author',
             'homepage',
-            'version',
-            'url',
             'packages',
-            'checksum',
             'api.min',
             'api.max',
         ]
@@ -117,25 +114,30 @@ def main():
 
             # Ensure list of architectures is valid.
             for arch in entry['packages'].keys():
-                if arch not in known_architectures:
+                if arch not in known_architectures and arch != 'legacy':
                     print('Unknown architecture for package "{}": {}'
                           .format(name, arch))
                     cleanup()
 
-            legacy_entry = [
-                {
+            if 'version' in entry and 'url' in entry and 'checksum' in entry:
+                legacy_entry = {
+                    'version': entry['version'],
                     'url': entry['url'],
                     'checksum': entry['checksum'],
                 }
-            ]
+
+                entry['packages']['legacy'] = legacy_entry
 
             # Download the packages.
-            for package in list(entry['packages'].values()) + legacy_entry:
-                if 'url' not in package or 'checksum' not in package:
+            for package in entry['packages'].values():
+                if 'url' not in package or \
+                        'checksum' not in package or \
+                        'version' not in package:
                     print('Invalid package entry for "{}": {}'
                           .format(name, package))
                     cleanup()
 
+                version = package['version']
                 url = package['url']
                 checksum = package['checksum']
 
@@ -211,7 +213,7 @@ def main():
                     cleanup()
 
                 # Verify that the version matches
-                if manifest['version'] != entry['version']:
+                if manifest['version'] != version:
                     print('Version mismatch for package "{}": '
                           'version from package.json "{}" doesn\'t match '
                           'version from list.json "{}"'

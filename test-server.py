@@ -19,5 +19,5 @@ if __name__ == '__main__':
           '    ...\n'
           '    listUrl: \'http://127.0.0.1:8088/list.json\',\n'
           '    ...\n'
-          '  },')
+          '  },\n')
     httpd.serve_forever()

@@ -10,28 +10,9 @@
     "checksum": "501650e26e6b434f0ef60de4cacc286e193c4d98e8ccc13e977e681bbb7def84",
     "packages": {
       "any": {
+        "version": "0.1.3",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/broadlink-adapter-0.1.3.tgz",
         "checksum": "501650e26e6b434f0ef60de4cacc286e193c4d98e8ccc13e977e681bbb7def84"
-      }
-    },
-    "api": {
-      "min": 1,
-      "max": 2
-    }
-  },
-  {
-    "name": "ESP-adapter",
-    "display_name": "ESP",
-    "description": "Support any web device that can accept/respond with JSON data. See: https://github.com/fiz1962/ESP-adapter",
-    "author": "Fiz N. Stein",
-    "homepage": "https://github.com/fiz1962/ESP-adapter",
-    "version": "0.4.1",
-    "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ESP-adapter-0.4.1.tgz",
-    "checksum": "393148244231c258a6e82589ad9c069ffba8f4087c09c02ad956ec1682201924",
-    "packages": {
-      "any": {
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ESP-adapter-0.4.1.tgz",
-        "checksum": "393148244231c258a6e82589ad9c069ffba8f4087c09c02ad956ec1682201924"
       }
     },
     "api": {
@@ -49,9 +30,20 @@
     "url": "https://github.com/mozilla-iot/gpio-adapter/releases/download/v0.3.2/gpio-adapter-0.3.2.tgz",
     "checksum": "1b59b8aae0740e1319f1e1aba836de076928c6d575c62b8db4632fab7b249275",
     "packages": {
-      "any": {
-        "url": "https://github.com/mozilla-iot/gpio-adapter/releases/download/v0.3.2/gpio-adapter-0.3.2.tgz",
-        "checksum": "1b59b8aae0740e1319f1e1aba836de076928c6d575c62b8db4632fab7b249275"
+      "linux-arm": {
+        "version": "0.3.3",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.3.3-linux-arm-v8.tgz",
+        "checksum": "7786abf8646ed55db11fa812d15f9c41b2d426a1bf0772382c67e07fc801be0e"
+      },
+      "linux-x64": {
+        "version": "0.3.3",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.3.3-linux-x64-v8.tgz",
+        "checksum": "dd6ab3793532e3dfd410353c9ad658d7862cbcbba10f32edbab538e373952307"
+      },
+      "darwin-x64": {
+        "version": "0.3.3",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.3.3-darwin-x64-v8.tgz",
+        "checksum": "495e599f9513df2aa2b5787ba7e07ba27cff859e046f79ad28a4c5f5ab1a5de1"
       }
     },
     "api": {
@@ -65,11 +57,9 @@
     "description": "HomeKit device support",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/homekit-adapter",
-    "version": "0.1.0",
-    "url": "https://github.com/mozilla-iot/homekit-adapter/releases/download/v0.1.0/homekit-adapter-0.1.0.tgz",
-    "checksum": "1cb3f590bb0a5f93c13680ab6c2cf9fca42ee2853c72e6a93cc0331860119768",
     "packages": {
       "any": {
+        "version": "0.1.0",
         "url": "https://github.com/mozilla-iot/homekit-adapter/releases/download/v0.1.0/homekit-adapter-0.1.0.tgz",
         "checksum": "1cb3f590bb0a5f93c13680ab6c2cf9fca42ee2853c72e6a93cc0331860119768"
       }
@@ -90,6 +80,7 @@
     "checksum": "bf88aeaf8a07bea56510e9e235786c5fae84b62d189a500807382b0188e7f45b",
     "packages": {
       "any": {
+        "version": "0.3.3",
         "url": "https://github.com/mozilla-iot/http-on-off-adapter/releases/download/v0.3.3/http-on-off-adapter-0.3.3.tgz",
         "checksum": "bf88aeaf8a07bea56510e9e235786c5fae84b62d189a500807382b0188e7f45b"
       }
@@ -110,6 +101,7 @@
     "checksum": "c1271ddb106f5ff56b42b51d6a67e15de92ce73f908db9879ae188ddfb3d163e",
     "packages": {
       "any": {
+        "version": "0.1.3",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lifx-adapter-0.1.3.tgz",
         "checksum": "c1271ddb106f5ff56b42b51d6a67e15de92ce73f908db9879ae188ddfb3d163e"
       }
@@ -130,6 +122,7 @@
     "checksum": "dad77718064b65e6fc0ac4722231d6b7d4e23d582c3b493447b6f2964b5d2593",
     "packages": {
       "any": {
+        "version": "0.5.2",
         "url": "https://github.com/mozilla-iot/philips-hue-adapter/releases/download/v0.5.2/philips-hue-adapter-0.5.2.tgz",
         "checksum": "dad77718064b65e6fc0ac4722231d6b7d4e23d582c3b493447b6f2964b5d2593"
       }
@@ -149,13 +142,52 @@
     "url": "https://github.com/mozilla-iot/serial-adapter/releases/download/v0.3.1/serial-adapter-0.3.1.tgz",
     "checksum": "2fc83a1d263175af293a3ff7e3de55a692145dc3b1a9178d65669ab311be8a78",
     "packages": {
-      "any": {
-        "url": "https://github.com/mozilla-iot/serial-adapter/releases/download/v0.3.1/serial-adapter-0.3.1.tgz",
-        "checksum": "2fc83a1d263175af293a3ff7e3de55a692145dc3b1a9178d65669ab311be8a78"
+      "linux-arm": {
+        "version": "0.3.3",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.3.3-linux-arm-v8.tgz",
+        "checksum": "6bc5fa2a808f389352cf45c1351421b0bbf01f757d9ddf2cbdd7642631b12032"
+      },
+      "linux-x64": {
+        "version": "0.3.3",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.3.3-linux-x64-v8.tgz",
+        "checksum": "6f00f2c8c01bd5b66a007d7ef5b9216d5984a41a91eb1a082d5307a2184ec38b"
+      },
+      "darwin-x64": {
+        "version": "0.3.3",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.3.3-darwin-x64-v8.tgz",
+        "checksum": "167d8948232eed0ab7c79aaf86739aced9dda1a4bff88de90022f5722953de08"
       }
     },
     "api": {
       "min": 1,
+      "max": 2
+    }
+  },
+  {
+    "name": "thing-url-adapter",
+    "display_name": "Web Thing",
+    "description": "Native web thing support",
+    "author": "Mozilla IoT",
+    "homepage": "https://github.com/mozilla-iot/thing-url-adapter",
+    "packages": {
+      "linux-arm": {
+        "version": "0.1.3",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/thing-url-adapter-0.1.3-linux-arm-v8.tgz",
+        "checksum": "b7a993c31c7e55d43271d2e9fe6509bb467e64541ed44c0659f0f72a6f694cb5"
+      },
+      "linux-x64": {
+        "version": "0.1.3",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/thing-url-adapter-0.1.3-linux-x64-v8.tgz",
+        "checksum": "196584b260481236321f28da92b4bd43a14e5c6d84f5fd1cb04d72fca139ddbf"
+      },
+      "darwin-x64": {
+        "version": "0.1.3",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/thing-url-adapter-0.1.3-darwin-x64-v8.tgz",
+        "checksum": "40ed8a50561414c04d84aa3983ab6e3c655efc8e355b133336ac216e7ead8466"
+      }
+    },
+    "api": {
+      "min": 2,
       "max": 2
     }
   },
@@ -170,6 +202,7 @@
     "checksum": "ee5c4fff9cd9768e7d07beaa3034dcc4c30c5691134c4a27982232cac526e48d",
     "packages": {
       "any": {
+        "version": "0.2.1",
         "url": "https://github.com/mozilla-iot/tplink-adapter/releases/download/v0.2.1/tplink-adapter-0.2.1.tgz",
         "checksum": "ee5c4fff9cd9768e7d07beaa3034dcc4c30c5691134c4a27982232cac526e48d"
       }
@@ -190,6 +223,7 @@
     "checksum": "1ecfb725510ef4137cc53977ceb7780e2852f493b7d0b10f73e4fa0f7d07ea0f",
     "packages": {
       "any": {
+        "version": "0.1.4",
         "url": "https://github.com/mozilla-iot/virtual-things-adapter/releases/download/v0.1.4/virtual-things-adapter-0.1.4.tgz",
         "checksum": "1ecfb725510ef4137cc53977ceb7780e2852f493b7d0b10f73e4fa0f7d07ea0f"
       }
@@ -209,9 +243,20 @@
     "url": "https://github.com/mozilla-iot/zigbee-adapter/releases/download/v0.3.2/zigbee-adapter-0.3.2.tgz",
     "checksum": "668d9db82a5d588d9297ef0b7fb6f118fd171153e0e6fe6a730cfa61453da5ea",
     "packages": {
-      "any": {
-        "url": "https://github.com/mozilla-iot/zigbee-adapter/releases/download/v0.3.2/zigbee-adapter-0.3.2.tgz",
-        "checksum": "668d9db82a5d588d9297ef0b7fb6f118fd171153e0e6fe6a730cfa61453da5ea"
+      "linux-arm": {
+        "version": "0.3.3",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.3.3-linux-arm-v8.tgz",
+        "checksum": "0c19dce43499a7cd16363a44b7257a36034a7e56a19e8495b51bba66cdf06bb6"
+      },
+      "linux-x64": {
+        "version": "0.3.3",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.3.3-linux-x64-v8.tgz",
+        "checksum": "254d4132ce835bd618614c51a0aea926c245358cde04d5b693f1b900043a6000"
+      },
+      "darwin-x64": {
+        "version": "0.3.3",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.3.3-darwin-x64-v8.tgz",
+        "checksum": "08464e09b98edb85be38bbfee3be72d27d84e97fd780ac0ef47aea5552df6ff0"
       }
     },
     "api": {
@@ -229,9 +274,20 @@
     "url": "https://github.com/mozilla-iot/zwave-adapter/releases/download/v0.3.2/zwave-adapter-0.3.2.tgz",
     "checksum": "476017f88d069b9bb2d7f67d3ac6a0f8a39d5fbad747eaf57482ab361edfc965",
     "packages": {
-      "any": {
-        "url": "https://github.com/mozilla-iot/zwave-adapter/releases/download/v0.3.2/zwave-adapter-0.3.2.tgz",
-        "checksum": "476017f88d069b9bb2d7f67d3ac6a0f8a39d5fbad747eaf57482ab361edfc965"
+      "linux-arm": {
+        "version": "0.3.3",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.3.3-linux-arm-v8.tgz",
+        "checksum": "498a7ac20636c44f087d2aefa944a1e1214a82dd4fbf5d621245957dd1b1cc2c"
+      },
+      "linux-x64": {
+        "version": "0.3.3",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.3.3-linux-x64-v8.tgz",
+        "checksum": "2df57057ffa6c22d0138549d99c9ab6bbef444a59d3e29d6f36a1cea35d98a1a"
+      },
+      "darwin-x64": {
+        "version": "0.3.3",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.3.3-darwin-x64-v8.tgz",
+        "checksum": "9515bc37b193d4b29fd0a2a80b494313297d9cc420198a88ba9197aa006fe45d"
       }
     },
     "api": {
