@@ -70,6 +70,26 @@
     }
   },
   {
+    "name": "generic-sensors-adapter",
+    "display_name": "Generic Sensors",
+    "description": "Generic Sensors devices support. See: https://github.com/rzr/mozilla-iot-generic-sensors-adapter",
+    "author": "Philippe Coval",
+    "homepage": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter",
+    "version": "0.0.1",
+    "url": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter/releases/download/0.0.1/generic-sensors-adapter-0.0.1-linux-arm-v8.tgz",
+    "packages": {
+      "linux-arm": {
+        "version": "0.0.1",
+        "url": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter/releases/download/0.0.1/generic-sensors-adapter-0.0.1-linux-arm-v8.tgz",
+        "checksum": "a862a9e580132c9d6ec2fd6182b43e32868ea4dfdbd385373f5ec94cae6d295b"
+      }
+    },
+    "api": {
+      "min": 1,
+      "max": 2
+    }
+  },
+  {
     "name": "homekit-adapter",
     "display_name": "HomeKit",
     "description": "HomeKit device support",
