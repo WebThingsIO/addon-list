@@ -59,9 +59,9 @@
     "homepage": "https://github.com/mozilla-iot/homekit-adapter",
     "packages": {
       "any": {
-        "version": "0.1.0",
-        "url": "https://github.com/mozilla-iot/homekit-adapter/releases/download/v0.1.0/homekit-adapter-0.1.0.tgz",
-        "checksum": "1cb3f590bb0a5f93c13680ab6c2cf9fca42ee2853c72e6a93cc0331860119768"
+        "version": "0.1.1",
+        "url": "https://github.com/mozilla-iot/homekit-adapter/releases/download/v0.1.1/homekit-adapter-0.1.1.tgz",
+        "checksum": "0940e9a726871e8770f13b3b1268494a8c02961fc898b6955b0ddddc48cdd669"
       }
     },
     "api": {
@@ -197,14 +197,14 @@
     "description": "TP-Link smart plug/bulb device support",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/tplink-adapter",
-    "version": "0.2.1",
-    "url": "https://github.com/mozilla-iot/tplink-adapter/releases/download/v0.2.1/tplink-adapter-0.2.1.tgz",
-    "checksum": "ee5c4fff9cd9768e7d07beaa3034dcc4c30c5691134c4a27982232cac526e48d",
+    "version": "0.2.2",
+    "url": "https://github.com/mozilla-iot/tplink-adapter/releases/download/v0.2.2/tplink-adapter-0.2.2.tgz",
+    "checksum": "6a6ed4530cd9b9c05afbedff372b511dc3d1b79f4f540c693c3fd55bda177b25",
     "packages": {
       "any": {
-        "version": "0.2.1",
-        "url": "https://github.com/mozilla-iot/tplink-adapter/releases/download/v0.2.1/tplink-adapter-0.2.1.tgz",
-        "checksum": "ee5c4fff9cd9768e7d07beaa3034dcc4c30c5691134c4a27982232cac526e48d"
+        "version": "0.2.2",
+        "url": "https://github.com/mozilla-iot/tplink-adapter/releases/download/v0.2.2/tplink-adapter-0.2.2.tgz",
+        "checksum": "6a6ed4530cd9b9c05afbedff372b511dc3d1b79f4f540c693c3fd55bda177b25"
       }
     },
     "api": {
