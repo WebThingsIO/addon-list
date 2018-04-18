@@ -31,19 +31,19 @@
     "checksum": "1b59b8aae0740e1319f1e1aba836de076928c6d575c62b8db4632fab7b249275",
     "packages": {
       "linux-arm": {
-        "version": "0.3.3",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.3.3-linux-arm-v8.tgz",
-        "checksum": "7786abf8646ed55db11fa812d15f9c41b2d426a1bf0772382c67e07fc801be0e"
+        "version": "0.3.4",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.3.4-linux-arm-v8.tgz",
+        "checksum": "fe569983d491dc0074e12f563c80f66f7cde89750a7f3e1da5fb655cd8df61d6"
       },
       "linux-x64": {
-        "version": "0.3.3",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.3.3-linux-x64-v8.tgz",
-        "checksum": "dd6ab3793532e3dfd410353c9ad658d7862cbcbba10f32edbab538e373952307"
+        "version": "0.3.4",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.3.4-linux-x64-v8.tgz",
+        "checksum": "71b5389ec260af8846424d0b8d58af7cb1fe02eea30b03fabcb1c24dbb59969d"
       },
       "darwin-x64": {
-        "version": "0.3.3",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.3.3-darwin-x64-v8.tgz",
-        "checksum": "495e599f9513df2aa2b5787ba7e07ba27cff859e046f79ad28a4c5f5ab1a5de1"
+        "version": "0.3.4",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.3.4-darwin-x64-v8.tgz",
+        "checksum": "d5fa0e5b6c2c293766831319a65f88443c73b2d7387dce3a8ba217fcd14d988b"
       }
     },
     "api": {
