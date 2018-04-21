@@ -164,6 +164,23 @@
     }
   },
   {
+    "name": "sonos-adapter",
+    "display_name": "Sonos",
+    "description": "Sonos player support",
+    "author": "Martin Giger",
+    "homepage": "https://github.com/freaktechnik/sonos-adapter",
+    "packages": {
+      "any": {
+        "version": "0.1.0",
+        "url": "https://github.com/freaktechnik/sonos-adapter/releases/download/v0.1.0/sonos-adapter-0.1.0.tgz",
+        "checksum": "524e187b510b086efa7d6c5d82bac41385323bb23fde8245b71c6c8a011a2bbf",
+      }
+    },
+    "api": {
+      "min": 1,
+      "max": 2
+    }
+  {
     "name": "thing-url-adapter",
     "display_name": "Web Thing",
     "description": "Native web thing support",
