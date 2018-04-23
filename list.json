@@ -294,5 +294,26 @@
       "min": 1,
       "max": 2
     }
+  },
+  {
+    "name": "blinkt-adapter",
+    "display_name": "Pimoroni Blinkt!",
+    "description": "Pimoroni Blinkt! support",
+    "author": "Poul Christiansen",
+    "homepage": "https://github.com/pchri/blinkt-adapter",
+    "version": "0.0.1",
+    "url": "https://github.com/pchri/blinkt-adapter/releases/download/v0.0.1/blinkt-adapter-0.0.1.tar.gz",
+    "checksum": "79e15f03914dfee4a8476bb93325c3dcffb92edf4a5ea92988f0bbd71927e616",
+    "packages": {
+      "linux-arm": {
+        "version": "0.0.1",
+        "url": "https://github.com/pchri/blinkt-adapter/releases/download/v0.0.1/blinkt-adapter-0.0.1.tar.gz",
+        "checksum": "79e15f03914dfee4a8476bb93325c3dcffb92edf4a5ea92988f0bbd71927e616"
+      }
+    },
+    "api": {
+      "min": 1,
+      "max": 2
+    }
   }
 ]
