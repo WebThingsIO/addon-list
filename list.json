@@ -303,12 +303,12 @@
     "homepage": "https://github.com/pchri/blinkt-adapter",
     "version": "0.0.1",
     "url": "https://github.com/pchri/blinkt-adapter/releases/download/v0.0.1/blinkt-adapter-0.0.1.tar.gz",
-    "checksum": "d361ff69f6ede308015caa8e8d1e3f529a1700f3059c4a064012fc28f5b210de",
+    "checksum": "dc052929ecedd5cccd69f3033077de4ed63a4be9fac03bcfe569fb6e1ef65f3a",
     "packages": {
       "linux-arm": {
         "version": "0.0.1",
         "url": "https://github.com/pchri/blinkt-adapter/releases/download/v0.0.1/blinkt-adapter-0.0.1.tar.gz",
-        "checksum": "d361ff69f6ede308015caa8e8d1e3f529a1700f3059c4a064012fc28f5b210de"
+        "checksum": "dc052929ecedd5cccd69f3033077de4ed63a4be9fac03bcfe569fb6e1ef65f3a"
       }
     },
     "api": {
