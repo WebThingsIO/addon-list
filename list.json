@@ -173,7 +173,7 @@
       "any": {
         "version": "0.1.0",
         "url": "https://github.com/freaktechnik/sonos-adapter/releases/download/v0.1.0/sonos-adapter-0.1.0.tgz",
-        "checksum": "0bb46b9a8aeec828a8db85e2f56afd92253fd63f44f30ccf9210b8ff1e363c4d"
+        "checksum": "e9034c55e0269c49de1d881c3c3b9cef0e614328323b8373a04c6d1fee146b1c"
       }
     },
     "api": {
