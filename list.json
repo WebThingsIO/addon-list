@@ -168,7 +168,7 @@
     "display_name": "Sonos",
     "description": "Sonos player support",
     "author": "Martin Giger",
-    "homepage": "https://github.com/freaktechnik/sonos-adapter",
+    "homepage": "https://github.com/freaktechnik/sonos-adapter#readme",
     "packages": {
       "any": {
         "version": "0.1.0",
