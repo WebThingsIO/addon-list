@@ -302,17 +302,17 @@
     "author": "Poul Christiansen",
     "homepage": "https://github.com/pchri/blinkt-adapter",
     "version": "0.0.1",
-    "url": "https://github.com/pchri/blinkt-adapter/releases/download/v0.0.1/blinkt-adapter-0.0.1.tar.gz",
-    "checksum": "dc052929ecedd5cccd69f3033077de4ed63a4be9fac03bcfe569fb6e1ef65f3a",
+    "url": "https://github.com/pchri/blinkt-adapter/releases/download/v0.0.1/blinkt-adapter-0.0.1.tgz",
+    "checksum": "b43d2448eef37c8cde0657dbd491a204ed8ae9449b88a44f22e445935ec98de8",
     "packages": {
       "linux-arm": {
         "version": "0.0.1",
-        "url": "https://github.com/pchri/blinkt-adapter/releases/download/v0.0.1/blinkt-adapter-0.0.1.tar.gz",
-        "checksum": "dc052929ecedd5cccd69f3033077de4ed63a4be9fac03bcfe569fb6e1ef65f3a"
+        "url": "https://github.com/pchri/blinkt-adapter/releases/download/v0.0.1/blinkt-adapter-0.0.1.tgz",
+        "checksum": "b43d2448eef37c8cde0657dbd491a204ed8ae9449b88a44f22e445935ec98de8"
       }
     },
     "api": {
-      "min": 1,
+      "min": 2,
       "max": 2
     }
   }
