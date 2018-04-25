@@ -8,7 +8,7 @@ The add-on API is described in [this document](https://github.com/mozilla-iot/wi
 
 Your add-on should be packaged as an npm-compatible package. If it is written in Javascript and is actually npm-compatible, you can simply package it with `npm pack`. If not, the [layout](https://github.com/mozilla-iot/wiki/wiki/Add-On-System-Design#package-layout) needs to be the same.
 
-The add-on package should also include a `SHA256SUMS` file, containing checksums of all included files (other than `package.json`), and it should bundle all required dependencies other than `gateway-addon`, i.e. your entire `node_modules` directory. This applies to add-ons written in other languages, as well.
+The add-on package should also include a `SHA256SUMS` file, containing checksums of all included files (other than itself), and it should bundle all required dependencies other than `gateway-addon`, i.e. your entire `node_modules` directory. This applies to add-ons written in other languages, as well.
 
 ## Packages with Binaries
 
