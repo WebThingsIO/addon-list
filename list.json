@@ -169,10 +169,12 @@
     "description": "Sonos player support",
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/sonos-adapter#readme",
+    "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sonos-adapter-0.1.0.tgz",
+    "checksum": "e9034c55e0269c49de1d881c3c3b9cef0e614328323b8373a04c6d1fee146b1c",
     "packages": {
       "any": {
         "version": "0.1.0",
-        "url": "https://github.com/freaktechnik/sonos-adapter/releases/download/v0.1.0/sonos-adapter-0.1.0.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sonos-adapter-0.1.0.tgz",
         "checksum": "e9034c55e0269c49de1d881c3c3b9cef0e614328323b8373a04c6d1fee146b1c"
       }
     },
