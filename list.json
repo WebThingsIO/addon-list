@@ -137,19 +137,19 @@
     "homepage": "https://github.com/mozilla-iot/microblocks-adapter",
     "packages": {
       "linux-arm": {
-        "version": "0.1.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.1.0-linux-arm-v8.tgz",
-        "checksum": "b8d1702ad34d57fe13a62726697d71da42605774e5a2b4a5f89272f3f57b9422"
+        "version": "0.1.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.1.1-linux-arm-v8.tgz",
+        "checksum": "a4b3de62823b6e02acc70e3d404654ef76b0476e81dbf664099a75a4da0f50e9"
       },
       "linux-x64": {
-        "version": "0.1.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.1.0-linux-x64-v8.tgz",
-        "checksum": "ce256d13c7881fb13437c7a522c997a5ccf17329ad3dc17907177e8aed175741"
+        "version": "0.1.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.1.1-linux-x64-v8.tgz",
+        "checksum": "99931bf34362d061c602f261375fd9ab3602cef41482e4933a5e6df5c57851cc"
       },
       "darwin-x64": {
-        "version": "0.1.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.1.0-darwin-x64-v8.tgz",
-        "checksum": "8ce12e3b683ed823a1bbb95f768e46f0ba6f3d86300722b3d2fbeb297e264fa2"
+        "version": "0.1.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.1.1-darwin-x64-v8.tgz",
+        "checksum": "3a117473b0e9aa7ad65c2b48cd2c122e4bed026e77d3d7c7dd6a4d0fa805639b"
       }
     },
     "api": {
