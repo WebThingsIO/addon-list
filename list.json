@@ -130,6 +130,34 @@
     }
   },
   {
+    "name": "microblocks-adapter",
+    "display_name": "MicroBlocks",
+    "description": "MicroBlocks board support",
+    "author": "MicroBlocks",
+    "homepage": "https://github.com/mozilla-iot/microblocks-adapter",
+    "packages": {
+      "linux-arm": {
+        "version": "0.1.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.1.0-linux-arm-v8.tgz",
+        "checksum": "b8d1702ad34d57fe13a62726697d71da42605774e5a2b4a5f89272f3f57b9422"
+      },
+      "linux-x64": {
+        "version": "0.1.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.1.0-linux-x64-v8.tgz",
+        "checksum": "ce256d13c7881fb13437c7a522c997a5ccf17329ad3dc17907177e8aed175741"
+      },
+      "darwin-x64": {
+        "version": "0.1.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.1.0-darwin-x64-v8.tgz",
+        "checksum": "8ce12e3b683ed823a1bbb95f768e46f0ba6f3d86300722b3d2fbeb297e264fa2"
+      }
+    },
+    "api": {
+      "min": 2,
+      "max": 2
+    }
+  },
+  {
     "name": "philips-hue-adapter",
     "display_name": "Philips Hue",
     "description": "Philips Hue color light support. Press the button on your Hue bridge to pair devices.",
