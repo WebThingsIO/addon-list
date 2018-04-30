@@ -39,6 +39,26 @@
     }
   },
   {
+    "name": "generic-sensors-adapter",
+    "display_name": "Generic Sensors",
+    "description": "Generic Sensors devices support. See: https://github.com/rzr/mozilla-iot-generic-sensors-adapter",
+    "author": "Philippe Coval",
+    "homepage": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter",
+    "version": "0.0.2",
+    "url": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter/releases/download/0.0.2/generic-sensors-adapter-0.0.2-linux-arm-v8.tgz",
+    "packages": {
+      "linux-arm": {
+        "version": "0.0.2",
+        "url": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter/releases/download/0.0.2/generic-sensors-adapter-0.0.2-linux-arm-v8.tgz",
+        "checksum": "1c3b53a7985b05995b9f69161bf6d8dbb0c8324275a2b58b829394f6d3c566f1"
+      }
+    },
+    "api": {
+      "min": 2,
+      "max": 2
+    }
+  },
+  {
     "name": "gpio-adapter",
     "display_name": "GPIO",
     "description": "GPIO device support",
