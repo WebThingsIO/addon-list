@@ -97,6 +97,7 @@ def main():
             'any',
             'darwin-x64',
             'linux-arm',
+            'linux-arm64',
             'linux-ia32',
             'linux-x64',
             'win32-ia32',
