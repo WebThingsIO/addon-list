@@ -326,11 +326,10 @@
     "description": "X10 device support through the CM11 interface.",
     "author": "Alan Thiessen",
     "homepage": "https://github.com/AlanDThiessen/x10-cm11-adapter",
-    "version": "0.2.1",
     "packages": {
-      "linux-arm64": {
+      "linux-arm": {
         "version": "0.2.1",
-        "url": "https://s3.amazonaws.com/hcspublic/x10-cm11-adapter-0.2.1-linux-arm64.tgz",
+        "url": "https://s3.amazonaws.com/hcspublic/x10-cm11-adapter-0.2.1-linux-arm.tgz",
         "checksum": "05d19c34f9af15bdf7d0ce88637da97cad01f694572bd97dc0a03f26841dc312"
       },
       "linux-x64": {
