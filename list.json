@@ -321,6 +321,35 @@
     }
   },
   {
+    "name": "x10-cm11-adapter",
+    "display_name": "X10 (CM11)",
+    "description": "X10 device support through the CM11 interface.",
+    "author": "Alan Thiessen",
+    "homepage": "https://github.com/AlanDThiessen/x10-cm11-adapter",
+    "version": "0.2.1",
+    "packages": {
+      "linux-arm64": {
+        "version": "0.2.1",
+        "url": "https://s3.amazonaws.com/hcspublic/x10-cm11-adapter-0.2.1-linux-arm64.tgz",
+        "checksum": "05d19c34f9af15bdf7d0ce88637da97cad01f694572bd97dc0a03f26841dc312"
+      },
+      "linux-x64": {
+        "version": "0.2.1",
+        "url": "https://s3.amazonaws.com/hcspublic/x10-cm11-adapter-0.2.1-linux-ia64.tgz",
+        "checksum": "aba4d3cce8b65a79b52708057dd3d3f8bf9c29752ed0e9cc2253fc953f041173"
+      },
+      "darwin-x64": {
+        "version": "0.2.1",
+        "url": "https://s3.amazonaws.com/hcspublic/x10-cm11-adapter-0.2.1-darwin-x64.tgz",
+        "checksum": "f5fd018bd9f379adb36f70fa33cf1d6380a4353afea0698776086907a3c60559"
+      }
+    },
+    "api": {
+      "min": 1,
+      "max": 2
+    }
+  },
+  {
     "name": "zigbee-adapter",
     "display_name": "Zigbee",
     "description": "Zigbee device support",
