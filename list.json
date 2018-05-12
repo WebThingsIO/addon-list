@@ -330,7 +330,7 @@
       "linux-arm": {
         "version": "0.2.1",
         "url": "https://s3.amazonaws.com/hcspublic/x10-cm11-adapter-0.2.1-linux-arm.tgz",
-        "checksum": "abb779a31cb0b0a79c017a02feb708112661a7b63d5cef7f87d71f52570e8bd3"
+        "checksum": "132fd6c5aab58ceb54071f3b52aea965591465a34db2baa648286bbcb28f864a"
       },
       "linux-x64": {
         "version": "0.2.1",
