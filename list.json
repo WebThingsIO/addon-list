@@ -330,12 +330,12 @@
       "linux-arm": {
         "version": "0.2.1",
         "url": "https://s3.amazonaws.com/hcspublic/x10-cm11-adapter-0.2.1-linux-arm.tgz",
-        "checksum": "132fd6c5aab58ceb54071f3b52aea965591465a34db2baa648286bbcb28f864a"
+        "checksum": "1b62ff92756c6a68204b64c184e7f84c964e0f03dda84494bcced0b19437bd20"
       },
       "linux-x64": {
         "version": "0.2.1",
         "url": "https://s3.amazonaws.com/hcspublic/x10-cm11-adapter-0.2.1-linux-ia64.tgz",
-        "checksum": "aba4d3cce8b65a79b52708057dd3d3f8bf9c29752ed0e9cc2253fc953f041173"
+        "checksum": "dd1b1fb835d163dc79dcb6631aa96dbfbb91a5ad151768a93200233384b1fba3"
       },
       "darwin-x64": {
         "version": "0.2.1",
