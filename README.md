@@ -32,18 +32,19 @@ You can submit a [pull request](https://github.com/mozilla-iot/addon-list/pulls)
 * `description`: A friendly description for your package. This will be shown in the Gateway's UI.
 * `author`: Name of the add-on author.
 * `homepage`: Homepage of the add-on, i.e. the Github repository.
-* `version`: The package version. This should be the same as in your `package.json`.
 * `packages`: An object describing supported architectures and their packages. Each entry should be of the form:
 
     ```javascript
     "architecture": {
       "url": "https://path.to/my/package.tgz",
+      "version": "x.y.z",
       "checksum": "sha256 of package"
     }
     ```
 
   * `architecture`: Replace this with the actual architecture (see the previous section).
   * `url`: A URL to download the packaged tarball (`.tar.gz` or `.tgz`) from.
+  * `version`: The package version. This should be the same as in your `package.json`.
   * `checksum`: Checksum of the tarball
 * `api`: The API levels supported by this add-on. This should be the same as in your `package.json`, so an object with the following 2 properties:
     * `min`: The minimum supported API level
