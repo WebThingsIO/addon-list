@@ -330,17 +330,17 @@
       "linux-arm": {
         "version": "0.2.1",
         "url": "https://s3.amazonaws.com/hcspublic/x10-cm11-adapter-0.2.1-linux-arm.tgz",
-        "checksum": "1b62ff92756c6a68204b64c184e7f84c964e0f03dda84494bcced0b19437bd20"
+        "checksum": "e3b2726bafb5ea3967ddfb945e53727d2c6258b6124834855527827d987134e4"
       },
       "linux-x64": {
         "version": "0.2.1",
         "url": "https://s3.amazonaws.com/hcspublic/x10-cm11-adapter-0.2.1-linux-ia64.tgz",
-        "checksum": "dd1b1fb835d163dc79dcb6631aa96dbfbb91a5ad151768a93200233384b1fba3"
+        "checksum": "329132c5c175f2f7dd052b2a1daf4a5e8919158f8ccc77ea1001d107f9ec3ca0"
       },
       "darwin-x64": {
         "version": "0.2.1",
         "url": "https://s3.amazonaws.com/hcspublic/x10-cm11-adapter-0.2.1-darwin-x64.tgz",
-        "checksum": "f5fd018bd9f379adb36f70fa33cf1d6380a4353afea0698776086907a3c60559"
+        "checksum": "3e6cf117ef5cdfd8c5eb62252ccd280501c9060f951df40079e73511d9a7bb02"
       }
     },
     "api": {
