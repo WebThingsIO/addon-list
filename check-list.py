@@ -125,6 +125,7 @@ def main():
                     'version': entry['version'],
                     'url': entry['url'],
                     'checksum': entry['checksum'],
+                    'is_legacy': True,
                 }
 
                 entry['packages']['legacy'] = legacy_entry
@@ -137,6 +138,8 @@ def main():
                     print('Invalid package entry for "{}": {}'
                           .format(name, package))
                     cleanup()
+
+                is_legacy = 'is_legacy' in package and package['is_legacy']
 
                 version = package['version']
                 url = package['url']
@@ -223,13 +226,15 @@ def main():
 
                 # Verify that the author matches
                 # TODO: enforce this
-                if 'author' not in manifest:
-                    print('Author missing for package "{}"'.format(name))
-                elif manifest['author'] != entry['author']:
-                    print('Author mismatch for package "{}": '
-                          'author from package.json "{}" doesn\'t match '
-                          'author from list.json "{}"'
-                          .format(name, manifest['author'], entry['author']))
+                if not is_legacy:
+                  if 'author' not in manifest:
+                      print('Author missing for package "{}"'.format(name))
+                  elif manifest['author'] != entry['author']:
+                      print('Author mismatch for package "{}": '
+                            'author from package.json "{}" doesn\'t match '
+                            'author from list.json "{}"'
+                            .format(name, manifest['author'], entry['author']))
+                      cleanup()
 
                 # Verify that the homepage matches
                 if manifest['homepage'] != entry['homepage']:
