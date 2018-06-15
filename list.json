@@ -359,19 +359,19 @@
     "checksum": "668d9db82a5d588d9297ef0b7fb6f118fd171153e0e6fe6a730cfa61453da5ea",
     "packages": {
       "linux-arm": {
-        "version": "0.3.3",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.3.3-linux-arm-v8.tgz",
-        "checksum": "0c19dce43499a7cd16363a44b7257a36034a7e56a19e8495b51bba66cdf06bb6"
+        "version": "0.3.4",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.3.4-linux-arm-v8.tgz",
+        "checksum": "18cf8e3da0a53b0c8400b75dff55a90cea2901f93afeea9430713f8e7affb5f1"
       },
       "linux-x64": {
-        "version": "0.3.3",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.3.3-linux-x64-v8.tgz",
-        "checksum": "254d4132ce835bd618614c51a0aea926c245358cde04d5b693f1b900043a6000"
+        "version": "0.3.4",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.3.4-linux-x64-v8.tgz",
+        "checksum": "2d7057d73438897833a0bb3991f24b689c4e59fe4c1c7eb0b03287e9ccb4e4f1"
       },
       "darwin-x64": {
-        "version": "0.3.3",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.3.3-darwin-x64-v8.tgz",
-        "checksum": "08464e09b98edb85be38bbfee3be72d27d84e97fd780ac0ef47aea5552df6ff0"
+        "version": "0.3.4",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.3.4-darwin-x64-v8.tgz",
+        "checksum": "f7bee62ee01455cd08569997b5ae69439548f465bc2499411f070d911f32dc0d"
       }
     },
     "api": {
