@@ -23,14 +23,14 @@
     "description": "Virtual Things for experimenting with new thing types",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/virtual-things-adapter",
-    "version": "0.2.2",
-    "url": "https://github.com/mozilla-iot/virtual-things-adapter/releases/download/v0.2.2/virtual-things-adapter-0.2.2.tgz",
-    "checksum": "cffca6d0fa73616af5681ef6f00dac2c16bb9361f883c0133a432b2f58304666",
+    "version": "0.2.3",
+    "url": "https://github.com/mozilla-iot/virtual-things-adapter/releases/download/v0.2.3/virtual-things-adapter-0.2.3.tgz",
+    "checksum": "4474142c8ffd879b557fe133ffa220ba990440458e9be180add7bef4dec03c47",
     "packages": {
       "any": {
-        "version": "0.2.2",
-        "url": "https://github.com/mozilla-iot/virtual-things-adapter/releases/download/v0.2.2/virtual-things-adapter-0.2.2.tgz",
-        "checksum": "cffca6d0fa73616af5681ef6f00dac2c16bb9361f883c0133a432b2f58304666"
+        "version": "0.2.3",
+        "url": "https://github.com/mozilla-iot/virtual-things-adapter/releases/download/v0.2.3/virtual-things-adapter-0.2.3.tgz",
+        "checksum": "4474142c8ffd879b557fe133ffa220ba990440458e9be180add7bef4dec03c47"
       }
     },
     "api": {
