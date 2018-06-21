@@ -87,6 +87,7 @@ def main():
             'name',
             'version',
             # TODO: 'author',
+            # TODO: 'display_name',
             'homepage',
             'files',
             'moziot.api.min',
@@ -225,16 +226,28 @@ def main():
                     cleanup()
 
                 # Verify that the author matches
-                # TODO: enforce this
                 if not is_legacy:
-                  if 'author' not in manifest:
-                      print('Author missing for package "{}"'.format(name))
-                  elif manifest['author'] != entry['author']:
-                      print('Author mismatch for package "{}": '
-                            'author from package.json "{}" doesn\'t match '
-                            'author from list.json "{}"'
-                            .format(name, manifest['author'], entry['author']))
-                      cleanup()
+                    if 'author' not in manifest:
+                        print('Author missing for package "{}"'.format(name))
+                    elif manifest['author'] != entry['author']:
+                        print('Author mismatch for package "{}": '
+                              'author from package.json "{}" doesn\'t match '
+                              'author from list.json "{}"'
+                              .format(name, manifest['author'],
+                                      entry['author']))
+                        cleanup()
+
+                    if 'display_name' not in manifest:
+                        print('Display name missing for package "{}"'
+                              .format(name))
+                    elif manifest['display_name'] != entry['display_name']:
+                        print('Display name mismatch for package "{}": '
+                              'display_name from package.json "{}" doesn\'t '
+                              'match display_name from list.json "{}"'
+                              .format(name, manifest['display_name'],
+                                      entry['display_name']))
+                        # TODO: enforce this
+                        # cleanup()
 
                 # Verify that the homepage matches
                 if manifest['homepage'] != entry['homepage']:
