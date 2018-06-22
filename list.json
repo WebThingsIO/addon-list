@@ -24,12 +24,12 @@
     "author": "sogaani",
     "homepage": "https://github.com/sogaani/broadlink-adapter",
     "version": "0.1.4",
-    "url": "https://github.com/sogaani/broadlink-adapter/releases/download/untagged-f57a44d194811f4617ff/broadlink-adapter-0.1.4.tgz",
+    "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/broadlink-adapter-0.1.4.tgz",
     "checksum": "6e7daa17668b6a0bcb18a2a1a1a2407075a222b36a4c618636f4703913f3f95d",
     "packages": {
       "any": {
         "version": "0.1.4",
-        "url": "https://github.com/sogaani/broadlink-adapter/releases/download/untagged-f57a44d194811f4617ff/broadlink-adapter-0.1.4.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/broadlink-adapter-0.1.4.tgz",
         "checksum": "6e7daa17668b6a0bcb18a2a1a1a2407075a222b36a4c618636f4703913f3f95d"
       }
     },
