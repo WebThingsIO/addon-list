@@ -23,18 +23,18 @@
     "description": "Support IR devices with BroadLink. See: https://github.com/sogaani/broadlink-adapter",
     "author": "sogaani",
     "homepage": "https://github.com/sogaani/broadlink-adapter",
-    "version": "0.1.3",
-    "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/broadlink-adapter-0.1.3.tgz",
-    "checksum": "501650e26e6b434f0ef60de4cacc286e193c4d98e8ccc13e977e681bbb7def84",
+    "version": "0.1.4",
+    "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/broadlink-adapter-0.1.4.tgz",
+    "checksum": "6e7daa17668b6a0bcb18a2a1a1a2407075a222b36a4c618636f4703913f3f95d",
     "packages": {
       "any": {
-        "version": "0.1.3",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/broadlink-adapter-0.1.3.tgz",
-        "checksum": "501650e26e6b434f0ef60de4cacc286e193c4d98e8ccc13e977e681bbb7def84"
+        "version": "0.1.4",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/broadlink-adapter-0.1.4.tgz",
+        "checksum": "6e7daa17668b6a0bcb18a2a1a1a2407075a222b36a4c618636f4703913f3f95d"
       }
     },
     "api": {
-      "min": 1,
+      "min": 2,
       "max": 2
     }
   },
