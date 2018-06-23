@@ -178,6 +178,27 @@
     }
   },
   {
+    "name": "netatmo-weather-adapter",
+    "display_name": "Netatmo Weather Station",
+    "description": "Netatmo weather station support. Requires Netatmo Smart Home API credentials.",
+    "author": "Martin Giger",
+    "hhomepage": "https://github.com/freaktechnik/netatmo-weather-adapter",
+    "version": "0.1.0",
+    "url": "https://github.com/freaktechnik/netatmo-weather-adapter/releases/download/v0.1.0/netatmo-weather-adapter-0.1.0.tgz",
+    "checksum": "9cccb5d2103c00ff8f0dcd56176dc69edd3ebde59e65df1033546a089cfa53f7",
+    "packages": {
+      "any": {
+        "version": "0.1.0",
+        "url": "https://github.com/freaktechnik/netatmo-weather-adapter/releases/download/v0.1.0/netatmo-weather-adapter-0.1.0.tgz",
+        "checksum": "9cccb5d2103c00ff8f0dcd56176dc69edd3ebde59e65df1033546a089cfa53f7"
+      }
+    },
+    "api": {
+      "min": 1,
+      "max": 2
+    }
+  },
+  {
     "name": "philips-hue-adapter",
     "display_name": "Philips Hue",
     "description": "Philips Hue color light support. Press the button on your Hue bridge to pair devices.",
