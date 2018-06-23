@@ -182,15 +182,15 @@
     "display_name": "Netatmo Weather Station",
     "description": "Netatmo weather station support. Requires Netatmo Smart Home API credentials.",
     "author": "Martin Giger",
-    "hhomepage": "https://github.com/freaktechnik/netatmo-weather-adapter",
-    "version": "0.1.0",
-    "url": "https://github.com/freaktechnik/netatmo-weather-adapter/releases/download/v0.1.0/netatmo-weather-adapter-0.1.0.tgz",
-    "checksum": "9cccb5d2103c00ff8f0dcd56176dc69edd3ebde59e65df1033546a089cfa53f7",
+    "homepage": "https://github.com/freaktechnik/netatmo-weather-adapter",
+    "version": "0.1.1",
+    "url": "https://github.com/freaktechnik/netatmo-weather-adapter/releases/download/v0.1.1/netatmo-weather-adapter-0.1.1.tgz",
+    "checksum": "49a194cbd5d294cf68b881869fdd9852fec065b7124ace2303a905ff9ce4c9b2",
     "packages": {
       "any": {
-        "version": "0.1.0",
-        "url": "https://github.com/freaktechnik/netatmo-weather-adapter/releases/download/v0.1.0/netatmo-weather-adapter-0.1.0.tgz",
-        "checksum": "9cccb5d2103c00ff8f0dcd56176dc69edd3ebde59e65df1033546a089cfa53f7"
+        "version": "0.1.1",
+        "url": "https://github.com/freaktechnik/netatmo-weather-adapter/releases/download/v0.1.0/netatmo-weather-adapter-0.1.1.tgz",
+        "checksum": "49a194cbd5d294cf68b881869fdd9852fec065b7124ace2303a905ff9ce4c9b2"
       }
     },
     "api": {
