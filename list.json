@@ -184,12 +184,12 @@
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/netatmo-weather-adapter#readme",
     "version": "0.1.3",
-    "url": "https://github.com/freaktechnik/netatmo-weather-adapter/releases/download/v0.1.3/netatmo-weather-adapter-0.1.3.tgz",
+    "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/netatmo-weather-adapter-0.1.3.tgz",
     "checksum": "69856b6e99d074ea5081310a3da2bfdc593e448ef7ac856a5e8b25d13737774f",
     "packages": {
       "any": {
         "version": "0.1.3",
-        "url": "https://github.com/freaktechnik/netatmo-weather-adapter/releases/download/v0.1.3/netatmo-weather-adapter-0.1.3.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/netatmo-weather-adapter-0.1.3.tgz",
         "checksum": "69856b6e99d074ea5081310a3da2bfdc593e448ef7ac856a5e8b25d13737774f"
       }
     },
