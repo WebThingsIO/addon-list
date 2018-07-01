@@ -7,9 +7,9 @@
     "homepage": "https://github.com/pchri/blinkt-adapter",
     "packages": {
       "linux-arm": {
-        "version": "0.0.3",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/blinkt-adapter-0.0.3.tgz",
-        "checksum": "acd644235b206bd735fe2e43a3db82be183b6fb39b6436689b1b520157a38d7c"
+        "version": "0.0.4",
+        "url": "https://github.com/pchri/blinkt-adapter/releases/download/0.0.4/blinkt-adapter-0.0.4.tgz",
+        "checksum": "55443bdfc7cf5a635aad706c6f074fb529abb953b157137c133d5478d32d0920"
       }
     },
     "api": {
