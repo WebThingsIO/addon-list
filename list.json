@@ -97,9 +97,9 @@
     "homepage": "https://github.com/mozilla-iot/homekit-adapter",
     "packages": {
       "any": {
-        "version": "0.2.0",
-        "url": "https://github.com/mozilla-iot/homekit-adapter/releases/download/v0.2.0/homekit-adapter-0.2.0.tgz",
-        "checksum": "2c9a477587dfc04325c8ce47486bacb9a80588127dc7055efcc43f005ed97aff"
+        "version": "0.2.1",
+        "url": "https://github.com/mozilla-iot/homekit-adapter/releases/download/v0.2.1/homekit-adapter-0.2.1.tgz",
+        "checksum": "a72f28b2c77aa45072d05e1b4cc0c597107adb62d64ae10203b34d7baf6f64f1"
       }
     },
     "api": {
