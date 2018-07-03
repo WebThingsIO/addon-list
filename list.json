@@ -342,6 +342,27 @@
     }
   },
   {
+    "name": "wemo-adapter",
+    "display_name": "Wemo",
+    "description": "Wemo smart device support",
+    "author": "Mozilla IoT",
+    "homepage": "https://github.com/mozilla-iot/wemo-adapter",
+    "version": "0.1.0",
+    "url": "https://github.com/mozilla-iot/wemo-adapter/releases/download/v0.1.0/wemo-adapter-0.1.0.tgz",
+    "checksum": "969864f93e1ffcf9acf31963876f9f0e770da9cf1e58dd36c336bf99a0f9d708",
+    "packages": {
+      "any": {
+        "version": "0.1.0",
+        "url": "https://github.com/mozilla-iot/wemo-adapter/releases/download/v0.1.0/wemo-adapter-0.1.0.tgz",
+        "checksum": "969864f93e1ffcf9acf31963876f9f0e770da9cf1e58dd36c336bf99a0f9d708"
+      }
+    },
+    "api": {
+      "min": 1,
+      "max": 2
+    }
+  },
+  {
     "name": "x10-cm11-adapter",
     "display_name": "X10 (CM11)",
     "description": "X10 device support through the CM11 interface.",
