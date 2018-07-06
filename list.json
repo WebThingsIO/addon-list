@@ -391,6 +391,27 @@
     }
   },
   {
+    "name": "yeelight-adapter",
+    "display_name": "yeelight",
+    "description": "Yeelight smart bulb support",
+    "author": "Mozilla IoT",
+    "homepage": "https://github.com/mozilla-iot/yeelight-adapter",
+    "version": "0.1.0",
+    "url": "https://github.com/mozilla-iot/yeelight-adapter/releases/download/v0.1.0/yeelight-adapter-0.1.0.tgz",
+    "checksum": "8bfaf164229376ac307b39aa973cd91d5debd654b8f38cf70976e6592cf1ab8a",
+    "packages": {
+      "any": {
+        "version": "0.1.0",
+        "url": "https://github.com/mozilla-iot/yeelight-adapter/releases/download/v0.1.0/yeelight-adapter-0.1.0.tgz",
+        "checksum": "8bfaf164229376ac307b39aa973cd91d5debd654b8f38cf70976e6592cf1ab8a"
+      }
+    },
+    "api": {
+      "min": 1,
+      "max": 2
+    }
+  },
+  {
     "name": "zigbee-adapter",
     "display_name": "Zigbee",
     "description": "Zigbee device support",
