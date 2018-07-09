@@ -392,7 +392,7 @@
   },
   {
     "name": "yeelight-adapter",
-    "display_name": "yeelight",
+    "display_name": "Yeelight",
     "description": "Yeelight smart bulb support",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/yeelight-adapter",
