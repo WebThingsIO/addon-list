@@ -39,6 +39,24 @@
     }
   },
   {
+    "name": "eufy-adapter",
+    "display_name": "Eufy",
+    "description": "Eufy device support",
+    "author": "Mozilla IoT",
+    "homepage": "https://github.com/mozilla-iot/eufy-adapter",
+    "packages": {
+      "any": {
+        "version": "0.1.0",
+        "url": "https://github.com/mozilla-iot/eufy-adapter/releases/download/v0.1.0/eufy-adapter-0.1.0.tgz",
+        "checksum": "b28de0e00dd66e6ae321a450b7e100022bc240e975fe472646b45576376a130e"
+      }
+    },
+    "api": {
+      "min": 2,
+      "max": 2
+    }
+  },
+  {
     "name": "generic-sensors-adapter",
     "display_name": "Generic Sensors",
     "description": "Generic Sensors devices support. See: https://github.com/rzr/mozilla-iot-generic-sensors-adapter",
