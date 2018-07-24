@@ -23,9 +23,6 @@
     "description": "Support IR devices with BroadLink. See: https://github.com/sogaani/broadlink-adapter",
     "author": "sogaani",
     "homepage": "https://github.com/sogaani/broadlink-adapter",
-    "version": "0.1.4",
-    "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/broadlink-adapter-0.1.4.tgz",
-    "checksum": "6e7daa17668b6a0bcb18a2a1a1a2407075a222b36a4c618636f4703913f3f95d",
     "packages": {
       "any": {
         "version": "0.1.4",
@@ -62,14 +59,18 @@
     "description": "Generic Sensors devices support. See: https://github.com/rzr/mozilla-iot-generic-sensors-adapter",
     "author": "Philippe Coval",
     "homepage": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter",
-    "version": "0.0.2",
-    "url": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter/releases/download/0.0.2/generic-sensors-adapter-0.0.2-linux-arm-v8.tgz",
     "packages": {
       "linux-arm": {
-        "version": "0.0.2",
-        "url": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter/releases/download/0.0.2/generic-sensors-adapter-0.0.2-linux-arm-v8.tgz",
-        "checksum": "1c3b53a7985b05995b9f69161bf6d8dbb0c8324275a2b58b829394f6d3c566f1"
+        "version": "0.0.3",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.3-linux-arm-v8.tgz",
+        "checksum": "7d2cf65d1ff750b42c769ae56816389bdd130562fcb507360dcf76e88e5fcf5c"
+      },
+      "linux-x64": {
+        "version": "0.0.3",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.3-linux-x64-v8.tgz",
+        "checksum": "63361d9ffffba96d37f8bbf47542de14f3f244285774c5867132e030f90065ef"
       }
+
     },
     "api": {
       "min": 2,
