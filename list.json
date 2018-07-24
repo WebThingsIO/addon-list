@@ -62,14 +62,20 @@
     "description": "Generic Sensors devices support. See: https://github.com/rzr/mozilla-iot-generic-sensors-adapter",
     "author": "Philippe Coval",
     "homepage": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter",
-    "version": "0.0.2",
-    "url": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter/releases/download/0.0.2/generic-sensors-adapter-0.0.2-linux-arm-v8.tgz",
+    "version": "0.0.3",
+    "url": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter/archive/0.0.3.tar.gz",
     "packages": {
       "linux-arm": {
-        "version": "0.0.2",
-        "url": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter/releases/download/0.0.2/generic-sensors-adapter-0.0.2-linux-arm-v8.tgz",
-        "checksum": "1c3b53a7985b05995b9f69161bf6d8dbb0c8324275a2b58b829394f6d3c566f1"
+        "version": "0.0.3",
+        "url": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter/releases/download/0.0.3/generic-sensors-adapter-0.0.3-linux-arm-v8.tgz",
+        "checksum": "7d2cf65d1ff750b42c769ae56816389bdd130562fcb507360dcf76e88e5fcf5c"
+      },
+      "linux-x64": {
+        "version": "0.0.3",
+        "url": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter/releases/download/0.0.3/generic-sensors-adapter-0.0.3-linux-x64-v8.tgz",
+        "checksum": "63361d9ffffba96d37f8bbf47542de14f3f244285774c5867132e030f90065ef"
       }
+
     },
     "api": {
       "min": 2,
