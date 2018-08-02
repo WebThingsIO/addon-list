@@ -176,12 +176,12 @@
     "homepage": "https://github.com/freaktechnik/logitech-harmony-adapter#readme",
     "version": "0.1.0",
     "url": "https://github.com/freaktechnik/logitech-harmony-adapter/releases/download/v0.1.0/logitech-harmony-adapter-0.1.0.tgz",
-    "checksum": "8e8df2493d77c3df82f019c53dd83644fd8d0f591db4a959fba99b269f6582a3",
+    "checksum": "1cd44705f07240d0cf18268477f6fdc0a7c816dab0fe8a7c69621d2ae8bd6069",
     "packages": {
       "any": {
         "version": "0.1.0",
         "url": "https://github.com/freaktechnik/logitech-harmony-adapter/releases/download/v0.1.0/logitech-harmony-adapter-0.1.0.tgz",
-        "checksum": "8e8df2493d77c3df82f019c53dd83644fd8d0f591db4a959fba99b269f6582a3"
+        "checksum": "1cd44705f07240d0cf18268477f6fdc0a7c816dab0fe8a7c69621d2ae8bd6069"
       }
     },
     "api": {
