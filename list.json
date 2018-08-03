@@ -175,12 +175,12 @@
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/logitech-harmony-adapter#readme",
     "version": "0.1.0",
-    "url": "https://github.com/freaktechnik/logitech-harmony-adapter/releases/download/v0.1.0/logitech-harmony-adapter-0.1.0.tgz",
+    "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/logitech-harmony-adapter-0.1.0.tgz",
     "checksum": "1cd44705f07240d0cf18268477f6fdc0a7c816dab0fe8a7c69621d2ae8bd6069",
     "packages": {
       "any": {
         "version": "0.1.0",
-        "url": "https://github.com/freaktechnik/logitech-harmony-adapter/releases/download/v0.1.0/logitech-harmony-adapter-0.1.0.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/logitech-harmony-adapter-0.1.0.tgz",
         "checksum": "1cd44705f07240d0cf18268477f6fdc0a7c816dab0fe8a7c69621d2ae8bd6069"
       }
     },
@@ -224,12 +224,12 @@
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/netatmo-weather-adapter#readme",
     "version": "0.2.0",
-    "url": "https://github.com/freaktechnik/netatmo-weather-adapter/releases/download/v0.2.0/netatmo-weather-adapter-0.2.0.tgz",
+    "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/netatmo-weather-adapter-0.2.0.tgz",
     "checksum": "ed41b812dc8282e7cbe245da2dc85d7c91ce2ba49d7127d9a0dabd441eb1790d",
     "packages": {
       "any": {
         "version": "0.2.0",
-        "url": "https://github.com/freaktechnik/netatmo-weather-adapter/releases/download/v0.2.0/netatmo-weather-adapter-0.2.0.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/netatmo-weather-adapter-0.2.0.tgz",
         "checksum": "ed41b812dc8282e7cbe245da2dc85d7c91ce2ba49d7127d9a0dabd441eb1790d"
       }
     },
@@ -297,12 +297,12 @@
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/sonos-adapter#readme",
     "version": "0.3.0",
-    "url": "https://github.com/freaktechnik/sonos-adapter/releases/download/v0.3.0/sonos-adapter-0.3.0.tgz",
+    "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sonos-adapter-0.3.0.tgz",
     "checksum": "eac9e1b231cb04d64e62cf26ed5436f58695018c30cf8a98c25c7d31c0aee773",
     "packages": {
       "any": {
         "version": "0.3.0",
-        "url": "https://github.com/freaktechnik/sonos-adapter/releases/download/v0.3.0/sonos-adapter-0.3.0.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sonos-adapter-0.3.0.tgz",
         "checksum": "eac9e1b231cb04d64e62cf26ed5436f58695018c30cf8a98c25c7d31c0aee773"
       }
     },
