@@ -54,6 +54,27 @@
     }
   },
   {
+    "name": "chromecast-adapter",
+    "display_name": "Chromecast",
+    "description": "Chromecast support",
+    "author": "Martin Giger",
+    "homepage": "https://github.com/freaktechnik/chromecast-adapter#readme",
+    "version": "0.1.0",
+    "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/chromecast-adapter-0.1.0.tgz",
+    "checksum": "9af1665401f72e18752aa355e0de21df02a5232c5a946b3ba6ab1bda5f0f024a",
+    "packages": {
+      "any": {
+        "version": "0.1.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/chromecast-adapter-0.1.0.tgz",
+        "checksum": "9af1665401f72e18752aa355e0de21df02a5232c5a946b3ba6ab1bda5f0f024a"
+      }
+    },
+    "api": {
+      "min": 1,
+      "max": 2
+    }
+  },
+  {
     "name": "generic-sensors-adapter",
     "display_name": "Generic Sensors",
     "description": "Generic Sensors devices support. See: https://github.com/rzr/mozilla-iot-generic-sensors-adapter",
