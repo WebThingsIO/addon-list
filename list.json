@@ -59,14 +59,14 @@
     "description": "Chromecast support",
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/chromecast-adapter#readme",
-    "version": "0.1.0",
-    "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/chromecast-adapter-0.1.0.tgz",
-    "checksum": "9af1665401f72e18752aa355e0de21df02a5232c5a946b3ba6ab1bda5f0f024a",
+    "version": "0.2.0",
+    "url": "https://github.com/freaktechnik/chromecast-adapter/releases/download/v0.2.0/chromecast-adapter-0.2.0.tgz",
+    "checksum": "470d35a08557a0d2e57dc9c918187048f5392e88ce73bb4cf2bf43133454a0c6",
     "packages": {
       "any": {
-        "version": "0.1.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/chromecast-adapter-0.1.0.tgz",
-        "checksum": "9af1665401f72e18752aa355e0de21df02a5232c5a946b3ba6ab1bda5f0f024a"
+        "version": "0.2.0",
+        "url": "https://github.com/freaktechnik/chromecast-adapter/releases/download/v0.2.0/chromecast-adapter-0.2.0.tgz",
+        "checksum": "470d35a08557a0d2e57dc9c918187048f5392e88ce73bb4cf2bf43133454a0c6"
       }
     },
     "api": {
