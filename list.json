@@ -59,14 +59,14 @@
     "description": "Chromecast support",
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/chromecast-adapter#readme",
-    "version": "0.1.0",
-    "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/chromecast-adapter-0.1.0.tgz",
-    "checksum": "9af1665401f72e18752aa355e0de21df02a5232c5a946b3ba6ab1bda5f0f024a",
+    "version": "0.2.0",
+    "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/chromecast-adapter-0.2.0.tgz",
+    "checksum": "470d35a08557a0d2e57dc9c918187048f5392e88ce73bb4cf2bf43133454a0c6",
     "packages": {
       "any": {
-        "version": "0.1.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/chromecast-adapter-0.1.0.tgz",
-        "checksum": "9af1665401f72e18752aa355e0de21df02a5232c5a946b3ba6ab1bda5f0f024a"
+        "version": "0.2.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/chromecast-adapter-0.2.0.tgz",
+        "checksum": "470d35a08557a0d2e57dc9c918187048f5392e88ce73bb4cf2bf43133454a0c6"
       }
     },
     "api": {
@@ -317,14 +317,14 @@
     "description": "Sonos player support",
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/sonos-adapter#readme",
-    "version": "0.3.0",
-    "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sonos-adapter-0.3.0.tgz",
-    "checksum": "eac9e1b231cb04d64e62cf26ed5436f58695018c30cf8a98c25c7d31c0aee773",
+    "version": "0.3.1",
+    "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sonos-adapter-0.3.1.tgz",
+    "checksum": "0489c6b4f044c839e306e272e344ccb2b45825b173786869ce8af785d427d3e9",
     "packages": {
       "any": {
-        "version": "0.3.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sonos-adapter-0.3.0.tgz",
-        "checksum": "eac9e1b231cb04d64e62cf26ed5436f58695018c30cf8a98c25c7d31c0aee773"
+        "version": "0.3.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sonos-adapter-0.3.1.tgz",
+        "checksum": "0489c6b4f044c839e306e272e344ccb2b45825b173786869ce8af785d427d3e9"
       }
     },
     "api": {
