@@ -59,14 +59,14 @@
     "description": "Chromecast support",
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/chromecast-adapter#readme",
-    "version": "0.2.0",
-    "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/chromecast-adapter-0.2.0.tgz",
-    "checksum": "470d35a08557a0d2e57dc9c918187048f5392e88ce73bb4cf2bf43133454a0c6",
+    "version": "0.2.1",
+    "url": "https://github.com/freaktechnik/chromecast-adapter/releases/download/v0.2.1/chromecast-adapter-0.2.1.tgz",
+    "checksum": "8b9e8b148b45572cedd4232fcc0263a87ce7480d5a3b303bfb6e7bf4f34b58a6",
     "packages": {
       "any": {
-        "version": "0.2.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/chromecast-adapter-0.2.0.tgz",
-        "checksum": "470d35a08557a0d2e57dc9c918187048f5392e88ce73bb4cf2bf43133454a0c6"
+        "version": "0.2.1",
+        "url": "https://github.com/freaktechnik/chromecast-adapter/releases/download/v0.2.1/chromecast-adapter-0.2.1.tgz",
+        "checksum": "8b9e8b148b45572cedd4232fcc0263a87ce7480d5a3b303bfb6e7bf4f34b58a6"
       }
     },
     "api": {
@@ -195,14 +195,14 @@
     "description": "Logitech Harmony Hub support",
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/logitech-harmony-adapter#readme",
-    "version": "0.1.0",
-    "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/logitech-harmony-adapter-0.1.0.tgz",
-    "checksum": "1cd44705f07240d0cf18268477f6fdc0a7c816dab0fe8a7c69621d2ae8bd6069",
+    "version": "0.1.1",
+    "url": "https://github.com/freaktechnik/logitech-harmony-adapter/releases/download/v0.1.1/logitech-harmony-adapter-0.1.1.tgz",
+    "checksum": "15b5a0dd9bcbeac5a4d1f94b9b4e7cdf128e8088ba0e19148157e99b755ac6e6",
     "packages": {
       "any": {
-        "version": "0.1.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/logitech-harmony-adapter-0.1.0.tgz",
-        "checksum": "1cd44705f07240d0cf18268477f6fdc0a7c816dab0fe8a7c69621d2ae8bd6069"
+        "version": "0.1.1",
+        "url": "https://github.com/freaktechnik/logitech-harmony-adapter/releases/download/v0.1.1/logitech-harmony-adapter-0.1.1.tgz",
+        "checksum": "15b5a0dd9bcbeac5a4d1f94b9b4e7cdf128e8088ba0e19148157e99b755ac6e6"
       }
     },
     "api": {
@@ -317,14 +317,14 @@
     "description": "Sonos player support",
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/sonos-adapter#readme",
-    "version": "0.3.1",
-    "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sonos-adapter-0.3.1.tgz",
-    "checksum": "0489c6b4f044c839e306e272e344ccb2b45825b173786869ce8af785d427d3e9",
+    "version": "0.4.0",
+    "url": "https://github.com/freaktechnik/sonos-adapter/releases/download/v0.4.0/sonos-adapter-0.4.0.tgz",
+    "checksum": "89ea0c9dce4a6d862faa4efb5767345418a53ad944b5bf85cf22cc2a2a591d32",
     "packages": {
       "any": {
-        "version": "0.3.1",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sonos-adapter-0.3.1.tgz",
-        "checksum": "0489c6b4f044c839e306e272e344ccb2b45825b173786869ce8af785d427d3e9"
+        "version": "0.4.0",
+        "url": "https://github.com/freaktechnik/sonos-adapter/releases/download/v0.4.0/sonos-adapter-0.4.0.tgz",
+        "checksum": "89ea0c9dce4a6d862faa4efb5767345418a53ad944b5bf85cf22cc2a2a591d32"
       }
     },
     "api": {
