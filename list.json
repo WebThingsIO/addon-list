@@ -64,9 +64,9 @@
     "homepage": "https://github.com/mozilla-iot/eufy-adapter",
     "packages": {
       "any": {
-        "version": "0.1.0",
-        "url": "https://github.com/mozilla-iot/eufy-adapter/releases/download/v0.1.0/eufy-adapter-0.1.0.tgz",
-        "checksum": "b28de0e00dd66e6ae321a450b7e100022bc240e975fe472646b45576376a130e"
+        "version": "0.1.1",
+        "url": "https://github.com/mozilla-iot/eufy-adapter/releases/download/v0.1.1/eufy-adapter-0.1.1.tgz",
+        "checksum": "4c4b0534d04ec6184d34cc62e18f3cf6750571259257721b55646925fc811e16"
       }
     },
     "api": {
@@ -137,9 +137,9 @@
     "homepage": "https://github.com/mozilla-iot/homekit-adapter",
     "packages": {
       "any": {
-        "version": "0.2.2",
-        "url": "https://github.com/mozilla-iot/homekit-adapter/releases/download/v0.2.2/homekit-adapter-0.2.2.tgz",
-        "checksum": "50d2914544c97f72784d0981c432f65bb1f591b91d55967ec2c4dd9b19c3c4e4"
+        "version": "0.2.3",
+        "url": "https://github.com/mozilla-iot/homekit-adapter/releases/download/v0.2.3/homekit-adapter-0.2.3.tgz",
+        "checksum": "b07063bf9b55f5f1e18910220f2e5487c7b1a8610d8616537ecace7be2338eef"
       }
     },
     "api": {
@@ -408,14 +408,14 @@
     "description": "Wemo smart device support",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/wemo-adapter",
-    "version": "0.1.0",
-    "url": "https://github.com/mozilla-iot/wemo-adapter/releases/download/v0.1.0/wemo-adapter-0.1.0.tgz",
-    "checksum": "969864f93e1ffcf9acf31963876f9f0e770da9cf1e58dd36c336bf99a0f9d708",
+    "version": "0.1.1",
+    "url": "https://github.com/mozilla-iot/wemo-adapter/releases/download/v0.1.1/wemo-adapter-0.1.1.tgz",
+    "checksum": "7496c1f911e662e145997101cc91e7058a4f6e7c27e20b7c6ad7f12bef1f0ca6",
     "packages": {
       "any": {
-        "version": "0.1.0",
-        "url": "https://github.com/mozilla-iot/wemo-adapter/releases/download/v0.1.0/wemo-adapter-0.1.0.tgz",
-        "checksum": "969864f93e1ffcf9acf31963876f9f0e770da9cf1e58dd36c336bf99a0f9d708"
+        "version": "0.1.1",
+        "url": "https://github.com/mozilla-iot/wemo-adapter/releases/download/v0.1.1/wemo-adapter-0.1.1.tgz",
+        "checksum": "7496c1f911e662e145997101cc91e7058a4f6e7c27e20b7c6ad7f12bef1f0ca6"
       }
     },
     "api": {
