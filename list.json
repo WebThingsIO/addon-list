@@ -265,14 +265,14 @@
     "description": "Philips Hue color light support. Press the button on your Hue bridge to pair devices.",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/philips-hue-adapter",
-    "version": "0.6.1",
-    "url": "https://github.com/mozilla-iot/philips-hue-adapter/releases/download/v0.6.1/philips-hue-adapter-0.6.1.tgz",
-    "checksum": "aa93e0bbc091b186034f46ba1e85cc654aa6f76f788d72905f9b0f8c9dee4d4e",
+    "version": "0.6.2",
+    "url": "https://github.com/mozilla-iot/philips-hue-adapter/releases/download/v0.6.2/philips-hue-adapter-0.6.2.tgz",
+    "checksum": "2d41fb952e0fe6e0b49b0d969956c30d238ae021eb54f63ec55c74e5d1cd0814",
     "packages": {
       "any": {
-        "version": "0.6.1",
-        "url": "https://github.com/mozilla-iot/philips-hue-adapter/releases/download/v0.6.1/philips-hue-adapter-0.6.1.tgz",
-        "checksum": "aa93e0bbc091b186034f46ba1e85cc654aa6f76f788d72905f9b0f8c9dee4d4e"
+        "version": "0.6.2",
+        "url": "https://github.com/mozilla-iot/philips-hue-adapter/releases/download/v0.6.2/philips-hue-adapter-0.6.2.tgz",
+        "checksum": "2d41fb952e0fe6e0b49b0d969956c30d238ae021eb54f63ec55c74e5d1cd0814"
       }
     },
     "api": {
