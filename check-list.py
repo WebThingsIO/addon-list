@@ -63,6 +63,9 @@ def hash_file(fname):
 
 
 def main():
+    adapter = None
+    if len(sys.argv) > 1:
+        adapter = sys.argv[1]
     for l in _LISTS:
         # Make sure the file is valid JSON
         try:
@@ -113,6 +116,11 @@ def main():
                 sys.exit(1)
 
             name = entry['name']
+
+            if adapter and adapter != name:
+              continue
+
+            print('Checking', name, '...')
 
             # Ensure list of architectures is valid.
             for arch in entry['packages'].keys():
