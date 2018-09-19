@@ -41,14 +41,14 @@
     "description": "Chromecast support",
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/chromecast-adapter#readme",
-    "version": "0.2.1",
-    "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/chromecast-adapter-0.2.1.tgz",
-    "checksum": "8b9e8b148b45572cedd4232fcc0263a87ce7480d5a3b303bfb6e7bf4f34b58a6",
+    "version": "0.3.0",
+    "url": "https://github.com/freaktechnik/chromecast-adapter/releases/download/v0.3.0/chromecast-adapter-0.3.0.tgz",
+    "checksum": "aafc06d6728ff21ad757438d70649eb80478677dfcd66879c15fec078580a2d7",
     "packages": {
       "any": {
-        "version": "0.2.1",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/chromecast-adapter-0.2.1.tgz",
-        "checksum": "8b9e8b148b45572cedd4232fcc0263a87ce7480d5a3b303bfb6e7bf4f34b58a6"
+        "version": "0.3.0",
+        "url": "https://github.com/freaktechnik/chromecast-adapter/releases/download/v0.3.0/chromecast-adapter-0.3.0.tgz",
+        "checksum": "aafc06d6728ff21ad757438d70649eb80478677dfcd66879c15fec078580a2d7"
       }
     },
     "api": {
@@ -195,14 +195,14 @@
     "description": "Logitech Harmony Hub support",
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/logitech-harmony-adapter#readme",
-    "version": "0.1.1",
-    "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/logitech-harmony-adapter-0.1.1.tgz",
-    "checksum": "c629a04646ce81c16651c96be8236976bdb26924ad10d7ba5f603291fbae550c",
+    "version": "0.2.0",
+    "url": "https://github.com/freaktechnik/logitech-harmony-adapter/releases/download/v0.2.0/logitech-harmony-adapter-0.2.0.tgz",
+    "checksum": "a1706cbcb1d47ac9235466f2f4a2301d839365b23130eed54239c1bf89c9b3a0",
     "packages": {
       "any": {
-        "version": "0.1.1",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/logitech-harmony-adapter-0.1.1.tgz",
-        "checksum": "c629a04646ce81c16651c96be8236976bdb26924ad10d7ba5f603291fbae550c"
+        "version": "0.2.0",
+        "url": "https://github.com/freaktechnik/logitech-harmony-adapter/releases/download/v0.2.0/logitech-harmony-adapter-0.2.0.tgz",
+        "checksum": "a1706cbcb1d47ac9235466f2f4a2301d839365b23130eed54239c1bf89c9b3a0"
       }
     },
     "api": {
@@ -244,14 +244,14 @@
     "description": "Netatmo weather station support. Requires Netatmo Smart Home API credentials.",
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/netatmo-weather-adapter#readme",
-    "version": "0.2.0",
-    "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/netatmo-weather-adapter-0.2.0.tgz",
-    "checksum": "ed41b812dc8282e7cbe245da2dc85d7c91ce2ba49d7127d9a0dabd441eb1790d",
+    "version": "0.3.0",
+    "url": "https://github.com/freaktechnik/netatmo-weather-adapter/releases/download/v0.3.0/netatmo-weather-adapter-0.3.0.tgz",
+    "checksum": "64fc1f21ebe9caca63ad4cbc4047d5ca8b369cbfa8ae4bbb1c25e8b33c407861",
     "packages": {
       "any": {
-        "version": "0.2.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/netatmo-weather-adapter-0.2.0.tgz",
-        "checksum": "ed41b812dc8282e7cbe245da2dc85d7c91ce2ba49d7127d9a0dabd441eb1790d"
+        "version": "0.3.0",
+        "url": "https://github.com/freaktechnik/netatmo-weather-adapter/releases/download/v0.3.0/netatmo-weather-adapter-0.3.0.tgz",
+        "checksum": "64fc1f21ebe9caca63ad4cbc4047d5ca8b369cbfa8ae4bbb1c25e8b33c407861"
       }
     },
     "api": {
@@ -317,14 +317,14 @@
     "description": "Sonos player support",
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/sonos-adapter#readme",
-    "version": "0.4.0",
-    "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sonos-adapter-0.4.0.tgz",
-    "checksum": "89ea0c9dce4a6d862faa4efb5767345418a53ad944b5bf85cf22cc2a2a591d32",
+    "version": "0.5.0",
+    "url": "https://github.com/freaktechnik/sonos-adapter/releases/download/v0.5.0/sonos-adapter-0.5.0.tgz",
+    "checksum": "dfc9d93004692c8eb6697e12efa6b725033e67e53210362dbd83494c942b6283",
     "packages": {
       "any": {
-        "version": "0.4.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sonos-adapter-0.4.0.tgz",
-        "checksum": "89ea0c9dce4a6d862faa4efb5767345418a53ad944b5bf85cf22cc2a2a591d32"
+        "version": "0.5.0",
+        "url": "https://github.com/freaktechnik/sonos-adapter/releases/download/v0.5.0/sonos-adapter-0.5.0.tgz",
+        "checksum": "dfc9d93004692c8eb6697e12efa6b725033e67e53210362dbd83494c942b6283"
       }
     },
     "api": {
