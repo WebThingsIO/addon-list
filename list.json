@@ -136,10 +136,20 @@
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/homekit-adapter",
     "packages": {
-      "any": {
-        "version": "0.2.3",
-        "url": "https://github.com/mozilla-iot/homekit-adapter/releases/download/v0.2.3/homekit-adapter-0.2.3.tgz",
-        "checksum": "b07063bf9b55f5f1e18910220f2e5487c7b1a8610d8616537ecace7be2338eef"
+      "linux-arm": {
+        "version": "0.3.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.3.0-linux-arm-v8.tgz",
+        "checksum": "b25c81d8048413d8b44eb5c863255fb76b960e791d46f835ecfd2c3e083a566f"
+      },
+      "linux-x64": {
+        "version": "0.3.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.3.0-linux-x64-v8.tgz",
+        "checksum": "ff5d493e18cf24c90f30bdb87d53450e8ad3256ffbbe615f34f5cf5f7a5ff6b9"
+      },
+      "darwin-x64": {
+        "version": "0.3.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.3.0-darwin-x64-v8.tgz",
+        "checksum": "55d18be88aa183deed27b03750a392eb775d8311694a2d470c753cc0dbdbec1b"
       }
     },
     "api": {
