@@ -488,7 +488,6 @@
     "description": "Zigbee device support",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/zigbee-adapter",
-    "version": "0.3.2",
     "packages": {
       "linux-arm": {
         "version": "0.6.1",
