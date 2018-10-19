@@ -247,6 +247,26 @@
       "min": 2,
       "max": 2
     }
+  },{
+    "name": "nanoleaf-adapter",
+    "display_name": "Nanoleaf",
+    "description": "Controll your Nanoleaf aurora",
+    "author": "Roman Odermatt",
+    "homepage": "https://github.com/roderm/nanoleaf-adapter",
+    "version": "0.0.1",
+    "url": "https://github.com/roderm/nanoleaf-adapter/releases/download/v0.0.2/nanoleaf-adapter-0.0.2.tgz",
+    "checksum": "dfb6ab13a63c8494ca66f67a9256d4c6ab059becc69244c55c3c9d424e0aef16",
+    "packages": {
+      "any": {
+        "version": "0.0.1",
+        "url": "https://github.com/roderm/nanoleaf-adapter/releases/download/v0.0.2/nanoleaf-adapter-0.0.2.tgz",
+        "checksum": "dfb6ab13a63c8494ca66f67a9256d4c6ab059becc69244c55c3c9d424e0aef16"
+      }
+    },
+    "api": {
+      "min": 1,
+      "max": 2
+    }
   },
   {
     "name": "netatmo-weather-adapter",
