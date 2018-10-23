@@ -137,19 +137,19 @@
     "homepage": "https://github.com/mozilla-iot/homekit-adapter",
     "packages": {
       "linux-arm": {
-        "version": "0.3.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.3.0-linux-arm-v8.tgz",
-        "checksum": "b25c81d8048413d8b44eb5c863255fb76b960e791d46f835ecfd2c3e083a566f"
+        "version": "0.3.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.3.1-linux-arm-v8.tgz",
+        "checksum": "f963786203579374c0558dfdd899d1a26b86b5262c4be5650cf99fd20e4cbf97"
       },
       "linux-x64": {
-        "version": "0.3.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.3.0-linux-x64-v8.tgz",
-        "checksum": "ff5d493e18cf24c90f30bdb87d53450e8ad3256ffbbe615f34f5cf5f7a5ff6b9"
+        "version": "0.3.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.3.1-linux-x64-v8.tgz",
+        "checksum": "3d60abc4f670fa15ebacfa70a829d002ea2beff03ac1155666ca608dafa6372f"
       },
       "darwin-x64": {
-        "version": "0.3.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.3.0-darwin-x64-v8.tgz",
-        "checksum": "55d18be88aa183deed27b03750a392eb775d8311694a2d470c753cc0dbdbec1b"
+        "version": "0.3.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.3.1-darwin-x64-v8.tgz",
+        "checksum": "e7c642c41c9624e816e1b0f0a1ed66e4dcc9ddbcde583d804f618c861fe4a82a"
       }
     },
     "api": {
@@ -350,19 +350,19 @@
     "homepage": "https://github.com/mozilla-iot/thing-url-adapter",
     "packages": {
       "linux-arm": {
-        "version": "0.2.3",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/thing-url-adapter-0.2.3-linux-arm-v8.tgz",
-        "checksum": "a79211d751126e145bc34850fb09e7777c49ed1b955df238014a72486c963c4d"
+        "version": "0.2.4",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/thing-url-adapter-0.2.4-linux-arm-v8.tgz",
+        "checksum": "26f848e1b13322732353df7e5faf14f4211577f5749d80237e96a084bb60bba4"
       },
       "linux-x64": {
-        "version": "0.2.3",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/thing-url-adapter-0.2.3-linux-x64-v8.tgz",
-        "checksum": "37e1f20d68bf17985561a8edb347e7da6764400fe6f09c1d0c0776266f2d7004"
+        "version": "0.2.4",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/thing-url-adapter-0.2.4-linux-x64-v8.tgz",
+        "checksum": "af9da8a54072d65d6a54952da3583ea07c28efab7e4a04e233ec64f44c3ee328"
       },
       "darwin-x64": {
-        "version": "0.2.3",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/thing-url-adapter-0.2.3-darwin-x64-v8.tgz",
-        "checksum": "6755abde7dbf9ecd4ac7dabe5fef36c2c958d75feb8272d9bb61ed22028c5cac"
+        "version": "0.2.4",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/thing-url-adapter-0.2.4-darwin-x64-v8.tgz",
+        "checksum": "c40b7b219f4d264d6edeefb762ca0b9475c5f2b4fd7e9592e355772bba7b3188"
       }
     },
     "api": {
