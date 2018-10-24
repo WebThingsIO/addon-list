@@ -487,19 +487,19 @@
     "homepage": "https://github.com/mozilla-iot/zigbee-adapter",
     "packages": {
       "linux-arm": {
-        "version": "0.6.2",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.6.2-linux-arm-v8.tgz",
-        "checksum": "84e68729d82bc749d21d312780362e3bae5f8033df2d2466af28480a8b8095e0"
+        "version": "0.6.3",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.6.3-linux-arm-v8.tgz",
+        "checksum": "ca0dc418904c8a11d5ae331948ade69ed739ae190744d30262b5ed4b4f9da9b3"
       },
       "linux-x64": {
-        "version": "0.6.2",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.6.2-linux-x64-v8.tgz",
-        "checksum": "6720f2344b858e8dd67f4b71da8db43c25f724e9625b6371757eb50242c2afd8"
+        "version": "0.6.3",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.6.3-linux-x64-v8.tgz",
+        "checksum": "778c42777081471ffb60c00213e7140d6d2d3ae070b7fc5a8fab61d18504377c"
       },
       "darwin-x64": {
-        "version": "0.6.2",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.6.2-darwin-x64-v8.tgz",
-        "checksum": "4d9eedf2db7163660f016e637ce28f16e3eadf4268caf863b33006f8dee72f66"
+        "version": "0.6.3",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.6.3-darwin-x64-v8.tgz",
+        "checksum": "0db67140272d1d745af64e833bf41b1d9eb671603e1e5ac7b631cc28c8a7b8d4"
       }
     },
     "api": {
