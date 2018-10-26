@@ -255,7 +255,7 @@
     "homepage": "https://github.com/roderm/nanoleaf-adapter",
     "packages": {
       "any": {
-        "version": "0.1.0",
+        "version": "0.1.1",
         "url": "https://github.com/roderm/nanoleaf-adapter/releases/download/v0.1.1/nanoleaf-adapter-0.1.1.tgz",
         "checksum": "de188fae3d2452e2477a999f94291df3f201ff5ed1a6598b96feaba2f49ca9d4"
       }
