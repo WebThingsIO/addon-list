@@ -256,7 +256,7 @@
     "packages": {
       "any": {
         "version": "0.1.1",
-        "url": "https://github.com/roderm/nanoleaf-adapter/releases/download/v0.1.1/nanoleaf-adapter-0.1.1.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/nanoleaf-adapter-0.1.1.tgz",
         "checksum": "de188fae3d2452e2477a999f94291df3f201ff5ed1a6598b96feaba2f49ca9d4"
       }
     },
