@@ -230,7 +230,7 @@ def main():
                     print('Version mismatch for package "{}": '
                           'version from package.json "{}" doesn\'t match '
                           'version from list.json "{}"'
-                          .format(name, manifest['version'], entry['version']))
+                          .format(name, manifest['version'], version))
                     cleanup()
 
                 # Verify that the author matches
