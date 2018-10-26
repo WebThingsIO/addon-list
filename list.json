@@ -250,21 +250,18 @@
   {
     "name": "nanoleaf-adapter",
     "display_name": "Nanoleaf",
-    "description": "Controll your Nanoleaf aurora",
+    "description": "Control your Nanoleaf aurora",
     "author": "Roman Odermatt",
     "homepage": "https://github.com/roderm/nanoleaf-adapter",
-    "version": "0.1.0",
-    "url": "https://github.com/roderm/nanoleaf-adapter/releases/download/v0.1.0/nanoleaf-adapter-0.1.0.tgz",
-    "checksum": "ba07f21f378209dd633a382c48fd7dfc4e3ee37e94e6f0fb4c1be0ec8cefa4c4",
     "packages": {
       "any": {
         "version": "0.1.0",
-        "url": "https://github.com/roderm/nanoleaf-adapter/releases/download/v0.1.0/nanoleaf-adapter-0.1.0.tgz",
-        "checksum": "ba07f21f378209dd633a382c48fd7dfc4e3ee37e94e6f0fb4c1be0ec8cefa4c4"
+        "url": "https://github.com/roderm/nanoleaf-adapter/releases/download/v0.1.1/nanoleaf-adapter-0.1.1.tgz",
+        "checksum": "de188fae3d2452e2477a999f94291df3f201ff5ed1a6598b96feaba2f49ca9d4"
       }
     },
     "api": {
-      "min": 1,
+      "min": 2,
       "max": 2
     }
   },
