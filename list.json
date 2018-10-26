@@ -253,14 +253,14 @@
     "description": "Controll your Nanoleaf aurora",
     "author": "Roman Odermatt",
     "homepage": "https://github.com/roderm/nanoleaf-adapter",
-    "version": "0.0.3-2",
-    "url": "https://github.com/roderm/nanoleaf-adapter/releases/download/v0.0.3-2/nanoleaf-adapter-0.0.3-2.tgz",
-    "checksum": "e53c11724ef8052491771a8c8ef625e117d017cb71ddf41ab5449467f6d32da8",
+    "version": "0.1.0",
+    "url": "https://github.com/roderm/nanoleaf-adapter/releases/download/v0.1.0/nanoleaf-adapter-0.1.0.tgz",
+    "checksum": "ba07f21f378209dd633a382c48fd7dfc4e3ee37e94e6f0fb4c1be0ec8cefa4c4",
     "packages": {
       "any": {
-        "version": "0.0.3-2",
-        "url": "https://github.com/roderm/nanoleaf-adapter/releases/download/v0.0.3-2/nanoleaf-adapter-0.0.3-2.tgz",
-        "checksum": "e53c11724ef8052491771a8c8ef625e117d017cb71ddf41ab5449467f6d32da8"
+        "version": "0.1.0",
+        "url": "https://github.com/roderm/nanoleaf-adapter/releases/download/v0.1.0/nanoleaf-adapter-0.1.0.tgz",
+        "checksum": "ba07f21f378209dd633a382c48fd7dfc4e3ee37e94e6f0fb4c1be0ec8cefa4c4"
       }
     },
     "api": {
