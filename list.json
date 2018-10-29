@@ -75,6 +75,24 @@
     }
   },
   {
+    "name": "flic-button-adapter",
+    "display_name": "Flic Button",
+    "description": "React to Flic button presses via proprietary flic daemon (included for Linux)",
+    "author": "Martin Giger",
+    "homepage": "https://github.com/freaktechnik/flic-button-adapter#readme",
+    "packages": {
+      "any":{
+        "version": "0.0.1",
+        "url": "https://github.com/freaktechnik/flic-button-adapter/releases/download/v0.0.1/flic-button-adapter-0.0.1.tgz",
+        "checksum": "d24c58343eebb7fc25dd746b66335f0ae2a03a39e13a8c0b4e613948d823c04b"
+      }
+    },
+    "api": {
+      "min": 2,
+      "max": 2
+    }
+  },
+  {
     "name": "generic-sensors-adapter",
     "display_name": "Generic Sensors",
     "description": "Generic Sensors devices support. See: https://github.com/rzr/mozilla-iot-generic-sensors-adapter",
