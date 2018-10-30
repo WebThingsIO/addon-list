@@ -474,17 +474,17 @@
     "packages": {
       "linux-arm": {
         "version": "0.3.1",
-        "url": "https://s3.amazonaws.com/hcspublic/x10-cm11-adapter-0.3.1-linux-arm.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/x10-cm11-adapter-0.3.1-linux-arm.tgz",
         "checksum": "cfe3250e388f90c6051e5d05f7693daae295bcc956d28f5a4caa63ec3c3120da"
       },
       "linux-x64": {
         "version": "0.3.1",
-        "url": "https://s3.amazonaws.com/hcspublic/x10-cm11-adapter-0.3.1-linux-ia64.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/x10-cm11-adapter-0.3.1-linux-ia64.tgz",
         "checksum": "18de4d41b551edab1721b81e2f5fa78a31078139f26dc5cc0cfa1fbbe39e60d4"
       },
       "darwin-x64": {
         "version": "0.3.1",
-        "url": "https://s3.amazonaws.com/hcspublic/x10-cm11-adapter-0.3.1-darwin-x64.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/x10-cm11-adapter-0.3.1-darwin-x64.tgz",
         "checksum": "5017f8c253441acf5a77520e43b71077e1c88a94f1ac0239eb2bbbbd64519a27"
       }
     },
