@@ -57,6 +57,24 @@
     }
   },
   {
+    "name": "date-time-adapter",
+    "display_name": "DateTime Adapter",
+    "description": "A DateTime adapter to create more advanced rules",
+    "author": "tomasy",
+    "homepage": "https://github.com/tomasy/date-time-adapter",
+    "packages": {
+      "any": {
+        "version": "0.9.4",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/date-time-adapter-0.9.4.tgz",
+        "checksum": "36db0787457b617ae8d78ad7544f5ba5cb7595ac34a946ee60a23c7f9a6e740a"
+      }
+    },
+    "api": {
+      "min": 2,
+      "max": 2
+    }
+  },
+  {
     "name": "eufy-adapter",
     "display_name": "Eufy",
     "description": "Eufy device support",
