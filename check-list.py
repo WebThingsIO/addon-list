@@ -202,6 +202,13 @@ def main():
                           .format(field, json.dumps(manifest, indent=2)))
                     cleanup()
 
+                if 'enabled' in manifest['moziot'] and \
+                        manifest['moziot']['enabled'] and \
+                        entry['author'].lower() != 'mozilla iot':
+                    print('Add-on is enabled by default: {}'.format(name))
+                    # TODO: enforce once broadlink and nanoleaf are updated
+                    # cleanup()
+
                 # Verify some additional fields.
                 if not isinstance(manifest['files'], list) or \
                         len(manifest['files']) == 0:
