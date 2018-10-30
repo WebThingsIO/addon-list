@@ -473,23 +473,23 @@
     "homepage": "https://github.com/AlanDThiessen/x10-cm11-adapter",
     "packages": {
       "linux-arm": {
-        "version": "0.2.1",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/x10-cm11-adapter-0.2.1-linux-arm.tgz",
-        "checksum": "e3b2726bafb5ea3967ddfb945e53727d2c6258b6124834855527827d987134e4"
+        "version": "0.3.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/x10-cm11-adapter-0.3.1-linux-arm.tgz",
+        "checksum": "cfe3250e388f90c6051e5d05f7693daae295bcc956d28f5a4caa63ec3c3120da"
       },
       "linux-x64": {
-        "version": "0.2.1",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/x10-cm11-adapter-0.2.1-linux-ia64.tgz",
-        "checksum": "329132c5c175f2f7dd052b2a1daf4a5e8919158f8ccc77ea1001d107f9ec3ca0"
+        "version": "0.3.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/x10-cm11-adapter-0.3.1-linux-ia64.tgz",
+        "checksum": "18de4d41b551edab1721b81e2f5fa78a31078139f26dc5cc0cfa1fbbe39e60d4"
       },
       "darwin-x64": {
-        "version": "0.2.1",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/x10-cm11-adapter-0.2.1-darwin-x64.tgz",
-        "checksum": "3e6cf117ef5cdfd8c5eb62252ccd280501c9060f951df40079e73511d9a7bb02"
+        "version": "0.3.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/x10-cm11-adapter-0.3.1-darwin-x64.tgz",
+        "checksum": "5017f8c253441acf5a77520e43b71077e1c88a94f1ac0239eb2bbbbd64519a27"
       }
     },
     "api": {
-      "min": 1,
+      "min": 2,
       "max": 2
     }
   },
