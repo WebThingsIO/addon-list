@@ -89,8 +89,17 @@ def main():
         required_in_manifest = [
             'name',
             'version',
-            # TODO: 'author',
-            # TODO: 'display_name',
+            'author',
+            'display_name',
+            'homepage',
+            'files',
+            'moziot.api.min',
+            'moziot.api.max',
+        ]
+
+        required_in_legacy_manifest = [
+            'name',
+            'version',
             'homepage',
             'files',
             'moziot.api.min',
@@ -118,7 +127,7 @@ def main():
             name = entry['name']
 
             if adapter and adapter != name:
-              continue
+                continue
 
             print('Checking', name, '...')
 
@@ -181,7 +190,13 @@ def main():
                     cleanup()
 
                 # Verify required fields in package.json.
-                success, field = verify_fields(required_in_manifest, manifest)
+                if is_legacy:
+                    success, field = verify_fields(
+                        required_in_legacy_manifest, manifest)
+                else:
+                    success, field = verify_fields(
+                        required_in_manifest, manifest)
+
                 if not success:
                     print('Field "{}" missing from:\n{}'
                           .format(field, json.dumps(manifest, indent=2)))
@@ -254,8 +269,7 @@ def main():
                               'match display_name from list.json "{}"'
                               .format(name, manifest['display_name'],
                                       entry['display_name']))
-                        # TODO: enforce this
-                        # cleanup()
+                        cleanup()
 
                 # Verify that the homepage matches
                 if manifest['homepage'] != entry['homepage']:
