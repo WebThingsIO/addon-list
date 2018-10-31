@@ -149,12 +149,12 @@ def main():
                 entry['packages']['legacy'] = legacy_entry
 
             # Download the packages.
-            for package in entry['packages'].values():
+            for arch, package in entry['packages'].items():
                 if 'url' not in package or \
                         'checksum' not in package or \
                         'version' not in package:
                     print('Invalid package entry for "{}": {}'
-                          .format(name, package))
+                          .format(name, arch))
                     cleanup()
 
                 is_legacy = 'is_legacy' in package and package['is_legacy']
@@ -166,12 +166,13 @@ def main():
                 try:
                     urllib.request.urlretrieve(url, 'package.tgz')
                 except urllib.error.URLError:
-                    print('Failed to download package for "{}"'.format(name))
+                    print('Failed to download package for "{}": {}'
+                          .format(name, arch))
                     cleanup()
 
                 # Verify the checksum.
                 if checksum != hash_file('./package.tgz'):
-                    print('Checksum invalid for "{}"'.format(name))
+                    print('Checksum invalid for "{}": {}'.format(name, arch))
                     cleanup()
 
                 # Check the package contents.
@@ -179,7 +180,8 @@ def main():
                     with tarfile.open('./package.tgz', 'r:gz') as t:
                         t.extractall()
                 except (IOError, OSError, tarfile.TarError):
-                    print('Failed to untar package for "{}"'.format(name))
+                    print('Failed to untar package for "{}": {}'
+                          .format(name, arch))
                     cleanup()
 
                 try:
@@ -244,7 +246,8 @@ def main():
                 if manifest['name'] != name:
                     print('Name mismatch for package "{}"')
                     print('name from package.json "{}" doesn\'t match '
-                          'name from list.json'.format(name, manifest['name']))
+                          'name from list.json "{}"'
+                          .format(name, manifest['name']))
                     cleanup()
 
                 # Verify that the version matches
