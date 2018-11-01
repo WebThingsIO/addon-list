@@ -41,9 +41,6 @@
     "description": "Chromecast support",
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/chromecast-adapter#readme",
-    "version": "0.3.0",
-    "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/chromecast-adapter-0.3.0.tgz",
-    "checksum": "aafc06d6728ff21ad757438d70649eb80478677dfcd66879c15fec078580a2d7",
     "packages": {
       "any": {
         "version": "0.3.0",
@@ -139,9 +136,6 @@
     "description": "GPIO device support",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/gpio-adapter",
-    "version": "0.3.2",
-    "url": "https://github.com/mozilla-iot/gpio-adapter/releases/download/v0.3.2/gpio-adapter-0.3.2.tgz",
-    "checksum": "1b59b8aae0740e1319f1e1aba836de076928c6d575c62b8db4632fab7b249275",
     "packages": {
       "linux-arm": {
         "version": "0.4.0",
@@ -198,9 +192,6 @@
     "description": "Adapter for https://github.com/mozilla-iot/http-on-off-mkr1000",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/http-on-off-adapter",
-    "version": "0.4.0",
-    "url": "https://github.com/mozilla-iot/http-on-off-adapter/releases/download/v0.4.0/http-on-off-adapter-0.4.0.tgz",
-    "checksum": "e11c1bfa845288167c747814345daca472ed64a8ebda0a2ae66485d25458d929",
     "packages": {
       "any": {
         "version": "0.4.0",
@@ -219,9 +210,6 @@
     "description": "LIFX smart bulb support",
     "author": "Stephen Oliver",
     "homepage": "https://github.com/infincia/lifx-adapter",
-    "version": "0.1.5",
-    "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lifx-adapter-0.1.5.tgz",
-    "checksum": "feced77fbe335106cd52badbe4f67277a8e6a09827ff01511b91381d5572e0ab",
     "packages": {
       "any": {
         "version": "0.1.5",
@@ -240,9 +228,6 @@
     "description": "Logitech Harmony Hub support",
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/logitech-harmony-adapter#readme",
-    "version": "0.2.0",
-    "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/logitech-harmony-adapter-0.2.0.tgz",
-    "checksum": "a1706cbcb1d47ac9235466f2f4a2301d839365b23130eed54239c1bf89c9b3a0",
     "packages": {
       "any": {
         "version": "0.2.0",
@@ -307,9 +292,6 @@
     "description": "Netatmo weather station support. Requires Netatmo Smart Home API credentials.",
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/netatmo-weather-adapter#readme",
-    "version": "0.3.0",
-    "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/netatmo-weather-adapter-0.3.0.tgz",
-    "checksum": "64fc1f21ebe9caca63ad4cbc4047d5ca8b369cbfa8ae4bbb1c25e8b33c407861",
     "packages": {
       "any": {
         "version": "0.3.0",
@@ -328,9 +310,6 @@
     "description": "Philips Hue color light support. Press the button on your Hue bridge to pair devices.",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/philips-hue-adapter",
-    "version": "0.6.2",
-    "url": "https://github.com/mozilla-iot/philips-hue-adapter/releases/download/v0.6.2/philips-hue-adapter-0.6.2.tgz",
-    "checksum": "2d41fb952e0fe6e0b49b0d969956c30d238ae021eb54f63ec55c74e5d1cd0814",
     "packages": {
       "any": {
         "version": "0.6.2",
@@ -349,9 +328,6 @@
     "description": "Serial JSON interface to serial-mcu",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/serial-adapter",
-    "version": "0.3.1",
-    "url": "https://github.com/mozilla-iot/serial-adapter/releases/download/v0.3.1/serial-adapter-0.3.1.tgz",
-    "checksum": "2fc83a1d263175af293a3ff7e3de55a692145dc3b1a9178d65669ab311be8a78",
     "packages": {
       "linux-arm": {
         "version": "0.3.5",
@@ -380,9 +356,6 @@
     "description": "Sonos player support",
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/sonos-adapter#readme",
-    "version": "0.5.0",
-    "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sonos-adapter-0.5.0.tgz",
-    "checksum": "dfc9d93004692c8eb6697e12efa6b725033e67e53210362dbd83494c942b6283",
     "packages": {
       "any": {
         "version": "0.5.0",
@@ -447,9 +420,6 @@
     "description": "Virtual Things for experimenting with new thing types",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/virtual-things-adapter",
-    "version": "0.2.8",
-    "url": "https://github.com/mozilla-iot/virtual-things-adapter/releases/download/v0.2.8/virtual-things-adapter-0.2.8.tgz",
-    "checksum": "2d8312045fe79ca8535593a00e95f95534bd09e7b26b0771a96d353ba53e0594",
     "packages": {
       "any": {
         "version": "0.2.8",
@@ -468,9 +438,6 @@
     "description": "Wemo smart device support",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/wemo-adapter",
-    "version": "0.1.1",
-    "url": "https://github.com/mozilla-iot/wemo-adapter/releases/download/v0.1.1/wemo-adapter-0.1.1.tgz",
-    "checksum": "7496c1f911e662e145997101cc91e7058a4f6e7c27e20b7c6ad7f12bef1f0ca6",
     "packages": {
       "any": {
         "version": "0.1.1",
@@ -517,9 +484,6 @@
     "description": "Yeelight smart bulb support",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/yeelight-adapter",
-    "version": "0.1.1",
-    "url": "https://github.com/mozilla-iot/yeelight-adapter/releases/download/v0.1.1/yeelight-adapter-0.1.1.tgz",
-    "checksum": "a02ee8da5b44192310e53729e87300110b5c834ada96c84f18d378eafedf26d4",
     "packages": {
       "any": {
         "version": "0.1.1",
@@ -566,9 +530,6 @@
     "description": "Z-Wave device support",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/zwave-adapter",
-    "version": "0.3.2",
-    "url": "https://github.com/mozilla-iot/zwave-adapter/releases/download/v0.3.2/zwave-adapter-0.3.2.tgz",
-    "checksum": "476017f88d069b9bb2d7f67d3ac6a0f8a39d5fbad747eaf57482ab361edfc965",
     "packages": {
       "linux-arm": {
         "version": "0.5.2",
