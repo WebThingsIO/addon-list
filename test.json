@@ -23,9 +23,6 @@
     "description": "Virtual Things for experimenting with new thing types",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/virtual-things-adapter",
-    "version": "0.2.8",
-    "url": "https://github.com/mozilla-iot/virtual-things-adapter/releases/download/v0.2.8/virtual-things-adapter-0.2.8.tgz",
-    "checksum": "2d8312045fe79ca8535593a00e95f95534bd09e7b26b0771a96d353ba53e0594",
     "packages": {
       "any": {
         "version": "0.2.8",

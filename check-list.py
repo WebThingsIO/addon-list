@@ -97,15 +97,6 @@ def main():
             'moziot.api.max',
         ]
 
-        required_in_legacy_manifest = [
-            'name',
-            'version',
-            'homepage',
-            'files',
-            'moziot.api.min',
-            'moziot.api.max',
-        ]
-
         known_architectures = [
             'any',
             'darwin-x64',
@@ -133,20 +124,10 @@ def main():
 
             # Ensure list of architectures is valid.
             for arch in entry['packages'].keys():
-                if arch not in known_architectures and arch != 'legacy':
+                if arch not in known_architectures:
                     print('Unknown architecture for package "{}": {}'
                           .format(name, arch))
                     cleanup()
-
-            if 'version' in entry and 'url' in entry and 'checksum' in entry:
-                legacy_entry = {
-                    'version': entry['version'],
-                    'url': entry['url'],
-                    'checksum': entry['checksum'],
-                    'is_legacy': True,
-                }
-
-                entry['packages']['legacy'] = legacy_entry
 
             # Download the packages.
             for package in entry['packages'].values():
@@ -156,8 +137,6 @@ def main():
                     print('Invalid package entry for "{}": {}'
                           .format(name, package))
                     cleanup()
-
-                is_legacy = 'is_legacy' in package and package['is_legacy']
 
                 version = package['version']
                 url = package['url']
@@ -190,12 +169,7 @@ def main():
                     cleanup()
 
                 # Verify required fields in package.json.
-                if is_legacy:
-                    success, field = verify_fields(
-                        required_in_legacy_manifest, manifest)
-                else:
-                    success, field = verify_fields(
-                        required_in_manifest, manifest)
+                success, field = verify_fields(required_in_manifest, manifest)
 
                 if not success:
                     print('Field "{}" missing from:\n{}'
@@ -256,27 +230,26 @@ def main():
                     cleanup()
 
                 # Verify that the author matches
-                if not is_legacy:
-                    if 'author' not in manifest:
-                        print('Author missing for package "{}"'.format(name))
-                    elif manifest['author'] != entry['author']:
-                        print('Author mismatch for package "{}": '
-                              'author from package.json "{}" doesn\'t match '
-                              'author from list.json "{}"'
-                              .format(name, manifest['author'],
-                                      entry['author']))
-                        cleanup()
+                if 'author' not in manifest:
+                    print('Author missing for package "{}"'.format(name))
+                elif manifest['author'] != entry['author']:
+                    print('Author mismatch for package "{}": '
+                          'author from package.json "{}" doesn\'t match '
+                          'author from list.json "{}"'
+                          .format(name, manifest['author'],
+                                  entry['author']))
+                    cleanup()
 
-                    if 'display_name' not in manifest:
-                        print('Display name missing for package "{}"'
-                              .format(name))
-                    elif manifest['display_name'] != entry['display_name']:
-                        print('Display name mismatch for package "{}": '
-                              'display_name from package.json "{}" doesn\'t '
-                              'match display_name from list.json "{}"'
-                              .format(name, manifest['display_name'],
-                                      entry['display_name']))
-                        cleanup()
+                if 'display_name' not in manifest:
+                    print('Display name missing for package "{}"'
+                          .format(name))
+                elif manifest['display_name'] != entry['display_name']:
+                    print('Display name mismatch for package "{}": '
+                          'display_name from package.json "{}" doesn\'t '
+                          'match display_name from list.json "{}"'
+                          .format(name, manifest['display_name'],
+                                  entry['display_name']))
+                    cleanup()
 
                 # Verify that the homepage matches
                 if manifest['homepage'] != entry['homepage']:
