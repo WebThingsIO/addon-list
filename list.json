@@ -59,7 +59,7 @@
   {
     "name": "date-time-adapter",
     "display_name": "DateTime Adapter",
-    "description": "A DateTime adapter to create more advanced rules",
+    "description": "A DateTime adapter to create more advanced rules using sunrise, sunset, weekends, etc.",
     "author": "tomasy",
     "homepage": "https://github.com/tomasy/date-time-adapter",
     "packages": {
