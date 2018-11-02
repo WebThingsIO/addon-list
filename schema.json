@@ -114,6 +114,9 @@
                                     "minimum": 1
                                 }
                             }
+                        },
+                        "testOnly": {
+                            "type": "boolean"
                         }
                     }
                 }
