@@ -166,19 +166,19 @@
     "homepage": "https://github.com/mozilla-iot/homekit-adapter",
     "packages": {
       "linux-arm": {
-        "version": "0.3.2",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.3.2-linux-arm-v8.tgz",
-        "checksum": "bdd267349c0c368cd7618c0ec075bffc35fb4f1c0a181b59dcec9d2b57306d45"
+        "version": "0.3.3",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.3.3-linux-arm-v8.tgz",
+        "checksum": "2808738fe5374e58156ae0521fcaeabc5d5cb6e7e99ab9b7c419da8dc0d9e024"
       },
       "linux-x64": {
-        "version": "0.3.2",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.3.2-linux-x64-v8.tgz",
-        "checksum": "0f494a663299693d65079fda1e16e13088cdcfd57479e0cb91df85a45cdf50e2"
+        "version": "0.3.3",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.3.3-linux-x64-v8.tgz",
+        "checksum": "8bd529d6c7f0df87bcaa7a82e1c3813227dff95506c57fd2271b88b655846c8d"
       },
       "darwin-x64": {
-        "version": "0.3.2",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.3.2-darwin-x64-v8.tgz",
-        "checksum": "ca35b3c2ddc09d602a6cf251e5b3c8ff2ca7d1f6b32d23c405e8e8a208e1c391"
+        "version": "0.3.3",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.3.3-darwin-x64-v8.tgz",
+        "checksum": "0c53b0634b055c0299441eae0823a22f3ccb648ec9b75f7580e4628d4fb1624d"
       }
     },
     "api": {
