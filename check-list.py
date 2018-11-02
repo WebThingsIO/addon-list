@@ -11,7 +11,7 @@ import tarfile
 import urllib.error
 import urllib.request
 
-
+_SCHEMA = './schema.json'
 _LISTS = [
     './list.json',
     './test.json',
@@ -66,6 +66,17 @@ def main():
     adapter = None
     if len(sys.argv) > 1:
         adapter = sys.argv[1]
+
+    # Load the schema.
+    with open(_SCHEMA) as f:
+        schema = json.load(f)
+
+    try:
+        jsonschema.Draft4Validator.check_schema(schema)
+    except jsonschema.SchemaError as e:
+        print('Schema validation failed: {}'.format(e))
+        sys.exit(1)
+
     for l in _LISTS:
         # Make sure the file is valid JSON
         try:
@@ -75,16 +86,7 @@ def main():
             print('Failed to read list file.')
             sys.exit(1)
 
-        required_in_list = [
-            'name',
-            'display_name',
-            'description',
-            'author',
-            'homepage',
-            'packages',
-            'api.min',
-            'api.max',
-        ]
+        jsonschema.validate(addon_list, schema)
 
         required_in_manifest = [
             'name',
@@ -97,47 +99,16 @@ def main():
             'moziot.api.max',
         ]
 
-        known_architectures = [
-            'any',
-            'darwin-x64',
-            'linux-arm',
-            'linux-arm64',
-            'linux-ia32',
-            'linux-x64',
-            'win32-ia32',
-            'win32-x64',
-        ]
-
         for entry in addon_list:
-            success, field = verify_fields(required_in_list, entry)
-            if not success:
-                print('Field "{}" missing from:\n{}'
-                      .format(field, json.dumps(entry, indent=2)))
-                sys.exit(1)
-
             name = entry['name']
 
             if adapter and adapter != name:
                 continue
 
-            print('Checking', name, '...')
-
-            # Ensure list of architectures is valid.
-            for arch in entry['packages'].keys():
-                if arch not in known_architectures:
-                    print('Unknown architecture for package "{}": {}'
-                          .format(name, arch))
-                    cleanup()
+            print('Checking {} ...'.format(name))
 
             # Download the packages.
-            for package in entry['packages'].values():
-                if 'url' not in package or \
-                        'checksum' not in package or \
-                        'version' not in package:
-                    print('Invalid package entry for "{}": {}'
-                          .format(name, package))
-                    cleanup()
-
+            for package in entry['packages']:
                 version = package['version']
                 url = package['url']
                 checksum = package['checksum']
@@ -145,12 +116,14 @@ def main():
                 try:
                     urllib.request.urlretrieve(url, 'package.tgz')
                 except urllib.error.URLError:
-                    print('Failed to download package for "{}"'.format(name))
+                    print('Failed to download package for "{}": {}'
+                          .format(name, package['architecture']))
                     cleanup()
 
                 # Verify the checksum.
                 if checksum != hash_file('./package.tgz'):
-                    print('Checksum invalid for "{}"'.format(name))
+                    print('Checksum invalid for "{}": {}'
+                          .format(name, package['architecture']))
                     cleanup()
 
                 # Check the package contents.
@@ -158,7 +131,8 @@ def main():
                     with tarfile.open('./package.tgz', 'r:gz') as t:
                         t.extractall()
                 except (IOError, OSError, tarfile.TarError):
-                    print('Failed to untar package for "{}"'.format(name))
+                    print('Failed to untar package for "{}": {}'
+                          .format(name, package['architecture']))
                     cleanup()
 
                 try:
@@ -216,9 +190,10 @@ def main():
 
                 # Verify that the name matches
                 if manifest['name'] != name:
-                    print('Name mismatch for package "{}"')
-                    print('name from package.json "{}" doesn\'t match '
-                          'name from list.json'.format(name, manifest['name']))
+                    print('Name mismatch for package "{}"'
+                          'name from package.json "{}" doesn\'t match '
+                          'name from list.json'
+                          .format(name, manifest['name']))
                     cleanup()
 
                 # Verify that the version matches
@@ -236,8 +211,7 @@ def main():
                     print('Author mismatch for package "{}": '
                           'author from package.json "{}" doesn\'t match '
                           'author from list.json "{}"'
-                          .format(name, manifest['author'],
-                                  entry['author']))
+                          .format(name, manifest['author'], entry['author']))
                     cleanup()
 
                 if 'display_name' not in manifest:
@@ -261,20 +235,20 @@ def main():
                     cleanup()
 
                 # Verify that the API version matches
-                if manifest['moziot']['api']['min'] != entry['api']['min']:
+                if manifest['moziot']['api']['min'] != package['api']['min']:
                     print('api.min Version mismatch for package "{}": '
                           'api.min version from package.json "{}" doesn\'t '
                           'match api.min version from list.json "{}"'
                           .format(name, manifest['moziot']['api']['min'],
-                                  entry['api']['min']))
+                                  package['api']['min']))
                     cleanup()
 
-                if manifest['moziot']['api']['max'] != entry['api']['max']:
+                if manifest['moziot']['api']['max'] != package['api']['max']:
                     print('api.max version mismatch for package "{}": '
                           'api.max version from package.json "{}" doesn\'t '
                           'match api.max version from list.json "{}"'
                           .format(name, manifest['moziot']['api']['max'],
-                                  entry['api']['max']))
+                                  package['api']['max']))
                     cleanup()
 
                 # Verify the plugin flag.
