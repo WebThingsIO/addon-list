@@ -5,17 +5,24 @@
     "description": "Pimoroni Blinkt! support",
     "author": "Poul Christiansen",
     "homepage": "https://github.com/pchri/blinkt-adapter",
-    "packages": {
-      "linux-arm": {
+    "packages": [
+      {
+        "architecture": "linux-arm",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
         "version": "0.0.4",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/blinkt-adapter-0.0.4.tgz",
-        "checksum": "55443bdfc7cf5a635aad706c6f074fb529abb953b157137c133d5478d32d0920"
+        "checksum": "55443bdfc7cf5a635aad706c6f074fb529abb953b157137c133d5478d32d0920",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
       }
-    },
-    "api": {
-      "min": 2,
-      "max": 2
-    }
+    ]
   },
   {
     "name": "broadlink-adapter",
@@ -23,17 +30,24 @@
     "description": "Support IR devices with BroadLink. See: https://github.com/sogaani/broadlink-adapter",
     "author": "sogaani",
     "homepage": "https://github.com/sogaani/broadlink-adapter",
-    "packages": {
-      "any": {
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
         "version": "0.1.4",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/broadlink-adapter-0.1.4.tgz",
-        "checksum": "6e7daa17668b6a0bcb18a2a1a1a2407075a222b36a4c618636f4703913f3f95d"
+        "checksum": "6e7daa17668b6a0bcb18a2a1a1a2407075a222b36a4c618636f4703913f3f95d",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
       }
-    },
-    "api": {
-      "min": 2,
-      "max": 2
-    }
+    ]
   },
   {
     "name": "chromecast-adapter",
@@ -41,17 +55,24 @@
     "description": "Chromecast support",
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/chromecast-adapter#readme",
-    "packages": {
-      "any": {
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
         "version": "0.3.0",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/chromecast-adapter-0.3.0.tgz",
-        "checksum": "aafc06d6728ff21ad757438d70649eb80478677dfcd66879c15fec078580a2d7"
+        "checksum": "aafc06d6728ff21ad757438d70649eb80478677dfcd66879c15fec078580a2d7",
+        "api": {
+          "min": 1,
+          "max": 2
+        }
       }
-    },
-    "api": {
-      "min": 1,
-      "max": 2
-    }
+    ]
   },
   {
     "name": "date-time-adapter",
@@ -59,17 +80,26 @@
     "description": "A DateTime adapter to create more advanced rules using sunrise, sunset, weekends, etc.",
     "author": "tomasy",
     "homepage": "https://github.com/tomasy/date-time-adapter",
-    "packages": {
-      "any": {
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "python",
+          "versions": [
+            "3.5",
+            "3.6",
+            "3.7"
+          ]
+        },
         "version": "0.9.4",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/date-time-adapter-0.9.4.tgz",
-        "checksum": "36db0787457b617ae8d78ad7544f5ba5cb7595ac34a946ee60a23c7f9a6e740a"
+        "checksum": "36db0787457b617ae8d78ad7544f5ba5cb7595ac34a946ee60a23c7f9a6e740a",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
       }
-    },
-    "api": {
-      "min": 2,
-      "max": 2
-    }
+    ]
   },
   {
     "name": "eufy-adapter",
@@ -77,17 +107,52 @@
     "description": "Eufy device support",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/eufy-adapter",
-    "packages": {
-      "any": {
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "python",
+          "versions": [
+            "3.5",
+            "3.6",
+            "3.7"
+          ]
+        },
         "version": "0.1.1",
         "url": "https://github.com/mozilla-iot/eufy-adapter/releases/download/v0.1.1/eufy-adapter-0.1.1.tgz",
-        "checksum": "4c4b0534d04ec6184d34cc62e18f3cf6750571259257721b55646925fc811e16"
+        "checksum": "4c4b0534d04ec6184d34cc62e18f3cf6750571259257721b55646925fc811e16",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
       }
-    },
-    "api": {
-      "min": 2,
-      "max": 2
-    }
+    ]
+  },
+  {
+    "name": "example-adapter",
+    "display_name": "Example",
+    "description": "Example add-on for developers",
+    "author": "Mozilla IoT",
+    "homepage": "https://github.com/mozilla-iot/example-adapter",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.4.0",
+        "url": "https://github.com/mozilla-iot/example-adapter/releases/download/v0.4.0/example-adapter-0.4.0.tgz",
+        "checksum": "2079e4e766966f208225bee79d1408eb6f8b4384a6633ce419792ca6be969071",
+        "api": {
+          "min": 1,
+          "max": 2
+        },
+        "testOnly": true
+      }
+    ]
   },
   {
     "name": "flic-button-adapter",
@@ -95,17 +160,24 @@
     "description": "React to Flic button presses via proprietary flic daemon (included for Linux)",
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/flic-button-adapter#readme",
-    "packages": {
-      "any":{
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
         "version": "0.0.1",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/flic-button-adapter-0.0.1.tgz",
-        "checksum": "d24c58343eebb7fc25dd746b66335f0ae2a03a39e13a8c0b4e613948d823c04b"
+        "checksum": "d24c58343eebb7fc25dd746b66335f0ae2a03a39e13a8c0b4e613948d823c04b",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
       }
-    },
-    "api": {
-      "min": 2,
-      "max": 2
-    }
+    ]
   },
   {
     "name": "generic-sensors-adapter",
@@ -113,22 +185,40 @@
     "description": "Generic Sensors devices support. See: https://github.com/rzr/mozilla-iot-generic-sensors-adapter",
     "author": "Philippe Coval",
     "homepage": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter",
-    "packages": {
-      "linux-arm": {
+    "packages": [
+      {
+        "architecture": "linux-arm",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
         "version": "0.0.3",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.3-linux-arm-v8.tgz",
-        "checksum": "7d2cf65d1ff750b42c769ae56816389bdd130562fcb507360dcf76e88e5fcf5c"
+        "checksum": "7d2cf65d1ff750b42c769ae56816389bdd130562fcb507360dcf76e88e5fcf5c",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
       },
-      "linux-x64": {
+      {
+        "architecture": "linux-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
         "version": "0.0.3",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.3-linux-x64-v8.tgz",
-        "checksum": "63361d9ffffba96d37f8bbf47542de14f3f244285774c5867132e030f90065ef"
+        "checksum": "63361d9ffffba96d37f8bbf47542de14f3f244285774c5867132e030f90065ef",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
       }
-    },
-    "api": {
-      "min": 2,
-      "max": 2
-    }
+    ]
   },
   {
     "name": "gpio-adapter",
@@ -136,27 +226,56 @@
     "description": "GPIO device support",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/gpio-adapter",
-    "packages": {
-      "linux-arm": {
+    "packages": [
+      {
+        "architecture": "linux-arm",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
         "version": "0.4.0",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.4.0-linux-arm-v8.tgz",
-        "checksum": "da6c5542b3de2af44cb1fd20d1e117e8958226a3f0163f3b98431a46749c246e"
+        "checksum": "da6c5542b3de2af44cb1fd20d1e117e8958226a3f0163f3b98431a46749c246e",
+        "api": {
+          "min": 1,
+          "max": 2
+        }
       },
-      "linux-x64": {
+      {
+        "architecture": "linux-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
         "version": "0.4.0",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.4.0-linux-x64-v8.tgz",
-        "checksum": "bf435bc5a45bb31c2ed9f1a2fe308cca712bb025a83aff99114edff4fa9bd081"
+        "checksum": "bf435bc5a45bb31c2ed9f1a2fe308cca712bb025a83aff99114edff4fa9bd081",
+        "api": {
+          "min": 1,
+          "max": 2
+        }
       },
-      "darwin-x64": {
+      {
+        "architecture": "darwin-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
         "version": "0.4.0",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.4.0-darwin-x64-v8.tgz",
-        "checksum": "6e816276b18c593362a3655b540db147854506a680966b014f45565223720af8"
+        "checksum": "6e816276b18c593362a3655b540db147854506a680966b014f45565223720af8",
+        "api": {
+          "min": 1,
+          "max": 2
+        }
       }
-    },
-    "api": {
-      "min": 1,
-      "max": 2
-    }
+    ]
   },
   {
     "name": "homekit-adapter",
@@ -164,27 +283,56 @@
     "description": "HomeKit device support",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/homekit-adapter",
-    "packages": {
-      "linux-arm": {
+    "packages": [
+      {
+        "architecture": "linux-arm",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
         "version": "0.3.3",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.3.3-linux-arm-v8.tgz",
-        "checksum": "2808738fe5374e58156ae0521fcaeabc5d5cb6e7e99ab9b7c419da8dc0d9e024"
+        "checksum": "2808738fe5374e58156ae0521fcaeabc5d5cb6e7e99ab9b7c419da8dc0d9e024",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
       },
-      "linux-x64": {
+      {
+        "architecture": "linux-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
         "version": "0.3.3",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.3.3-linux-x64-v8.tgz",
-        "checksum": "8bd529d6c7f0df87bcaa7a82e1c3813227dff95506c57fd2271b88b655846c8d"
+        "checksum": "8bd529d6c7f0df87bcaa7a82e1c3813227dff95506c57fd2271b88b655846c8d",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
       },
-      "darwin-x64": {
+      {
+        "architecture": "darwin-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
         "version": "0.3.3",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.3.3-darwin-x64-v8.tgz",
-        "checksum": "0c53b0634b055c0299441eae0823a22f3ccb648ec9b75f7580e4628d4fb1624d"
+        "checksum": "0c53b0634b055c0299441eae0823a22f3ccb648ec9b75f7580e4628d4fb1624d",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
       }
-    },
-    "api": {
-      "min": 2,
-      "max": 2
-    }
+    ]
   },
   {
     "name": "http-on-off-adapter",
@@ -192,17 +340,24 @@
     "description": "Adapter for https://github.com/mozilla-iot/http-on-off-mkr1000",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/http-on-off-adapter",
-    "packages": {
-      "any": {
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
         "version": "0.4.0",
         "url": "https://github.com/mozilla-iot/http-on-off-adapter/releases/download/v0.4.0/http-on-off-adapter-0.4.0.tgz",
-        "checksum": "e11c1bfa845288167c747814345daca472ed64a8ebda0a2ae66485d25458d929"
+        "checksum": "e11c1bfa845288167c747814345daca472ed64a8ebda0a2ae66485d25458d929",
+        "api": {
+          "min": 1,
+          "max": 2
+        }
       }
-    },
-    "api": {
-      "min": 1,
-      "max": 2
-    }
+    ]
   },
   {
     "name": "lifx-adapter",
@@ -210,17 +365,26 @@
     "description": "LIFX smart bulb support",
     "author": "Stephen Oliver",
     "homepage": "https://github.com/infincia/lifx-adapter",
-    "packages": {
-      "any": {
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "python",
+          "versions": [
+            "3.5",
+            "3.6",
+            "3.7"
+          ]
+        },
         "version": "0.1.5",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lifx-adapter-0.1.5.tgz",
-        "checksum": "feced77fbe335106cd52badbe4f67277a8e6a09827ff01511b91381d5572e0ab"
+        "checksum": "feced77fbe335106cd52badbe4f67277a8e6a09827ff01511b91381d5572e0ab",
+        "api": {
+          "min": 1,
+          "max": 2
+        }
       }
-    },
-    "api": {
-      "min": 1,
-      "max": 2
-    }
+    ]
   },
   {
     "name": "logitech-harmony-adapter",
@@ -228,17 +392,24 @@
     "description": "Logitech Harmony Hub support",
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/logitech-harmony-adapter#readme",
-    "packages": {
-      "any": {
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
         "version": "0.2.0",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/logitech-harmony-adapter-0.2.0.tgz",
-        "checksum": "a1706cbcb1d47ac9235466f2f4a2301d839365b23130eed54239c1bf89c9b3a0"
+        "checksum": "a1706cbcb1d47ac9235466f2f4a2301d839365b23130eed54239c1bf89c9b3a0",
+        "api": {
+          "min": 1,
+          "max": 2
+        }
       }
-    },
-    "api": {
-      "min": 1,
-      "max": 2
-    }
+    ]
   },
   {
     "name": "microblocks-adapter",
@@ -246,27 +417,56 @@
     "description": "MicroBlocks board support",
     "author": "MicroBlocks",
     "homepage": "https://github.com/mozilla-iot/microblocks-adapter",
-    "packages": {
-      "linux-arm": {
+    "packages": [
+      {
+        "architecture": "linux-arm",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
         "version": "0.1.5",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.1.5-linux-arm-v8.tgz",
-        "checksum": "62175ce68f59f5e7ba7d731c77f518e1c89917f0d8f59e34a964bc57f955bfbf"
+        "checksum": "62175ce68f59f5e7ba7d731c77f518e1c89917f0d8f59e34a964bc57f955bfbf",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
       },
-      "linux-x64": {
+      {
+        "architecture": "linux-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
         "version": "0.1.5",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.1.5-linux-x64-v8.tgz",
-        "checksum": "6df0f5d53b83098d83739deffc9d5665e0f6f82b205f6fa83a3adc015ad8856c"
+        "checksum": "6df0f5d53b83098d83739deffc9d5665e0f6f82b205f6fa83a3adc015ad8856c",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
       },
-      "darwin-x64": {
+      {
+        "architecture": "darwin-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
         "version": "0.1.5",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.1.5-darwin-x64-v8.tgz",
-        "checksum": "7f0750a275fbd9052c26548a98f3007de9979fb76fa8b500aeacbab7aa5f2a28"
+        "checksum": "7f0750a275fbd9052c26548a98f3007de9979fb76fa8b500aeacbab7aa5f2a28",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
       }
-    },
-    "api": {
-      "min": 2,
-      "max": 2
-    }
+    ]
   },
   {
     "name": "nanoleaf-adapter",
@@ -274,17 +474,24 @@
     "description": "Control your Nanoleaf aurora",
     "author": "Roman Odermatt",
     "homepage": "https://github.com/roderm/nanoleaf-adapter",
-    "packages": {
-      "any": {
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
         "version": "0.1.1",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/nanoleaf-adapter-0.1.1.tgz",
-        "checksum": "de188fae3d2452e2477a999f94291df3f201ff5ed1a6598b96feaba2f49ca9d4"
+        "checksum": "de188fae3d2452e2477a999f94291df3f201ff5ed1a6598b96feaba2f49ca9d4",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
       }
-    },
-    "api": {
-      "min": 2,
-      "max": 2
-    }
+    ]
   },
   {
     "name": "netatmo-weather-adapter",
@@ -292,17 +499,24 @@
     "description": "Netatmo weather station support. Requires Netatmo Smart Home API credentials.",
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/netatmo-weather-adapter#readme",
-    "packages": {
-      "any": {
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
         "version": "0.3.0",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/netatmo-weather-adapter-0.3.0.tgz",
-        "checksum": "64fc1f21ebe9caca63ad4cbc4047d5ca8b369cbfa8ae4bbb1c25e8b33c407861"
+        "checksum": "64fc1f21ebe9caca63ad4cbc4047d5ca8b369cbfa8ae4bbb1c25e8b33c407861",
+        "api": {
+          "min": 1,
+          "max": 2
+        }
       }
-    },
-    "api": {
-      "min": 1,
-      "max": 2
-    }
+    ]
   },
   {
     "name": "philips-hue-adapter",
@@ -310,17 +524,24 @@
     "description": "Philips Hue color light support. Press the button on your Hue bridge to pair devices.",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/philips-hue-adapter",
-    "packages": {
-      "any": {
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
         "version": "0.6.2",
         "url": "https://github.com/mozilla-iot/philips-hue-adapter/releases/download/v0.6.2/philips-hue-adapter-0.6.2.tgz",
-        "checksum": "2d41fb952e0fe6e0b49b0d969956c30d238ae021eb54f63ec55c74e5d1cd0814"
+        "checksum": "2d41fb952e0fe6e0b49b0d969956c30d238ae021eb54f63ec55c74e5d1cd0814",
+        "api": {
+          "min": 1,
+          "max": 2
+        }
       }
-    },
-    "api": {
-      "min": 1,
-      "max": 2
-    }
+    ]
   },
   {
     "name": "serial-adapter",
@@ -328,27 +549,56 @@
     "description": "Serial JSON interface to serial-mcu",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/serial-adapter",
-    "packages": {
-      "linux-arm": {
+    "packages": [
+      {
+        "architecture": "linux-arm",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
         "version": "0.3.5",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.3.5-linux-arm-v8.tgz",
-        "checksum": "263e9bb482b04097538610a60ab400d26fcff0707e40b94346abe7e37b9a5747"
+        "checksum": "263e9bb482b04097538610a60ab400d26fcff0707e40b94346abe7e37b9a5747",
+        "api": {
+          "min": 1,
+          "max": 2
+        }
       },
-      "linux-x64": {
+      {
+        "architecture": "linux-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
         "version": "0.3.5",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.3.5-linux-x64-v8.tgz",
-        "checksum": "f1195a4d05341e5301a7a7dbc5764ca0017ca9a981d1262559831380310435dd"
+        "checksum": "f1195a4d05341e5301a7a7dbc5764ca0017ca9a981d1262559831380310435dd",
+        "api": {
+          "min": 1,
+          "max": 2
+        }
       },
-      "darwin-x64": {
+      {
+        "architecture": "darwin-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
         "version": "0.3.5",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.3.5-darwin-x64-v8.tgz",
-        "checksum": "d5775dabaf23b39ef65297b276ee93affa2a9cba4e222299ebed52f197831d8f"
+        "checksum": "d5775dabaf23b39ef65297b276ee93affa2a9cba4e222299ebed52f197831d8f",
+        "api": {
+          "min": 1,
+          "max": 2
+        }
       }
-    },
-    "api": {
-      "min": 1,
-      "max": 2
-    }
+    ]
   },
   {
     "name": "sonos-adapter",
@@ -356,17 +606,24 @@
     "description": "Sonos player support",
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/sonos-adapter#readme",
-    "packages": {
-      "any": {
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
         "version": "0.5.0",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sonos-adapter-0.5.0.tgz",
-        "checksum": "dfc9d93004692c8eb6697e12efa6b725033e67e53210362dbd83494c942b6283"
+        "checksum": "dfc9d93004692c8eb6697e12efa6b725033e67e53210362dbd83494c942b6283",
+        "api": {
+          "min": 1,
+          "max": 2
+        }
       }
-    },
-    "api": {
-      "min": 1,
-      "max": 2
-    }
+    ]
   },
   {
     "name": "thing-url-adapter",
@@ -374,27 +631,56 @@
     "description": "Native web thing support",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/thing-url-adapter",
-    "packages": {
-      "linux-arm": {
+    "packages": [
+      {
+        "architecture": "linux-arm",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
         "version": "0.2.5",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/thing-url-adapter-0.2.5-linux-arm-v8.tgz",
-        "checksum": "c58eb9c99294a9905fd00b5ca38c73e2337ea54d4db6daebb7c3b0eb64df5b92"
+        "checksum": "c58eb9c99294a9905fd00b5ca38c73e2337ea54d4db6daebb7c3b0eb64df5b92",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
       },
-      "linux-x64": {
+      {
+        "architecture": "linux-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
         "version": "0.2.5",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/thing-url-adapter-0.2.5-linux-x64-v8.tgz",
-        "checksum": "2e778ad976cb469be1d41af13716a7d65a9cc4e371c452be2ff2da4ed932941c"
+        "checksum": "2e778ad976cb469be1d41af13716a7d65a9cc4e371c452be2ff2da4ed932941c",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
       },
-      "darwin-x64": {
+      {
+        "architecture": "darwin-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
         "version": "0.2.5",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/thing-url-adapter-0.2.5-darwin-x64-v8.tgz",
-        "checksum": "e287c61d844fe832b9dca609546ec2454fe23e4a7753b3ce6f9ee53332fdf53f"
+        "checksum": "e287c61d844fe832b9dca609546ec2454fe23e4a7753b3ce6f9ee53332fdf53f",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
       }
-    },
-    "api": {
-      "min": 2,
-      "max": 2
-    }
+    ]
   },
   {
     "name": "tplink-adapter",
@@ -402,17 +688,26 @@
     "description": "TP-Link smart plug/bulb device support",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/tplink-adapter",
-    "packages": {
-      "any": {
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "python",
+          "versions": [
+            "3.5",
+            "3.6",
+            "3.7"
+          ]
+        },
         "version": "0.3.2",
         "url": "https://github.com/mozilla-iot/tplink-adapter/releases/download/v0.3.2/tplink-adapter-0.3.2.tgz",
-        "checksum": "039e626082985d4259f313ca3a4f7473e118b8a2e5849bc50d771339ece8a1cd"
+        "checksum": "039e626082985d4259f313ca3a4f7473e118b8a2e5849bc50d771339ece8a1cd",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
       }
-    },
-    "api": {
-      "min": 2,
-      "max": 2
-    }
+    ]
   },
   {
     "name": "virtual-things-adapter",
@@ -420,17 +715,24 @@
     "description": "Virtual Things for experimenting with new thing types",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/virtual-things-adapter",
-    "packages": {
-      "any": {
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
         "version": "0.2.8",
         "url": "https://github.com/mozilla-iot/virtual-things-adapter/releases/download/v0.2.8/virtual-things-adapter-0.2.8.tgz",
-        "checksum": "2d8312045fe79ca8535593a00e95f95534bd09e7b26b0771a96d353ba53e0594"
+        "checksum": "2d8312045fe79ca8535593a00e95f95534bd09e7b26b0771a96d353ba53e0594",
+        "api": {
+          "min": 1,
+          "max": 2
+        }
       }
-    },
-    "api": {
-      "min": 1,
-      "max": 2
-    }
+    ]
   },
   {
     "name": "wemo-adapter",
@@ -438,17 +740,26 @@
     "description": "Wemo smart device support",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/wemo-adapter",
-    "packages": {
-      "any": {
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "python",
+          "versions": [
+            "3.5",
+            "3.6",
+            "3.7"
+          ]
+        },
         "version": "0.1.1",
         "url": "https://github.com/mozilla-iot/wemo-adapter/releases/download/v0.1.1/wemo-adapter-0.1.1.tgz",
-        "checksum": "7496c1f911e662e145997101cc91e7058a4f6e7c27e20b7c6ad7f12bef1f0ca6"
+        "checksum": "7496c1f911e662e145997101cc91e7058a4f6e7c27e20b7c6ad7f12bef1f0ca6",
+        "api": {
+          "min": 1,
+          "max": 2
+        }
       }
-    },
-    "api": {
-      "min": 1,
-      "max": 2
-    }
+    ]
   },
   {
     "name": "x10-cm11-adapter",
@@ -456,27 +767,56 @@
     "description": "X10 device support through the CM11 interface.",
     "author": "Alan Thiessen",
     "homepage": "https://github.com/AlanDThiessen/x10-cm11-adapter",
-    "packages": {
-      "linux-arm": {
+    "packages": [
+      {
+        "architecture": "linux-arm",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
         "version": "0.3.1",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/x10-cm11-adapter-0.3.1-linux-arm.tgz",
-        "checksum": "cfe3250e388f90c6051e5d05f7693daae295bcc956d28f5a4caa63ec3c3120da"
+        "checksum": "cfe3250e388f90c6051e5d05f7693daae295bcc956d28f5a4caa63ec3c3120da",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
       },
-      "linux-x64": {
+      {
+        "architecture": "linux-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
         "version": "0.3.1",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/x10-cm11-adapter-0.3.1-linux-ia64.tgz",
-        "checksum": "18de4d41b551edab1721b81e2f5fa78a31078139f26dc5cc0cfa1fbbe39e60d4"
+        "checksum": "18de4d41b551edab1721b81e2f5fa78a31078139f26dc5cc0cfa1fbbe39e60d4",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
       },
-      "darwin-x64": {
+      {
+        "architecture": "darwin-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
         "version": "0.3.1",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/x10-cm11-adapter-0.3.1-darwin-x64.tgz",
-        "checksum": "5017f8c253441acf5a77520e43b71077e1c88a94f1ac0239eb2bbbbd64519a27"
+        "checksum": "5017f8c253441acf5a77520e43b71077e1c88a94f1ac0239eb2bbbbd64519a27",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
       }
-    },
-    "api": {
-      "min": 2,
-      "max": 2
-    }
+    ]
   },
   {
     "name": "yeelight-adapter",
@@ -484,17 +824,26 @@
     "description": "Yeelight smart bulb support",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/yeelight-adapter",
-    "packages": {
-      "any": {
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "python",
+          "versions": [
+            "3.5",
+            "3.6",
+            "3.7"
+          ]
+        },
         "version": "0.1.1",
         "url": "https://github.com/mozilla-iot/yeelight-adapter/releases/download/v0.1.1/yeelight-adapter-0.1.1.tgz",
-        "checksum": "a02ee8da5b44192310e53729e87300110b5c834ada96c84f18d378eafedf26d4"
+        "checksum": "a02ee8da5b44192310e53729e87300110b5c834ada96c84f18d378eafedf26d4",
+        "api": {
+          "min": 1,
+          "max": 2
+        }
       }
-    },
-    "api": {
-      "min": 1,
-      "max": 2
-    }
+    ]
   },
   {
     "name": "zigbee-adapter",
@@ -502,27 +851,56 @@
     "description": "Zigbee device support",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/zigbee-adapter",
-    "packages": {
-      "linux-arm": {
+    "packages": [
+      {
+        "architecture": "linux-arm",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
         "version": "0.6.3",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.6.3-linux-arm-v8.tgz",
-        "checksum": "ca0dc418904c8a11d5ae331948ade69ed739ae190744d30262b5ed4b4f9da9b3"
+        "checksum": "ca0dc418904c8a11d5ae331948ade69ed739ae190744d30262b5ed4b4f9da9b3",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
       },
-      "linux-x64": {
+      {
+        "architecture": "linux-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
         "version": "0.6.3",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.6.3-linux-x64-v8.tgz",
-        "checksum": "778c42777081471ffb60c00213e7140d6d2d3ae070b7fc5a8fab61d18504377c"
+        "checksum": "778c42777081471ffb60c00213e7140d6d2d3ae070b7fc5a8fab61d18504377c",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
       },
-      "darwin-x64": {
+      {
+        "architecture": "darwin-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
         "version": "0.6.3",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.6.3-darwin-x64-v8.tgz",
-        "checksum": "0db67140272d1d745af64e833bf41b1d9eb671603e1e5ac7b631cc28c8a7b8d4"
+        "checksum": "0db67140272d1d745af64e833bf41b1d9eb671603e1e5ac7b631cc28c8a7b8d4",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
       }
-    },
-    "api": {
-      "min": 2,
-      "max": 2
-    }
+    ]
   },
   {
     "name": "zwave-adapter",
@@ -530,26 +908,55 @@
     "description": "Z-Wave device support",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/zwave-adapter",
-    "packages": {
-      "linux-arm": {
+    "packages": [
+      {
+        "architecture": "linux-arm",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
         "version": "0.5.2",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.5.2-linux-arm-v8.tgz",
-        "checksum": "c9e4dc5ccd9781a6bab8d71274177e27db094e10ae3c86c4b88e73c0d536d529"
+        "checksum": "c9e4dc5ccd9781a6bab8d71274177e27db094e10ae3c86c4b88e73c0d536d529",
+        "api": {
+          "min": 1,
+          "max": 2
+        }
       },
-      "linux-x64": {
+      {
+        "architecture": "linux-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
         "version": "0.5.2",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.5.2-linux-x64-v8.tgz",
-        "checksum": "4c5cf2fbec2ceef25c2aa30a08f36023b3747cabb1253716ada494997687b40b"
+        "checksum": "4c5cf2fbec2ceef25c2aa30a08f36023b3747cabb1253716ada494997687b40b",
+        "api": {
+          "min": 1,
+          "max": 2
+        }
       },
-      "darwin-x64": {
+      {
+        "architecture": "darwin-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
         "version": "0.5.2",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.5.2-darwin-x64-v8.tgz",
-        "checksum": "3ab3a392329d615779b61d17e3c5d71e472c6fa4b4c7857f7c5cd74c2a76ed3a"
+        "checksum": "3ab3a392329d615779b61d17e3c5d71e472c6fa4b4c7857f7c5cd74c2a76ed3a",
+        "api": {
+          "min": 1,
+          "max": 2
+        }
       }
-    },
-    "api": {
-      "min": 1,
-      "max": 2
-    }
+    ]
   }
 ]
