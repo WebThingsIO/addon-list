@@ -274,6 +274,54 @@
           "min": 1,
           "max": 2
         }
+      },
+      {
+        "architecture": "linux-arm",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "64"
+          ]
+        },
+        "version": "0.4.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.4.0-linux-arm-v10.tgz",
+        "checksum": "000e5d5ff1118ed4dc7061e34568e10304a4b1d9c51cbab76a1da37482f7b3fb",
+        "api": {
+          "min": 1,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "linux-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "64"
+          ]
+        },
+        "version": "0.4.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.4.0-linux-x64-v10.tgz",
+        "checksum": "f5adafcc8519c1a6c6bc36dc6e8e24d210771791f7dfda92a6b27cc21cdd9312",
+        "api": {
+          "min": 1,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "darwin-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "64"
+          ]
+        },
+        "version": "0.4.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.4.0-darwin-x64-v10.tgz",
+        "checksum": "fbbfa4aae19b2bedb389113a38267443f4f2999be4a1b4994844dfc9e7d728e9",
+        "api": {
+          "min": 1,
+          "max": 2
+        }
       }
     ]
   },
@@ -465,6 +513,54 @@
           "min": 2,
           "max": 2
         }
+      },
+      {
+        "architecture": "linux-arm",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "64"
+          ]
+        },
+        "version": "0.1.5",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.1.5-linux-arm-v10.tgz",
+        "checksum": "778661c7ed7f0e5b5c28ed1f9cb7e11f7c7a6cd9bfe80e2e71d7585c32df948a",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "linux-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "64"
+          ]
+        },
+        "version": "0.1.5",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.1.5-linux-x64-v10.tgz",
+        "checksum": "31e9da59c1be05134198cbe304346c58eabe0e79a22fc7c9fa7407d6c77b8564",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "darwin-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "64"
+          ]
+        },
+        "version": "0.1.5",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.1.5-darwin-x64-v10.tgz",
+        "checksum": "35df7d251523e25d8e59942cb505c7a11e7784e1079ec18140ed078d2a5c9b00",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
       }
     ]
   },
@@ -593,6 +689,54 @@
         "version": "0.3.5",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.3.5-darwin-x64-v8.tgz",
         "checksum": "d5775dabaf23b39ef65297b276ee93affa2a9cba4e222299ebed52f197831d8f",
+        "api": {
+          "min": 1,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "linux-arm",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "64"
+          ]
+        },
+        "version": "0.3.5",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.3.5-linux-arm-v10.tgz",
+        "checksum": "1bbd8b66180af9132b7db7318b758f598921098f25f1b3814999d2033eeaf8b8",
+        "api": {
+          "min": 1,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "linux-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "64"
+          ]
+        },
+        "version": "0.3.5",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.3.5-linux-x64-v10.tgz",
+        "checksum": "38722b1ece7ab1ce18cc7e34ed671d2d128eee4fe405ee5aeb331a6057be76e8",
+        "api": {
+          "min": 1,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "darwin-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "64"
+          ]
+        },
+        "version": "0.3.5",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.3.5-darwin-x64-v10.tgz",
+        "checksum": "ae43589bede37d83dc14519b563a5ffddf2e4c866f70b3895d928afe123195ea",
         "api": {
           "min": 1,
           "max": 2
