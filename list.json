@@ -903,6 +903,33 @@
     ]
   },
   {
+    "name": "zigbee-conbee-adapter",
+    "display_name": "Zigbee (ConBee USB stick)",
+    "description": "Uses deCONZ REST API to manage ConBee USB stick",
+    "author": "tomasy",
+    "homepage": "https://github.com/tomasy/zigbee-conbee-adapter",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "python",
+          "versions": [
+            "3.5",
+            "3.6",
+            "3.7"
+          ]
+        },
+        "version": "0.9.5",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-conbee-adapter-0.9.5.tgz",
+        "checksum": "d060a7faf508ab8f553a2e100e48cfcdf5688d483daacf1e4e6b554b9d9028ca",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "zwave-adapter",
     "display_name": "Z-Wave",
     "description": "Z-Wave device support",
