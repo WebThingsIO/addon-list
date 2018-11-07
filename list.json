@@ -92,7 +92,7 @@
           ]
         },
         "version": "0.9.5",
-        "url": "https://github.com/tomasy/date-time-adapter/releases/download/0.9.5/date-time-adapter-0.9.5.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/date-time-adapter-0.9.5.tgz",
         "checksum": "43cfeffe0673a3960d1ffbc6299e9f501b117960a162cdd1b832faf9180361b5",
         "api": {
           "min": 2,
