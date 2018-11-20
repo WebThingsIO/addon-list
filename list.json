@@ -879,6 +879,31 @@
     ]
   },
   {
+    "name": "wake-on-lan-adapter",
+    "display_name": "Wake-on-LAN",
+    "description": "Wake-on-LAN support",
+    "author": "Mozilla IoT",
+    "homepage": "https://github.com/mozilla-iot/wake-on-lan-adapter#readme",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.0.1",
+        "url": "https://github.com/mozilla-iot/wake-on-lan-adapter/releases/download/v0.0.1/wake-on-lan-adapter-0.0.1.tgz",
+        "checksum": "28322c91852f10d15acd4f776281470506ea7618c0b144e215e5b5f1def718f9",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "wemo-adapter",
     "display_name": "Wemo",
     "description": "Wemo smart device support",
