@@ -1,5 +1,30 @@
 [
   {
+    "name": "activitypub-adapter",
+    "display_name": "ActivityPub",
+    "description": "Send notice to Mastodon SocialWeb. See: https://github.com/rzr/mastodon-lite",
+    "author": "Philippe Coval",
+    "homepage": "https://github.com/rzr/mastodon-lite",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.0.8",
+        "url": "https://github.com/rzr/mastodon-lite/releases/download/v0.0.8/activitypub-adapter-0.0.8.tgz",
+        "checksum": "113f3c7808cf694b7192772ca6c3204dcc00d32f1694d8119e95c1975f5e1e3a",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "blinkt-adapter",
     "display_name": "Pimoroni Blinkt!",
     "description": "Pimoroni Blinkt! support",
