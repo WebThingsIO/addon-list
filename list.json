@@ -879,6 +879,31 @@
     ]
   },
   {
+    "name": "voice-addon",
+    "display_name": "Voice Addon",
+    "description": "Voice Addon",
+    "author": "André Natal",
+    "homepage": "https://github.com/andrenatal/voice-addon",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.0.2",
+        "url": "https://github.com/andrenatal/voice-addon/releases/download/0.0.2/voice-addon-0.0.2.tgz",
+        "checksum": "4690826b293894e730297f8018d6287771ae2b8f954010e8fc7348ea73da57a5",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "virtual-things-adapter",
     "display_name": "Virtual Things",
     "description": "Virtual Things for experimenting with new thing types",
