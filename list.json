@@ -880,8 +880,8 @@
   },
   {
     "name": "voice-addon",
-    "display_name": "Voice Addon",
-    "description": "Voice Addon",
+    "display_name": "Voice Control",
+    "description": "Hands-free voice addon with personalized keyword and local voice processing.",
     "author": "André Natal",
     "homepage": "https://github.com/andrenatal/voice-addon",
     "packages": [
@@ -893,9 +893,9 @@
             "any"
           ]
         },
-        "version": "0.0.2",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-0.0.2.tgz",
-        "checksum": "4690826b293894e730297f8018d6287771ae2b8f954010e8fc7348ea73da57a5",
+        "version": "0.0.3",
+        "url": "https://github.com/andrenatal/voice-addon/releases/download/0.0.3/voice-addon-0.0.3.tgz",
+        "checksum": "b5037e4c3045aa0911102f3380e1f17e9c19607941609e2f7114b20f10c997ba",
         "api": {
           "min": 2,
           "max": 2
