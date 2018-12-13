@@ -260,11 +260,11 @@
             "57"
           ]
         },
-        "version": "0.4.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.4.0-linux-arm-v8.tgz",
-        "checksum": "da6c5542b3de2af44cb1fd20d1e117e8958226a3f0163f3b98431a46749c246e",
+        "version": "0.6.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.6.1-linux-arm-v8.tgz",
+        "checksum": "8694ef63519f52674bca49d519f42058479e577d83841c20f3e7316a28ccdfb8",
         "api": {
-          "min": 1,
+          "min": 2,
           "max": 2
         }
       },
@@ -276,11 +276,11 @@
             "57"
           ]
         },
-        "version": "0.4.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.4.0-linux-x64-v8.tgz",
-        "checksum": "bf435bc5a45bb31c2ed9f1a2fe308cca712bb025a83aff99114edff4fa9bd081",
+        "version": "0.6.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.6.1-linux-x64-v8.tgz",
+        "checksum": "0875d2a4ab361fd176371f3d9d9843e4fbf830fb96377d296b38f42042ff4f38",
         "api": {
-          "min": 1,
+          "min": 2,
           "max": 2
         }
       },
@@ -292,11 +292,11 @@
             "57"
           ]
         },
-        "version": "0.4.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.4.0-darwin-x64-v8.tgz",
-        "checksum": "6e816276b18c593362a3655b540db147854506a680966b014f45565223720af8",
+        "version": "0.6.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.6.1-darwin-x64-v8.tgz",
+        "checksum": "e82db11d8e0e8efc60fece856ca6a1b5745513f194a797f035580e5f9c219fc2",
         "api": {
-          "min": 1,
+          "min": 2,
           "max": 2
         }
       },
@@ -308,11 +308,11 @@
             "64"
           ]
         },
-        "version": "0.4.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.4.0-linux-arm-v10.tgz",
-        "checksum": "000e5d5ff1118ed4dc7061e34568e10304a4b1d9c51cbab76a1da37482f7b3fb",
+        "version": "0.6.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.6.1-linux-arm-v10.tgz",
+        "checksum": "6a971e8a8d77866c4bfe2d54f06eb7e2fe4add41828adedc57883be660cb00df",
         "api": {
-          "min": 1,
+          "min": 2,
           "max": 2
         }
       },
@@ -324,11 +324,11 @@
             "64"
           ]
         },
-        "version": "0.4.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.4.0-linux-x64-v10.tgz",
-        "checksum": "f5adafcc8519c1a6c6bc36dc6e8e24d210771791f7dfda92a6b27cc21cdd9312",
+        "version": "0.6.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.6.1-linux-x64-v10.tgz",
+        "checksum": "cf4997ebe72ebc36c1aa3fb44d4e116701d888648a1387d338ae7d38dbe76d6f",
         "api": {
-          "min": 1,
+          "min": 2,
           "max": 2
         }
       },
@@ -340,11 +340,11 @@
             "64"
           ]
         },
-        "version": "0.4.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.4.0-darwin-x64-v10.tgz",
-        "checksum": "fbbfa4aae19b2bedb389113a38267443f4f2999be4a1b4994844dfc9e7d728e9",
+        "version": "0.6.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.6.1-darwin-x64-v10.tgz",
+        "checksum": "6eb073562f5a9e1b5fb34d8d60083665057980550539825a43391c2fdf430c53",
         "api": {
-          "min": 1,
+          "min": 2,
           "max": 2
         }
       }
@@ -1211,11 +1211,11 @@
             "57"
           ]
         },
-        "version": "0.5.3",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.5.3-linux-arm-v8.tgz",
-        "checksum": "e779fb3a477ec131e35103abf70f10955754f1d6f51c416a43cbd1e1616c16dc",
+        "version": "0.6.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.6.1-linux-arm-v8.tgz",
+        "checksum": "147e5bd005f56cf38d9612e48a897bb14c76eb2e3edf02832ca98b1baced4847",
         "api": {
-          "min": 1,
+          "min": 2,
           "max": 2
         }
       },
@@ -1227,11 +1227,11 @@
             "57"
           ]
         },
-        "version": "0.5.3",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.5.3-linux-x64-v8.tgz",
-        "checksum": "3915e6d7e76da9c0c72578449dc4a318ce15c66ead49b7844176f3246710e84a",
+        "version": "0.6.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.6.1-linux-x64-v8.tgz",
+        "checksum": "550fa5518cb3dd232be9042aecb563eee7d5ad7f449a0a5f94367927f2f7d11a",
         "api": {
-          "min": 1,
+          "min": 2,
           "max": 2
         }
       },
@@ -1243,11 +1243,11 @@
             "57"
           ]
         },
-        "version": "0.5.3",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.5.3-darwin-x64-v8.tgz",
-        "checksum": "3043578e159f3723ab5a6ef95a9632c0f4678ca3e9b3e356ceddc76a8fe6592a",
+        "version": "0.6.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.6.1-darwin-x64-v8.tgz",
+        "checksum": "bf882d60590e821702951c15d0d44fd9323b7ec9e9b33c59df8a8ef7d4e28c4e",
         "api": {
-          "min": 1,
+          "min": 2,
           "max": 2
         }
       },
@@ -1259,11 +1259,11 @@
             "64"
           ]
         },
-        "version": "0.5.3",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.5.3-linux-arm-v10.tgz",
-        "checksum": "54a598cb7ef16d7386ea2f3b56252dbfa1c00b5be1aede82b39606a294aab89c",
+        "version": "0.6.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.6.1-linux-arm-v10.tgz",
+        "checksum": "4191280fe043e6fccb0d1947864ccd8b225d923aa6eba6b7db3b3e993b72593a",
         "api": {
-          "min": 1,
+          "min": 2,
           "max": 2
         }
       },
@@ -1275,11 +1275,11 @@
             "64"
           ]
         },
-        "version": "0.5.3",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.5.3-linux-x64-v10.tgz",
-        "checksum": "db0fcb86355a73fc91b66dfd6e74da4af91dd1545e05905f7c9bef37192fcc9a",
+        "version": "0.6.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.6.1-linux-x64-v10.tgz",
+        "checksum": "5890797057205958a6f72ea511ee0f6c750a1e6e464a6bf0236d6cbe6becadb2",
         "api": {
-          "min": 1,
+          "min": 2,
           "max": 2
         }
       },
@@ -1291,11 +1291,11 @@
             "64"
           ]
         },
-        "version": "0.5.3",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.5.3-darwin-x64-v10.tgz",
-        "checksum": "25d98a8e3ece43a70952dfe68a8d1a6665909d4a34c4863a9ab9a953e0481646",
+        "version": "0.6.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.6.1-darwin-x64-v10.tgz",
+        "checksum": "7abc9ef971c8234431a788d2c1e692beab65ea99b5d831a86338af6b276713e9",
         "api": {
-          "min": 1,
+          "min": 2,
           "max": 2
         }
       }
