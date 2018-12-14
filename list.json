@@ -893,9 +893,9 @@
             "any"
           ]
         },
-        "version": "0.0.3",
-        "url": "https://github.com/andrenatal/voice-addon/releases/download/0.0.3/voice-addon-0.0.3.tgz",
-        "checksum": "b5037e4c3045aa0911102f3380e1f17e9c19607941609e2f7114b20f10c997ba",
+        "version": "0.0.4",
+        "url": "https://github.com/andrenatal/voice-addon/releases/download/0.0.4/voice-addon-0.0.4.tgz",
+        "checksum": "b09ab3fd6dc7edc064629d0a5e401a405a0a7e4641ba85f9bb0e62ea94c06c7a",
         "api": {
           "min": 2,
           "max": 2
