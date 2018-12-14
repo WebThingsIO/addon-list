@@ -665,6 +665,31 @@
     ]
   },
   {
+    "name": "pulse-adapter",
+    "display_name": "Pulse",
+    "description": "Generate a pulse",
+    "author": "Mozilla IoT",
+    "homepage": "https://github.com/mozilla-iot/pulse-adapter",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/pulse-adapter-0.1.0.tgz",
+        "checksum": "7876a340408e6f29bca338ff3230daa4881eee6a039f2f8919c97fc4fd711e16",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "serial-adapter",
     "display_name": "Serial",
     "description": "Serial JSON interface to serial-mcu",
