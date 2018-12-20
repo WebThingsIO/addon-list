@@ -34,6 +34,7 @@ You can submit a [pull request](https://github.com/mozilla-iot/addon-list/pulls)
 * `description`: A friendly description for your package. This will be shown in the Gateway's UI.
 * `author`: Name of the add-on author.
 * `homepage`: Homepage of the add-on, i.e. the Github repository.
+* `license`: Link to the add-on's license.
 * `packages`: An object describing supported architectures and their packages. Each entry should be of the form:
 
     ```javascript
@@ -81,6 +82,7 @@ You can submit a [pull request](https://github.com/mozilla-iot/addon-list/pulls)
   "description": "Native web thing support",
   "author": "Mozilla IoT",
   "homepage": "https://github.com/mozilla-iot/thing-url-adapter",
+  "license": "https://github.com/mozilla-iot/thing-url-adapter/blob/master/LICENSE",
   "packages": [
     {
       "architecture": "linux-arm",

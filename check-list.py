@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import glob
 import hashlib
 import json
 import jsonschema
@@ -138,6 +139,11 @@ def main():
                 print('Failed to read package.json for "{}"'.format(name))
                 cleanup()
 
+            licenses = glob.glob('./package/LICENSE*')
+            if len(licenses) == 0:
+                print('LICENSE not included in package "{}"'.format(name))
+                cleanup()
+
             # Verify required fields in package.json.
             success, field = verify_fields(required_in_manifest, manifest)
 
@@ -228,6 +234,11 @@ def main():
                       'homepage from list.json "{}"'
                       .format(name, manifest['homepage'],
                               entry['homepage']))
+                cleanup()
+
+            # Check for license url
+            if 'license' not in entry:
+                print('License URL missing for package "{}"'.format(name))
                 cleanup()
 
             # Verify that the API version matches

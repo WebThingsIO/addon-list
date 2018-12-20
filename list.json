@@ -5,6 +5,7 @@
     "description": "Send notice to Mastodon SocialWeb. See: https://github.com/rzr/mastodon-lite",
     "author": "Philippe Coval",
     "homepage": "https://github.com/rzr/mastodon-lite",
+    "license": "https://github.com/rzr/mastodon-lite/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "any",
@@ -30,6 +31,7 @@
     "description": "Pimoroni Blinkt! support",
     "author": "Poul Christiansen",
     "homepage": "https://github.com/pchri/blinkt-adapter",
+    "license": "https://github.com/pchri/blinkt-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "linux-arm",
@@ -55,6 +57,7 @@
     "description": "Support IR devices with BroadLink. See: https://github.com/sogaani/broadlink-adapter",
     "author": "sogaani",
     "homepage": "https://github.com/sogaani/broadlink-adapter",
+    "license": "https://github.com/sogaani/broadlink-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "any",
@@ -80,6 +83,7 @@
     "description": "Chromecast support",
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/chromecast-adapter#readme",
+    "license": "https://github.com/freaktechnik/chromecast-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "any",
@@ -105,6 +109,7 @@
     "description": "A DateTime adapter to create more advanced rules using sunrise, sunset, weekends, etc.",
     "author": "tomasy",
     "homepage": "https://github.com/tomasy/date-time-adapter",
+    "license": "https://github.com/tomasy/date-time-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "any",
@@ -132,6 +137,7 @@
     "description": "Eufy device support",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/eufy-adapter",
+    "license": "https://github.com/mozilla-iot/eufy-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "any",
@@ -159,6 +165,7 @@
     "description": "Example add-on for developers",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/example-adapter",
+    "license": "https://github.com/mozilla-iot/example-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "any",
@@ -185,6 +192,7 @@
     "description": "React to Flic button presses via proprietary flic daemon (included for Linux)",
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/flic-button-adapter#readme",
+    "license": "https://github.com/freaktechnik/flic-button-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "any",
@@ -210,6 +218,7 @@
     "description": "Generic Sensors devices support. See: https://github.com/rzr/mozilla-iot-generic-sensors-adapter",
     "author": "Philippe Coval",
     "homepage": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter",
+    "license": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "linux-arm",
@@ -251,6 +260,7 @@
     "description": "GPIO device support",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/gpio-adapter",
+    "license": "https://github.com/mozilla-iot/gpio-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "linux-arm",
@@ -356,6 +366,7 @@
     "description": "HomeKit device support",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/homekit-adapter",
+    "license": "https://github.com/mozilla-iot/homekit-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "linux-arm",
@@ -413,6 +424,7 @@
     "description": "Adapter for https://github.com/mozilla-iot/http-on-off-mkr1000",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/http-on-off-adapter",
+    "license": "https://github.com/mozilla-iot/http-on-off-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "any",
@@ -438,6 +450,7 @@
     "description": "LIFX smart bulb support",
     "author": "Stephen Oliver",
     "homepage": "https://github.com/infincia/lifx-adapter",
+    "license": "https://github.com/infincia/lifx-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "any",
@@ -465,6 +478,7 @@
     "description": "Logitech Harmony Hub support",
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/logitech-harmony-adapter#readme",
+    "license": "https://github.com/freaktechnik/logitech-harmony-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "any",
@@ -490,6 +504,7 @@
     "description": "MicroBlocks board support",
     "author": "MicroBlocks",
     "homepage": "https://github.com/mozilla-iot/microblocks-adapter",
+    "license": "https://github.com/mozilla-iot/microblocks-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "linux-arm",
@@ -595,6 +610,7 @@
     "description": "Control your Nanoleaf aurora",
     "author": "Roman Odermatt",
     "homepage": "https://github.com/roderm/nanoleaf-adapter",
+    "license": "https://github.com/roderm/nanoleaf-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "any",
@@ -620,6 +636,7 @@
     "description": "Netatmo weather station support. Requires Netatmo Smart Home API credentials.",
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/netatmo-weather-adapter#readme",
+    "license": "https://github.com/freaktechnik/netatmo-weather-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "any",
@@ -645,6 +662,7 @@
     "description": "Philips Hue color light support. Press the button on your Hue bridge to pair devices.",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/philips-hue-adapter",
+    "license": "https://github.com/mozilla-iot/philips-hue-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "any",
@@ -670,6 +688,7 @@
     "description": "Generate a pulse",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/pulse-adapter",
+    "license": "https://github.com/mozilla-iot/pulse-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "any",
@@ -695,6 +714,7 @@
     "description": "Serial JSON interface to serial-mcu",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/serial-adapter",
+    "license": "https://github.com/mozilla-iot/serial-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "linux-arm",
@@ -800,6 +820,7 @@
     "description": "Sonos player support",
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/sonos-adapter#readme",
+    "license": "https://github.com/freaktechnik/sonos-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "any",
@@ -825,6 +846,7 @@
     "description": "Native web thing support",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/thing-url-adapter",
+    "license": "https://github.com/mozilla-iot/thing-url-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "linux-arm",
@@ -882,6 +904,7 @@
     "description": "TP-Link smart plug/bulb device support",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/tplink-adapter",
+    "license": "https://github.com/mozilla-iot/tplink-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "any",
@@ -909,6 +932,7 @@
     "description": "Virtual Things for experimenting with new thing types",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/virtual-things-adapter",
+    "license": "https://github.com/mozilla-iot/virtual-things-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "any",
@@ -934,6 +958,7 @@
     "description": "Hands-free voice addon with personalized keyword and local voice processing.",
     "author": "André Natal",
     "homepage": "https://github.com/andrenatal/voice-addon",
+    "license": "https://github.com/andrenatal/voice-addon/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "any",
@@ -959,6 +984,7 @@
     "description": "Wake-on-LAN support",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/wake-on-lan-adapter#readme",
+    "license": "https://github.com/mozilla-iot/wake-on-lan-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "any",
@@ -984,6 +1010,7 @@
     "description": "Wemo smart device support",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/wemo-adapter",
+    "license": "https://github.com/mozilla-iot/wemo-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "any",
@@ -1011,6 +1038,7 @@
     "description": "X10 device support through the CM11 interface.",
     "author": "Alan Thiessen",
     "homepage": "https://github.com/AlanDThiessen/x10-cm11-adapter",
+    "license": "https://github.com/AlanDThiessen/x10-cm11-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "linux-arm",
@@ -1068,6 +1096,7 @@
     "description": "Yeelight smart bulb support",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/yeelight-adapter",
+    "license": "https://github.com/mozilla-iot/yeelight-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "any",
@@ -1095,6 +1124,7 @@
     "description": "Zigbee device support",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/zigbee-adapter",
+    "license": "https://github.com/mozilla-iot/zigbee-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "linux-arm",
@@ -1200,6 +1230,7 @@
     "description": "Uses deCONZ REST API to manage ConBee USB stick",
     "author": "tomasy",
     "homepage": "https://github.com/tomasy/zigbee-conbee-adapter",
+    "license": "https://github.com/tomasy/zigbee-conbee-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "any",
@@ -1227,6 +1258,7 @@
     "description": "Z-Wave device support",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/zwave-adapter",
+    "license": "https://github.com/mozilla-iot/zwave-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "linux-arm",
