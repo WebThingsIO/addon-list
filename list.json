@@ -683,6 +683,32 @@
     ]
   },
   {
+    "name": "onvif-adapter",
+    "display_name": "ONVIF",
+    "description": "ONVIF Profile S camera adapter.",
+    "author": "Mozilla IoT",
+    "homepage": "https://github.com/mozilla-iot/onvif-adapter#readme",
+    "license": "https://github.com/mozilla-iot/onvif-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.2",
+        "url": "https://github.com/mozilla-iot/onvif-adapter/releases/download/v0.1.2/onvif-adapter-0.1.2.tgz",
+        "checksum": "0fa61deaeefac91c1edb5b4249f6d3963c7be7761c3224c164a03f49b810f80f",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "philips-hue-adapter",
     "display_name": "Philips Hue",
     "description": "Philips Hue color light support. Press the button on your Hue bridge to pair devices.",
