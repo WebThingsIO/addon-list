@@ -132,6 +132,32 @@
     ]
   },
   {
+    "name": "email-sender-adapter",
+    "display_name": "Email Sender",
+    "description": "Simple email sending actions. Needs to be configured with email and app password.",
+    "author": "Mozilla IoT",
+    "homepage": "https://github.com/mozilla-iot/email-sender-adapter",
+    "license": "https://github.com/mozilla-iot/email-sender-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.0.2",
+        "url": "https://github.com/mozilla-iot/email-sender-adapter/releases/download/v0.0.2/email-sender-adapter-0.0.2.tgz",
+        "checksum": "1ebb11c9b79de9bcc65a5c2f98946430ef169c41cc3abe0452e3ca9d602b11d1",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "eufy-adapter",
     "display_name": "Eufy",
     "description": "Eufy device support",
