@@ -953,6 +953,32 @@
     ]
   },
   {
+    "name": "twilio-adapter",
+    "display_name": "Twilio",
+    "description": "Simple Twilio API actions. Needs to be configured with an account SID, auth token, and Twilio-given number.",
+    "author": "Mozilla IoT",
+    "homepage": "https://github.com/mozilla-iot/twilio-adapter",
+    "license": "https://github.com/mozilla-iot/twilio-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.0.1",
+        "url": "https://github.com/mozilla-iot/twilio-adapter/releases/download/v0.0.1/twilio-adapter-0.0.1.tgz",
+        "checksum": "5f695be5ecb1ef6f3ecb1d361b38259e69b4598e721775a1cdd502383e523166",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "virtual-things-adapter",
     "display_name": "Virtual Things",
     "description": "Virtual Things for experimenting with new thing types",
