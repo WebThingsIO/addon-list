@@ -516,7 +516,7 @@
         },
         "version": "0.2.1",
         "url": "https://github.com/freaktechnik/logitech-harmony-adapter/releases/download/v0.2.1/logitech-harmony-adapter-0.2.1.tgz",
-        "checksum": "92332d88533d212fcd21b0a365d08e4ab045cee5821c710443dde93869f9f7d9",
+        "checksum": "c1da2411dbcb4482b53459cbd881c9ccfdec7a2a5e124a28b00818a7338d655b",
         "api": {
           "min": 1,
           "max": 2
