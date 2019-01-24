@@ -93,9 +93,9 @@
             "any"
           ]
         },
-        "version": "0.3.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/chromecast-adapter-0.3.0.tgz",
-        "checksum": "aafc06d6728ff21ad757438d70649eb80478677dfcd66879c15fec078580a2d7",
+        "version": "0.3.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/chromecast-adapter-0.3.1.tgz",
+        "checksum": "d3f35a6739cc87fedbf15b41e9f9bc2211a72ded77fe9ba8a79d071860ed0e07",
         "api": {
           "min": 1,
           "max": 2
@@ -228,9 +228,9 @@
             "any"
           ]
         },
-        "version": "0.0.1",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/flic-button-adapter-0.0.1.tgz",
-        "checksum": "d24c58343eebb7fc25dd746b66335f0ae2a03a39e13a8c0b4e613948d823c04b",
+        "version": "0.0.2",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/flic-button-adapter-0.0.2.tgz",
+        "checksum": "9d9dac452462b1b5f30a2435469ce04b082a744dbb72048bd1f7805f23815607",
         "api": {
           "min": 2,
           "max": 2
@@ -514,9 +514,9 @@
             "any"
           ]
         },
-        "version": "0.2.1",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/logitech-harmony-adapter-0.2.1.tgz",
-        "checksum": "c1da2411dbcb4482b53459cbd881c9ccfdec7a2a5e124a28b00818a7338d655b",
+        "version": "0.2.2",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/logitech-harmony-adapter-0.2.2.tgz",
+        "checksum": "920015e7434e126296f2703bac2cb24aa48a691e5fa11f03fed6ac87aa231f70",
         "api": {
           "min": 1,
           "max": 2
@@ -672,9 +672,9 @@
             "any"
           ]
         },
-        "version": "0.3.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/netatmo-weather-adapter-0.3.0.tgz",
-        "checksum": "64fc1f21ebe9caca63ad4cbc4047d5ca8b369cbfa8ae4bbb1c25e8b33c407861",
+        "version": "0.3.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/netatmo-weather-adapter-0.3.1.tgz",
+        "checksum": "a4cee418d5dc3d638bc9a711dfe80453a7d6c8b768601853878869a27030191e",
         "api": {
           "min": 1,
           "max": 2
@@ -882,9 +882,9 @@
             "any"
           ]
         },
-        "version": "0.5.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sonos-adapter-0.5.0.tgz",
-        "checksum": "dfc9d93004692c8eb6697e12efa6b725033e67e53210362dbd83494c942b6283",
+        "version": "0.5.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sonos-adapter-0.5.1.tgz",
+        "checksum": "37fff7d5022ae1d79ff66f699adb34008debe96280be393779cd6cc2dec32dff",
         "api": {
           "min": 1,
           "max": 2
