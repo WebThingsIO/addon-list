@@ -674,7 +674,7 @@
         },
         "version": "0.3.1",
         "url": "https://github.com/freaktechnik/netatmo-weather-adapter/releases/download/v0.3.1/netatmo-weather-adapter-0.3.1.tgz",
-        "checksum": "cf9d95b71d53bc011e216f22fbd5e951a3db5a01535572c388305211de1f9e25",
+        "checksum": "a4cee418d5dc3d638bc9a711dfe80453a7d6c8b768601853878869a27030191e",
         "api": {
           "min": 1,
           "max": 2
