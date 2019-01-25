@@ -761,6 +761,32 @@
     ]
   },
   {
+    "name": "roku-adapter",
+    "display_name": "Roku",
+    "description": "Roku support",
+    "author": "Mozilla IoT",
+    "homepage": "https://github.com/mozilla-iot/roku-adapter#readme",
+    "license": "https://github.com/mozilla-iot/roku-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.0.1",
+        "url": "https://github.com/mozilla-iot/roku-adapter/releases/download/v0.0.1/roku-adapter-0.0.1.tgz",
+        "checksum": "a60943cf1a5fc49ebe09bac1999d70f5d13abcebc35e72cce324e3c33b390a60",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "serial-adapter",
     "display_name": "Serial",
     "description": "Serial JSON interface to serial-mcu",
