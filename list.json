@@ -1346,9 +1346,9 @@
             "57"
           ]
         },
-        "version": "0.6.2",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.6.2-linux-arm-v8.tgz",
-        "checksum": "09ab98ba8bdae41832549beba259eb6b6fc3a9f3437ab4714733e557e84adb5c",
+        "version": "0.7.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.0-linux-arm-v8.tgz",
+        "checksum": "732809f0e88ee34006364ded970a759c4770d6e81fae1b1583c6be0ab683a48a",
         "api": {
           "min": 2,
           "max": 2
@@ -1362,9 +1362,9 @@
             "57"
           ]
         },
-        "version": "0.6.2",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.6.2-linux-x64-v8.tgz",
-        "checksum": "74a39db864daaeb9089da6b68c3160ef4690fee990b6e27e88caea1f26fed346",
+        "version": "0.7.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.0-linux-x64-v8.tgz",
+        "checksum": "352c376d134e3504659e58c1f4cec5c5f27e5a6a31f9fc70edea68550db1b2b6",
         "api": {
           "min": 2,
           "max": 2
@@ -1378,9 +1378,9 @@
             "57"
           ]
         },
-        "version": "0.6.2",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.6.2-darwin-x64-v8.tgz",
-        "checksum": "8f2f2f13efe264bfa0b88ea873c12628a8507f79860aeda85e7521298e174e14",
+        "version": "0.7.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.0-darwin-x64-v8.tgz",
+        "checksum": "61dfbcc92341ad0756d30edaf5f19992eaaa916d184050b22b8690ba7b226ecb",
         "api": {
           "min": 2,
           "max": 2
@@ -1394,9 +1394,9 @@
             "64"
           ]
         },
-        "version": "0.6.2",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.6.2-linux-arm-v10.tgz",
-        "checksum": "c694b50f03459512ee77c3f3a174a1b403fc2026562a6ee313f508d9e379f90c",
+        "version": "0.7.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.0-linux-arm-v10.tgz",
+        "checksum": "fbbeec109e592dd1066f65de0f63e779190c45180cd7b867a0aa120fed855f2f",
         "api": {
           "min": 2,
           "max": 2
@@ -1410,9 +1410,9 @@
             "64"
           ]
         },
-        "version": "0.6.2",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.6.2-linux-x64-v10.tgz",
-        "checksum": "4a7ca14a50cf459abb122d1c81ee64d4c90046c3aa40c50e6f769b14ccf55569",
+        "version": "0.7.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.0-linux-x64-v10.tgz",
+        "checksum": "e8251d60f69e11a80db7cb6ffa3c24254dd5e3faf17e300a784e7ed7983e7493",
         "api": {
           "min": 2,
           "max": 2
@@ -1426,9 +1426,9 @@
             "64"
           ]
         },
-        "version": "0.6.2",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.6.2-darwin-x64-v10.tgz",
-        "checksum": "d55f9dae9a2ad6062df2e759983929f77bbe8cc20756eb6c218318872bdd2859",
+        "version": "0.7.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.0-darwin-x64-v10.tgz",
+        "checksum": "4f63f6c46087b3a3bbd2d3007c5377e45ac3c4c5d46959fb179e2b394653bc40",
         "api": {
           "min": 2,
           "max": 2
