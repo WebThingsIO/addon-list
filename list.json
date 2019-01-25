@@ -776,9 +776,9 @@
             "any"
           ]
         },
-        "version": "0.0.1",
-        "url": "https://github.com/mozilla-iot/roku-adapter/releases/download/v0.0.1/roku-adapter-0.0.1.tgz",
-        "checksum": "a60943cf1a5fc49ebe09bac1999d70f5d13abcebc35e72cce324e3c33b390a60",
+        "version": "0.0.2",
+        "url": "https://github.com/mozilla-iot/roku-adapter/releases/download/v0.0.2/roku-adapter-0.0.2.tgz",
+        "checksum": "a9897edc129043e8ccfd7fa5273af7f066c27089d656040cb55e544209edbaf8",
         "api": {
           "min": 2,
           "max": 2
