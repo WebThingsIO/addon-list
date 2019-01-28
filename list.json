@@ -471,6 +471,112 @@
     ]
   },
   {
+    "name": "lg-tv-adapter",
+    "display_name": "LG webOS TV",
+    "description": "LG webOS TV support",
+    "author": "Mozilla IoT",
+    "homepage": "https://github.com/mozilla-iot/lg-tv-adapter#readme",
+    "license": "https://github.com/mozilla-iot/lg-tv-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "linux-arm",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
+        "version": "0.0.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.0.1-linux-arm-v8.tgz",
+        "checksum": "dfdb4b49e4c9193f2460dbb9d8241df41778bc111b4bbce0793a236a0bc2a9db",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "linux-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
+        "version": "0.0.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.0.1-linux-x64-v8.tgz",
+        "checksum": "192bf12e93f49b48cff1fed8021b593b95abc07d54c2aaa4b8b10452fd3a276d",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "darwin-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
+        "version": "0.0.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.0.1-darwin-x64-v8.tgz",
+        "checksum": "116bdff6b0a8e4cc6d391d0d693e97e84bff6d487de2c1a0418eccdf149d65a9",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "linux-arm",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "64"
+          ]
+        },
+        "version": "0.0.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.0.1-linux-arm-v10.tgz",
+        "checksum": "fa53b7ed81af743b3ecc454de74dd7f00055110d3a880b5892db162814dae3ab",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "linux-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "64"
+          ]
+        },
+        "version": "0.0.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.0.1-linux-x64-v10.tgz",
+        "checksum": "b369088c33e48e47d98d6dae51d44c5d98d215f2a9f48fc65c8d9215ef574ea4",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "darwin-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "64"
+          ]
+        },
+        "version": "0.0.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.0.1-darwin-x64-v10.tgz",
+        "checksum": "4bd2ddd7f15063b0e5e4f2c0542e1867b1c9c266c494e2fcfbabd922be696f6a",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "lifx-adapter",
     "display_name": "LIFX",
     "description": "LIFX smart bulb support",
