@@ -1178,9 +1178,9 @@
             "any"
           ]
         },
-        "version": "0.0.5",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-0.0.5.tgz",
-        "checksum": "c0ef931aad21e51ade0c8f3f6df4076be83c1a68bd12fe29d9ebe4aa9d613cbe",
+        "version": "0.0.6",
+        "url": "https://github.com/andrenatal/voice-addon/releases/download/0.0.6/voice-addon-0.0.6.tgz",
+        "checksum": "74360e661fa0c4b70f32e769309c90764821d04686f7c7365c7d01c64275daaf",
         "api": {
           "min": 2,
           "max": 2
