@@ -122,7 +122,7 @@
           ]
         },
         "version": "1.0.0",
-        "url": "https://github.com/tomasy/date-time-adapter/releases/download/1.0.0/date-time-adapter-1.0.0.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/date-time-adapter-1.0.0.tgz",
         "checksum": "419488f8709cdb3f0d46930b7a0df9b6eba981e69d1b08b09f3ebe696770c1e6",
         "api": {
           "min": 2,
