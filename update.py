@@ -90,6 +90,8 @@ def main():
         print('Failed to read file {}'.format(_LIST))
         sys.exit(1)
 
+    list_updated = False
+    addon_found = False
     for entry in addon_list:
         name = entry['name']
         if adapter != name:
@@ -104,15 +106,18 @@ def main():
             print('No files found in builder/ that match {}'.format(aws_prefix))
             sys.exit(1)
 
+        addon_found = True
         print('Updating {} ...'.format(name))
 
-        list_updated = False
         for file in aws_files['Contents']:
             filename = file['Key']
             if not filename.endswith('.sha256sum'):
                 if update_file(entry, adapter, version, filename):
                     print('Updated {}'.format(filename[len('builder/'):]))
                     list_updated = True
+    if not addon_found:
+      print('No addon with the name "{}" found.'.format(adapter))
+      sys.exit(1)
     if list_updated:
         try:
             with open(_LIST, 'wt') as f:
