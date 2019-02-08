@@ -1215,6 +1215,32 @@
     ]
   },
   {
+    "name": "weather-adapter",
+    "display_name": "Weather",
+    "description": "Current weather conditions",
+    "author": "Mozilla IoT",
+    "homepage": "https://github.com/mozilla-iot/weather-adapter#readme",
+    "license": "https://github.com/mozilla-iot/weather-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.0.1",
+        "url": "https://github.com/mozilla-iot/weather-adapter/releases/download/v0.0.1/weather-adapter-0.0.1.tgz",
+        "checksum": "f6d016e85cb12d1986b9b270233c2da345f7044542fdf8d6b69b60e3112a0682",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "wemo-adapter",
     "display_name": "Wemo",
     "description": "Wemo smart device support",
