@@ -94,7 +94,7 @@
           ]
         },
         "version": "0.3.2",
-        "url": "https://github.com/freaktechnik/chromecast-adapter/releases/download/v0.3.2/chromecast-adapter-0.3.2.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/chromecast-adapter-0.3.2.tgz",
         "checksum": "4a7ce83544102f30ebba290decddffbd3d2a79d55cff8ad58b29250928441d9c",
         "api": {
           "min": 1,
@@ -229,7 +229,7 @@
           ]
         },
         "version": "0.1.0",
-        "url": "https://github.com/freaktechnik/flic-button-adapter/releases/download/v0.1.0/flic-button-adapter-0.1.0.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/flic-button-adapter-0.1.0.tgz",
         "checksum": "f1a4e1b8aeb4cbb73fddf19869d54c0bf5abba43c6d6a8b410907e1934809d7a",
         "api": {
           "min": 2,
@@ -621,7 +621,7 @@
           ]
         },
         "version": "0.2.3",
-        "url": "https://github.com/freaktechnik/logitech-harmony-adapter/releases/download/v0.2.3/logitech-harmony-adapter-0.2.3.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/logitech-harmony-adapter-0.2.3.tgz",
         "checksum": "8f379b0ba3e4f58c16cebb1159e987268795d6bd7995a0a7338edd9e52670adc",
         "api": {
           "min": 1,
@@ -779,7 +779,7 @@
           ]
         },
         "version": "0.3.2",
-        "url": "https://github.com/freaktechnik/netatmo-weather-adapter/releases/download/v0.3.2/netatmo-weather-adapter-0.3.2.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/netatmo-weather-adapter-0.3.2.tgz",
         "checksum": "4e7ac2191b960b36f5e66ecea81c1fede807093f5da00e1bda52f93f6b0a1eee",
         "api": {
           "min": 1,
@@ -1015,7 +1015,7 @@
           ]
         },
         "version": "0.6.0",
-        "url": "https://github.com/freaktechnik/sonos-adapter/releases/download/v0.6.0/sonos-adapter-0.6.0.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sonos-adapter-0.6.0.tgz",
         "checksum": "1317960f168fa8a3ea7d8ffe5179dd56a9bcbff12c4c3f5093d8cc7e08c8b0ca",
         "api": {
           "min": 1,
