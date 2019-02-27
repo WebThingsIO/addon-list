@@ -209,7 +209,15 @@ def main():
             # Verify that the author matches
             if 'author' not in manifest:
                 print('Author missing for package "{}"'.format(name))
-            elif manifest['author'] != entry['author']:
+            elif type(manifest['author']) is dict and \
+                manifest['author']['name'] != entry['author']:
+                print('Author mismatch for package "{}": '
+                      'author from package.json "{}" doesn\'t match '
+                      'author from list.json "{}"'
+                      .format(name, manifest['author']['name'],
+                              entry['author']))
+                cleanup()
+            elif manifest['author'].split('<')[0].strip() != entry['author']:
                 print('Author mismatch for package "{}": '
                       'author from package.json "{}" doesn\'t match '
                       'author from list.json "{}"'
