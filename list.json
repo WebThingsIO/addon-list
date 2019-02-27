@@ -3,7 +3,7 @@
     "name": "activitypub-adapter",
     "display_name": "ActivityPub",
     "description": "Send notice to Mastodon SocialWeb. See: https://github.com/rzr/mastodon-lite",
-    "author": "Philippe Coval <p.coval@samsung.com> (https://www.npmjs.com/~rzr)",
+    "author": "Philippe Coval",
     "homepage": "https://github.com/rzr/mastodon-lite",
     "license": "https://github.com/rzr/mastodon-lite/blob/master/LICENSE",
     "packages": [
