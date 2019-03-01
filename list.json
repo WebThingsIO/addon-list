@@ -254,9 +254,25 @@
             "57"
           ]
         },
-        "version": "0.0.3",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.3-linux-arm-v8.tgz",
-        "checksum": "7d2cf65d1ff750b42c769ae56816389bdd130562fcb507360dcf76e88e5fcf5c",
+        "version": "0.0.6",
+        "url": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter/releases/download/v0.0.6/generic-sensors-adapter-0.0.6-linux-arm-v8.tgz",
+        "checksum": "6e90fe252f5cae8828d95a02ad57b017e9ced9dc6e139f6a39b14947cd1a3003",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "linux-ia32",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
+        "version": "0.0.6",
+        "url": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter/releases/download/v0.0.6/generic-sensors-adapter-0.0.6-linux-ia32-v8.tgz",
+        "checksum": "bc0d686930d0bcf6dad47882bd49c871466afcf1f1d43d7afd0e86d9cf31853a",
         "api": {
           "min": 2,
           "max": 2
@@ -270,9 +286,9 @@
             "57"
           ]
         },
-        "version": "0.0.3",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.3-linux-x64-v8.tgz",
-        "checksum": "63361d9ffffba96d37f8bbf47542de14f3f244285774c5867132e030f90065ef",
+        "version": "0.0.6",
+        "url": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter/releases/download/v0.0.6/generic-sensors-adapter-0.0.6-linux-x64-v8.tgz",
+        "checksum": "8261b1eb97e6e0ba1ac4af255bb5e6ce6c4957715aa195383cffb530bde2aab1",
         "api": {
           "min": 2,
           "max": 2
