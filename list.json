@@ -1246,9 +1246,9 @@
             "any"
           ]
         },
-        "version": "0.1.0",
-        "url": "https://github.com/mozilla-iot/weather-adapter/releases/download/v0.1.0/weather-adapter-0.1.0.tgz",
-        "checksum": "082f11800dac679a01727c380b2218ff2392a1b7f717dc3a6e004747729fe186",
+        "version": "0.1.1",
+        "url": "https://github.com/mozilla-iot/weather-adapter/releases/download/v0.1.1/weather-adapter-0.1.1.tgz",
+        "checksum": "fe78afc77fdb1d41fc6a46f32cec1569d183aee2d24ee300981f3e12106cff32",
         "api": {
           "min": 2,
           "max": 2
