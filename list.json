@@ -94,7 +94,7 @@
           ]
         },
         "version": "0.3.3",
-        "url": "https://github.com/freaktechnik/chromecast-adapter/releases/download/v0.3.3/chromecast-adapter-0.3.3.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/chromecast-adapter-0.3.3.tgz",
         "checksum": "5cc0719f2c5a996c6a61166760f34281ff887198836690a3c4f1eb315990063f",
         "api": {
           "min": 1,
