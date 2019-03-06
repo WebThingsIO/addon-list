@@ -93,9 +93,9 @@
             "any"
           ]
         },
-        "version": "0.3.2",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/chromecast-adapter-0.3.2.tgz",
-        "checksum": "4a7ce83544102f30ebba290decddffbd3d2a79d55cff8ad58b29250928441d9c",
+        "version": "0.3.3",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/chromecast-adapter-0.3.3.tgz",
+        "checksum": "5cc0719f2c5a996c6a61166760f34281ff887198836690a3c4f1eb315990063f",
         "api": {
           "min": 1,
           "max": 2
