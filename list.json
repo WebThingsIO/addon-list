@@ -637,7 +637,7 @@
           ]
         },
         "version": "0.2.4",
-        "url": "https://github.com/freaktechnik/logitech-harmony-adapter/releases/download/v0.2.4/logitech-harmony-adapter-0.2.4.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/logitech-harmony-adapter-0.2.4.tgz",
         "checksum": "09968cc777b8b60d23520551f350ba6a1482483cf81447bca9f664e75161eba7",
         "api": {
           "min": 1,
