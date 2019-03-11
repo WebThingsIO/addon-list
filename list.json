@@ -15,9 +15,9 @@
             "any"
           ]
         },
-        "version": "0.0.9",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/activitypub-adapter-0.0.9.tgz",
-        "checksum": "508e2694321d19a07f4884601b54a435488a94729ec482b1542bffd2b0f1b401",
+        "version": "0.0.10",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/activitypub-adapter-0.0.10.tgz",
+        "checksum": "58cb62bb1c267efc81b2d4089395dc3a380c9eb72682f9726d9dc085345a3561",
         "api": {
           "min": 2,
           "max": 2
