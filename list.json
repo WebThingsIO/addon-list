@@ -647,6 +647,32 @@
     ]
   },
   {
+    "name": "maxsmart2-adapter",
+    "display_name": "MaxHauri maxSMART 2.0",
+    "description": "Control MAx Hauri maxSMART 2.0 smart plugs. Does not support automatic pairing.",
+    "author": "Martin Giger",
+    "homepage": "https://github.com/freaktechnik/maxsmart2-adapter#readme",
+    "license": "https://github.com/freaktechnik/maxsmart2-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.0.1",
+        "url": "https://github.com/freaktechnik/maxsmart2-adapter/releases/download/v0.0.1/maxsmart2-adapter-0.0.1.tgz",
+        "checksum": "1612f825abdecdeb95ca8e0b7c679864a04092800a0890f49771c8bef22d4bfc",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "microblocks-adapter",
     "display_name": "MicroBlocks",
     "description": "MicroBlocks board support",
