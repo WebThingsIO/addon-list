@@ -648,8 +648,8 @@
   },
   {
     "name": "maxsmart2-adapter",
-    "display_name": "MaxHauri maxSMART 2.0",
-    "description": "Control MAx Hauri maxSMART 2.0 smart plugs. Does not support automatic pairing.",
+    "display_name": "Max Hauri maxSMART 2.0",
+    "description": "Control Max Hauri maxSMART 2.0 smart plugs. Does not support automatic pairing.",
     "author": "Martin Giger",
     "homepage": "https://github.com/freaktechnik/maxsmart2-adapter#readme",
     "license": "https://github.com/freaktechnik/maxsmart2-adapter/blob/master/LICENSE",
