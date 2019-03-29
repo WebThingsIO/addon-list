@@ -254,9 +254,9 @@
             "57"
           ]
         },
-        "version": "0.0.7",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.7-linux-arm-v8.tgz",
-        "checksum": "0ca2d6819270e27efc9a470979a10ea65377ef57c4207ad73f31d75ec242cf2f",
+        "version": "0.0.8",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.8-linux-arm-v8.tgz",
+        "checksum": "eff7a7f505ad25975d23c03edb5223aaefbc944237d00efe276f1fc9589169c4",
         "api": {
           "min": 2,
           "max": 2
@@ -270,9 +270,9 @@
             "57"
           ]
         },
-        "version": "0.0.7",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.7-linux-arm64-v8.tgz",
-        "checksum": "163891ab0d82805106cef9c23ee862a042ecd4498f269626acf19b012a5b1ca9",
+        "version": "0.0.8",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.8-linux-arm64-v8.tgz",
+        "checksum": "4b9921852c2b434633f5377a33abfc6212c301c298408b5336a3452a15fa6da4",
         "api": {
           "min": 2,
           "max": 2
@@ -286,9 +286,9 @@
             "57"
           ]
         },
-        "version": "0.0.7",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.7-linux-ia32-v8.tgz",
-        "checksum": "9a04bd18f3b58f1391f576e9349a71ce4c77f1aaa4f42a551b444626e0f38bcf",
+        "version": "0.0.8",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.8-linux-ia32-v8.tgz",
+        "checksum": "f750c5792b9088c172185c20514d8886ae703ba12a2fcfa37a96aaece999a100",
         "api": {
           "min": 2,
           "max": 2
@@ -302,9 +302,9 @@
             "57"
           ]
         },
-        "version": "0.0.7",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.7-linux-x64-v8.tgz",
-        "checksum": "3405f895af6e4290b38120171b57d8b6aebc5ad816110b32485300ece1542634",
+        "version": "0.0.8",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.8-linux-x64-v8.tgz",
+        "checksum": "cf1fb18be0005977230aa6953af54af21273be785b14b1a6a0516bdd3d5a14a7",
         "api": {
           "min": 2,
           "max": 2
