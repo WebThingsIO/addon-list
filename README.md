@@ -1,4 +1,4 @@
-List of installable add-ons for the Mozilla IoT Gateway. These are discoverable from the **Settings** page.
+List of installable add-ons for the Mozilla WebThings Gateway. These are discoverable from the **Settings** page.
 
 # Building Add-ons
 
