@@ -914,9 +914,9 @@
             "any"
           ]
         },
-        "version": "0.1.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/pulse-adapter-0.1.0.tgz",
-        "checksum": "7876a340408e6f29bca338ff3230daa4881eee6a039f2f8919c97fc4fd711e16",
+        "version": "0.1.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/pulse-adapter-0.1.1.tgz",
+        "checksum": "e3cecf4689ca44fddec02ec4f4e3d45d1804b59eb0527c5655491fd2b0aa7986",
         "api": {
           "min": 2,
           "max": 2
