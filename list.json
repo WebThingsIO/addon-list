@@ -737,6 +737,34 @@
     ]
   },
   {
+    "name": "meross-adapter",
+    "display_name": "Meross",
+    "description": "Meross smart plug device support",
+    "author": "Mozilla IoT",
+    "homepage": "https://github.com/mozilla-iot/meross-adapter",
+    "license": "https://github.com/mozilla-iot/meross-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "python",
+          "versions": [
+            "3.5",
+            "3.6",
+            "3.7"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://github.com/mozilla-iot/meross-adapter/releases/download/v0.1.0/meross-adapter-0.1.0.tgz",
+        "checksum": "7e07fb139a0cb1f9098174d7a3e8ca34a06aeee62e7752e45520a714f8c1cc81",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "microblocks-adapter",
     "display_name": "MicroBlocks",
     "description": "MicroBlocks board support",
