@@ -755,8 +755,8 @@
           ]
         },
         "version": "0.0.2",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/maxsmart2-adapter-0.0.2.tgz",
-        "checksum": "06361e0c25fb9fd76b9ab693cc2142c68fd009b69829fee5aee00b80d8fc71b6",
+        "url": "https://github.com/freaktechnik/maxsmart2-adapter/releases/download/v0.0.3/maxsmart2-adapter-0.0.3.tgz",
+        "checksum": "bb7f294b5f08ddb99675a53fb7de8adbaa086342cab15d501cfcbd82ac61c139",
         "api": {
           "min": 2,
           "max": 2
