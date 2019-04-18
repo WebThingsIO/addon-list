@@ -1072,9 +1072,9 @@
             "3.7"
           ]
         },
-        "version": "0.1.0",
-        "url": "https://github.com/mozilla-iot/sengled-adapter/releases/download/v0.1.0/sengled-adapter-0.1.0.tgz",
-        "checksum": "784e490f434f857e18335273001cd6fe18f030c1a12ce6851c294c87402414f9",
+        "version": "0.1.1",
+        "url": "https://github.com/mozilla-iot/sengled-adapter/releases/download/v0.1.1/sengled-adapter-0.1.1.tgz",
+        "checksum": "a7137995e1d747223e12ba67d7afa6dfb99678cc985ae093b4549e42ddfc7b64",
         "api": {
           "min": 2,
           "max": 2
