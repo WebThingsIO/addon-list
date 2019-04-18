@@ -754,7 +754,7 @@
             "any"
           ]
         },
-        "version": "0.0.2",
+        "version": "0.0.3",
         "url": "https://github.com/freaktechnik/maxsmart2-adapter/releases/download/v0.0.3/maxsmart2-adapter-0.0.3.tgz",
         "checksum": "bb7f294b5f08ddb99675a53fb7de8adbaa086342cab15d501cfcbd82ac61c139",
         "api": {
