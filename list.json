@@ -1215,6 +1215,34 @@
     ]
   },
   {
+    "name": "speed-test-adapter",
+    "display_name": "Speed Test",
+    "description": "Internet speed test",
+    "author": "Mozilla IoT",
+    "homepage": "https://github.com/mozilla-iot/speed-test-adapter",
+    "license": "https://github.com/mozilla-iot/speed-test-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "python",
+          "versions": [
+            "3.5",
+            "3.6",
+            "3.7"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://github.com/mozilla-iot/speed-test-adapter/releases/download/v0.1.0/speed-test-adapter-0.1.0.tgz",
+        "checksum": "0c897e0903991c3efef79f8c67126425616aa63243a8f4a99b062e9232731f53",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "thing-url-adapter",
     "display_name": "Web Thing",
     "description": "Native web thing support",
