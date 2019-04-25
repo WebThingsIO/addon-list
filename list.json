@@ -899,6 +899,34 @@
     ]
   },
   {
+    "name": "mysensors-adapter",
+    "display_name": "MySensors",
+    "description": "Build your own smart home with this Arduino library",
+    "author": "CreateCandle",
+    "homepage": "https://github.com/createcandle/Webthings-mysensors-adapter",
+    "license": "https://github.com/createcandle/Webthings-mysensors-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "python",
+          "versions": [
+            "3.5",
+            "3.6",
+            "3.7"
+          ]
+        },
+        "version": "0.0.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mysensors-adapter-0.0.1.tgz",
+        "checksum": "c73f7cb36ed95ca73c3836b195ddab2a4b69cacd61745f429e3278a31b4ef61a",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "nanoleaf-adapter",
     "display_name": "Nanoleaf",
     "description": "Control your Nanoleaf aurora",
