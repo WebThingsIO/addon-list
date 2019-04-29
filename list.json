@@ -1217,6 +1217,32 @@
     ]
   },
   {
+    "name": "slack-adapter",
+    "display_name": "Slack",
+    "description": "Send slack messages to your workspace",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/slack-adapter#readme",
+    "license": "https://github.com/tim-hellhake/slack-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://github.com/tim-hellhake/slack-adapter/releases/download/0.1.0/slack-adapter-0.1.0.tgz",
+        "checksum": "c98167915026ebdea3d149802cd8e753490b606e6f3245a7600a823fc0b82545",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "sonos-adapter",
     "display_name": "Sonos",
     "description": "Sonos player support",
