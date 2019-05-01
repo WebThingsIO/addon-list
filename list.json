@@ -158,6 +158,32 @@
     ]
   },
   {
+    "name": "enocean-adapter",
+    "display_name": "Enocean",
+    "description": "Connect your enocean devices",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/enocean-adapter#readme",
+    "license": "https://github.com/tim-hellhake/enocean-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/enocean-adapter-0.1.0.tgz",
+        "checksum": "bfd451c3853308ec9247c579f4cb08c427db657dda710bdd1c26ff897a2dcacd",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "etekcity-adapter",
     "display_name": "Etekcity",
     "description": "Etekcity smart plug/switch device support",
