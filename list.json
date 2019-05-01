@@ -1259,7 +1259,7 @@
           ]
         },
         "version": "0.6.1",
-        "url": "https://github.com/freaktechnik/sonos-adapter/releases/download/v0.6.1/sonos-adapter-0.6.1.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sonos-adapter-0.6.1.tgz",
         "checksum": "9e05e638f6a2f9b9454dec4786e357e8069e4997e032952f4558293fbf15abb4",
         "api": {
           "min": 1,
