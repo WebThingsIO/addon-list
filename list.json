@@ -174,7 +174,7 @@
           ]
         },
         "version": "0.1.1",
-        "url": "https://github.com/tim-hellhake/enocean-adapter/releases/download/0.1.1/enocean-adapter-0.1.1.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/enocean-adapter-0.1.1.tgz",
         "checksum": "817b8de96e10a7c95c74a6226f2fbf9f7d880775710914b467c1d22c4435661a",
         "api": {
           "min": 2,
