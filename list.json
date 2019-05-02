@@ -159,8 +159,8 @@
   },
   {
     "name": "enocean-adapter",
-    "display_name": "Enocean",
-    "description": "Connect your enocean devices",
+    "display_name": "EnOcean",
+    "description": "Connect your EnOcean devices",
     "author": "Tim Hellhake",
     "homepage": "https://github.com/tim-hellhake/enocean-adapter#readme",
     "license": "https://github.com/tim-hellhake/enocean-adapter/blob/master/LICENSE",
@@ -173,9 +173,9 @@
             "any"
           ]
         },
-        "version": "0.1.0",
-        "url": "https://github.com/tim-hellhake/enocean-adapter/releases/download/0.1.0/enocean-adapter-0.1.0.tgz",
-        "checksum": "061ec7c5696766b493aec8f0d6f2aebccf695d7a25c3bc0a0508d68fe83b5e46",
+        "version": "0.1.1",
+        "url": "https://github.com/tim-hellhake/enocean-adapter/releases/download/0.1.1/enocean-adapter-0.1.1.tgz",
+        "checksum": "817b8de96e10a7c95c74a6226f2fbf9f7d880775710914b467c1d22c4435661a",
         "api": {
           "min": 2,
           "max": 2
