@@ -1338,9 +1338,9 @@
             "any"
           ]
         },
-        "version": "0.1.1",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/slack-adapter-0.1.1.tgz",
-        "checksum": "bfd451c3853308ec9247c579f4cb08c427db657dda710bdd1c26ff897a2dcacd",
+        "version": "0.1.2",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/slack-adapter-0.1.2.tgz",
+        "checksum": "0a59ff7685ef3ba43a91cbf897a0582f532fb13bfcd72e390c74374b07a5ceef",
         "api": {
           "min": 2,
           "max": 2
