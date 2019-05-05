@@ -1005,6 +1005,32 @@
     ]
   },
   {
+    "name": "mi-flora-adapter",
+    "display_name": "Mi Flora",
+    "description": "Connect your Mi Flora devices",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/mi-flora-adapter#readme",
+    "license": "https://github.com/tim-hellhake/mi-flora-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://github.com/tim-hellhake/mi-flora-adapter/releases/download/0.1.0/mi-flora-adapter-0.1.0.tgz",
+        "checksum": "0cad8bf7800e22e2bbc53b052bb3e794eff1128aff9bf7c6d5c748b87e0a1cb6",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "mysensors-adapter",
     "display_name": "MySensors",
     "description": "Build your own smart home with this Arduino library",
