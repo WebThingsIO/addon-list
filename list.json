@@ -1323,6 +1323,32 @@
     ]
   },
   {
+    "name": "sensor-tag-adapter",
+    "display_name": "SensorTag",
+    "description": "Connect your SensorTags",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/sensor-tag-adapter#readme",
+    "license": "https://github.com/tim-hellhake/sensor-tag-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.1",
+        "url": "https://github.com/tim-hellhake/sensor-tag-adapter/releases/download/0.1.1/sensor-tag-adapter-0.1.1.tgz",
+        "checksum": "8840d56e64316702f584bc66ce04ee7c4b601b1d45d9b60991617d8b41eabf894",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "serial-adapter",
     "display_name": "Serial",
     "description": "Serial JSON interface to serial-mcu",
