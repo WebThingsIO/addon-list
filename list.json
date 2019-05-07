@@ -1191,6 +1191,34 @@
     ]
   },
   {
+    "name": "network-presence-detection-adapter",
+    "display_name": "Network presence detector",
+    "description": "Check if devices are on your network",
+    "author": "Flatsiedatsie",
+    "homepage": "https://github.com/flatsiedatsie/Webthings-network-presence-detection",
+    "license": "https://github.com/flatsiedatsie/Webthings-network-presence-detection/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "python",
+          "versions": [
+            "3.5",
+            "3.6",
+            "3.7"
+          ]
+        },
+        "version": "0.0.3",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/network-presence-detection-adapter-0.0.3.tgz",
+        "checksum": "79a753aa2a5dbce2dad03dde5032ea84296dde64f26d491ac6e019b3cb7d439b",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "onvif-adapter",
     "display_name": "ONVIF",
     "description": "ONVIF Profile S camera adapter.",
