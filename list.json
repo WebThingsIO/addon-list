@@ -1340,7 +1340,7 @@
         },
         "version": "0.1.1",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sensor-tag-adapter-0.1.1-linux-arm-v8.tgz",
-        "checksum": "",
+        "checksum": "7abc93ef659919247cc0be13c2f43a3bd6160e248128bf67524fd80e85783bfa",
         "api": {
           "min": 2,
           "max": 2
@@ -1356,7 +1356,7 @@
         },
         "version": "0.1.1",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sensor-tag-adapter-0.1.1-linux-x64-v8.tgz",
-        "checksum": "",
+        "checksum": "eccb6559ca1ca1409035e6ed59db79dae537eb51367077c3a832fffbe67e6e3c",
         "api": {
           "min": 2,
           "max": 2
@@ -1372,7 +1372,7 @@
         },
         "version": "0.1.1",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sensor-tag-adapter-0.1.1-darwin-x64-v8.tgz",
-        "checksum": "",
+        "checksum": "019bebe94bfc23088f11855653bbbbd8c85e9e5dca0b7a44eea088daad7b0e2f",
         "api": {
           "min": 2,
           "max": 2
@@ -1388,7 +1388,7 @@
         },
         "version": "0.1.1",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sensor-tag-adapter-0.1.1-linux-arm-v10.tgz",
-        "checksum": "",
+        "checksum": "f3570c2f1aef90534428f2da3d7c35198b7aafdbf3718f8bdd2eccd3a7998209",
         "api": {
           "min": 2,
           "max": 2
@@ -1404,7 +1404,7 @@
         },
         "version": "0.1.1",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sensor-tag-adapter-0.1.1-linux-x64-v10.tgz",
-        "checksum": "",
+        "checksum": "dbd97fe865641a845f7bc7058c9125bc168413b7ec0d86f8f930b7406621b889",
         "api": {
           "min": 2,
           "max": 2
@@ -1420,7 +1420,7 @@
         },
         "version": "0.1.1",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sensor-tag-adapter-0.1.1-darwin-x64-v10.tgz",
-        "checksum": "",
+        "checksum": "28c721e9ba40c5859812cc9b8ae268fef49647ec29938b5b7d45aa51a5fed77d",
         "api": {
           "min": 2,
           "max": 2
