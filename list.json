@@ -1331,16 +1331,96 @@
     "license": "https://github.com/tim-hellhake/sensor-tag-adapter/blob/master/LICENSE",
     "packages": [
       {
-        "architecture": "any",
+        "architecture": "linux-arm",
         "language": {
           "name": "nodejs",
           "versions": [
-            "any"
+            "57"
           ]
         },
         "version": "0.1.1",
-        "url": "https://github.com/tim-hellhake/sensor-tag-adapter/releases/download/0.1.1/sensor-tag-adapter-0.1.1.tgz",
-        "checksum": "8840d56e64316702f584bc66ce04ee7c4b601b1d45d9b60991617d8b41eabf894",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sensor-tag-adapter-0.1.1-linux-arm-v8.tgz",
+        "checksum": "",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "linux-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
+        "version": "0.1.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sensor-tag-adapter-0.1.1-linux-x64-v8.tgz",
+        "checksum": "",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "darwin-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
+        "version": "0.1.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sensor-tag-adapter-0.1.1-darwin-x64-v8.tgz",
+        "checksum": "",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "linux-arm",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "64"
+          ]
+        },
+        "version": "0.1.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sensor-tag-adapter-0.1.1-linux-arm-v10.tgz",
+        "checksum": "",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "linux-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "64"
+          ]
+        },
+        "version": "0.1.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sensor-tag-adapter-0.1.1-linux-x64-v10.tgz",
+        "checksum": "",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "darwin-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "64"
+          ]
+        },
+        "version": "0.1.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sensor-tag-adapter-0.1.1-darwin-x64-v10.tgz",
+        "checksum": "",
         "api": {
           "min": 2,
           "max": 2
