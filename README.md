@@ -20,6 +20,7 @@ If your package contains any binaries, i.e. executables, shared libraries, etc.,
 * `linux-arm64`: Linux on 64-bit ARM
 * `linux-ia32`: Linux on 32-bit x86
 * `linux-x64`: Linux on 64-bit x86
+* `openwrt-linux-arm`: OpenWrt on 32-bit ARM (this should be built to support armv6, such as older Raspberry Pi generations)
 * `win32-ia32`: Windows on 32-bit x86
 * `win32-x64`: Windows on 64-bit x86
 
