@@ -1803,6 +1803,32 @@
     ]
   },
   {
+    "name": "twitter-adapter",
+    "display_name": "Twitter",
+    "description": "Send tweets",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/twitter-adapter#readme",
+    "license": "https://github.com/tim-hellhake/twitter-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://github.com/tim-hellhake/twitter-adapter/releases/download/0.1.0/twitter-adapter-0.1.0.tgz",
+        "checksum": "66ef605cc0d39088da63e6f75debcebbe2c4f090d7f5a5c053716dd8693e17a1",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "virtual-things-adapter",
     "display_name": "Virtual Things",
     "description": "Virtual Things for experimenting with new thing types",
