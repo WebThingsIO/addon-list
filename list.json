@@ -447,6 +447,32 @@
     ]
   },
   {
+    "name": "github-adapter",
+    "display_name": "GitHub",
+    "description": "Watch your favourite GitHub repos",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/github-adapter#readme",
+    "license": "https://github.com/tim-hellhake/github-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.2",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/github-adapter-0.1.2.tgz",
+        "checksum": "8ddf202bae02f9efb9c15a463068222c474a5ab1959d1175e02401f4db1dfb3d",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "gpio-adapter",
     "display_name": "GPIO",
     "description": "GPIO device support",
