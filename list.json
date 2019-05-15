@@ -1690,9 +1690,9 @@
             "any"
           ]
         },
-        "version": "0.0.2",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/telegram-sender-adapter-0.0.2.tgz",
-        "checksum": "4b32f5dcfe2cc2d89d82f7f34c33b281315293cb54179a19a12db474ac081ab2",
+        "version": "0.0.3",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/telegram-sender-adapter-0.0.3.tgz",
+        "checksum": "215e1d7d4bb4878fd45114b597f0cd6fda2fa87d909c9764a0d7e68cf81aecde",
         "api": {
           "min": 2,
           "max": 2
