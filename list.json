@@ -448,8 +448,8 @@
   },
   {
     "name": "github-adapter",
-    "display_name": "Github",
-    "description": "Watch your favourite github repos",
+    "display_name": "GitHub",
+    "description": "Watch your favourite GitHub repos",
     "author": "Tim Hellhake",
     "homepage": "https://github.com/tim-hellhake/github-adapter#readme",
     "license": "https://github.com/tim-hellhake/github-adapter/blob/master/LICENSE",
