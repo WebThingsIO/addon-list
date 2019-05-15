@@ -497,6 +497,22 @@
         }
       },
       {
+        "architecture": "openwrt-linux-arm",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
+        "version": "0.6.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.6.1-openwrt-linux-arm-v8.tgz",
+        "checksum": "fbf1ce1ce1017adf5eaf41a61b647df58175e11ede7d30d22eb9df918332104f",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      {
         "architecture": "linux-x64",
         "language": {
           "name": "nodejs",
@@ -2155,6 +2171,22 @@
         }
       },
       {
+        "architecture": "openwrt-linux-arm",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
+        "version": "0.7.6",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.7.6-openwrt-linux-arm-v8.tgz",
+        "checksum": "82d0be6280aa819582e3bd4fa92b157e22fd3ce9140ab99fbeafe681099fe613",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      {
         "architecture": "linux-x64",
         "language": {
           "name": "nodejs",
@@ -2283,6 +2315,22 @@
         "version": "0.7.2",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.2-linux-arm-v8.tgz",
         "checksum": "19225c3773413132994145129b9d534ce1054d9a97d0e715a037f748be3a4faa",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "openwrt-linux-arm",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
+        "version": "0.7.2",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.2-openwrt-linux-arm-v8.tgz",
+        "checksum": "401178b2634a2bd142329d9c90fac98a9fc8ac6c9174d8656856e46b395cc706",
         "api": {
           "min": 2,
           "max": 2
