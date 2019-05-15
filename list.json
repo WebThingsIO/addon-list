@@ -462,9 +462,9 @@
             "any"
           ]
         },
-        "version": "0.1.1",
-        "url": "https://github.com/tim-hellhake/github-adapter/releases/download/0.1.1/github-adapter-0.1.1.tgz",
-        "checksum": "6a07204967ab8e7b868bfe0a11477207d849097776dfe6ba199c43e0ecdeb339",
+        "version": "0.1.2",
+        "url": "https://github.com/tim-hellhake/github-adapter/releases/download/0.1.2/github-adapter-0.1.2.tgz",
+        "checksum": "8ddf202bae02f9efb9c15a463068222c474a5ab1959d1175e02401f4db1dfb3d",
         "api": {
           "min": 2,
           "max": 2
