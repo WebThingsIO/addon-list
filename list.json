@@ -913,6 +913,32 @@
     ]
   },
   {
+    "name": "medisana-ks250-adapter",
+    "display_name": "Medisana KS 250",
+    "description": "Connect your Medisana KS 250",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/medisana-ks250-adapter#readme",
+    "license": "https://github.com/tim-hellhake/medisana-ks250-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://github.com/tim-hellhake/medisana-ks250-adapter/releases/download/0.1.0/medisana-ks250-adapter-0.1.0.tgz",
+        "checksum": "",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "meross-adapter",
     "display_name": "Meross",
     "description": "Meross smart plug device support",
