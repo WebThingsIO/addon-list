@@ -913,6 +913,144 @@
     ]
   },
   {
+    "name": "medisana-ks250-adapter",
+    "display_name": "Medisana KS 250",
+    "description": "Connect your Medisana KS 250",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/medisana-ks250-adapter#readme",
+    "license": "https://github.com/tim-hellhake/medisana-ks250-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "linux-arm",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.0-linux-arm-v8.tgz",
+        "checksum": "26b5a6a4ed8932e5825912d86b42c25b504a34cc60e21c36664a493ddf1ec102",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "linux-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.0-linux-x64-v8.tgz",
+        "checksum": "d7ef1db98185149f42db2253d79f63d79d657f05a778d3b44484bc07b0477764",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "openwrt-linux-arm",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.0-openwrt-linux-arm-v8.tgz",
+        "checksum": "3acd662ccce804ca526f3226a4d7a1350c44a87f84b123041eb31cdf1ff09ef8",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "darwin-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.0-darwin-x64-v8.tgz",
+        "checksum": "79f67e5cf7e7a2dba7c269e0b21628fcac6a99f9437aa575e0142db5490db4d5",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "linux-arm",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "64"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.0-linux-arm-v10.tgz",
+        "checksum": "a43d2bb8c8d3133e1806a192a0f4a55fd5f7d4cb72ee58f50e20aa79ec66c1c9",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "linux-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "64"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.0-linux-x64-v10.tgz",
+        "checksum": "1c90a4394f3a12f118b09445d2bea0def5a190f3487873c93c959300191606d4",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "openwrt-linux-arm",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "64"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.0-openwrt-linux-arm-v10.tgz",
+        "checksum": "8ac1938f7f7ba33a9dc12028a175901b6380b3474b73fe4a5143c0175adfc331",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "darwin-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "64"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.0-darwin-x64-v10.tgz",
+        "checksum": "c6c4600aa86b87f7b090df3c8e605c4193ba09cf97a66e448b7c1f92927e0146",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "meross-adapter",
     "display_name": "Meross",
     "description": "Meross smart plug device support",
