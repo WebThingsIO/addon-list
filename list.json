@@ -717,7 +717,7 @@
           ]
         },
         "version": "0.1.0",
-        "url": "https://github.com/tim-hellhake/homematic-adapter/releases/download/0.1.0/homematic-adapter-0.1.0.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homematic-adapter-0.1.0.tgz",
         "checksum": "2339c467550a7c2bd8d5be66c20e4be3863b4640140f6f526c02a0811f3a2b85",
         "api": {
           "min": 2,
