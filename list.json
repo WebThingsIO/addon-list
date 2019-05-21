@@ -373,6 +373,32 @@
     ]
   },
   {
+    "name": "fritz-adapter",
+    "display_name": "Fritz!",
+    "description": "Connect your Fritz! devices",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/fritz-adapter#readme",
+    "license": "https://github.com/tim-hellhake/fritz-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://github.com/tim-hellhake/fritz-adapter/releases/download/0.1.0/fritz-adapter-0.1.0.tgz",
+        "checksum": "3c2d57e00b60674cab2e3d0ae24de41c3db767f3af1974cdda4297d62d64a298",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "generic-sensors-adapter",
     "display_name": "Generic Sensors",
     "description": "Generic Sensors devices support. See: https://github.com/rzr/mozilla-iot-generic-sensors-adapter",
