@@ -779,6 +779,32 @@
     ]
   },
   {
+    "name": "lametric-adapter",
+    "display_name": "LaMetric",
+    "description": "Send notifications to your LaMetric",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/lametric-adapter#readme",
+    "license": "https://github.com/tim-hellhake/lametric-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://github.com/tim-hellhake/lametric-adapter/releases/download/0.1.0/lametric-adapter-0.1.0.tgz",
+        "checksum": "48f05dad2f40a54cd50ecdbea378e97e7ede413ac917c3aa72a08a9a3b383c7a",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "lg-tv-adapter",
     "display_name": "LG webOS TV",
     "description": "LG webOS TV support",
