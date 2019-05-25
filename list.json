@@ -795,7 +795,7 @@
           ]
         },
         "version": "0.1.0",
-        "url": "https://github.com/tim-hellhake/lametric-adapter/releases/download/0.1.0/lametric-adapter-0.1.0.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lametric-adapter-0.1.0.tgz",
         "checksum": "48f05dad2f40a54cd50ecdbea378e97e7ede413ac917c3aa72a08a9a3b383c7a",
         "api": {
           "min": 2,
