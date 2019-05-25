@@ -1639,6 +1639,32 @@
     ]
   },
   {
+    "name": "ruuvitag-adapter",
+    "display_name": "RuuviTag",
+    "description": "Connect your RuuviTags (bluetooth environmental sensor)",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/ruuvitag-adapter#readme",
+    "license": "https://github.com/tim-hellhake/ruuvitag-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "",
+        "checksum": "",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "sengled-adapter",
     "display_name": "Sengled",
     "description": "Sengled Wi-Fi smart bulb device support",
