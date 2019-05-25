@@ -1655,8 +1655,8 @@
           ]
         },
         "version": "0.1.2",
-        "url": "",
-        "checksum": "",
+        "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.1.2/ruuvitag-adapter-0.1.2.tgz",
+        "checksum": "c06a3b0e74be9a88fd8e40f2a91362b7f5dda525cb7a40b414f53f85a510506e",
         "api": {
           "min": 2,
           "max": 2
