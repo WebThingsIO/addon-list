@@ -1535,6 +1535,32 @@
     ]
   },
   {
+    "name": "openuv-adapter",
+    "display_name": "OpenUV",
+    "description": "Get the current uv index from www.openuv.io",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/openuv-adapter#readme",
+    "license": "https://github.com/tim-hellhake/openuv-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://github.com/tim-hellhake/openuv-adapter/releases/download/0.1.0/openuv-adapter-0.1.0.tgz",
+        "checksum": "8b06c3913269f61f67a3eb43353c8924d9c896f7b0a974ac5f96df4eff6ebda0",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "philips-hue-adapter",
     "display_name": "Philips Hue",
     "description": "Philips Hue color light support. Press the button on your Hue bridge to pair devices.",
