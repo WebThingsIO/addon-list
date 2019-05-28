@@ -1993,96 +1993,16 @@
     "license": "https://github.com/mozilla-iot/thing-url-adapter/blob/master/LICENSE",
     "packages": [
       {
-        "architecture": "linux-arm",
+        "architecture": "any",
         "language": {
           "name": "nodejs",
           "versions": [
-            "57"
+            "any"
           ]
         },
-        "version": "0.2.8",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/thing-url-adapter-0.2.8-linux-arm-v8.tgz",
-        "checksum": "339f214384542f5180c4e40a5f282ea1c53898ea01e710c1b4bc7cd29a809d5c",
-        "api": {
-          "min": 2,
-          "max": 2
-        }
-      },
-      {
-        "architecture": "linux-x64",
-        "language": {
-          "name": "nodejs",
-          "versions": [
-            "57"
-          ]
-        },
-        "version": "0.2.8",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/thing-url-adapter-0.2.8-linux-x64-v8.tgz",
-        "checksum": "8b290a7c2c7e90a0bafc3146944180893962ec044b97e9ccb8d06a440d261051",
-        "api": {
-          "min": 2,
-          "max": 2
-        }
-      },
-      {
-        "architecture": "darwin-x64",
-        "language": {
-          "name": "nodejs",
-          "versions": [
-            "57"
-          ]
-        },
-        "version": "0.2.8",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/thing-url-adapter-0.2.8-darwin-x64-v8.tgz",
-        "checksum": "8c92697ca932106aa5dc5519633f41c484643eae33ab1da9ba555d5ac50ec76f",
-        "api": {
-          "min": 2,
-          "max": 2
-        }
-      },
-      {
-        "architecture": "linux-arm",
-        "language": {
-          "name": "nodejs",
-          "versions": [
-            "57"
-          ]
-        },
-        "version": "0.2.8",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/thing-url-adapter-0.2.8-linux-arm-v10.tgz",
-        "checksum": "447469880e85c4f3b8516b9e1d26ad0f4cc7149c11c0858d252e50410b048dfc",
-        "api": {
-          "min": 2,
-          "max": 2
-        }
-      },
-      {
-        "architecture": "linux-x64",
-        "language": {
-          "name": "nodejs",
-          "versions": [
-            "57"
-          ]
-        },
-        "version": "0.2.8",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/thing-url-adapter-0.2.8-linux-x64-v10.tgz",
-        "checksum": "ec0e4ea5d79a40d154511d8dc68b515bcba65243fd1dfeb064ccce3dade3e4ec",
-        "api": {
-          "min": 2,
-          "max": 2
-        }
-      },
-      {
-        "architecture": "darwin-x64",
-        "language": {
-          "name": "nodejs",
-          "versions": [
-            "57"
-          ]
-        },
-        "version": "0.2.8",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/thing-url-adapter-0.2.8-darwin-x64-v10.tgz",
-        "checksum": "f3bda1731dd99fc8918d9b086d9273a1888dea3811b31766eabfcd6ba9bce0af",
+        "version": "0.3.1",
+        "url": "https://github.com/mozilla-iot/thing-url-adapter/releases/download/v0.3.1/thing-url-adapter-0.3.1.tgz",
+        "checksum": "918005caca6a8faf934620e71fee9fe84da640df7f93e07d82b90369f2924a32",
         "api": {
           "min": 2,
           "max": 2
