@@ -2011,6 +2011,32 @@
     ]
   },
   {
+    "name": "timer-adapter",
+    "display_name": "Timer",
+    "description": "Runs for the specified number of seconds",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/timer-adapter#readme",
+    "license": "https://github.com/tim-hellhake/timer-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://github.com/tim-hellhake/timer-adapter/releases/download/0.1.0/timer-adapter-0.1.0.tgz",
+        "checksum": "ed10d750bfd99bad6830d2eefeb103377887d0299df00b2ef50876a8d909230b",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "tplink-adapter",
     "display_name": "TP-Link",
     "description": "TP-Link smart plug/bulb device support",
