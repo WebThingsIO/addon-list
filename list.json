@@ -1172,9 +1172,9 @@
             "57"
           ]
         },
-        "version": "0.2.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.2.0-linux-arm-v8.tgz",
-        "checksum": "2081bcba235b48ed822b96f15bade5d8194d04244614e1728358bc05f32c45e0",
+        "version": "0.2.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.2.1-linux-arm-v8.tgz",
+        "checksum": "40a0aa2dd7fc05f52c7d47eaa36d390aa8b7d0662bbc3fa69ccef641022b36c7",
         "api": {
           "min": 2,
           "max": 2
@@ -1188,9 +1188,9 @@
             "57"
           ]
         },
-        "version": "0.2.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.2.0-linux-x64-v8.tgz",
-        "checksum": "ec87b61d6740bc3bf4589fb79da283b95c627bc5b9523a3907847d3b8c1076a6",
+        "version": "0.2.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.2.1-linux-x64-v8.tgz",
+        "checksum": "b640761920ee19f29a77e8348074e6d85efad603f74cb8cb209465f1e3440538",
         "api": {
           "min": 2,
           "max": 2
@@ -1204,9 +1204,9 @@
             "57"
           ]
         },
-        "version": "0.2.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.2.0-darwin-x64-v8.tgz",
-        "checksum": "78a5dd998534197c1744a6eb226f1659e059014de09b276b3372619f411d8285",
+        "version": "0.2.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.2.1-darwin-x64-v8.tgz",
+        "checksum": "c0960a47bddcc66c264cf4033fe2f5525355369a82ed0fd1d1422a51b44031ed",
         "api": {
           "min": 2,
           "max": 2
@@ -1220,9 +1220,9 @@
             "64"
           ]
         },
-        "version": "0.2.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.2.0-linux-arm-v10.tgz",
-        "checksum": "4e042357617fdd0362b446e80a631a688af91b6fb9cd1dfda14516a0f2fbcb87",
+        "version": "0.2.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.2.1-linux-arm-v10.tgz",
+        "checksum": "b9fdce0d78505bd92e8a8b9c59ac9fb0bb5967a65b8645a2f2f75dfdaadf87da",
         "api": {
           "min": 2,
           "max": 2
@@ -1236,9 +1236,9 @@
             "64"
           ]
         },
-        "version": "0.2.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.2.0-linux-x64-v10.tgz",
-        "checksum": "141d8ec73e5422dc32c3b1f89772a3e2261aecc60e42a49c0d64a7153fe85aa6",
+        "version": "0.2.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.2.1-linux-x64-v10.tgz",
+        "checksum": "83fe236def76e433fd9be1df70890db73fa3100c13a02e4f7fcd34d959244386",
         "api": {
           "min": 2,
           "max": 2
@@ -1252,9 +1252,9 @@
             "64"
           ]
         },
-        "version": "0.2.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.2.0-darwin-x64-v10.tgz",
-        "checksum": "0f63d2ac9185f6e210b5c28c26c1b3756b2b8b89de061b12cedc826b28313dce",
+        "version": "0.2.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.2.1-darwin-x64-v10.tgz",
+        "checksum": "0002c8d7bff9b418c81b0e96fd8a94bf9fce2a2beec4294a40216041874263fc",
         "api": {
           "min": 2,
           "max": 2
