@@ -1499,7 +1499,7 @@
           ]
         },
         "version": "0.0.4",
-        "url": "https://github.com/flatsiedatsie/webthings-network-presence-detection/raw/master/network-presence-detection-adapter-0.0.4.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/network-presence-detection-adapter-0.0.4.tgz",
         "checksum": "fe1ed502e7f702f11ef1e1e7e09eb451e3ee81777c550c4a1b3f16878134ca88",
         "api": {
           "min": 2,
