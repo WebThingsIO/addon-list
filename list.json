@@ -2229,6 +2229,32 @@
     ]
   },
   {
+    "name": "tts-adapter",
+    "display_name": "Text-to-Speech",
+    "description": "Reads texts for you",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/tts-adapter#readme",
+    "license": "https://github.com/tim-hellhake/tts-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://github.com/tim-hellhake/tts-adapter/releases/download/0.1.0/tts-adapter-0.1.0.tgz",
+        "checksum": "058b311ead2db8f21a200cf8806ef61eae0aa6a75b18767e2755926c3a1c2a6f",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "twilio-adapter",
     "display_name": "Twilio",
     "description": "Simple Twilio API actions. Needs to be configured with an account SID, auth token, and Twilio-given number.",
