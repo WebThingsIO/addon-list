@@ -2244,7 +2244,7 @@
             "any"
           ]
         },
-        "version": "0.1.0",
+        "version": "0.1.1",
         "url": "https://github.com/tim-hellhake/tts-adapter/releases/download/0.1.1/tts-adapter-0.1.1.tgz",
         "checksum": "4a3099ecc5d6dc9fc970b619c8c1ef49a84a34d5a8351927d71549be80c0156d",
         "api": {
