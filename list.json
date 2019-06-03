@@ -1613,6 +1613,32 @@
     ]
   },
   {
+    "name": "pushbullet-adapter",
+    "display_name": "Pushbullet",
+    "description": "Send notifications to your devices",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/pushbullet-adapter#readme",
+    "license": "https://github.com/tim-hellhake/pushbullet-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://github.com/tim-hellhake/pushbullet-adapter/releases/download/0.1.0/pushbullet-adapter-0.1.0.tgz",
+        "checksum": "332ecbdc618d6c03733a8c75a8d1b188825870bf50f9b5d45bcfd451515c051e",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "roku-adapter",
     "display_name": "Roku",
     "description": "Roku support",
