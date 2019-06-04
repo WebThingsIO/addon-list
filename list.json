@@ -2227,6 +2227,34 @@
     ]
   },
   {
+    "name": "tide-calendar-adapter",
+    "display_name": "Tide Calendar",
+    "description": "Tide calendar and current water level",
+    "author": "Mozilla IoT",
+    "homepage": "https://github.com/mozilla-iot/tide-calendar-adapter",
+    "license": "https://github.com/mozilla-iot/tide-calendar-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "python",
+          "versions": [
+            "3.5",
+            "3.6",
+            "3.7"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://github.com/mozilla-iot/tide-calendar-adapter/releases/download/v0.1.0/tide-calendar-adapter-0.1.0.tgz",
+        "checksum": "a93c2d2b2796f418ea862468209d6dc8290ff9e3c544bfa62c0918275fbaa653",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "timer-adapter",
     "display_name": "Timer",
     "description": "Runs for the specified number of seconds",
