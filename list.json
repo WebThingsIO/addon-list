@@ -132,6 +132,34 @@
     ]
   },
   {
+    "name": "earthquake-monitor-adapter",
+    "display_name": "Earthquake Monitor",
+    "description": "Earthquake monitor",
+    "author": "Mozilla IoT",
+    "homepage": "https://github.com/mozilla-iot/earthquake-monitor-adapter",
+    "license": "https://github.com/mozilla-iot/earthquake-monitor-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "python",
+          "versions": [
+            "3.5",
+            "3.6",
+            "3.7"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://github.com/mozilla-iot/earthquake-monitor-adapter/releases/download/v0.1.0/earthquake-monitor-adapter-0.1.0.tgz",
+        "checksum": "cc44390ae416b80da0f3b0be5f5ff24ab81f4ba8740d9479d90896f9aa0e4d8c",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "email-sender-adapter",
     "display_name": "Email Sender",
     "description": "Simple email sending actions. Needs to be configured with email and app password.",
