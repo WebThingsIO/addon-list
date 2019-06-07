@@ -1684,7 +1684,7 @@
         },
         "version": "0.1.0",
         "url": "https://github.com/tim-hellhake/prowl-adapter/releases/download/0.1.0/prowl-adapter-0.1.0.tgz",
-        "checksum": "2eaa3e792d76dd590cd764aae922f256e59d5c069330fb321c4708b20a78958c",
+        "checksum": "0a30b88da2cfde633018b3dccbba278b6e77cda9e07afc4ba881b849975d9d77",
         "api": {
           "min": 2,
           "max": 2
