@@ -1667,6 +1667,32 @@
     ]
   },
   {
+    "name": "prowl-adapter",
+    "display_name": "Prowl",
+    "description": "Pushes notifications to your device",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/prowl-adapter#readme",
+    "license": "https://github.com/tim-hellhake/prowl-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://github.com/tim-hellhake/prowl-adapter/releases/download/0.1.0/prowl-adapter-0.1.0.tgz",
+        "checksum": "2eaa3e792d76dd590cd764aae922f256e59d5c069330fb321c4708b20a78958c",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "pushbullet-adapter",
     "display_name": "Pushbullet",
     "description": "Send notifications to your devices",
