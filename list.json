@@ -807,6 +807,32 @@
     ]
   },
   {
+    "name": "kodi-adapter",
+    "display_name": "Kodi",
+    "description": "Show notifications on your media player",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/kodi-adapter#readme",
+    "license": "https://github.com/tim-hellhake/kodi-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://github.com/tim-hellhake/kodi-adapter/releases/download/0.1.0/kodi-adapter-0.1.0.tgz",
+        "checksum": "e67d86b8fa18ab37ce97e070e1959f952ada6aa47154f9056c3729b3fbd52bd6",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "lametric-adapter",
     "display_name": "LaMetric",
     "description": "Send notifications to your LaMetric",
