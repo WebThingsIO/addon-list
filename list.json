@@ -2699,6 +2699,32 @@
     ]
   },
   {
+    "name": "xiaomi-temperature-humidity-sensor-adapter",
+    "display_name": "Xiaomi Bluetooth Temperature and Humidity Sensor",
+    "description": "Connect your Xiaomi Bluetooth Temperature and Humidity Sensor",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter#readme",
+    "license": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "",
+        "checksum": "",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "yeelight-adapter",
     "display_name": "Yeelight",
     "description": "Yeelight smart bulb support",
