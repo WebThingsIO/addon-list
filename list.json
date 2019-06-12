@@ -2688,9 +2688,9 @@
             "any"
           ]
         },
-        "version": "0.1.0",
-        "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.1.0/xiaomi-temperature-humidity-sensor-adapter-0.1.0.tgz",
-        "checksum": "b1b04ab6fefecf9ff07e0af885290c6f7159517b1b33a96bcc57df848c65d74f",
+        "version": "0.1.1",
+        "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.1.1/xiaomi-temperature-humidity-sensor-adapter-0.1.1.tgz",
+        "checksum": "a907290433c949be7d8ee835fe7192bebb1003091967403f0292c1ba3c333416",
         "api": {
           "min": 2,
           "max": 2
