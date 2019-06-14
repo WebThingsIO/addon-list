@@ -2716,9 +2716,9 @@
             "57"
           ]
         },
-        "version": "0.7.10",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.7.10-linux-arm-v8.tgz",
-        "checksum": "ab3d8415dbcbab8bc5b5e2e1fe24344eba4c58e2370ace8ab5250bca5e80d583",
+        "version": "0.7.11",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.7.11-linux-arm-v8.tgz",
+        "checksum": "aee68c6aa392d5d1a1da5da6e9f0c0b60c364a9810c49ce61e5db96666aac665",
         "api": {
           "min": 2,
           "max": 2
@@ -2732,9 +2732,9 @@
             "57"
           ]
         },
-        "version": "0.7.10",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.7.10-openwrt-linux-arm-v8.tgz",
-        "checksum": "22d87c7b8f98dff9ff8c83cb8ada72c40f243c70b4622e804a2a7d50147cc013",
+        "version": "0.7.11",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.7.11-openwrt-linux-arm-v8.tgz",
+        "checksum": "b0e622dc9995d6f54987e3508bb7a8b0b3da1c9e6bee8d8cf28aeb0cc0254941",
         "api": {
           "min": 2,
           "max": 2
@@ -2748,9 +2748,9 @@
             "57"
           ]
         },
-        "version": "0.7.10",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.7.10-linux-x64-v8.tgz",
-        "checksum": "7309f8dba794a74214d247fdc69df2a61d8db7110e596c7e1391312042540cd0",
+        "version": "0.7.11",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.7.11-linux-x64-v8.tgz",
+        "checksum": "96db6984ee6f7e7f554524a148063720aaa62d8793404b51f6a9c255d03a11cb",
         "api": {
           "min": 2,
           "max": 2
@@ -2764,9 +2764,9 @@
             "57"
           ]
         },
-        "version": "0.7.10",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.7.10-darwin-x64-v8.tgz",
-        "checksum": "1055fb01064808e20ac076ef9dc201d7faebb3d3077d9822233f82a7fa289c24",
+        "version": "0.7.11",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.7.11-darwin-x64-v8.tgz",
+        "checksum": "42626b88ed2935535517aba8295839c0c05c6b9e31c931fba93b57d4b727cc56",
         "api": {
           "min": 2,
           "max": 2
@@ -2780,9 +2780,9 @@
             "64"
           ]
         },
-        "version": "0.7.10",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.7.10-linux-arm-v10.tgz",
-        "checksum": "05fa717f753460d25f0ccb9d9335ba91210b95f78e6ce0cb4149c5f445936156",
+        "version": "0.7.11",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.7.11-linux-arm-v10.tgz",
+        "checksum": "72ea77b30adab8b1dc860486081afcef07a3ac326765d902725396102b61e9f5",
         "api": {
           "min": 2,
           "max": 2
@@ -2796,9 +2796,9 @@
             "64"
           ]
         },
-        "version": "0.7.10",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.7.10-linux-x64-v10.tgz",
-        "checksum": "c9751948d84a7b36cf1c762e79212d2ff1c1493f56966f702cece2c1461ea393",
+        "version": "0.7.11",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.7.11-linux-x64-v10.tgz",
+        "checksum": "7a13cfaf5407c52cdd708e24cd60acd49030161fa924ec8f23952f5bdd6b4dab",
         "api": {
           "min": 2,
           "max": 2
@@ -2812,9 +2812,9 @@
             "64"
           ]
         },
-        "version": "0.7.10",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.7.10-darwin-x64-v10.tgz",
-        "checksum": "d2fa990d4e3a7e4de52e2bf0fdc838ba4ea55c8574c1d266f31a7684baaece53",
+        "version": "0.7.11",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.7.11-darwin-x64-v10.tgz",
+        "checksum": "712c1431a59edd23fab35499dcb6dad00cd70e7b748122b4f25abc9879d143d2",
         "api": {
           "min": 2,
           "max": 2
