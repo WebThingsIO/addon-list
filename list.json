@@ -2138,9 +2138,9 @@
             "any"
           ]
         },
-        "version": "0.1.1",
-        "url": "https://github.com/tim-hellhake/sipgate-adapter/releases/download/0.1.1/sipgate-adapter-0.1.1.tgz",
-        "checksum": "18e24d13dfb20e6708d95bfae5bcc7d3cd3e3484019ebaba0e45a12cfa61b03c",
+        "version": "0.1.2",
+        "url": "https://github.com/tim-hellhake/sipgate-adapter/releases/download/0.1.2/sipgate-adapter-0.1.2.tgz",
+        "checksum": "a5ef9bf18f57fa087ab5ae5b5c91452321158ce74fcd07cf81cd8f87f974f748",
         "api": {
           "min": 2,
           "max": 2
