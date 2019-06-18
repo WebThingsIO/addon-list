@@ -2123,6 +2123,32 @@
     ]
   },
   {
+    "name": "sipgate-adapter",
+    "display_name": "Sipgate",
+    "description": "Send SMS from your Sipgate account",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/sipgate-adapter#readme",
+    "license": "https://github.com/tim-hellhake/sipgate-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.2",
+        "url": "https://mozilla-gateway-addons.s3-us-west-2.amazonaws.com/sipgate-adapter-0.1.2.tgz",
+        "checksum": "a5ef9bf18f57fa087ab5ae5b5c91452321158ce74fcd07cf81cd8f87f974f748",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "slack-adapter",
     "display_name": "Slack",
     "description": "Send slack messages to your workspace",
