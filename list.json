@@ -1683,7 +1683,7 @@
           ]
         },
         "version": "0.1.4",
-        "url": "https://github.com/tim-hellhake/prowl-adapter/releases/download/0.1.4/prowl-adapter-0.1.4.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/prowl-adapter-0.1.4.tgz",
         "checksum": "400104a6591a6d658a34909da03240d6f9dd9e063723b8f73769224776148164",
         "api": {
           "min": 2,
