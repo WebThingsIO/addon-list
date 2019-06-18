@@ -2139,7 +2139,7 @@
           ]
         },
         "version": "0.1.3",
-        "url": "https://github.com/tim-hellhake/slack-adapter/releases/download/0.1.3/slack-adapter-0.1.3.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/slack-adapter-0.1.3.tgz",
         "checksum": "a3b6b59f15a914e54a21318032d3b7674e5c049158b5f0b414f81feedead7787",
         "api": {
           "min": 2,
