@@ -1682,9 +1682,9 @@
             "any"
           ]
         },
-        "version": "0.1.1",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/prowl-adapter-0.1.1.tgz",
-        "checksum": "49f1ba45576f969841455e12d0e6002dd501fd87399ee5bd66c5b2039654d62d",
+        "version": "0.1.4",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/prowl-adapter-0.1.4.tgz",
+        "checksum": "400104a6591a6d658a34909da03240d6f9dd9e063723b8f73769224776148164",
         "api": {
           "min": 2,
           "max": 2
