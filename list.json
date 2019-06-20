@@ -1472,9 +1472,9 @@
             "3.7"
           ]
         },
-        "version": "0.0.8",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mysensors-adapter-0.0.8.tgz",
-        "checksum": "d95ca6b3aa5b1112c81a8e5590e599fde45421bbc0ae3a246a10ea519fccd295",
+        "version": "0.1.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mysensors-adapter-0.1.0.tgz",
+        "checksum": "40fcb9b96c5abcfa5ae6e77eeb19d339780a1d708efd2dc03df6f2e6cfd39a82",
         "api": {
           "min": 2,
           "max": 2
