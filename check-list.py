@@ -9,12 +9,15 @@ import re
 import shutil
 import sys
 import tarfile
+import time
 import urllib.error
 import urllib.request
 
 _SCHEMA = './schema.json'
 _LIST = './list.json'
 
+MAX_DOWNLOAD_ATTEMPTS = 5
+DOWNLOAD_ATTEMPT_DELAY = 3  # seconds
 
 def cleanup(exit=True):
     if os.path.exists('package.tgz'):
@@ -110,12 +113,19 @@ def main():
             url = package['url']
             checksum = package['checksum']
 
-            try:
-                urllib.request.urlretrieve(url, 'package.tgz')
-            except urllib.error.URLError:
-                print('Failed to download package for "{}": {}'
-                      .format(name, package['architecture']))
-                cleanup()
+            for attempt in range(MAX_DOWNLOAD_ATTEMPTS):
+                try:
+                    urllib.request.urlretrieve(url, 'package.tgz')
+                    break
+                except urllib.error.URLError:
+                    print('Failed to download package for "{}": {}'
+                          .format(name, package['architecture']))
+                    if (attempt + 1 >= MAX_DOWNLOAD_ATTEMPTS):
+                        print('  aborting')
+                        cleanup()
+                    else:
+                        print('  sleeping and retrying...')
+                        time.sleep(DOWNLOAD_ATTEMPT_DELAY)
 
             # Verify the checksum.
             if checksum != hash_file('./package.tgz'):
