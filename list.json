@@ -177,9 +177,9 @@
             "3.7"
           ]
         },
-        "version": "0.1.0",
-        "url": "https://github.com/mozilla-iot/earthquake-monitor-adapter/releases/download/v0.1.0/earthquake-monitor-adapter-0.1.0.tgz",
-        "checksum": "cc44390ae416b80da0f3b0be5f5ff24ab81f4ba8740d9479d90896f9aa0e4d8c",
+        "version": "0.1.1",
+        "url": "https://github.com/mozilla-iot/earthquake-monitor-adapter/releases/download/v0.1.1/earthquake-monitor-adapter-0.1.1.tgz",
+        "checksum": "00cc2a90fea93b67867ab037b7c22b4600a7dde23fa33233b0569815e19c0841",
         "api": {
           "min": 2,
           "max": 2
