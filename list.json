@@ -41,9 +41,9 @@
             "any"
           ]
         },
-        "version": "0.1.1",
-        "url": "https://github.com/tim-hellhake/alexa-adapter/releases/download/0.1.1/alexa-adapter-0.1.1.tgz",
-        "checksum": "00b12077676a3962e40d0907127bbaf16f4130f3e5298ce8b51b6f52d6f444d4",
+        "version": "0.1.2",
+        "url": "https://github.com/tim-hellhake/alexa-adapter/releases/download/0.1.2/alexa-adapter-0.1.2.tgz",
+        "checksum": "ed9b21a28a42905b0d1c3a3ff3c50f04c5dece951bc719e33dabba5d18a8b900",
         "api": {
           "min": 2,
           "max": 2
