@@ -28,7 +28,7 @@
   {
     "name": "alexa-adapter",
     "display_name": "Alexa",
-    "description": "Control your devices with alexa",
+    "description": "Control your devices with alexa (currently only works with boolean properties)",
     "author": "Tim Hellhake",
     "homepage": "https://github.com/tim-hellhake/alexa-adapter#readme",
     "license": "https://github.com/tim-hellhake/alexa-adapter/blob/master/LICENSE",
