@@ -555,6 +555,32 @@
     ]
   },
   {
+    "name": "google-home-adapter",
+    "display_name": "Google Home",
+    "description": "Uses your Google Home device to speak to you",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/google-home-adapter#readme",
+    "license": "https://github.com/tim-hellhake/google-home-adapter/blob/master/LICENSE",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://github.com/tim-hellhake/google-home-adapter/releases/download/0.1.0/google-home-adapter-0.1.0.tgz",
+        "checksum": "a096d7e143b1f1bc0fbe4d322d4aa95bbe06f42da2741589e40b7495d8b3a5dc",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "gpio-adapter",
     "display_name": "GPIO",
     "description": "GPIO device support",
