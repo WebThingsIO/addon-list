@@ -571,8 +571,8 @@
           ]
         },
         "version": "0.1.0",
-        "url": "https://github.com/tim-hellhake/google-home-adapter/releases/download/0.1.0/google-home-adapter-0.1.0.tgz",
-        "checksum": "a096d7e143b1f1bc0fbe4d322d4aa95bbe06f42da2741589e40b7495d8b3a5dc",
+        "url": "https://github.com/tim-hellhake/google-home-adapter/releases/download/0.1.1/google-home-adapter-0.1.1.tgz",
+        "checksum": "f4d44a971642a36c8af1afa24a6fe89006c547c02e361bce466483142d49f8cb",
         "api": {
           "min": 2,
           "max": 2
