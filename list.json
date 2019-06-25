@@ -3068,9 +3068,9 @@
             "57"
           ]
         },
-        "version": "0.7.4",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.4-linux-arm-v8.tgz",
-        "checksum": "1bc0322bf580695275b11d620884685ac2d4405587ba76403a152ebe3fdaabb8",
+        "version": "0.7.5",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.5-linux-arm-v8.tgz",
+        "checksum": "9defcbdbc2ea08955fd51bf2a8b7fd1808b8f70b4ab38d80082764d7f9b798ce",
         "api": {
           "min": 2,
           "max": 2
@@ -3084,9 +3084,9 @@
             "57"
           ]
         },
-        "version": "0.7.4",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.4-openwrt-linux-arm-v8.tgz",
-        "checksum": "44f21bddff87c2057172a15eb8364ffd49eadac9486e4e866705ea777255e3e9",
+        "version": "0.7.5",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.5-openwrt-linux-arm-v8.tgz",
+        "checksum": "c89163390f18127a163ccdd66dd69aa4eb6ae8fe82aec13bc6f9aae8e1850e85",
         "api": {
           "min": 2,
           "max": 2
@@ -3100,9 +3100,9 @@
             "57"
           ]
         },
-        "version": "0.7.4",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.4-linux-x64-v8.tgz",
-        "checksum": "dfe96ab49cbcf1862595127f146643d3551b343dde119f759a4dad4b4db35945",
+        "version": "0.7.5",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.5-linux-x64-v8.tgz",
+        "checksum": "c076fecec95241f71304da6e0f0f612b72f957bc5fd55a0ed9de18bd4149264a",
         "api": {
           "min": 2,
           "max": 2
@@ -3116,9 +3116,9 @@
             "57"
           ]
         },
-        "version": "0.7.4",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.4-darwin-x64-v8.tgz",
-        "checksum": "7f5093591b3ac47e35a043ae829acc1893522f63142d9fc479a2cf1850c4df64",
+        "version": "0.7.5",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.5-darwin-x64-v8.tgz",
+        "checksum": "c5fba360a0ac9e691db3d7e11a0638a29b7f1073f92fd3ab8c0137fb4494eee3",
         "api": {
           "min": 2,
           "max": 2
@@ -3132,9 +3132,9 @@
             "64"
           ]
         },
-        "version": "0.7.4",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.4-linux-arm-v10.tgz",
-        "checksum": "8278206448bddae1c8806095c966872a6b43eae1bea23f63e607be0e3c7b8d7f",
+        "version": "0.7.5",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.5-linux-arm-v10.tgz",
+        "checksum": "f8283386f1f0f17f6cf42b5d292ee545263a0249f63d6a9fc796dc56a9be6bb9",
         "api": {
           "min": 2,
           "max": 2
@@ -3148,9 +3148,9 @@
             "64"
           ]
         },
-        "version": "0.7.4",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.4-linux-x64-v10.tgz",
-        "checksum": "be274c95856b58461500c293bdbd67f0199197e803c8aac529f057c3f7e926cd",
+        "version": "0.7.5",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.5-linux-x64-v10.tgz",
+        "checksum": "d6768d6c4fe735c396b9304ec973e3c3de1e83a767041234f5f9268fe32fcfcb",
         "api": {
           "min": 2,
           "max": 2
@@ -3164,9 +3164,9 @@
             "64"
           ]
         },
-        "version": "0.7.4",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.4-darwin-x64-v10.tgz",
-        "checksum": "25d02f4628f3458906cbc026ea4c61aa80c768f8be8f7ed0af6cf2a1fe086f32",
+        "version": "0.7.5",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.5-darwin-x64-v10.tgz",
+        "checksum": "0b9bb12794ac9076001e467063fe4926dab854c5e7c26762feb0eb96a7cf482e",
         "api": {
           "min": 2,
           "max": 2
