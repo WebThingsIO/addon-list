@@ -27,7 +27,7 @@
   },
   {
     "name": "alexa-adapter",
-    "display_name": "Alexa",
+    "display_name": "Philips Hue Bridge Emulator for Alexa",
     "description": "Control your devices with alexa (currently only works with boolean properties)",
     "author": "Tim Hellhake",
     "homepage": "https://github.com/tim-hellhake/alexa-adapter#readme",
@@ -41,9 +41,9 @@
             "any"
           ]
         },
-        "version": "0.1.3",
-        "url": "https://github.com/tim-hellhake/alexa-adapter/releases/download/0.1.3/alexa-adapter-0.1.3.tgz",
-        "checksum": "d2c4c3300b5104d7b055bedabb2074a01138ce400dccc70334b8b1378ef454fb",
+        "version": "0.1.4",
+        "url": "https://github.com/tim-hellhake/alexa-adapter/releases/download/0.1.4/alexa-adapter-0.1.4.tgz",
+        "checksum": "58a58a354d3ec6e9735d04cd83dc6fe01ac112d4ba9e41d9a06f9d1b3847f20e",
         "api": {
           "min": 2,
           "max": 2
