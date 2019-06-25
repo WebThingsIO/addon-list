@@ -556,7 +556,7 @@
   },
   {
     "name": "google-home-adapter",
-    "display_name": "Google Home",
+    "display_name": "Google Home Text to Speech",
     "description": "Uses your Google Home device to speak to you",
     "author": "Tim Hellhake",
     "homepage": "https://github.com/tim-hellhake/google-home-adapter#readme",
@@ -570,9 +570,9 @@
             "any"
           ]
         },
-        "version": "0.1.5",
-        "url": "https://github.com/tim-hellhake/google-home-adapter/releases/download/0.1.5/google-home-adapter-0.1.5.tgz",
-        "checksum": "d1ceb8bfc703d4db9cade73a52b0df7605f5a98d5e6568e4f6f146cd5378f1ba",
+        "version": "0.1.6",
+        "url": "https://github.com/tim-hellhake/google-home-adapter/releases/download/0.1.6/google-home-adapter-0.1.6.tgz",
+        "checksum": "1b07b9819f60b56bbd306d10d5bc50ed1f22e3538592a6bbc4a9d9e966607727",
         "api": {
           "min": 2,
           "max": 2
