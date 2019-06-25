@@ -571,7 +571,7 @@
           ]
         },
         "version": "0.1.6",
-        "url": "https://github.com/tim-hellhake/google-home-adapter/releases/download/0.1.6/google-home-adapter-0.1.6.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/google-home-adapter-0.1.6.tgz",
         "checksum": "1b07b9819f60b56bbd306d10d5bc50ed1f22e3538592a6bbc4a9d9e966607727",
         "api": {
           "min": 2,
@@ -2193,7 +2193,7 @@
           ]
         },
         "version": "0.1.2",
-        "url": "https://mozilla-gateway-addons.s3-us-west-2.amazonaws.com/sipgate-adapter-0.1.2.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sipgate-adapter-0.1.2.tgz",
         "checksum": "a5ef9bf18f57fa087ab5ae5b5c91452321158ce74fcd07cf81cd8f87f974f748",
         "api": {
           "min": 2,
