@@ -2232,9 +2232,9 @@
     "name": "sonos-adapter",
     "display_name": "Sonos",
     "description": "Sonos player support",
-    "author": "Martin Giger",
-    "homepage": "https://github.com/freaktechnik/sonos-adapter#readme",
-    "license": "https://github.com/freaktechnik/sonos-adapter/blob/master/LICENSE",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/sonos-adapter#readme",
+    "license": "https://github.com/tim-hellhake/sonos-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "any",
@@ -2244,9 +2244,9 @@
             "any"
           ]
         },
-        "version": "0.6.1",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sonos-adapter-0.6.1.tgz",
-        "checksum": "9e05e638f6a2f9b9454dec4786e357e8069e4997e032952f4558293fbf15abb4",
+        "version": "0.6.3",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sonos-adapter-0.6.3.tgz",
+        "checksum": "984a587eb8456f1a98ffcc07a9c50f4a45a1585e82ff6e5c63447f0b24813c48",
         "api": {
           "min": 1,
           "max": 2
