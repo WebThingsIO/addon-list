@@ -2232,9 +2232,9 @@
     "name": "sonos-adapter",
     "display_name": "Sonos",
     "description": "Sonos player support",
-    "author": "Martin Giger",
-    "homepage": "https://github.com/freaktechnik/sonos-adapter#readme",
-    "license": "https://github.com/freaktechnik/sonos-adapter/blob/master/LICENSE",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/sonos-adapter#readme",
+    "license": "https://github.com/tim-hellhake/sonos-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "any",
