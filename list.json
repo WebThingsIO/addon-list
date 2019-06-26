@@ -1050,7 +1050,7 @@
     "name": "logitech-harmony-adapter",
     "display_name": "Logitech Harmony",
     "description": "Logitech Harmony Hub support",
-    "author": "Martin Giger",
+    "author": "Tim Hellhake",
     "homepage": "https://github.com/freaktechnik/logitech-harmony-adapter#readme",
     "license": "https://github.com/freaktechnik/logitech-harmony-adapter/blob/master/LICENSE",
     "packages": [
@@ -1062,9 +1062,9 @@
             "any"
           ]
         },
-        "version": "0.2.5",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/logitech-harmony-adapter-0.2.5.tgz",
-        "checksum": "f3392ae1c3449af309449ae919c49f068dbbff5f77693320c6e79365ec38ada9",
+        "version": "0.2.6",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/logitech-harmony-adapter-0.2.6.tgz",
+        "checksum": "3c73b61947d5902e5c085ba7af5b5563db58c1b223634b37e2953e607da96066",
         "api": {
           "min": 1,
           "max": 2
