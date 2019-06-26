@@ -406,9 +406,9 @@
     "name": "flic-button-adapter",
     "display_name": "Flic Button",
     "description": "React to Flic button presses via proprietary flic daemon (included for Linux)",
-    "author": "Martin Giger",
-    "homepage": "https://github.com/freaktechnik/flic-button-adapter#readme",
-    "license": "https://github.com/freaktechnik/flic-button-adapter/blob/master/LICENSE",
+    "author": "Michael Stegeman",
+    "homepage": "https://github.com/mrstegeman/flic-button-adapter#readme",
+    "license": "https://github.com/mrstegeman/flic-button-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "any",
@@ -418,9 +418,9 @@
             "any"
           ]
         },
-        "version": "0.1.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/flic-button-adapter-0.1.0.tgz",
-        "checksum": "f1a4e1b8aeb4cbb73fddf19869d54c0bf5abba43c6d6a8b410907e1934809d7a",
+        "version": "0.1.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/flic-button-adapter-0.1.1.tgz",
+        "checksum": "28417a83fb674d9fa58a5935a5db373edc62a6fbc4772b9cfd73f366d41b2b2f",
         "api": {
           "min": 2,
           "max": 2
