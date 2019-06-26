@@ -1064,7 +1064,7 @@
         },
         "version": "0.2.6",
         "url": "https://github.com/tim-hellhake/logitech-harmony-adapter/releases/download/0.2.6/logitech-harmony-adapter-0.2.6.tgz",
-        "checksum": "f26410b30c6d4d0dbce7851fd0cb39f03a1be57f337c955c54f4e401fd710ec9",
+        "checksum": "3c73b61947d5902e5c085ba7af5b5563db58c1b223634b37e2953e607da96066",
         "api": {
           "min": 1,
           "max": 2
