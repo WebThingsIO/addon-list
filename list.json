@@ -109,9 +109,9 @@
     "name": "chromecast-adapter",
     "display_name": "Chromecast",
     "description": "Chromecast support",
-    "author": "Martin Giger",
-    "homepage": "https://github.com/freaktechnik/chromecast-adapter#readme",
-    "license": "https://github.com/freaktechnik/chromecast-adapter/blob/master/LICENSE",
+    "author": "Michael Stegeman",
+    "homepage": "https://github.com/mrstegeman/chromecast-adapter#readme",
+    "license": "https://github.com/mrstegeman/chromecast-adapter/blob/master/LICENSE",
     "packages": [
       {
         "architecture": "any",
@@ -121,11 +121,11 @@
             "any"
           ]
         },
-        "version": "0.3.3",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/chromecast-adapter-0.3.3.tgz",
-        "checksum": "5cc0719f2c5a996c6a61166760f34281ff887198836690a3c4f1eb315990063f",
+        "version": "0.3.4",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/chromecast-adapter-0.3.4.tgz",
+        "checksum": "ccd512ed96fbc12cde85adb6f334d44e9e843dd28dbc7a050fadeb246e861527",
         "api": {
-          "min": 1,
+          "min": 2,
           "max": 2
         }
       }
