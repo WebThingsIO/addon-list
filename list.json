@@ -1658,9 +1658,9 @@
             "any"
           ]
         },
-        "version": "0.3.0",
-        "url": "https://github.com/tim-hellhake/openuv-adapter/releases/download/0.3.0/openuv-adapter-0.3.0.tgz",
-        "checksum": "2bb5865cf19da0c0e4fc16f93e43a6e633681f8c88413a19eee669bda2685c97",
+        "version": "0.3.1",
+        "url": "https://github.com/tim-hellhake/openuv-adapter/releases/download/0.3.1/openuv-adapter-0.3.1.tgz",
+        "checksum": "37bd48d0c395bc76e999179b7a392da449b34791dbb23efbe8bd35a4fdc0ecbb",
         "api": {
           "min": 2,
           "max": 2
