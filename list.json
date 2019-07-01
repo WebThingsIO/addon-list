@@ -1658,9 +1658,9 @@
             "any"
           ]
         },
-        "version": "0.3.1",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/openuv-adapter-0.3.1.tgz",
-        "checksum": "37bd48d0c395bc76e999179b7a392da449b34791dbb23efbe8bd35a4fdc0ecbb",
+        "version": "0.4.0",
+        "url": "https://github.com/tim-hellhake/openuv-adapter/releases/download/0.4.0/openuv-adapter-0.4.0.tgz",
+        "checksum": "14ecdece9372e9da43b81114bfa37bc8497199df2b45b53d62c97c7124cb178e",
         "api": {
           "min": 2,
           "max": 2
