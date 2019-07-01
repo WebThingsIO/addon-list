@@ -1644,7 +1644,7 @@
   },
   {
     "name": "openuv-adapter",
-    "display_name": "OpenUV",
+    "display_name": "OpenUV - Clear sky UV index",
     "description": "Get the current uv index from www.openuv.io",
     "author": "Tim Hellhake",
     "homepage": "https://github.com/tim-hellhake/openuv-adapter#readme",
