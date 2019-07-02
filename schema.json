@@ -9,6 +9,8 @@
             "description",
             "author",
             "homepage",
+            "license",
+            "type",
             "packages"
         ],
         "properties": {
@@ -31,6 +33,19 @@
             "homepage": {
                 "type": "string",
                 "minLength": 11
+            },
+            "license": {
+                "type": "string",
+                "minLength": 11
+            },
+            "type": {
+                "type": "string",
+                "enum": [
+                    "adapter",
+                    "notifier",
+                    "service",
+                    "extension"
+                ]
             },
             "packages": {
                 "type": "array",
