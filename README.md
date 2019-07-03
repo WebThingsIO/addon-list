@@ -36,6 +36,7 @@ You can submit a [pull request](https://github.com/mozilla-iot/addon-list/pulls)
 * `author`: Name of the add-on author.
 * `homepage`: Homepage of the add-on, i.e. the Github repository.
 * `license`: Link to the add-on's license.
+* `type`: Primary type of this add-on. Should be one of: adapter, notifier
 * `packages`: An object describing supported architectures and their packages. Each entry should be of the form:
 
     ```javascript
@@ -84,6 +85,7 @@ You can submit a [pull request](https://github.com/mozilla-iot/addon-list/pulls)
   "author": "Mozilla IoT",
   "homepage": "https://github.com/mozilla-iot/thing-url-adapter",
   "license": "https://github.com/mozilla-iot/thing-url-adapter/blob/master/LICENSE",
+  "type": "adapter",
   "packages": [
     {
       "architecture": "linux-arm",

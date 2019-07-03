@@ -19,6 +19,7 @@ _LIST = './list.json'
 MAX_DOWNLOAD_ATTEMPTS = 5
 DOWNLOAD_ATTEMPT_DELAY = 3  # seconds
 
+
 def cleanup(exit=True):
     if os.path.exists('package.tgz'):
         os.unlink('package.tgz')
@@ -220,7 +221,7 @@ def main():
             if 'author' not in manifest:
                 print('Author missing for package "{}"'.format(name))
             elif type(manifest['author']) is dict and \
-                manifest['author']['name'] != entry['author']:
+                    manifest['author']['name'] != entry['author']:
                 print('Author mismatch for package "{}": '
                       'author from package.json "{}" doesn\'t match '
                       'author from list.json "{}"'
@@ -234,6 +235,7 @@ def main():
                       .format(name, manifest['author'], entry['author']))
                 cleanup()
 
+            # Verify that the display name matches
             if 'display_name' not in manifest:
                 print('Display name missing for package "{}"'
                       .format(name))
@@ -254,10 +256,16 @@ def main():
                               entry['homepage']))
                 cleanup()
 
-            # Check for license url
-            if 'license' not in entry:
-                print('License URL missing for package "{}"'.format(name))
-                cleanup()
+            # Verify that the type matches
+            t = 'adapter'
+            if 'type' in manifest['moziot']:
+                t = manifest['moziot']['type']
+
+            if t != entry['type']:
+                print('type mismatch for package "{}": '
+                      'type from package.json "{}" doesn\'t match type '
+                      'from list.json "{}"'
+                      .format(name, t, entry['type']))
 
             # Verify that the API version matches
             if manifest['moziot']['api']['min'] != package['api']['min']:
@@ -303,4 +311,7 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    try:
+        main()
+    except KeyboardInterrupt:
+        cleanup()
