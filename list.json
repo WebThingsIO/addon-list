@@ -27,6 +27,33 @@
     ]
   },
   {
+    "name": "azure-iot-bridge",
+    "display_name": "Azure IoT bridge",
+    "description": "Connect your devices to an Azure IoT hub",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/azure-iot-bridge#readme",
+    "license": "https://github.com/tim-hellhake/azure-iot-bridge/blob/master/LICENSE",
+    "type": "adapter",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/azure-iot-bridge-0.1.0.tgz",
+        "checksum": "58b56d8d35ff4a35e96ed4acc7118f9b9948b647a664ba5b7951670df2237e64",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "blinkt-adapter",
     "display_name": "Pimoroni Blinkt!",
     "description": "Pimoroni Blinkt! support",
