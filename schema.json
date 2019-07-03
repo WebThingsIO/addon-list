@@ -42,9 +42,7 @@
                 "type": "string",
                 "enum": [
                     "adapter",
-                    "notifier",
-                    "service",
-                    "extension"
+                    "notifier"
                 ]
             },
             "packages": {
