@@ -1841,6 +1841,33 @@
     ]
   },
   {
+    "name": "ring-adapter",
+    "display_name": "Ring",
+    "description": "Ring device adapter.",
+    "author": "damooooooooooh",
+    "homepage": "https://github.com/damooooooooooh/ring-adapter",
+    "license": "https://github.com/damooooooooooh/ring-adapter/blob/master/LICENSE",
+    "type": "adapter",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.0.1",
+        "url": "https://github.com/damooooooooooh/ring-adapter/releases/download/0.0.1/ring-adapter-0.0.1.tgz",
+        "checksum": "0f118c212b3b01c94749911f0534b8c69b28b8e4aadb0bff246679bc548d0a58",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "roku-adapter",
     "display_name": "Roku",
     "description": "Roku support",
