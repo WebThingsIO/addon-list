@@ -2414,6 +2414,33 @@
     ]
   },
   {
+    "name": "tankerkoenig-adapter",
+    "display_name": "Tankerkönig",
+    "description": "Shows you the gas prices near you (germany only)",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/tankerkoenig-adapter#readme",
+    "license": "https://github.com/tim-hellhake/tankerkoenig-adapter/blob/master/LICENSE",
+    "type": "adapter",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tankerkoenig-adapter-0.1.0.tgz",
+        "checksum": "dfce8243d0dab01f23bf85dd6baaa7d891e7e5daf98d5aa6fe68bbd71b036c49",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "telegram-sender-adapter",
     "display_name": "Telegram notification Sender",
     "description": "Simple telegram sending actions. Needs to be configured with chatid and token.",
