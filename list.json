@@ -127,7 +127,7 @@
           ]
         },
         "version": "0.0.6",
-        "url": "https://github.com/createcandle/Candle-manager-addon/raw/master/Candle-manager-0.0.6.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/Candle-manager-0.0.6.tgz",
         "checksum": "67261e5493b212ad5acc8890d42d9f794ac25352eee0e0b89f082a3bd6900ca7",
         "api": {
           "min": 2,
