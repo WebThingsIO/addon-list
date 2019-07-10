@@ -2,7 +2,7 @@
   {
     "name": "activitypub-adapter",
     "display_name": "ActivityPub",
-    "description": "Send notice to Mastodon SocialWeb. See: https://github.com/rzr/mastodon-lite",
+    "description": "Send notice to Mastodon SocialWeb.",
     "author": "Philippe Coval",
     "homepage": "https://github.com/rzr/mastodon-lite",
     "license": "https://github.com/rzr/mastodon-lite/blob/master/LICENSE",
@@ -29,7 +29,7 @@
   {
     "name": "azure-iot-bridge",
     "display_name": "Azure IoT bridge",
-    "description": "Connect your devices to an Azure IoT hub",
+    "description": "Connect your devices to an Azure IoT hub.",
     "author": "Tim Hellhake",
     "homepage": "https://github.com/tim-hellhake/azure-iot-bridge#readme",
     "license": "https://github.com/tim-hellhake/azure-iot-bridge/blob/master/LICENSE",
@@ -83,7 +83,7 @@
   {
     "name": "broadlink-adapter",
     "display_name": "BroadLink",
-    "description": "Support IR devices with BroadLink. See: https://github.com/sogaani/broadlink-adapter",
+    "description": "Support IR devices with BroadLink.",
     "author": "sogaani",
     "homepage": "https://github.com/sogaani/broadlink-adapter",
     "license": "https://github.com/sogaani/broadlink-adapter/blob/master/LICENSE",
@@ -195,7 +195,7 @@
   {
     "name": "earthquake-monitor-adapter",
     "display_name": "Earthquake Monitor",
-    "description": "Earthquake monitor",
+    "description": "Earthquake monitor using USGS data",
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/earthquake-monitor-adapter",
     "license": "https://github.com/mozilla-iot/earthquake-monitor-adapter/blob/master/LICENSE",
@@ -498,7 +498,7 @@
   {
     "name": "generic-sensors-adapter",
     "display_name": "Generic Sensors",
-    "description": "Generic Sensors devices support. See: https://github.com/rzr/mozilla-iot-generic-sensors-adapter",
+    "description": "Generic Sensors devices support",
     "author": "Philippe Coval",
     "homepage": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter",
     "license": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter/blob/master/LICENSE",
@@ -2421,7 +2421,7 @@
   {
     "name": "spotify-adapter",
     "display_name": "Spotify",
-    "description": "Control your spotify player",
+    "description": "Control your Spotify player",
     "author": "Tim Hellhake",
     "homepage": "https://github.com/tim-hellhake/spotify-adapter#readme",
     "license": "https://github.com/tim-hellhake/spotify-adapter/blob/master/LICENSE",
@@ -2475,7 +2475,7 @@
   {
     "name": "tankerkoenig-adapter",
     "display_name": "Tankerkönig",
-    "description": "Shows you the gas prices near you (germany only)",
+    "description": "Shows you the gas prices near you (Germany only)",
     "author": "Tim Hellhake",
     "homepage": "https://github.com/tim-hellhake/tankerkoenig-adapter#readme",
     "license": "https://github.com/tim-hellhake/tankerkoenig-adapter/blob/master/LICENSE",
