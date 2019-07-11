@@ -1105,9 +1105,9 @@
     "name": "lifx-adapter",
     "display_name": "LIFX",
     "description": "LIFX smart bulb support",
-    "author": "Stephen Oliver",
-    "homepage": "https://github.com/infincia/lifx-adapter",
-    "license": "https://github.com/infincia/lifx-adapter/blob/master/LICENSE",
+    "author": "Michael Stegeman",
+    "homepage": "https://github.com/mrstegeman/lifx-adapter",
+    "license": "https://github.com/mrstegeman/lifx-adapter/blob/master/LICENSE",
     "type": "adapter",
     "packages": [
       {
@@ -1120,11 +1120,11 @@
             "3.7"
           ]
         },
-        "version": "0.1.6",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lifx-adapter-0.1.6.tgz",
-        "checksum": "4ff28706da86cf4d3edb2499e1f3a012eedc0bf0d2c9d6a54f7b4f9229b6f54c",
+        "version": "0.1.7",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lifx-adapter-0.1.7.tgz",
+        "checksum": "64fc9f098692fe89cec1271fc1eb210fc58f571d945f4d5ac07e2398a6ae024e",
         "api": {
-          "min": 1,
+          "min": 2,
           "max": 2
         }
       }
