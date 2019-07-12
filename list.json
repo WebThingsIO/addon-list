@@ -643,14 +643,14 @@
         },
         "version": "0.6.1",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.6.1-linux-arm-v8.tgz",
-        "checksum": "8694ef63519f52674bca49d519f42058479e577d83841c20f3e7316a28ccdfb8",
+        "checksum": "13509ca101590db72db3d659ed67461a80fbcf9fbf932548b0028f68267ff965",
         "api": {
           "min": 2,
           "max": 2
         }
       },
       {
-        "architecture": "openwrt-linux-arm",
+        "architecture": "openwrt-linux-arm_cortex-a7_neon-vfpv4",
         "language": {
           "name": "nodejs",
           "versions": [
@@ -658,7 +658,7 @@
           ]
         },
         "version": "0.6.1",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.6.1-openwrt-linux-arm-v8.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.6.1-openwrt-linux-arm_cortex-a7_neon-vfpv4-v8.tgz",
         "checksum": "fbf1ce1ce1017adf5eaf41a61b647df58175e11ede7d30d22eb9df918332104f",
         "api": {
           "min": 2,
@@ -675,7 +675,7 @@
         },
         "version": "0.6.1",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.6.1-linux-x64-v8.tgz",
-        "checksum": "0875d2a4ab361fd176371f3d9d9843e4fbf830fb96377d296b38f42042ff4f38",
+        "checksum": "3560a834afc9f7c1a98bd5a8ab8050db21fa72214e3387c08c69e35b87b8b6fe",
         "api": {
           "min": 2,
           "max": 2
@@ -691,7 +691,7 @@
         },
         "version": "0.6.1",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.6.1-darwin-x64-v8.tgz",
-        "checksum": "e82db11d8e0e8efc60fece856ca6a1b5745513f194a797f035580e5f9c219fc2",
+        "checksum": "bd7bdb72fc754c5367e6145cd49d8048b4cc3b72385ce2ab728e70c896544cb1",
         "api": {
           "min": 2,
           "max": 2
@@ -707,7 +707,7 @@
         },
         "version": "0.6.1",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.6.1-linux-arm-v10.tgz",
-        "checksum": "6a971e8a8d77866c4bfe2d54f06eb7e2fe4add41828adedc57883be660cb00df",
+        "checksum": "b003e34b505aaa2371b311b83de8f52169397d63f2b65bf472627af481f2b933",
         "api": {
           "min": 2,
           "max": 2
@@ -723,7 +723,7 @@
         },
         "version": "0.6.1",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.6.1-linux-x64-v10.tgz",
-        "checksum": "cf4997ebe72ebc36c1aa3fb44d4e116701d888648a1387d338ae7d38dbe76d6f",
+        "checksum": "9ba4bb0d79a719a46372c03cb4eff644a95b8303cf18ca8520234cd92aaa05c0",
         "api": {
           "min": 2,
           "max": 2
@@ -739,7 +739,23 @@
         },
         "version": "0.6.1",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.6.1-darwin-x64-v10.tgz",
-        "checksum": "6eb073562f5a9e1b5fb34d8d60083665057980550539825a43391c2fdf430c53",
+        "checksum": "2ef401d1b5adc2beccf4139a14c57f9a10bb1ad8a86aa732a76160eb14c807f2",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "openwrt-linux-arm_cortex-a9_vfpv3",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
+        "version": "0.6.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.6.1-openwrt-linux-arm_cortex-a9_vfpv3-v8.tgz",
+        "checksum": "de9afd1d704d7be529b27dab3c452b3c36564a484bf0f8e8b19bab462d9a1ac5",
         "api": {
           "min": 2,
           "max": 2
@@ -981,7 +997,7 @@
         },
         "version": "0.1.0",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.1.0-linux-arm-v8.tgz",
-        "checksum": "e1887ee57672de24401da3bfcdb23cd28679a574a958cef88f74885d108b6aaa",
+        "checksum": "7db9c8f6d251dd07a2473ce52e218530edb76403d200a58b8d2cb0d0d1df7c60",
         "api": {
           "min": 2,
           "max": 2
@@ -997,14 +1013,14 @@
         },
         "version": "0.1.0",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.1.0-linux-x64-v8.tgz",
-        "checksum": "5a383a3d3364efeded01b8edb1a08d838129ea38836993697e6d7ce36e7613d2",
+        "checksum": "16b22ccdfbc3829ff38b0420bb072e35db0802ed8d26020703aaf275f3663dec",
         "api": {
           "min": 2,
           "max": 2
         }
       },
       {
-        "architecture": "openwrt-linux-arm",
+        "architecture": "openwrt-linux-arm_cortex-a7_neon-vfpv4",
         "language": {
           "name": "nodejs",
           "versions": [
@@ -1012,8 +1028,8 @@
           ]
         },
         "version": "0.1.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.1.0-openwrt-linux-arm-v8.tgz",
-        "checksum": "7e2947cee93d9683a74e52345e34938c0dc3688ba94413bfecb5f8dea37a5e58",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.1.0-openwrt-linux-arm_cortex-a7_neon-vfpv4-v8.tgz",
+        "checksum": "4824c035a3f5f34ca222c507bc957d711f77be77846be3b60a8fbf656d0be4d3",
         "api": {
           "min": 2,
           "max": 2
@@ -1029,55 +1045,7 @@
         },
         "version": "0.1.0",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.1.0-darwin-x64-v8.tgz",
-        "checksum": "f7baaabb39e2a2655f15810b5cb1b0ad269d3a40d4232c7b637547a5241f994c",
-        "api": {
-          "min": 2,
-          "max": 2
-        }
-      },
-      {
-        "architecture": "linux-arm",
-        "language": {
-          "name": "nodejs",
-          "versions": [
-            "64"
-          ]
-        },
-        "version": "0.1.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.1.0-linux-arm-v10.tgz",
-        "checksum": "0d2b55960122a019da162058b3f08e3ae415bcdcda323d51e2c78c40f0051f86",
-        "api": {
-          "min": 2,
-          "max": 2
-        }
-      },
-      {
-        "architecture": "linux-x64",
-        "language": {
-          "name": "nodejs",
-          "versions": [
-            "64"
-          ]
-        },
-        "version": "0.1.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.1.0-linux-x64-v10.tgz",
-        "checksum": "de5fb53135fedfae595d0674421d9edd6bda4e343c7ff35645d3aeab82bbb722",
-        "api": {
-          "min": 2,
-          "max": 2
-        }
-      },
-      {
-        "architecture": "openwrt-linux-arm",
-        "language": {
-          "name": "nodejs",
-          "versions": [
-            "64"
-          ]
-        },
-        "version": "0.1.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.1.0-openwrt-linux-arm-v10.tgz",
-        "checksum": "9ca4bbd3d56bb9583b56a9566f53777c776bb615d416c934b4ca4ffd7c1e2f1d",
+        "checksum": "95c2ac3e7eea745cc9f64c6406817305907dfd21ba2119d1e43673e92801993a",
         "api": {
           "min": 2,
           "max": 2
@@ -1093,7 +1061,39 @@
         },
         "version": "0.1.0",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.1.0-darwin-x64-v10.tgz",
-        "checksum": "624919c199ca0cb9556f32d676beee8e0d3ece998422617567469e5e51796185",
+        "checksum": "4341f7b3f6a3c9ad9332d1c4c36074aa98a256e149ab195da8a35df00f4501d6",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "linux-x64",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "64"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.1.0-linux-x64-v10.tgz",
+        "checksum": "1383b8aa9902ece727fdb1dfb5ee66feeefc2075fb1ba5fb875a4d00cc3bb0f8",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "openwrt-linux-arm_cortex-a9_vfpv3",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.1.0-openwrt-linux-arm_cortex-a9_vfpv3-v8.tgz",
+        "checksum": "a59fe0b3619d23336a5a54a1863528b03c1099fc4ed3932cc6ffe846a0376536",
         "api": {
           "min": 2,
           "max": 2
@@ -1226,22 +1226,6 @@
         }
       },
       {
-        "architecture": "openwrt-linux-arm",
-        "language": {
-          "name": "nodejs",
-          "versions": [
-            "57"
-          ]
-        },
-        "version": "0.1.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.0-openwrt-linux-arm-v8.tgz",
-        "checksum": "3acd662ccce804ca526f3226a4d7a1350c44a87f84b123041eb31cdf1ff09ef8",
-        "api": {
-          "min": 2,
-          "max": 2
-        }
-      },
-      {
         "architecture": "darwin-x64",
         "language": {
           "name": "nodejs",
@@ -1284,22 +1268,6 @@
         "version": "0.1.0",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.0-linux-x64-v10.tgz",
         "checksum": "1c90a4394f3a12f118b09445d2bea0def5a190f3487873c93c959300191606d4",
-        "api": {
-          "min": 2,
-          "max": 2
-        }
-      },
-      {
-        "architecture": "openwrt-linux-arm",
-        "language": {
-          "name": "nodejs",
-          "versions": [
-            "64"
-          ]
-        },
-        "version": "0.1.0",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.0-openwrt-linux-arm-v10.tgz",
-        "checksum": "8ac1938f7f7ba33a9dc12028a175901b6380b3474b73fe4a5143c0175adfc331",
         "api": {
           "min": 2,
           "max": 2
@@ -1501,22 +1469,6 @@
         }
       },
       {
-        "architecture": "openwrt-linux-arm",
-        "language": {
-          "name": "nodejs",
-          "versions": [
-            "57"
-          ]
-        },
-        "version": "0.1.8",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-0.1.8-openwrt-linux-arm-v8.tgz",
-        "checksum": "a054f6254ed15f5b069718ca6f7a80f57abf6e726c5560fb9c0b1f2ad3e222f6",
-        "api": {
-          "min": 2,
-          "max": 2
-        }
-      },
-      {
         "architecture": "darwin-x64",
         "language": {
           "name": "nodejs",
@@ -1559,22 +1511,6 @@
         "version": "0.1.8",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-0.1.8-linux-x64-v10.tgz",
         "checksum": "79a26af133b23bc444b6c42e8336ed3f5ca606a5e383dc9bc8b1c5de842205c5",
-        "api": {
-          "min": 2,
-          "max": 2
-        }
-      },
-      {
-        "architecture": "openwrt-linux-arm",
-        "language": {
-          "name": "nodejs",
-          "versions": [
-            "64"
-          ]
-        },
-        "version": "0.1.8",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-0.1.8-openwrt-linux-arm-v10.tgz",
-        "checksum": "93aba0dfaf16ed132fee30dd4626a21c4375f0ab4bb3aa168deac50d248d9719",
         "api": {
           "min": 2,
           "max": 2
@@ -1968,22 +1904,6 @@
         }
       },
       {
-        "architecture": "openwrt-linux-arm",
-        "language": {
-          "name": "nodejs",
-          "versions": [
-            "57"
-          ]
-        },
-        "version": "0.1.2",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.1.2-openwrt-linux-arm-v8.tgz",
-        "checksum": "67341772f3c17f54841ebe57492f0ca33f07be8a469c69dae736ec62f802bf01",
-        "api": {
-          "min": 2,
-          "max": 2
-        }
-      },
-      {
         "architecture": "darwin-x64",
         "language": {
           "name": "nodejs",
@@ -2026,22 +1946,6 @@
         "version": "0.1.2",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.1.2-linux-x64-v10.tgz",
         "checksum": "ffd2df34e6abe14d9e421f7a4cf11f1d1ce026f4ca39f5d36da564b33448596e",
-        "api": {
-          "min": 2,
-          "max": 2
-        }
-      },
-      {
-        "architecture": "openwrt-linux-arm",
-        "language": {
-          "name": "nodejs",
-          "versions": [
-            "64"
-          ]
-        },
-        "version": "0.1.2",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.1.2-openwrt-linux-arm-v10.tgz",
-        "checksum": "c297aa5932e3a41cfb1269695b70e9a98696342ca81008fa3af7b6538c9aec40",
         "api": {
           "min": 2,
           "max": 2
@@ -2957,22 +2861,6 @@
         }
       },
       {
-        "architecture": "openwrt-linux-arm",
-        "language": {
-          "name": "nodejs",
-          "versions": [
-            "57"
-          ]
-        },
-        "version": "0.1.3",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.3-openwrt-linux-arm-v8.tgz",
-        "checksum": "95899ee089ea106e360274efd4534f8e56acd62d2235ef7ef55ac32a90dfff74",
-        "api": {
-          "min": 2,
-          "max": 2
-        }
-      },
-      {
         "architecture": "linux-x64",
         "language": {
           "name": "nodejs",
@@ -3102,14 +2990,14 @@
         },
         "version": "0.7.14",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.7.14-linux-arm-v8.tgz",
-        "checksum": "9a1f5206b3daa8a6955a6dd9819dced364409863dab2f319bfe8bd1f1b2057d3",
+        "checksum": "c1597efdeb891183b6ae3e1311f6092cd3f08e1be4d542340a51418901528fbc",
         "api": {
           "min": 2,
           "max": 2
         }
       },
       {
-        "architecture": "openwrt-linux-arm",
+        "architecture": "openwrt-linux-arm_cortex-a7_neon-vfpv4",
         "language": {
           "name": "nodejs",
           "versions": [
@@ -3117,8 +3005,8 @@
           ]
         },
         "version": "0.7.14",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.7.14-openwrt-linux-arm-v8.tgz",
-        "checksum": "a4e9b9c8bd810857826a2c9eeb0d458baa7d195def46c3eb062ec867352d3145",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.7.14-openwrt-linux-arm_cortex-a7_neon-vfpv4-v8.tgz",
+        "checksum": "984f20c0aa434b6c168e4c19ab27fd79cb5a6ec87964ee3e22edd81fec891d65",
         "api": {
           "min": 2,
           "max": 2
@@ -3134,7 +3022,7 @@
         },
         "version": "0.7.14",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.7.14-linux-x64-v8.tgz",
-        "checksum": "154bdf940c43c2b61ae29b0431ac783623657532ec055928320b7ea705da015b",
+        "checksum": "1f837be10b0435fdd84fdcef5ece88e1111dc9cb5eb1dec4e6b06815e5c9cbc1",
         "api": {
           "min": 2,
           "max": 2
@@ -3150,7 +3038,7 @@
         },
         "version": "0.7.14",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.7.14-darwin-x64-v8.tgz",
-        "checksum": "b4337d41408a73b710518fb01133304fc1d8cd089d76f85c30b26703fc722c9b",
+        "checksum": "bef500fe48d88462dee98d76efa99e19096d6f12e168c7298c6f50e6c0018354",
         "api": {
           "min": 2,
           "max": 2
@@ -3166,7 +3054,7 @@
         },
         "version": "0.7.14",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.7.14-linux-arm-v10.tgz",
-        "checksum": "e9dcf14ee3288b999162ad173f9c48b46e19c795506a091361ce5dbf0bd4c63e",
+        "checksum": "357ae9f4ef101696d2a2b0c54735599b3766256dd3941a3e3cf80b4e9c4dae60",
         "api": {
           "min": 2,
           "max": 2
@@ -3182,7 +3070,7 @@
         },
         "version": "0.7.14",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.7.14-linux-x64-v10.tgz",
-        "checksum": "606c04046e85230cd779373efe3ca53db2eb628d774763a4eaa6c709d7132b52",
+        "checksum": "bbb39f07e231f60a315a00ae43763a8f7eae3c57c7ff3943f28c41931c5c0707",
         "api": {
           "min": 2,
           "max": 2
@@ -3198,7 +3086,23 @@
         },
         "version": "0.7.14",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.7.14-darwin-x64-v10.tgz",
-        "checksum": "c5a94f3ae1c9a61666446dfe83c42e5dc429abb9316d9fbe5bb3da5184d9a08a",
+        "checksum": "04594b550c1f0bbc4b36c65c653a30b8e230ee02e6ee0acecfd32e670f470402",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "openwrt-linux-arm_cortex-a9_vfpv3",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
+        "version": "0.7.14",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.7.14-openwrt-linux-arm_cortex-a9_vfpv3-v8.tgz",
+        "checksum": "208cd2cf5168719a2854f885292e10e663f92264b31c71fcf44bb2e673a813c1",
         "api": {
           "min": 2,
           "max": 2
@@ -3254,14 +3158,14 @@
         },
         "version": "0.7.5",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.5-linux-arm-v8.tgz",
-        "checksum": "806dd83f3926b16d27c7a070b48ac31a1ed34cac6ff7cdbb5bad7b7402527b69",
+        "checksum": "1b59033816bac28075f0b25c64bfdc8a9d5568f3faf5d3807661d2c647257974",
         "api": {
           "min": 2,
           "max": 2
         }
       },
       {
-        "architecture": "openwrt-linux-arm",
+        "architecture": "openwrt-linux-arm_cortex-a7_neon-vfpv4",
         "language": {
           "name": "nodejs",
           "versions": [
@@ -3269,8 +3173,8 @@
           ]
         },
         "version": "0.7.5",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.5-openwrt-linux-arm-v8.tgz",
-        "checksum": "a61754c6705867e2df496a535d72c5ec81f12bc1546432d8b6880bd2da3fe705",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.5-openwrt-linux-arm_cortex-a7_neon-vfpv4-v8.tgz",
+        "checksum": "5f80219f195cbf77b02f911dec8567956610469811c6cbf515188d808afe5b44",
         "api": {
           "min": 2,
           "max": 2
@@ -3286,7 +3190,7 @@
         },
         "version": "0.7.5",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.5-linux-x64-v8.tgz",
-        "checksum": "b2cab5906d0b5b67d9336bf4a726748f680070be415731eee8f623fc95e96acf",
+        "checksum": "d158384bb154870700e43c815f33128271a1021879796142ed2c264e21bfcca0",
         "api": {
           "min": 2,
           "max": 2
@@ -3302,7 +3206,7 @@
         },
         "version": "0.7.5",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.5-darwin-x64-v8.tgz",
-        "checksum": "c2409d309971ca1201b30cf9fcd1bb58a61a27a8593036ec7526ef8a1f3364c8",
+        "checksum": "d9882369e5a7424ab28a8cca1f595e48499c53915d35bc8e2fff4f82df773176",
         "api": {
           "min": 2,
           "max": 2
@@ -3318,7 +3222,7 @@
         },
         "version": "0.7.5",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.5-linux-arm-v10.tgz",
-        "checksum": "bf277e79abf86aeebabdd59d2665e564caf2e95fb600008a0949aaaf7a4c1274",
+        "checksum": "72e02df5e699248681084c8cddff368a6fa5bc251de6e6291509f837cbede8dd",
         "api": {
           "min": 2,
           "max": 2
@@ -3334,7 +3238,7 @@
         },
         "version": "0.7.5",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.5-linux-x64-v10.tgz",
-        "checksum": "5cd7904eb86716563fae2656c9b35c359064cafdda79b303f0e553e3235268d4",
+        "checksum": "d2abee180c595380e8efb79be52ab767e4c9cd847dc7bd1c88a68f739ce26299",
         "api": {
           "min": 2,
           "max": 2
@@ -3350,7 +3254,23 @@
         },
         "version": "0.7.5",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.5-darwin-x64-v10.tgz",
-        "checksum": "dcb72d087c6818f5157a6e41084e2eefeed4d33876edfd3e9bc62ca79843cb62",
+        "checksum": "c8f0ae73d8b13a2a68a69e717aac17e181ffc0b8243dbfb9ccd4a55b2b23a657",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      },
+      {
+        "architecture": "openwrt-linux-arm_cortex-a9_vfpv3",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "57"
+          ]
+        },
+        "version": "0.7.5",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.7.5-openwrt-linux-arm_cortex-a9_vfpv3-v8.tgz",
+        "checksum": "a73087aef0def8d6f5ffc04a1f0d4067dff3999e9128973a9da0f580498658d1",
         "api": {
           "min": 2,
           "max": 2
