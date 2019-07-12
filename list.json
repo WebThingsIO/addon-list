@@ -228,7 +228,7 @@
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/email-sender-adapter",
     "license": "https://github.com/mozilla-iot/email-sender-adapter/blob/master/LICENSE",
-    "type": "adapter",
+    "type": "notifier",
     "packages": [
       {
         "architecture": "any",
@@ -238,9 +238,9 @@
             "any"
           ]
         },
-        "version": "0.0.2",
-        "url": "https://github.com/mozilla-iot/email-sender-adapter/releases/download/v0.0.2/email-sender-adapter-0.0.2.tgz",
-        "checksum": "1ebb11c9b79de9bcc65a5c2f98946430ef169c41cc3abe0452e3ca9d602b11d1",
+        "version": "0.1.0",
+        "url": "https://github.com/mozilla-iot/email-sender-adapter/releases/download/v0.1.0/email-sender-adapter-0.1.0.tgz",
+        "checksum": "fbb76366e51f9f6ab58b1ee49d950928d62617cdf535634144572a4e69aefa5e",
         "api": {
           "min": 2,
           "max": 2
@@ -2576,7 +2576,7 @@
     "author": "Mozilla IoT",
     "homepage": "https://github.com/mozilla-iot/twilio-adapter",
     "license": "https://github.com/mozilla-iot/twilio-adapter/blob/master/LICENSE",
-    "type": "adapter",
+    "type": "notifier",
     "packages": [
       {
         "architecture": "any",
@@ -2586,9 +2586,9 @@
             "any"
           ]
         },
-        "version": "0.0.2",
-        "url": "https://github.com/mozilla-iot/twilio-adapter/releases/download/v0.0.2/twilio-adapter-0.0.2.tgz",
-        "checksum": "15aa6fd7c883bd5b2635c78bf27c9547e6e277121ddff047214153c8e3164974",
+        "version": "0.1.0",
+        "url": "https://github.com/mozilla-iot/twilio-adapter/releases/download/v0.1.0/twilio-adapter-0.1.0.tgz",
+        "checksum": "f2f9e153b2d4d3057f1de8fe37afc18ccd2905ec480c1ea1887aa6b084960415",
         "api": {
           "min": 2,
           "max": 2
