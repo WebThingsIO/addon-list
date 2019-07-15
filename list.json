@@ -615,7 +615,7 @@
           ]
         },
         "version": "0.2.0",
-        "url": "https://github.com/tim-hellhake/google-home-adapter/releases/download/0.2.0/google-home-adapter-0.2.0.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/google-home-adapter-0.2.0.tgz",
         "checksum": "bbc8fe9e0a0f31ff07a8364240a712e3fa59a8676bc6c487371791f7450aa5cf",
         "api": {
           "min": 2,
