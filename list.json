@@ -614,9 +614,9 @@
             "any"
           ]
         },
-        "version": "0.1.6",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/google-home-adapter-0.1.6.tgz",
-        "checksum": "1b07b9819f60b56bbd306d10d5bc50ed1f22e3538592a6bbc4a9d9e966607727",
+        "version": "0.2.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/google-home-adapter-0.2.0.tgz",
+        "checksum": "bbc8fe9e0a0f31ff07a8364240a712e3fa59a8676bc6c487371791f7450aa5cf",
         "api": {
           "min": 2,
           "max": 2
