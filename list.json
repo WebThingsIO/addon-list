@@ -1136,9 +1136,9 @@
             "3.7"
           ]
         },
-        "version": "0.1.7",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lifx-adapter-0.1.7.tgz",
-        "checksum": "64fc9f098692fe89cec1271fc1eb210fc58f571d945f4d5ac07e2398a6ae024e",
+        "version": "0.2.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lifx-adapter-0.2.0.tgz",
+        "checksum": "d78249108190fbeedd223974d4888e977336bf85f6391541235b9e48a4520aeb",
         "api": {
           "min": 2,
           "max": 2
