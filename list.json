@@ -1599,8 +1599,8 @@
             "57"
           ]
         },
-        "version": "0.1.8",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-0.1.8-linux-arm-v8.tgz",
+        "version": "0.2.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-0.2.0-linux-arm-v8.tgz",
         "checksum": "c57dac7f0117c84811f0f4c6acc58c89773e6a4563f40932afd486a9c5b5cce3",
         "api": {
           "min": 2,
@@ -1615,8 +1615,8 @@
             "57"
           ]
         },
-        "version": "0.1.8",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-0.1.8-linux-x64-v8.tgz",
+        "version": "0.2.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-0.2.0-linux-x64-v8.tgz",
         "checksum": "97a33b1766cd85794062f11201a2fd46d00b4718ab1d0048f364404fc490def4",
         "api": {
           "min": 2,
@@ -1631,8 +1631,8 @@
             "57"
           ]
         },
-        "version": "0.1.8",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-0.1.8-darwin-x64-v8.tgz",
+        "version": "0.2.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-0.2.0-darwin-x64-v8.tgz",
         "checksum": "7a22b93bda08a67d3f4108ad0983dca004ea85e99daf850a0ecafbc09cf04ecf",
         "api": {
           "min": 2,
@@ -1647,8 +1647,8 @@
             "64"
           ]
         },
-        "version": "0.1.8",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-0.1.8-linux-arm-v10.tgz",
+        "version": "0.2.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-0.2.0-linux-arm-v10.tgz",
         "checksum": "32e18536116f778a1136c92254d59a43709088996fb91b51c493c28aa35e609c",
         "api": {
           "min": 2,
@@ -1663,8 +1663,8 @@
             "64"
           ]
         },
-        "version": "0.1.8",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-0.1.8-linux-x64-v10.tgz",
+        "version": "0.2.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-0.2.0-linux-x64-v10.tgz",
         "checksum": "79a26af133b23bc444b6c42e8336ed3f5ca606a5e383dc9bc8b1c5de842205c5",
         "api": {
           "min": 2,
@@ -1679,8 +1679,8 @@
             "64"
           ]
         },
-        "version": "0.1.8",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-0.1.8-darwin-x64-v10.tgz",
+        "version": "0.2.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-0.2.0-darwin-x64-v10.tgz",
         "checksum": "74c6ea59bc5c7f013e8f531c030926c5c66ffe079148228cb80f6649aa774990",
         "api": {
           "min": 2,
