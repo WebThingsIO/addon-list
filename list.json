@@ -374,9 +374,9 @@
             "3.7"
           ]
         },
-        "version": "0.1.0",
-        "url": "https://github.com/mozilla-iot/etekcity-adapter/releases/download/v0.1.0/etekcity-adapter-0.1.0.tgz",
-        "checksum": "6e4b962f59c1ef1bca3af94b97860f1ae9a008095393249b8f3779df4d1206d2",
+        "version": "0.2.0",
+        "url": "https://github.com/mozilla-iot/etekcity-adapter/releases/download/v0.2.0/etekcity-adapter-0.2.0.tgz",
+        "checksum": "44552f1a6f569cacc06ab3d875eefa4cd68d632504016aeef8be211dd4de5e74",
         "api": {
           "min": 2,
           "max": 2
@@ -403,9 +403,9 @@
             "3.7"
           ]
         },
-        "version": "0.1.4",
-        "url": "https://github.com/mozilla-iot/eufy-adapter/releases/download/v0.1.4/eufy-adapter-0.1.4.tgz",
-        "checksum": "32366960cebe403b539817928b7d4ec3398e2c3ae34dd3da39910ffc02d495da",
+        "version": "0.1.5",
+        "url": "https://github.com/mozilla-iot/eufy-adapter/releases/download/v0.1.5/eufy-adapter-0.1.5.tgz",
+        "checksum": "2956e2c2fa9b0c8ef7a84b96163d64a828eb5cb7beb293286e45c1d3de15086b",
         "api": {
           "min": 2,
           "max": 2
@@ -3116,9 +3116,9 @@
             "3.7"
           ]
         },
-        "version": "0.1.2",
-        "url": "https://github.com/mozilla-iot/yeelight-adapter/releases/download/v0.1.2/yeelight-adapter-0.1.2.tgz",
-        "checksum": "fc73981470614a75543536176c7db462dba247d77b98bc5cc477364568eb1d71",
+        "version": "0.1.3",
+        "url": "https://github.com/mozilla-iot/yeelight-adapter/releases/download/v0.1.3/yeelight-adapter-0.1.3.tgz",
+        "checksum": "8f28230544aa82df7b961419a69e082465f649fb8e8945ac8836131cef8387ff",
         "api": {
           "min": 2,
           "max": 2
