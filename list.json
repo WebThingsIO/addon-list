@@ -2565,7 +2565,7 @@
     "author": "ne0bot",
     "homepage": "https://github.com/ne0bot/telegram-sender-adapter",
     "license": "https://github.com/ne0bot/telegram-sender-adapter/blob/master/LICENSE",
-    "type": "adapter",
+    "type": "notifier",
     "packages": [
       {
         "architecture": "any",
@@ -2575,9 +2575,9 @@
             "any"
           ]
         },
-        "version": "0.0.3",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/telegram-sender-adapter-0.0.3.tgz",
-        "checksum": "215e1d7d4bb4878fd45114b597f0cd6fda2fa87d909c9764a0d7e68cf81aecde",
+        "version": "0.0.6",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/telegram-sender-adapter-0.0.6.tgz",
+        "checksum": "f62de1fc0116e02b4e12ac790b12cb9c7f27b5a3e1099558a1168e2fa42f5617",
         "api": {
           "min": 2,
           "max": 2
