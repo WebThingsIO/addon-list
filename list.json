@@ -625,6 +625,33 @@
     ]
   },
   {
+    "name": "gotify-notifier",
+    "display_name": "Gotify Notifier",
+    "description": "Send notifications through a self-hosted Gotify server. Needs to be configured with server and app token.",
+    "author": "Mozilla IoT",
+    "homepage": "https://github.com/mozilla-iot/gotify-notifier",
+    "license": "https://github.com/mozilla-iot/gotify-notifier/blob/master/LICENSE",
+    "type": "notifier",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.0.1",
+        "url": "https://github.com/mozilla-iot/gotify-notifier/releases/download/v0.0.1/gotify-notifier-0.0.1.tgz",
+        "checksum": "51bbbb02231aff1023c7e2c57e41b5a04635f1edb4b2f66f6db67a786552dba0",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "gpio-adapter",
     "display_name": "GPIO",
     "description": "GPIO device support",
