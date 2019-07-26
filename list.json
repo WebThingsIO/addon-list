@@ -1910,33 +1910,6 @@
     ]
   },
   {
-    "name": "pulse-adapter",
-    "display_name": "Pulse",
-    "description": "Generate a pulse",
-    "author": "Mozilla IoT",
-    "homepage": "https://github.com/mozilla-iot/pulse-adapter",
-    "license": "https://github.com/mozilla-iot/pulse-adapter/blob/master/LICENSE",
-    "type": "adapter",
-    "packages": [
-      {
-        "architecture": "any",
-        "language": {
-          "name": "nodejs",
-          "versions": [
-            "any"
-          ]
-        },
-        "version": "0.1.2",
-        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/pulse-adapter-0.1.2.tgz",
-        "checksum": "5faf71ca7faea2860632e0c4460efb53935fca453db9785d06be63143c2f5537",
-        "api": {
-          "min": 2,
-          "max": 2
-        }
-      }
-    ]
-  },
-  {
     "name": "prowl-adapter",
     "display_name": "Prowl",
     "description": "Pushes notifications to your device",
@@ -1964,6 +1937,33 @@
     ]
   },
   {
+    "name": "pulse-adapter",
+    "display_name": "Pulse",
+    "description": "Generate a pulse",
+    "author": "Mozilla IoT",
+    "homepage": "https://github.com/mozilla-iot/pulse-adapter",
+    "license": "https://github.com/mozilla-iot/pulse-adapter/blob/master/LICENSE",
+    "type": "adapter",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.2",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/pulse-adapter-0.1.2.tgz",
+        "checksum": "5faf71ca7faea2860632e0c4460efb53935fca453db9785d06be63143c2f5537",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "pushbullet-adapter",
     "display_name": "Pushbullet",
     "description": "Send notifications to your devices",
@@ -1983,6 +1983,33 @@
         "version": "0.1.0",
         "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/pushbullet-adapter-0.1.0.tgz",
         "checksum": "332ecbdc618d6c03733a8c75a8d1b188825870bf50f9b5d45bcfd451515c051e",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
+    "name": "pushover-notifier",
+    "display_name": "Pushover Notifier",
+    "description": "Send notifications through Pushover. Needs to be configured with user and app tokens.",
+    "author": "Mozilla IoT",
+    "homepage": "https://github.com/mozilla-iot/pushover-notifier",
+    "license": "https://github.com/mozilla-iot/pushover-notifier/blob/master/LICENSE",
+    "type": "notifier",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.0.1",
+        "url": "https://github.com/mozilla-iot/pushover-notifier/releases/download/v0.0.1/pushover-notifier-0.0.1.tgz",
+        "checksum": "4550170091b536dc46d5e9ed0bba2fbf5d64bd383708ae9d2e087f4c7fc025ca",
         "api": {
           "min": 2,
           "max": 2
