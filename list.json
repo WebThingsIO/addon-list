@@ -1916,7 +1916,7 @@
     "author": "Tim Hellhake",
     "homepage": "https://github.com/tim-hellhake/prowl-adapter#readme",
     "license": "https://github.com/tim-hellhake/prowl-adapter/blob/master/LICENSE",
-    "type": "adapter",
+    "type": "notifier",
     "packages": [
       {
         "architecture": "any",
@@ -1927,7 +1927,7 @@
           ]
         },
         "version": "0.2.0",
-        "url": "https://github.com/tim-hellhake/prowl-adapter/releases/download/0.2.0/prowl-adapter-0.2.0.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/prowl-adapter-0.2.0.tgz",
         "checksum": "17ebe28cd6a777d37703185ecc6a735363c70f815cb7184e455807069a70d811",
         "api": {
           "min": 2,
