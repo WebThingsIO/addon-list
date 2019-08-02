@@ -1862,6 +1862,7 @@
     "author": "Tim Hellhake",
     "homepage": "https://github.com/tim-hellhake/opensensemap-adapter#readme",
     "license": "https://github.com/tim-hellhake/opensensemap-adapter/blob/master/LICENSE",
+    "type": "adapter",
     "packages": [
       {
         "architecture": "any",
