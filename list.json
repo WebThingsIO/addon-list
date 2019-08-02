@@ -1873,7 +1873,7 @@
         },
         "version": "0.1.0",
         "url": "https://github.com/tim-hellhake/opensensemap-adapter/releases/download/0.1.0/opensensemap-adapter-0.1.0.tgz",
-        "checksum": "cb14aa8888edd3842da724cb81eab64042a6e35bfc5ba0fcf4393587d353333",
+        "checksum": "cb14aa8888edd3842da724cb81eab64042a6e35bfc5ba0fcf4393587d3533334",
         "api": {
           "min": 2,
           "max": 2
