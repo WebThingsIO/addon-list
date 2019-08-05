@@ -1856,6 +1856,33 @@
     ]
   },
   {
+    "name": "opensensemap-adapter",
+    "display_name": "OpenSenseMap",
+    "description": "Connect sensors from https://opensensemap.org",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/opensensemap-adapter#readme",
+    "license": "https://github.com/tim-hellhake/opensensemap-adapter/blob/master/LICENSE",
+    "type": "adapter",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/opensensemap-adapter-0.1.0.tgz",
+        "checksum": "cb14aa8888edd3842da724cb81eab64042a6e35bfc5ba0fcf4393587d3533334",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "openuv-adapter",
     "display_name": "OpenUV - Clear sky UV index",
     "description": "Get the current uv index from www.openuv.io",
