@@ -2713,7 +2713,7 @@
           ]
         },
         "version": "0.2.0",
-        "url": "https://github.com/tim-hellhake/timer-adapter/releases/download/0.2.0/timer-adapter-0.2.0.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/timer-adapter-0.2.0.tgz",
         "checksum": "442c81aa592a180fc48f0eae0acde8d1e516dd0506569525e3d84e079fe6eb4a",
         "api": {
           "min": 2,
