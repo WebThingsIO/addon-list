@@ -3208,6 +3208,33 @@
     ]
   },
   {
+    "name": "yo-adapter",
+    "display_name": "Yo",
+    "description": "Send a Yo to your phone (gateway >= 0.9.0 only)",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/yo-adapter#readme",
+    "license": "https://github.com/tim-hellhake/yo-adapter/blob/master/LICENSE",
+    "type": "adapter",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://github.com/tim-hellhake/yo-adapter/releases/download/0.1.0/yo-adapter-0.1.0.tgz",
+        "checksum": "2d71c0db288421bed85e4b775ec3faafa64ea10ff3536d5951047e7c08a37cb5",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "zigbee-adapter",
     "display_name": "Zigbee",
     "description": "Zigbee device support",
