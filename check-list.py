@@ -266,6 +266,7 @@ def main():
                       'type from package.json "{}" doesn\'t match type '
                       'from list.json "{}"'
                       .format(name, t, entry['type']))
+                cleanup()
 
             # Verify that the API version matches
             if manifest['moziot']['api']['min'] != package['api']['min']:
