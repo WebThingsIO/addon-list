@@ -3225,7 +3225,7 @@
           ]
         },
         "version": "0.1.1",
-        "url": "https://github.com/tim-hellhake/yo-notifier/releases/download/0.1.1/yo-notifier-0.1.1.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/yo-notifier-0.1.1.tgz",
         "checksum": "b9785ded21777d6dbb5fcb0054622206a1ad1726dc03800bf5c1eccbc5e76016",
         "api": {
           "min": 2,
