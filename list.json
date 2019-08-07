@@ -3224,9 +3224,9 @@
             "any"
           ]
         },
-        "version": "0.1.0",
-        "url": "https://github.com/tim-hellhake/yo-notifier/releases/download/0.1.0/yo-notifier-0.1.0.tgz",
-        "checksum": "283c29727bd6e92dc56408568480b87867b0657732a6541e82cb21d0bce4ec49",
+        "version": "0.1.1",
+        "url": "https://github.com/tim-hellhake/yo-notifier/releases/download/0.1.1/yo-notifier-0.1.1.tgz",
+        "checksum": "b9785ded21777d6dbb5fcb0054622206a1ad1726dc03800bf5c1eccbc5e76016",
         "api": {
           "min": 2,
           "max": 2
