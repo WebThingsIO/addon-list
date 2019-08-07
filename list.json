@@ -3208,6 +3208,33 @@
     ]
   },
   {
+    "name": "yo-notifier",
+    "display_name": "Yo",
+    "description": "Send a Yo to your phone (gateway >= 0.9.0 only)",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/yo-notifier#readme",
+    "license": "https://github.com/tim-hellhake/yo-notifier/blob/master/LICENSE",
+    "type": "notifier",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.1",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/yo-notifier-0.1.1.tgz",
+        "checksum": "b9785ded21777d6dbb5fcb0054622206a1ad1726dc03800bf5c1eccbc5e76016",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "zigbee-adapter",
     "display_name": "Zigbee",
     "description": "Zigbee device support",
