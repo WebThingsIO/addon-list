@@ -2422,6 +2422,34 @@
     ]
   },
   {
+    "name": "shelly-adapter",
+    "display_name": "Shelly",
+    "version": "0.1.0",
+    "description": "Connect your shelly devices",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/shelly-adapter#readme",
+    "license": "https://github.com/tim-hellhake/shelly-adapter/blob/master/LICENSE",
+    "type": "adapter",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://github.com/tim-hellhake/shelly-adapter/releases/download/0.1.0/shelly-adapter-0.1.0.tgz",
+        "checksum": "2672cf5db479b5ac5d3bd489a7281b2bd0d130d1fa36117fc39fadc50f872116",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "sipgate-adapter",
     "display_name": "Sipgate",
     "description": "Send SMS from your Sipgate account",
