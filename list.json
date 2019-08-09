@@ -166,7 +166,7 @@
   {
     "name": "counter-adapter",
     "display_name": "Counter",
-    "description": "It count things",
+    "description": "Let's you count things by calling the increment action",
     "author": "Tim Hellhake",
     "homepage": "https://github.com/tim-hellhake/counter-adapter#readme",
     "license": "https://github.com/tim-hellhake/counter-adapter/blob/master/LICENSE",
