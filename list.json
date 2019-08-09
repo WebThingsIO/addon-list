@@ -180,9 +180,9 @@
             "any"
           ]
         },
-        "version": "0.2.0",
-        "url": "https://github.com/tim-hellhake/counter-adapter/releases/download/0.2.0/counter-adapter-0.2.0.tgz",
-        "checksum": "46ad3788cc6506fc1b3b0774e88b3381fe2b5af29d6221eb9ccc9c53d317e4fc",
+        "version": "0.2.1",
+        "url": "https://github.com/tim-hellhake/counter-adapter/releases/download/0.2.1/counter-adapter-0.2.1.tgz",
+        "checksum": "792ae1392aba7399b66b74f0fac57aa4805a45f9e4f268ef4a616cc603854eae",
         "api": {
           "min": 2,
           "max": 2
