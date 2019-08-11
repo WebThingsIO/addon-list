@@ -2128,6 +2128,33 @@
     ]
   },
   {
+    "name": "rf433-adapter",
+    "display_name": "RF433",
+    "description": "Connect your 433MHz devices",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/rf433-adapter#readme",
+    "license": "https://github.com/tim-hellhake/rf433-adapter/blob/master/LICENSE",
+    "type": "adapter",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.1",
+        "url": "https://github.com/tim-hellhake/rf433-adapter/releases/download/0.1.1/rf433-adapter-0.1.1.tgz",
+        "checksum": "eabce411cbd970df909b1cd562a3fc5503f436d8916528cc4b9837af4d2c6d5b",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "ring-adapter",
     "display_name": "Ring",
     "description": "Ring device adapter.",
