@@ -2144,9 +2144,9 @@
             "any"
           ]
         },
-        "version": "0.1.1",
-        "url": "https://github.com/tim-hellhake/rf433-adapter/releases/download/0.1.1/rf433-adapter-0.1.1.tgz",
-        "checksum": "eabce411cbd970df909b1cd562a3fc5503f436d8916528cc4b9837af4d2c6d5b",
+        "version": "0.1.2",
+        "url": "https://github.com/tim-hellhake/rf433-adapter/releases/download/0.1.2/rf433-adapter-0.1.2.tgz",
+        "checksum": "70a054ac7d1bbc1b94137e5a754d8e39c062aedb611d176a9713ddb2a88ca6e8",
         "api": {
           "min": 2,
           "max": 2
