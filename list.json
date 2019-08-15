@@ -2130,7 +2130,7 @@
   {
     "name": "rf433-adapter",
     "display_name": "RF433",
-    "description": "Connect your 433MHz devices",
+    "description": "Connect 433MHz devices to your raspberry pi using a rf433 board",
     "author": "Tim Hellhake",
     "homepage": "https://github.com/tim-hellhake/rf433-adapter#readme",
     "license": "https://github.com/tim-hellhake/rf433-adapter/blob/master/LICENSE",
