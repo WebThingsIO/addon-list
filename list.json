@@ -2101,6 +2101,33 @@
     ]
   },
   {
+    "name": "pushsafer-notifier",
+    "display_name": "Pushsafer",
+    "description": "Send a notification to your pushsafer app (gateway >= 0.9.0 only)",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/pushsafer-notifier#readme",
+    "license": "https://github.com/tim-hellhake/pushsafer-notifier/blob/master/LICENSE",
+    "type": "notifier",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://github.com/tim-hellhake/pushsafer-notifier/releases/download/0.1.0/pushsafer-notifier-0.1.0.tgz",
+        "checksum": "b721c5b48206ce8a22a11cbdda98cc231aed848e3d7677aee4cfc3a05b37f0f4",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "ring-adapter",
     "display_name": "Ring",
     "description": "Ring device adapter.",
