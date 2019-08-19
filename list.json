@@ -2118,7 +2118,7 @@
           ]
         },
         "version": "0.1.0",
-        "url": "https://github.com/tim-hellhake/pushsafer-notifier/releases/download/0.1.0/pushsafer-notifier-0.1.0.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/pushsafer-notifier-0.1.0.tgz",
         "checksum": "b721c5b48206ce8a22a11cbdda98cc231aed848e3d7677aee4cfc3a05b37f0f4",
         "api": {
           "min": 2,
