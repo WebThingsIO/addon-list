@@ -952,6 +952,34 @@
     ]
   },
   {
+    "name": "http-adapter",
+    "display_name": "Http",
+    "version": "0.1.0",
+    "description": "Let's you make http requests via actions",
+    "author": "Tim Hellhake",
+    "homepage": "https://github.com/tim-hellhake/http-adapter#readme",
+    "license": "https://github.com/tim-hellhake/http-adapter/blob/master/LICENSE",
+    "type": "adapter",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://github.com/tim-hellhake/http-adapter/releases/download/0.1.0/http-adapter-0.1.0.tgz",
+        "checksum": "135f0acdf29b52466170cbfcfd509fd6ee0f20f5210928fcf6db9f113517e84c",
+        "api": {
+          "min": 2,
+          "max": 2
+        }
+      }
+    ]
+  },
+  {
     "name": "http-on-off-adapter",
     "display_name": "HTTP On/Off",
     "description": "Adapter for https://github.com/mozilla-iot/http-on-off-mkr1000",
