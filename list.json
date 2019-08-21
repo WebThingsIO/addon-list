@@ -953,8 +953,7 @@
   },
   {
     "name": "http-adapter",
-    "display_name": "Http",
-    "version": "0.1.0",
+    "display_name": "HTTP",
     "description": "Let's you make http requests via actions",
     "author": "Tim Hellhake",
     "homepage": "https://github.com/tim-hellhake/http-adapter#readme",
@@ -969,9 +968,9 @@
             "any"
           ]
         },
-        "version": "0.3.0",
-        "url": "https://github.com/tim-hellhake/http-adapter/releases/download/0.3.0/http-adapter-0.3.0.tgz",
-        "checksum": "3ef76bd5dd43a583269867050d8f1a6c36aaeedec1dba36d33ad094814be22d7",
+        "version": "0.3.1",
+        "url": "https://github.com/tim-hellhake/http-adapter/releases/download/0.3.1/http-adapter-0.3.1.tgz",
+        "checksum": "e1e7498334564a076bbef4796fc08c02d05491aa3c6531fea709f2b9ab8c08be",
         "api": {
           "min": 2,
           "max": 2
