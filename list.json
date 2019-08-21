@@ -969,9 +969,9 @@
             "any"
           ]
         },
-        "version": "0.2.0",
-        "url": "https://github.com/tim-hellhake/http-adapter/releases/download/0.2.0/http-adapter-0.2.0.tgz",
-        "checksum": "028d60a45dc0529c5fbd44d39ce976ee81227cce35b544269573ab4ed69b0d65",
+        "version": "0.3.0",
+        "url": "https://github.com/tim-hellhake/http-adapter/releases/download/0.3.0/http-adapter-0.3.0.tgz",
+        "checksum": "3ef76bd5dd43a583269867050d8f1a6c36aaeedec1dba36d33ad094814be22d7",
         "api": {
           "min": 2,
           "max": 2
