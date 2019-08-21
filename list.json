@@ -979,33 +979,6 @@
     ]
   },
   {
-    "name": "http-on-off-adapter",
-    "display_name": "HTTP On/Off",
-    "description": "Adapter for https://github.com/mozilla-iot/http-on-off-mkr1000",
-    "author": "Mozilla IoT",
-    "homepage": "https://github.com/mozilla-iot/http-on-off-adapter",
-    "license": "https://github.com/mozilla-iot/http-on-off-adapter/blob/master/LICENSE",
-    "type": "adapter",
-    "packages": [
-      {
-        "architecture": "any",
-        "language": {
-          "name": "nodejs",
-          "versions": [
-            "any"
-          ]
-        },
-        "version": "0.4.0",
-        "url": "https://github.com/mozilla-iot/http-on-off-adapter/releases/download/v0.4.0/http-on-off-adapter-0.4.0.tgz",
-        "checksum": "e11c1bfa845288167c747814345daca472ed64a8ebda0a2ae66485d25458d929",
-        "api": {
-          "min": 1,
-          "max": 2
-        }
-      }
-    ]
-  },
-  {
     "name": "internet-radio",
     "display_name": "Internet radio",
     "description": "Play your favourite online radio stations",
