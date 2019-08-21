@@ -954,7 +954,7 @@
   {
     "name": "http-adapter",
     "display_name": "HTTP",
-    "description": "Let's you make http requests via actions",
+    "description": "Lets you make HTTP requests via actions",
     "author": "Tim Hellhake",
     "homepage": "https://github.com/tim-hellhake/http-adapter#readme",
     "license": "https://github.com/tim-hellhake/http-adapter/blob/master/LICENSE",
@@ -969,7 +969,7 @@
           ]
         },
         "version": "0.3.1",
-        "url": "https://github.com/tim-hellhake/http-adapter/releases/download/0.3.1/http-adapter-0.3.1.tgz",
+        "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/http-adapter-0.3.1.tgz",
         "checksum": "e1e7498334564a076bbef4796fc08c02d05491aa3c6531fea709f2b9ab8c08be",
         "api": {
           "min": 2,
