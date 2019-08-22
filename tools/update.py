@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
 
 import json
+import os
 import subprocess
 import sys
 import urllib.error
 import urllib.request
 
-_LIST = './list.json'
+_ROOT = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
+_LIST = os.path.join(_ROOT, 'list.json')
 _URL = 'https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/'
 
 def get_builder_files(prefix):

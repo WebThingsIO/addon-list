@@ -13,8 +13,9 @@ import time
 import urllib.error
 import urllib.request
 
-_SCHEMA = './schema.json'
-_LIST = './list.json'
+_ROOT = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
+_SCHEMA = os.path.join(_ROOT, 'schema.json')
+_LIST = os.path.join(_ROOT, 'list.json')
 
 MAX_DOWNLOAD_ATTEMPTS = 5
 DOWNLOAD_ATTEMPT_DELAY = 3  # seconds

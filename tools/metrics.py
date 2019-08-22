@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 
 import json
+import os
 
-_LIST = './list.json'
+_ROOT = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
+_LIST = os.path.join(_ROOT, 'list.json')
 
 
 def main():
