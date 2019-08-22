@@ -1,0 +1,27 @@
+{
+  "name": "broadlink-adapter",
+  "display_name": "BroadLink",
+  "description": "Support IR devices with BroadLink.",
+  "author": "sogaani",
+  "homepage": "https://github.com/sogaani/broadlink-adapter",
+  "license": "https://github.com/sogaani/broadlink-adapter/blob/master/LICENSE",
+  "type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/broadlink-adapter-0.1.4.tgz",
+      "checksum": "6e7daa17668b6a0bcb18a2a1a1a2407075a222b36a4c618636f4703913f3f95d",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    }
+  ]
+}

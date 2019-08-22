@@ -1,0 +1,27 @@
+{
+  "name": "twitter-adapter",
+  "display_name": "Twitter",
+  "description": "Send tweets",
+  "author": "Tim Hellhake",
+  "homepage": "https://github.com/tim-hellhake/twitter-adapter#readme",
+  "license": "https://github.com/tim-hellhake/twitter-adapter/blob/master/LICENSE",
+  "type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/twitter-adapter-0.1.0.tgz",
+      "checksum": "66ef605cc0d39088da63e6f75debcebbe2c4f090d7f5a5c053716dd8693e17a1",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    }
+  ]
+}

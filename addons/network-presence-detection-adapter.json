@@ -1,0 +1,29 @@
+{
+  "name": "network-presence-detection-adapter",
+  "display_name": "Network presence detector",
+  "description": "Check if devices are on your network",
+  "author": "Flatsiedatsie",
+  "homepage": "https://github.com/flatsiedatsie/Webthings-network-presence-detection",
+  "license": "https://github.com/flatsiedatsie/Webthings-network-presence-detection/blob/master/LICENSE",
+  "type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5",
+          "3.6",
+          "3.7"
+        ]
+      },
+      "version": "0.0.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/network-presence-detection-adapter-0.0.4.tgz",
+      "checksum": "fe1ed502e7f702f11ef1e1e7e09eb451e3ee81777c550c4a1b3f16878134ca88",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    }
+  ]
+}

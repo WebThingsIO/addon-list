@@ -1,0 +1,43 @@
+{
+  "name": "voice-addon",
+  "display_name": "Voice Control",
+  "description": "Hands-free voice addon with personalized keyword and local voice processing.",
+  "author": "André Natal",
+  "homepage": "https://github.com/andrenatal/voice-addon",
+  "license": "https://github.com/andrenatal/voice-addon/blob/master/LICENSE",
+  "type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "1.0.0",
+      "url": "https://github.com/andrenatal/voice-addon/releases/download/1.0.0/voice-addon-1.0.0.tgz",
+      "checksum": "059ec7af5ffd920c60cd7271b9e85d7a609fd632cd69b1915918edb4fe893f35",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "1.0.0",
+      "url": "https://github.com/andrenatal/voice-addon/releases/download/1.0.0/voice-addon-1.0.0.tgz",
+      "checksum": "059ec7af5ffd920c60cd7271b9e85d7a609fd632cd69b1915918edb4fe893f35",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    }
+  ]
+}

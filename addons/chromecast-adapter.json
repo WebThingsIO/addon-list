@@ -1,0 +1,27 @@
+{
+  "name": "chromecast-adapter",
+  "display_name": "Chromecast",
+  "description": "Chromecast support",
+  "author": "Michael Stegeman",
+  "homepage": "https://github.com/mrstegeman/chromecast-adapter#readme",
+  "license": "https://github.com/mrstegeman/chromecast-adapter/blob/master/LICENSE",
+  "type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.3.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/chromecast-adapter-0.3.4.tgz",
+      "checksum": "ccd512ed96fbc12cde85adb6f334d44e9e843dd28dbc7a050fadeb246e861527",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    }
+  ]
+}

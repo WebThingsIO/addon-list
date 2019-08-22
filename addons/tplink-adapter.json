@@ -1,0 +1,29 @@
+{
+  "name": "tplink-adapter",
+  "display_name": "TP-Link",
+  "description": "TP-Link smart plug/bulb device support",
+  "author": "Mozilla IoT",
+  "homepage": "https://github.com/mozilla-iot/tplink-adapter",
+  "license": "https://github.com/mozilla-iot/tplink-adapter/blob/master/LICENSE",
+  "type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5",
+          "3.6",
+          "3.7"
+        ]
+      },
+      "version": "0.4.1",
+      "url": "https://github.com/mozilla-iot/tplink-adapter/releases/download/v0.4.1/tplink-adapter-0.4.1.tgz",
+      "checksum": "da62ff32236f6b5b5cb348f0087c1224975fdd13b7eeac0ee23d18bfaabf9855",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    }
+  ]
+}

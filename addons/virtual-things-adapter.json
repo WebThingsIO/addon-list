@@ -1,0 +1,27 @@
+{
+  "name": "virtual-things-adapter",
+  "display_name": "Virtual Things",
+  "description": "Virtual Things for experimenting with new thing types",
+  "author": "Mozilla IoT",
+  "homepage": "https://github.com/mozilla-iot/virtual-things-adapter",
+  "license": "https://github.com/mozilla-iot/virtual-things-adapter/blob/master/LICENSE",
+  "type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.4.1",
+      "url": "https://github.com/mozilla-iot/virtual-things-adapter/releases/download/v0.4.1/virtual-things-adapter-0.4.1.tgz",
+      "checksum": "480bbc85fe1242659e4ee2d31b1f9214002d82240f91501e6e837334eaa50e64",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    }
+  ]
+}

@@ -1,15 +1,19 @@
 #!/usr/bin/env python3
 
+import glob
 import json
 import os
 
 _ROOT = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
-_LIST = os.path.join(_ROOT, 'list.json')
+_ADDONS_DIR = os.path.join(_ROOT, 'addons')
 
 
 def main():
-    with open(_LIST, 'rt') as f:
-        addons = json.load(f)
+    addons = []
+
+    for path in sorted(glob.glob(os.path.join(_ADDONS_DIR, '*.json'))):
+        with open(path, 'rt') as f:
+            addons.append(json.load(f))
 
     contributors = set([a['author'] for a in addons])
 

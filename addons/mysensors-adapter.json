@@ -1,0 +1,29 @@
+{
+  "name": "mysensors-adapter",
+  "display_name": "MySensors",
+  "description": "Build your own smart home with this Arduino library",
+  "author": "CreateCandle",
+  "homepage": "https://github.com/createcandle/Webthings-mysensors-adapter",
+  "license": "https://github.com/createcandle/Webthings-mysensors-adapter/blob/master/LICENSE",
+  "type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5",
+          "3.6",
+          "3.7"
+        ]
+      },
+      "version": "0.1.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mysensors-adapter-0.1.2.tgz",
+      "checksum": "09614f854200c1665ed7dba287203cb885fbc5bd266dadf39ea537c417665947",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    }
+  ]
+}

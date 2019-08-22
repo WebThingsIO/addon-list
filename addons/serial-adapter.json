@@ -1,0 +1,139 @@
+{
+  "name": "serial-adapter",
+  "display_name": "Serial",
+  "description": "Serial JSON interface to serial-mcu",
+  "author": "Mozilla IoT",
+  "homepage": "https://github.com/mozilla-iot/serial-adapter",
+  "license": "https://github.com/mozilla-iot/serial-adapter/blob/master/LICENSE",
+  "type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.4.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.4.0-linux-arm-v8.tgz",
+      "checksum": "2e411bb36e3d09bb38e2b8b21f759498b6f6cffaf42c3635109de03708c25d1f",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    {
+      "architecture": "openwrt-linux-arm_cortex-a7_neon-vfpv4",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.4.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.4.0-openwrt-linux-arm_cortex-a7_neon-vfpv4-v8.tgz",
+      "checksum": "e9edbdb4de122d115592d282d8ebfcee072d86b2bbe05aa393aa115a7d92c77c",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    {
+      "architecture": "openwrt-linux-arm_cortex-a9_vfpv3",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.4.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.4.0-openwrt-linux-arm_cortex-a9_vfpv3-v8.tgz",
+      "checksum": "7e49a89b28c685946125e73105901485c33d7eacc27d336c39f45a785e7087ac",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.4.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.4.0-linux-x64-v8.tgz",
+      "checksum": "123f84b1ab7e1d10aed93728b2f4941f717dfbde8022f1f86bd9be7c6801495b",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.4.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.4.0-darwin-x64-v8.tgz",
+      "checksum": "3d4839bb9b5449ea4306bfa48c59aa09c886813219dfff67bdafb28264efe1dc",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.4.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.4.0-linux-arm-v10.tgz",
+      "checksum": "f70d807f346fe5798d836c54d7064efd8f602df095a46117b63d2bd529bc8f53",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.4.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.4.0-linux-x64-v10.tgz",
+      "checksum": "0a21d15f13530c2b6bd38dd26f79aa9e4367aa8f9f24047e375036cd671d912d",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.4.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.4.0-darwin-x64-v10.tgz",
+      "checksum": "07858e6e4997b6a63c2295b2dc0a325610587a2d121cca5910bea3c3c3bed1e3",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    }
+  ]
+}

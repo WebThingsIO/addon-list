@@ -1,0 +1,29 @@
+{
+  "name": "Candle-manager-addon",
+  "display_name": "Candle manager",
+  "description": "Candle manager allows you to easily upload sketches to an Arduino.",
+  "author": "CreateCandle",
+  "homepage": "https://github.com/createcandle/Candle-manager-addon",
+  "license": "https://github.com/createcandle/Candle-manager-addon/blob/master/LICENSE",
+  "type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5",
+          "3.6",
+          "3.7"
+        ]
+      },
+      "version": "0.0.6",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/Candle-manager-0.0.6.tgz",
+      "checksum": "67261e5493b212ad5acc8890d42d9f794ac25352eee0e0b89f082a3bd6900ca7",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    }
+  ]
+}

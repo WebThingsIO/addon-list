@@ -1,0 +1,27 @@
+{
+  "name": "thing-url-adapter",
+  "display_name": "Web Thing",
+  "description": "Native web thing support",
+  "author": "Mozilla IoT",
+  "homepage": "https://github.com/mozilla-iot/thing-url-adapter",
+  "license": "https://github.com/mozilla-iot/thing-url-adapter/blob/master/LICENSE",
+  "type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://github.com/mozilla-iot/thing-url-adapter/releases/download/v0.3.2/thing-url-adapter-0.3.2.tgz",
+      "checksum": "2b49caaf1733ff4417881023fea058b131872cfab44058b0695617d4baa15982",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    }
+  ]
+}

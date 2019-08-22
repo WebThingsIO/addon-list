@@ -1,0 +1,27 @@
+{
+  "name": "roku-adapter",
+  "display_name": "Roku",
+  "description": "Roku support",
+  "author": "Mozilla IoT",
+  "homepage": "https://github.com/mozilla-iot/roku-adapter#readme",
+  "license": "https://github.com/mozilla-iot/roku-adapter/blob/master/LICENSE",
+  "type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://github.com/mozilla-iot/roku-adapter/releases/download/v0.1.0/roku-adapter-0.1.0.tgz",
+      "checksum": "37a638684759e94c12dcb27359311462fea20932c70d10bb1d9b64e76044b411",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    }
+  ]
+}

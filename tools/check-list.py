@@ -15,7 +15,7 @@ import urllib.request
 
 _ROOT = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
 _SCHEMA = os.path.join(_ROOT, 'schema.json')
-_LIST = os.path.join(_ROOT, 'list.json')
+_ADDONS_DIR = os.path.join(_ROOT, 'addons')
 
 MAX_DOWNLOAD_ATTEMPTS = 5
 DOWNLOAD_ATTEMPT_DELAY = 3  # seconds
@@ -66,9 +66,9 @@ def hash_file(fname):
 
 
 def main():
-    adapter = None
+    adapters = []
     if len(sys.argv) > 1:
-        adapter = sys.argv[1]
+        adapters = sys.argv[1:]
 
     # Load the schema.
     with open(_SCHEMA) as f:
@@ -80,15 +80,26 @@ def main():
         print('Schema validation failed: {}'.format(e))
         sys.exit(1)
 
-    # Make sure the file is valid JSON
-    try:
-        with open(_LIST, 'rt') as f:
-            addon_list = json.load(f)
-    except (IOError, OSError, ValueError):
-        print('Failed to read list file.')
-        sys.exit(1)
+    addon_list = []
 
-    jsonschema.validate(addon_list, schema)
+    # Make sure the file is valid JSON
+    if len(adapters) > 0:
+        for adapter in adapters:
+            fname = os.path.join(_ADDONS_DIR, '{}.json'.format(adapter))
+            try:
+                with open(fname, 'rt') as f:
+                    addon_list.append(json.load(f))
+            except (IOError, OSError, ValueError) as e:
+                print('Failed to read {}: {}'.format(fname, e))
+                sys.exit(1)
+    else:
+        for path in sorted(glob.glob(os.path.join(_ADDONS_DIR, '*.json'))):
+            try:
+                with open(path, 'rt') as f:
+                    addon_list.append(json.load(f))
+            except (IOError, OSError, ValueError) as e:
+                print('Failed to read {}: {}'.format(path, e))
+                sys.exit(1)
 
     required_in_manifest = [
         'name',
@@ -102,10 +113,9 @@ def main():
     ]
 
     for entry in addon_list:
-        name = entry['name']
+        jsonschema.validate(entry, schema)
 
-        if adapter and adapter != name:
-            continue
+        name = entry['name']
 
         print('Checking {} ...'.format(name))
 

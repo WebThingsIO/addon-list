@@ -1,0 +1,29 @@
+{
+  "name": "speed-test-adapter",
+  "display_name": "Speed Test",
+  "description": "Internet speed test",
+  "author": "Mozilla IoT",
+  "homepage": "https://github.com/mozilla-iot/speed-test-adapter",
+  "license": "https://github.com/mozilla-iot/speed-test-adapter/blob/master/LICENSE",
+  "type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5",
+          "3.6",
+          "3.7"
+        ]
+      },
+      "version": "0.1.1",
+      "url": "https://github.com/mozilla-iot/speed-test-adapter/releases/download/v0.1.1/speed-test-adapter-0.1.1.tgz",
+      "checksum": "08a92bb8d1327aa2eb959e4db4f95215499f92f15ae2b6f5b104f13b0f04943c",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    }
+  ]
+}

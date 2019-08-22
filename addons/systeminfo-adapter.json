@@ -1,0 +1,27 @@
+{
+  "name": "systeminfo-adapter",
+  "display_name": "Systeminfo",
+  "description": "Get stats of the system",
+  "author": "Tim Hellhake",
+  "homepage": "https://github.com/tim-hellhake/systeminfo-adapter#readme",
+  "license": "https://github.com/tim-hellhake/systeminfo-adapter/blob/master/LICENSE",
+  "type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/systeminfo-adapter-0.1.0.tgz",
+      "checksum": "3a4347c068e9995139450a1b31e93b9397da684c4e9b559947a3d6ff949d00b5",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    }
+  ]
+}
