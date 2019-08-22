@@ -1,0 +1,27 @@
+{
+  "name": "netatmo-weather-adapter",
+  "display_name": "Netatmo Weather Station",
+  "description": "Netatmo weather station support. Requires Netatmo Smart Home API credentials.",
+  "author": "Martin Giger",
+  "homepage": "https://github.com/freaktechnik/netatmo-weather-adapter#readme",
+  "license": "https://github.com/freaktechnik/netatmo-weather-adapter/blob/master/LICENSE",
+  "type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/netatmo-weather-adapter-0.3.2.tgz",
+      "checksum": "4e7ac2191b960b36f5e66ecea81c1fede807093f5da00e1bda52f93f6b0a1eee",
+      "api": {
+        "min": 1,
+        "max": 2
+      }
+    }
+  ]
+}

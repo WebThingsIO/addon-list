@@ -1,0 +1,29 @@
+{
+  "name": "sengled-adapter",
+  "display_name": "Sengled",
+  "description": "Sengled Wi-Fi smart bulb device support",
+  "author": "Mozilla IoT",
+  "homepage": "https://github.com/mozilla-iot/sengled-adapter",
+  "license": "https://github.com/mozilla-iot/sengled-adapter/blob/master/LICENSE",
+  "type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5",
+          "3.6",
+          "3.7"
+        ]
+      },
+      "version": "0.1.1",
+      "url": "https://github.com/mozilla-iot/sengled-adapter/releases/download/v0.1.1/sengled-adapter-0.1.1.tgz",
+      "checksum": "a7137995e1d747223e12ba67d7afa6dfb99678cc985ae093b4549e42ddfc7b64",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    }
+  ]
+}

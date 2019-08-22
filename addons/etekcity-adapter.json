@@ -1,0 +1,29 @@
+{
+  "name": "etekcity-adapter",
+  "display_name": "Etekcity",
+  "description": "Etekcity smart plug/switch device support",
+  "author": "Mozilla IoT",
+  "homepage": "https://github.com/mozilla-iot/etekcity-adapter",
+  "license": "https://github.com/mozilla-iot/etekcity-adapter/blob/master/LICENSE",
+  "type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5",
+          "3.6",
+          "3.7"
+        ]
+      },
+      "version": "0.2.0",
+      "url": "https://github.com/mozilla-iot/etekcity-adapter/releases/download/v0.2.0/etekcity-adapter-0.2.0.tgz",
+      "checksum": "44552f1a6f569cacc06ab3d875eefa4cd68d632504016aeef8be211dd4de5e74",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    }
+  ]
+}

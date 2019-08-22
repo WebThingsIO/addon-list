@@ -1,0 +1,27 @@
+{
+  "name": "logitech-harmony-adapter",
+  "display_name": "Logitech Harmony",
+  "description": "Logitech Harmony Hub support",
+  "author": "Tim Hellhake",
+  "homepage": "https://github.com/tim-hellhake/logitech-harmony-adapter#readme",
+  "license": "https://github.com/tim-hellhake/logitech-harmony-adapter/blob/master/LICENSE",
+  "type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.2.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/logitech-harmony-adapter-0.2.7.tgz",
+      "checksum": "6072ac6b7875534edad876d8a0b9c01d15f868ba1a80fad4ecfaf62628b236b4",
+      "api": {
+        "min": 1,
+        "max": 2
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "wemo-adapter",
+  "display_name": "Wemo",
+  "description": "Wemo smart device support",
+  "author": "Mozilla IoT",
+  "homepage": "https://github.com/mozilla-iot/wemo-adapter",
+  "license": "https://github.com/mozilla-iot/wemo-adapter/blob/master/LICENSE",
+  "type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5",
+          "3.6",
+          "3.7"
+        ]
+      },
+      "version": "0.1.5",
+      "url": "https://github.com/mozilla-iot/wemo-adapter/releases/download/v0.1.5/wemo-adapter-0.1.5.tgz",
+      "checksum": "112a2ea70cd69bb02b79224dac9e8490d71206a5c2e15590bee9ab2b8c2eac65",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    }
+  ]
+}

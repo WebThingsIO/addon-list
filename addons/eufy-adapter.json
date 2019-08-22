@@ -1,0 +1,29 @@
+{
+  "name": "eufy-adapter",
+  "display_name": "Eufy",
+  "description": "Eufy device support",
+  "author": "Mozilla IoT",
+  "homepage": "https://github.com/mozilla-iot/eufy-adapter",
+  "license": "https://github.com/mozilla-iot/eufy-adapter/blob/master/LICENSE",
+  "type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5",
+          "3.6",
+          "3.7"
+        ]
+      },
+      "version": "0.1.5",
+      "url": "https://github.com/mozilla-iot/eufy-adapter/releases/download/v0.1.5/eufy-adapter-0.1.5.tgz",
+      "checksum": "2956e2c2fa9b0c8ef7a84b96163d64a828eb5cb7beb293286e45c1d3de15086b",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    }
+  ]
+}

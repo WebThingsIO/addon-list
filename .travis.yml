@@ -5,20 +5,4 @@ python:
 install:
     - pip install jsonschema
 script:
-    - CHANGED_FILES=($(git diff --name-only $TRAVIS_COMMIT_RANGE))
-    - echo "Changed:" $CHANGED_FILES
-    - LIST_CHANGED=0
-    - SCHEMA_CHANGED=0
-    - CHECKER_CHANGED=0
-    - for file in $CHANGED_FILES; do
-        if [ "$file" = "list.json" ]; then
-          LIST_CHANGED=1;
-        elif [ "$file" = "schema.json" ]; then
-          SCHEMA_CHANGED=1;
-        elif [ "$file" = "tools/check-list.py" ]; then
-          CHECKER_CHANGED=1;
-        fi;
-      done
-    - if [[ $LIST_CHANGED == 1 || $SCHEMA_CHANGED == 1 || $CHECKER_CHANGED == 1 ]]; then
-        ./tools/check-list.py;
-      fi
+    - ./travis.sh

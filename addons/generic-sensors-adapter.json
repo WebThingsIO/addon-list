@@ -1,0 +1,75 @@
+{
+  "name": "generic-sensors-adapter",
+  "display_name": "Generic Sensors",
+  "description": "Generic Sensors devices support",
+  "author": "Philippe Coval",
+  "homepage": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter",
+  "license": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter/blob/master/LICENSE",
+  "type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.0.9",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.9-linux-arm-v8.tgz",
+      "checksum": "9447fae66139249d2c00e551d748d7a01e1f86cfefc406f7d4fa6ae460ab01d9",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.0.9",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.9-linux-arm64-v8.tgz",
+      "checksum": "32bf0f54ccbc6533fd0c3b8e4fb950468194a1e25601109ac4461c3f72976845",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    {
+      "architecture": "linux-ia32",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.0.9",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.9-linux-ia32-v8.tgz",
+      "checksum": "cc3811cefbd65082b3277970ae3339b8df833c39b82a0ab98cb96a852c8be8e9",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.0.9",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.9-linux-x64-v8.tgz",
+      "checksum": "d8eea39767395241f860c5760b759fd68df0e667853037c19ee119347fc6ac4e",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    }
+  ]
+}

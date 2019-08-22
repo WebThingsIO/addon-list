@@ -1,0 +1,27 @@
+{
+  "name": "blinkt-adapter",
+  "display_name": "Pimoroni Blinkt!",
+  "description": "Pimoroni Blinkt! support",
+  "author": "Poul Christiansen",
+  "homepage": "https://github.com/pchri/blinkt-adapter",
+  "license": "https://github.com/pchri/blinkt-adapter/blob/master/LICENSE",
+  "type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.0.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/blinkt-adapter-0.0.4.tgz",
+      "checksum": "55443bdfc7cf5a635aad706c6f074fb529abb953b157137c133d5478d32d0920",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    }
+  ]
+}

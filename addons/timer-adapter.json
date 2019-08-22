@@ -1,0 +1,27 @@
+{
+  "name": "timer-adapter",
+  "display_name": "Timer",
+  "description": "Runs for the specified number of seconds",
+  "author": "Tim Hellhake",
+  "homepage": "https://github.com/tim-hellhake/timer-adapter#readme",
+  "license": "https://github.com/tim-hellhake/timer-adapter/blob/master/LICENSE",
+  "type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.2.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/timer-adapter-0.2.0.tgz",
+      "checksum": "442c81aa592a180fc48f0eae0acde8d1e516dd0506569525e3d84e079fe6eb4a",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    }
+  ]
+}

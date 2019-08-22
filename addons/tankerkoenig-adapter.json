@@ -1,0 +1,27 @@
+{
+  "name": "tankerkoenig-adapter",
+  "display_name": "Tankerkönig",
+  "description": "Shows you the gas prices near you (Germany only)",
+  "author": "Tim Hellhake",
+  "homepage": "https://github.com/tim-hellhake/tankerkoenig-adapter#readme",
+  "license": "https://github.com/tim-hellhake/tankerkoenig-adapter/blob/master/LICENSE",
+  "type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.2.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tankerkoenig-adapter-0.2.0.tgz",
+      "checksum": "eb09365d37010d587eaeabe697a9afca88a144e63bae8d204df7aa32b4523f7b",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    }
+  ]
+}

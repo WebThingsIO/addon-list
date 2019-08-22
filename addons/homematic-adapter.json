@@ -1,0 +1,27 @@
+{
+  "name": "homematic-adapter",
+  "display_name": "HomeMatic",
+  "description": "Connect your HomeMatic devices",
+  "author": "Tim Hellhake",
+  "homepage": "https://github.com/tim-hellhake/homematic-adapter#readme",
+  "license": "https://github.com/tim-hellhake/homematic-adapter/blob/master/LICENSE",
+  "type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homematic-adapter-0.1.0.tgz",
+      "checksum": "2339c467550a7c2bd8d5be66c20e4be3863b4640140f6f526c02a0811f3a2b85",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    }
+  ]
+}
