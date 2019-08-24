@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.3.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/counter-adapter-0.3.0.tgz",
-      "checksum": "673cb2bb899c0e93cea711c269a505e19484b3818e981265de5d63d5e81cdb8c",
+      "version": "0.3.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/counter-adapter-0.3.1.tgz",
+      "checksum": "b6195f087abc3b5a65502130ff8b858168652108172eeabdde121b3be0d0da44",
       "api": {
         "min": 2,
         "max": 2
