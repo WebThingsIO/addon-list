@@ -1,7 +1,7 @@
 {
 	"name": "foobot-adapter",
-	"display_name": "Foobot Air Quality Sensor",
-	"description": "Adapter for Foobot devices",
+	"display_name": "Foobot",
+	"description": "Adapter for Foobot Air Quality Sensors",
 	"author": "Bram van Mensvoort",
 	"homepage": "https://github.com/bvmensvoort/mozillaiot-foobot",
 	"license": "https://github.com/bvmensvoort/mozillaiot-foobot/blob/master/LICENSE",
