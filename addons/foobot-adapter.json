@@ -17,7 +17,7 @@
 			},
 			"version": "0.0.1",
 			"url": "https://github.com/bvmensvoort/mozillaiot-foobot/releases/download/v0.0.1/foobot-adapter-0.0.1.tgz",
-			"checksum": "3deefc21200b7ffa493c7c7879b5f4da3c8c6178597a3a3f8c7f37dde46a4ba2",
+			"checksum": "aa5c06d9a84fa6ec7021c7c341fea6d0ae774ca4591864d32828bc221c0635a3",
 			"api": {
 				"min": 2,
 				"max": 2
