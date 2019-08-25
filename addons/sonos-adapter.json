@@ -19,7 +19,7 @@
       "url": "https://github.com/tim-hellhake/sonos-adapter/releases/download/0.6.5/sonos-adapter-0.6.5.tgz",
       "checksum": "fd9d0fb74b0b1b3fcdac137bb4eff3471ebae088691c4ebffb841ad3d31d26b1",
       "api": {
-        "min": 1,
+        "min": 2,
         "max": 2
       }
     }
