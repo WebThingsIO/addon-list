@@ -1,0 +1,27 @@
+{
+  "name": "cron-adapter",
+  "display_name": "Cron",
+  "description": "Allows you to use cron expressions as a trigger",
+  "author": "Tim Hellhake",
+  "homepage": "https://github.com/tim-hellhake/cron-adapter#readme",
+  "license": "https://github.com/tim-hellhake/cron-adapter/blob/master/LICENSE",
+  "type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/cron-adapter-0.1.0.tgz",
+      "checksum": "dff284d2bcb273cce2b65d9e4cbae3f239ae9656df11fc47890c73f4c65e1e7e",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    }
+  ]
+}
