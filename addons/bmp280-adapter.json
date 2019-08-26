@@ -1,0 +1,28 @@
+{
+  "name": "bmp280-adapter",
+  "display_name": "BMP280 sensor adapter",
+  "version": "0.0.1",
+  "description": "Get temperature and pressure data from BMP280-like sensors",
+  "author": "Matthieu Corageoud",
+  "homepage": "https://github.com/matco/bmp280-adapter",
+  "license": "https://github.com/matco/bmp280-adapter/blob/master/LICENSE",
+  "type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.0.1/bmp280-adapter-0.0.1-linux-arm-v8.tgz",
+      "checksum": "2d2e6060820c2d9ff019647a7b1952c9255e00fb58a32302cef962a50f021f49",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    }
+  ]
+}
