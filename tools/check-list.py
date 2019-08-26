@@ -78,7 +78,7 @@ def main():
         jsonschema.Draft4Validator.check_schema(schema)
     except jsonschema.SchemaError as e:
         print('Schema validation failed: {}'.format(e))
-        sys.exit(1)
+        cleanup()
 
     addon_list = []
 
@@ -88,18 +88,32 @@ def main():
             fname = os.path.join(_ADDONS_DIR, '{}.json'.format(adapter))
             try:
                 with open(fname, 'rt') as f:
-                    addon_list.append(json.load(f))
+                    entry = json.load(f)
+                    if entry['name'] != adapter:
+                        print('Filename {} does not match adapter name {}'
+                              .format(adapter, entry['name']))
+                        cleanup()
+
+                    addon_list.append(entry)
             except (IOError, OSError, ValueError) as e:
                 print('Failed to read {}: {}'.format(fname, e))
-                sys.exit(1)
+                cleanup()
     else:
         for path in sorted(glob.glob(os.path.join(_ADDONS_DIR, '*.json'))):
             try:
                 with open(path, 'rt') as f:
-                    addon_list.append(json.load(f))
+                    entry = json.load(f)
+                    adapter = os.path.splitext(os.path.basename(path))[0]
+
+                    if entry['name'] != adapter:
+                        print('Filename {} does not match adapter name {}'
+                              .format(adapter, entry['name']))
+                        cleanup()
+
+                    addon_list.append(entry)
             except (IOError, OSError, ValueError) as e:
                 print('Failed to read {}: {}'.format(path, e))
-                sys.exit(1)
+                cleanup()
 
     required_in_manifest = [
         'name',
