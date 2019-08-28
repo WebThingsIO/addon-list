@@ -126,7 +126,7 @@ def main():
     if entry_updated:
         try:
             with open(fname, 'wt') as f:
-                json.dump(addon_list, f, indent=2, ensure_ascii=False)
+                json.dump(entry, f, indent=2, ensure_ascii=False)
                 f.write('\n')
         except (IOError, OSError):
             print('Failed to write file {}'.format(fname))
