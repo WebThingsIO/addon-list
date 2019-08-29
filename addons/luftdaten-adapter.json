@@ -1,0 +1,27 @@
+{
+  "name": "luftdaten-adapter",
+  "display_name": "Luftdaten",
+  "description": "Connect sensors from https://luftdaten.info",
+  "author": "Tim Hellhake",
+  "homepage": "https://github.com/tim-hellhake/luftdaten-adapter#readme",
+  "license": "https://github.com/tim-hellhake/luftdaten-adapter/blob/master/LICENSE",
+  "type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://github.com/tim-hellhake/luftdaten-adapter/releases/download/0.1.0/luftdaten-adapter-0.1.0.tgz",
+      "checksum": "a7097c5e5dc275b8628645fd0a90c4dc58c2ff32dcd18c236ffb4037a00c012b",
+      "api": {
+        "min": 2,
+        "max": 2
+      }
+    }
+  ]
+}
