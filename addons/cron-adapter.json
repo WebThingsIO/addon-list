@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/cron-adapter-0.1.0.tgz",
-      "checksum": "dff284d2bcb273cce2b65d9e4cbae3f239ae9656df11fc47890c73f4c65e1e7e",
+      "version": "0.2.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/cron-adapter-0.2.1.tgz",
+      "checksum": "69a59c6676dbb78516cfc1d0c9e4bc27a4e3f13b7fba8e63cc4ca5a10950e002",
       "api": {
         "min": 2,
         "max": 2
