@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/luftdaten-adapter-0.2.0.tgz",
-      "checksum": "69b5a00274a0c84c7748a026d5c8a8a2bd88a409511aa082af9aac773df3f15a",
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/luftdaten-adapter-0.3.0.tgz",
+      "checksum": "1800c4015bfb94ae34378bdd4e2bd0661ff01a7e6a82a2d4e400d2116b72d1ae",
       "api": {
         "min": 2,
         "max": 2
