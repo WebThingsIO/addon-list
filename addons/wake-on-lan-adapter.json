@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://github.com/mozilla-iot/wake-on-lan-adapter/releases/download/v0.1.0/wake-on-lan-adapter-0.1.0.tgz",
-      "checksum": "5ebf97180b0c9153484fc71316967da63853f5070585aafb3e1137bb1b246333",
+      "version": "0.1.1",
+      "url": "https://github.com/mozilla-iot/wake-on-lan-adapter/releases/download/v0.1.1/wake-on-lan-adapter-0.1.1.tgz",
+      "checksum": "87c6e7e5ecfd9cc526dc30871d77b01f9973ebe5b93da748474e145d3dcdbf97",
       "api": {
         "min": 2,
         "max": 2
