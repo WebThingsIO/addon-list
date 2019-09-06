@@ -4,6 +4,8 @@ List of installable add-ons for the Mozilla WebThings Gateway. These are discove
 
 The add-on API is described in [this document](https://github.com/mozilla-iot/wiki/wiki/Adapter-API).
 
+You should also take a look at the [guidelines](https://github.com/mozilla-iot/addon-list/blob/master/guidelines.md) for building add-ons.
+
 # Packaging Add-ons
 
 Your add-on should be packaged as an npm-compatible package. If it is written in Javascript and is actually npm-compatible, you can simply package it with `npm pack`. If not, the [layout](https://github.com/mozilla-iot/wiki/wiki/Add-On-System-Design#package-layout) needs to be the same.
