@@ -15,9 +15,9 @@
           "57"
         ]
       },
-      "version": "0.9.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.9.3-linux-arm-v8.tgz",
-      "checksum": "cc062267dae5ed32df6f67c9bab5f9ff0617e42c3f825b559d70aac48811837a",
+      "version": "0.9.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.9.4-linux-arm-v8.tgz",
+      "checksum": "c9a80dd562db775edb501e1e69fe797c95c51bcc55734b986241f67e8be0c6dc",
       "api": {
         "min": 2,
         "max": 2
@@ -31,9 +31,9 @@
           "57"
         ]
       },
-      "version": "0.9.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.9.3-openwrt-linux-arm_cortex-a7_neon-vfpv4-v8.tgz",
-      "checksum": "d032138ab04b00cddcbc601a34f7400a12f42f75ccb315a4456c9c5d1dafefc8",
+      "version": "0.9.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.9.4-openwrt-linux-arm_cortex-a7_neon-vfpv4-v8.tgz",
+      "checksum": "797e6d76e423aadbbed25a8b4794484f3da677fcb14cf4a58f8674bfb3780c7c",
       "api": {
         "min": 2,
         "max": 2
@@ -47,9 +47,9 @@
           "57"
         ]
       },
-      "version": "0.9.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.9.3-linux-x64-v8.tgz",
-      "checksum": "9eb04cdeebb6973ac18eefd08870b1f245c1cabe1d14b88e315e098956832932",
+      "version": "0.9.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.9.4-linux-x64-v8.tgz",
+      "checksum": "4acde2d52e235bc724081ad6a4b6255332b88513f5ca731cd08b402259d8edf6",
       "api": {
         "min": 2,
         "max": 2
@@ -63,9 +63,9 @@
           "57"
         ]
       },
-      "version": "0.9.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.9.3-darwin-x64-v8.tgz",
-      "checksum": "b17d6face6d0313e86e84d5113720ae68eac92856147928ba7f375519db05a63",
+      "version": "0.9.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.9.4-darwin-x64-v8.tgz",
+      "checksum": "4670421c347991ab28cae487abf3c93c343811123cb036f730f2afcfd36952e6",
       "api": {
         "min": 2,
         "max": 2
@@ -79,9 +79,9 @@
           "64"
         ]
       },
-      "version": "0.9.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.9.3-linux-arm-v10.tgz",
-      "checksum": "18a401764e113cccd34033ed3f5826ad1a94b99aec89b36f8371925939c06fb0",
+      "version": "0.9.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.9.4-linux-arm-v10.tgz",
+      "checksum": "8481e9cb492a3d2ffaa46f9a7846d31af04325ed94601396822d54471116cf1b",
       "api": {
         "min": 2,
         "max": 2
@@ -95,9 +95,9 @@
           "64"
         ]
       },
-      "version": "0.9.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.9.3-linux-x64-v10.tgz",
-      "checksum": "ab65bfa57481a1ff537e5946f2667d0c3f69817a4dc1c08a8aaee0000a165d73",
+      "version": "0.9.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.9.4-linux-x64-v10.tgz",
+      "checksum": "644bb5d9ae1566f44fa9c7abe4c4b652be8c9910ae505f2cb519d89ccc7fcc10",
       "api": {
         "min": 2,
         "max": 2
@@ -111,9 +111,9 @@
           "64"
         ]
       },
-      "version": "0.9.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.9.3-darwin-x64-v10.tgz",
-      "checksum": "2779d2ec6e4ff5474a4de909ce2499e65ac48c6699a55278fa7abfab000c2a95",
+      "version": "0.9.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.9.4-darwin-x64-v10.tgz",
+      "checksum": "b033d7e19c5882dc6747b1f2b9bc9c5167cf9eca34578977af87f0e722947c39",
       "api": {
         "min": 2,
         "max": 2
@@ -127,9 +127,9 @@
           "57"
         ]
       },
-      "version": "0.9.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.9.3-openwrt-linux-arm_cortex-a9_vfpv3-v8.tgz",
-      "checksum": "fc02042aa8f1902b7c2d345feea3c7514ffe7d4b132a714c01a89f2327ff218a",
+      "version": "0.9.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.9.4-openwrt-linux-arm_cortex-a9_vfpv3-v8.tgz",
+      "checksum": "32e4c4c9b8141d59569742da08adaf9d05f4b04850db638e3d2543db226f1416",
       "api": {
         "min": 2,
         "max": 2
