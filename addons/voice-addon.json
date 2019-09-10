@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "1.0.0",
-      "url": "https://github.com/andrenatal/voice-addon/releases/download/1.0.0/voice-addon-1.0.0.tgz",
-      "checksum": "059ec7af5ffd920c60cd7271b9e85d7a609fd632cd69b1915918edb4fe893f35",
+      "version": "1.0.1",
+      "url": "https://github.com/andrenatal/voice-addon/releases/download/1.0.1/voice-addon-1.0.1.tgz",
+      "checksum": "916a55351f035308b775a8f44c3d8a0e41696180c923c0329b538ec36078759d",
       "api": {
         "min": 2,
         "max": 2
@@ -31,9 +31,9 @@
           "any"
         ]
       },
-      "version": "1.0.0",
-      "url": "https://github.com/andrenatal/voice-addon/releases/download/1.0.0/voice-addon-1.0.0.tgz",
-      "checksum": "059ec7af5ffd920c60cd7271b9e85d7a609fd632cd69b1915918edb4fe893f35",
+      "version": "1.0.1",
+      "url": "https://github.com/andrenatal/voice-addon/releases/download/1.0.1/voice-addon-1.0.1.tgz",
+      "checksum": "916a55351f035308b775a8f44c3d8a0e41696180c923c0329b538ec36078759d",
       "api": {
         "min": 2,
         "max": 2
