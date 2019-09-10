@@ -21,7 +21,7 @@ def translate(package_json):
         'gateway_specific_settings': {
             'webthings': {
                 'exec': package['moziot']['exec'],
-                'strict_min_version': '0.10',
+                'strict_min_version': '0.10.0',
             },
         },
         'homepage_url': package['homepage'],
