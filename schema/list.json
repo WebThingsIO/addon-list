@@ -39,6 +39,7 @@
       "type": "string",
       "enum": [
         "adapter",
+        "extension",
         "notifier"
       ]
     },
@@ -53,7 +54,8 @@
           "version",
           "url",
           "checksum",
-          "api"
+          "api",
+          "gateway"
         ],
         "properties": {
           "architecture": {
@@ -98,7 +100,7 @@
           },
           "version": {
             "type": "string",
-            "minLength": 1
+            "pattern": "^\\d+\\.\\d+\\.\\d+$"
           },
           "url": {
             "type": "string",
@@ -124,6 +126,23 @@
               "max": {
                 "type": "integer",
                 "minimum": 1
+              }
+            }
+          },
+          "gateway": {
+            "type": "object",
+            "required": [
+              "min",
+              "max"
+            ],
+            "properties": {
+              "min": {
+                "type": "string",
+                "pattern": "^(\\d+\\.\\d+\\.\\d+|\\*)$"
+              },
+              "max": {
+                "type": "string",
+                "pattern": "^(\\d+\\.\\d+\\.\\d+|\\*)$"
               }
             }
           },

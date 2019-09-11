@@ -18,7 +18,7 @@
     },
     "version": {
       "type": "string",
-      "minLength": 1
+      "pattern": "^\\d+\\.\\d+\\.\\d+$"
     },
     "display_name": {
       "type": "string",
@@ -97,6 +97,9 @@
               "const": 2
             }
           }
+        },
+        "enabled": {
+          "type": "boolean"
         },
         "plugin": {
           "type": "boolean",

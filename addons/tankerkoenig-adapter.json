@@ -1,6 +1,6 @@
 {
   "name": "tankerkoenig-adapter",
-  "display_name": "Tankerkönig",
+  "display_name": "Tankerk\u00f6nig",
   "description": "Shows you the gas prices near you (Germany only)",
   "author": "Tim Hellhake",
   "homepage": "https://github.com/tim-hellhake/tankerkoenig-adapter#readme",
@@ -21,6 +21,10 @@
       "api": {
         "min": 2,
         "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
       }
     }
   ]
