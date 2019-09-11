@@ -37,7 +37,7 @@ def get_builder_files(prefix):
 
 def move_aws_builder_files(prefix):
     try:
-        output = subprocess.check_output([
+        subprocess.check_output([
           'aws', 's3', 'mv',
           '--recursive',
           '--exclude', '*',
