@@ -1,11 +1,11 @@
 {
-  "name": "lametric-adapter",
-  "display_name": "LaMetric",
+  "id": "lametric-adapter",
+  "name": "LaMetric",
   "description": "Send notifications to your LaMetric",
   "author": "Tim Hellhake",
-  "homepage": "https://github.com/tim-hellhake/lametric-adapter#readme",
-  "license": "https://github.com/tim-hellhake/lametric-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/tim-hellhake/lametric-adapter#readme",
+  "license_url": "https://github.com/tim-hellhake/lametric-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

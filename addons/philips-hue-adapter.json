@@ -1,11 +1,11 @@
 {
-  "name": "philips-hue-adapter",
-  "display_name": "Philips Hue",
+  "id": "philips-hue-adapter",
+  "name": "Philips Hue",
   "description": "Philips Hue color light support. Press the button on your Hue bridge to pair devices.",
   "author": "Mozilla IoT",
-  "homepage": "https://github.com/mozilla-iot/philips-hue-adapter",
-  "license": "https://github.com/mozilla-iot/philips-hue-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/mozilla-iot/philips-hue-adapter",
+  "license_url": "https://github.com/mozilla-iot/philips-hue-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

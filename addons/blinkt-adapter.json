@@ -1,11 +1,11 @@
 {
-  "name": "blinkt-adapter",
-  "display_name": "Pimoroni Blinkt!",
+  "id": "blinkt-adapter",
+  "name": "Pimoroni Blinkt!",
   "description": "Pimoroni Blinkt! support",
   "author": "Poul Christiansen",
-  "homepage": "https://github.com/pchri/blinkt-adapter",
-  "license": "https://github.com/pchri/blinkt-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/pchri/blinkt-adapter",
+  "license_url": "https://github.com/pchri/blinkt-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "linux-arm",

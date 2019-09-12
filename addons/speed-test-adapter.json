@@ -1,11 +1,11 @@
 {
-  "name": "speed-test-adapter",
-  "display_name": "Speed Test",
+  "id": "speed-test-adapter",
+  "name": "Speed Test",
   "description": "Internet speed test",
   "author": "Mozilla IoT",
-  "homepage": "https://github.com/mozilla-iot/speed-test-adapter",
-  "license": "https://github.com/mozilla-iot/speed-test-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/mozilla-iot/speed-test-adapter",
+  "license_url": "https://github.com/mozilla-iot/speed-test-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

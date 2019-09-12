@@ -1,11 +1,11 @@
 {
-  "name": "serial-adapter",
-  "display_name": "Serial",
+  "id": "serial-adapter",
+  "name": "Serial",
   "description": "Serial JSON interface to serial-mcu",
   "author": "Mozilla IoT",
-  "homepage": "https://github.com/mozilla-iot/serial-adapter",
-  "license": "https://github.com/mozilla-iot/serial-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/mozilla-iot/serial-adapter",
+  "license_url": "https://github.com/mozilla-iot/serial-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "linux-arm",

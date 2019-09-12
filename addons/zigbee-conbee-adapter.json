@@ -1,11 +1,11 @@
 {
-  "name": "zigbee-conbee-adapter",
-  "display_name": "Zigbee (ConBee USB stick)",
+  "id": "zigbee-conbee-adapter",
+  "name": "Zigbee (ConBee USB stick)",
   "description": "Uses deCONZ REST API to manage ConBee USB stick",
   "author": "tomasy",
-  "homepage": "https://github.com/tomasy/zigbee-conbee-adapter",
-  "license": "https://github.com/tomasy/zigbee-conbee-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/tomasy/zigbee-conbee-adapter",
+  "license_url": "https://github.com/tomasy/zigbee-conbee-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

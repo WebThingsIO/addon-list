@@ -1,11 +1,11 @@
 {
-  "name": "x10-cm11-adapter",
-  "display_name": "X10 (CM11)",
+  "id": "x10-cm11-adapter",
+  "name": "X10 (CM11)",
   "description": "X10 device support through the CM11 interface.",
   "author": "Alan Thiessen",
-  "homepage": "https://github.com/AlanDThiessen/x10-cm11-adapter",
-  "license": "https://github.com/AlanDThiessen/x10-cm11-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/AlanDThiessen/x10-cm11-adapter",
+  "license_url": "https://github.com/AlanDThiessen/x10-cm11-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "linux-arm",

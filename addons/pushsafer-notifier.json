@@ -1,11 +1,11 @@
 {
-  "name": "pushsafer-notifier",
-  "display_name": "Pushsafer",
+  "id": "pushsafer-notifier",
+  "name": "Pushsafer",
   "description": "Send a notification to your pushsafer app (gateway >= 0.9.0 only)",
   "author": "Tim Hellhake",
-  "homepage": "https://github.com/tim-hellhake/pushsafer-notifier#readme",
-  "license": "https://github.com/tim-hellhake/pushsafer-notifier/blob/master/LICENSE",
-  "type": "notifier",
+  "homepage_url": "https://github.com/tim-hellhake/pushsafer-notifier#readme",
+  "license_url": "https://github.com/tim-hellhake/pushsafer-notifier/blob/master/LICENSE",
+  "primary_type": "notifier",
   "packages": [
     {
       "architecture": "any",

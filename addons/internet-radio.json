@@ -1,11 +1,11 @@
 {
-  "name": "internet-radio",
-  "display_name": "Internet radio",
+  "id": "internet-radio",
+  "name": "Internet radio",
   "description": "Play your favourite online radio stations",
   "author": "Flatsiedatsie",
-  "homepage": "https://github.com/flatsiedatsie/internet-radio",
-  "license": "https://github.com/flatsiedatsie/internet-radio/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/flatsiedatsie/internet-radio",
+  "license_url": "https://github.com/flatsiedatsie/internet-radio/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "linux-arm",

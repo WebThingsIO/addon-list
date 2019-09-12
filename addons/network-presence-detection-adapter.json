@@ -1,11 +1,11 @@
 {
-  "name": "network-presence-detection-adapter",
-  "display_name": "Network presence detector",
+  "id": "network-presence-detection-adapter",
+  "name": "Network presence detector",
   "description": "Check if devices are on your network",
   "author": "Flatsiedatsie",
-  "homepage": "https://github.com/flatsiedatsie/Webthings-network-presence-detection",
-  "license": "https://github.com/flatsiedatsie/Webthings-network-presence-detection/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/flatsiedatsie/Webthings-network-presence-detection",
+  "license_url": "https://github.com/flatsiedatsie/Webthings-network-presence-detection/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

@@ -1,11 +1,11 @@
 {
-  "name": "tide-calendar-adapter",
-  "display_name": "Tide Calendar",
+  "id": "tide-calendar-adapter",
+  "name": "Tide Calendar",
   "description": "Tide calendar and current water level",
   "author": "Mozilla IoT",
-  "homepage": "https://github.com/mozilla-iot/tide-calendar-adapter",
-  "license": "https://github.com/mozilla-iot/tide-calendar-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/mozilla-iot/tide-calendar-adapter",
+  "license_url": "https://github.com/mozilla-iot/tide-calendar-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

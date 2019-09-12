@@ -1,11 +1,11 @@
 {
-  "name": "zwave-adapter",
-  "display_name": "Z-Wave",
+  "id": "zwave-adapter",
+  "name": "Z-Wave",
   "description": "Z-Wave device support",
   "author": "Mozilla IoT",
-  "homepage": "https://github.com/mozilla-iot/zwave-adapter",
-  "license": "https://github.com/mozilla-iot/zwave-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/mozilla-iot/zwave-adapter",
+  "license_url": "https://github.com/mozilla-iot/zwave-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "linux-arm",

@@ -1,11 +1,11 @@
 {
-  "name": "roku-adapter",
-  "display_name": "Roku",
+  "id": "roku-adapter",
+  "name": "Roku",
   "description": "Roku support",
   "author": "Mozilla IoT",
-  "homepage": "https://github.com/mozilla-iot/roku-adapter#readme",
-  "license": "https://github.com/mozilla-iot/roku-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/mozilla-iot/roku-adapter#readme",
+  "license_url": "https://github.com/mozilla-iot/roku-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

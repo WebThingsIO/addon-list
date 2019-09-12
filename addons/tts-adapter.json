@@ -1,11 +1,11 @@
 {
-  "name": "tts-adapter",
-  "display_name": "Text-to-Speech",
+  "id": "tts-adapter",
+  "name": "Text-to-Speech",
   "description": "Reads texts for you",
   "author": "Tim Hellhake",
-  "homepage": "https://github.com/tim-hellhake/tts-adapter#readme",
-  "license": "https://github.com/tim-hellhake/tts-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/tim-hellhake/tts-adapter#readme",
+  "license_url": "https://github.com/tim-hellhake/tts-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

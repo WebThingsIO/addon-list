@@ -1,11 +1,11 @@
 {
-  "name": "pulse-adapter",
-  "display_name": "Pulse",
+  "id": "pulse-adapter",
+  "name": "Pulse",
   "description": "Generate a pulse",
   "author": "Mozilla IoT",
-  "homepage": "https://github.com/mozilla-iot/pulse-adapter",
-  "license": "https://github.com/mozilla-iot/pulse-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/mozilla-iot/pulse-adapter",
+  "license_url": "https://github.com/mozilla-iot/pulse-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

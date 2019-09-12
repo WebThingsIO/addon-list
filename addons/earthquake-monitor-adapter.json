@@ -1,11 +1,11 @@
 {
-  "name": "earthquake-monitor-adapter",
-  "display_name": "Earthquake Monitor",
+  "id": "earthquake-monitor-adapter",
+  "name": "Earthquake Monitor",
   "description": "Earthquake monitor using USGS data",
   "author": "Mozilla IoT",
-  "homepage": "https://github.com/mozilla-iot/earthquake-monitor-adapter",
-  "license": "https://github.com/mozilla-iot/earthquake-monitor-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/mozilla-iot/earthquake-monitor-adapter",
+  "license_url": "https://github.com/mozilla-iot/earthquake-monitor-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

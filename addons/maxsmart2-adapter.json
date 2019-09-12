@@ -1,11 +1,11 @@
 {
-  "name": "maxsmart2-adapter",
-  "display_name": "Max Hauri maxSMART 2.0",
+  "id": "maxsmart2-adapter",
+  "name": "Max Hauri maxSMART 2.0",
   "description": "Control Max Hauri maxSMART 2.0 smart plugs. Does not support automatic pairing.",
   "author": "Martin Giger",
-  "homepage": "https://github.com/freaktechnik/maxsmart2-adapter#readme",
-  "license": "https://github.com/freaktechnik/maxsmart2-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/freaktechnik/maxsmart2-adapter#readme",
+  "license_url": "https://github.com/freaktechnik/maxsmart2-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

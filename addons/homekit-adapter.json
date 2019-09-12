@@ -1,11 +1,11 @@
 {
-  "name": "homekit-adapter",
-  "display_name": "HomeKit",
+  "id": "homekit-adapter",
+  "name": "HomeKit",
   "description": "HomeKit device support",
   "author": "Mozilla IoT",
-  "homepage": "https://github.com/mozilla-iot/homekit-adapter",
-  "license": "https://github.com/mozilla-iot/homekit-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/mozilla-iot/homekit-adapter",
+  "license_url": "https://github.com/mozilla-iot/homekit-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "linux-arm",

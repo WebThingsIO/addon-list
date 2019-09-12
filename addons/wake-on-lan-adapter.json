@@ -1,11 +1,11 @@
 {
-  "name": "wake-on-lan-adapter",
-  "display_name": "Wake-on-LAN",
+  "id": "wake-on-lan-adapter",
+  "name": "Wake-on-LAN",
   "description": "Wake-on-LAN support",
   "author": "Mozilla IoT",
-  "homepage": "https://github.com/mozilla-iot/wake-on-lan-adapter#readme",
-  "license": "https://github.com/mozilla-iot/wake-on-lan-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/mozilla-iot/wake-on-lan-adapter#readme",
+  "license_url": "https://github.com/mozilla-iot/wake-on-lan-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

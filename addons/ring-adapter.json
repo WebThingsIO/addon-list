@@ -1,11 +1,11 @@
 {
-  "name": "ring-adapter",
-  "display_name": "Ring",
+  "id": "ring-adapter",
+  "name": "Ring",
   "description": "Ring device adapter.",
   "author": "damooooooooooh",
-  "homepage": "https://github.com/damooooooooooh/ring-adapter",
-  "license": "https://github.com/damooooooooooh/ring-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/damooooooooooh/ring-adapter",
+  "license_url": "https://github.com/damooooooooooh/ring-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

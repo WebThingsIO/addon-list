@@ -1,11 +1,11 @@
 {
-  "name": "activitypub-adapter",
-  "display_name": "ActivityPub",
+  "id": "activitypub-adapter",
+  "name": "ActivityPub",
   "description": "Send notice to Mastodon SocialWeb.",
   "author": "Philippe Coval",
-  "homepage": "https://github.com/rzr/mastodon-lite",
-  "license": "https://github.com/rzr/mastodon-lite/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/rzr/mastodon-lite",
+  "license_url": "https://github.com/rzr/mastodon-lite/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

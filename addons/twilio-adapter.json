@@ -1,11 +1,11 @@
 {
-  "name": "twilio-adapter",
-  "display_name": "Twilio",
+  "id": "twilio-adapter",
+  "name": "Twilio",
   "description": "Simple Twilio API actions. Needs to be configured with an account SID, auth token, and Twilio-given number.",
   "author": "Mozilla IoT",
-  "homepage": "https://github.com/mozilla-iot/twilio-adapter",
-  "license": "https://github.com/mozilla-iot/twilio-adapter/blob/master/LICENSE",
-  "type": "notifier",
+  "homepage_url": "https://github.com/mozilla-iot/twilio-adapter",
+  "license_url": "https://github.com/mozilla-iot/twilio-adapter/blob/master/LICENSE",
+  "primary_type": "notifier",
   "packages": [
     {
       "architecture": "any",

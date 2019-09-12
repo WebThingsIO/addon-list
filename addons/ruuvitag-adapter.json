@@ -1,11 +1,11 @@
 {
-  "name": "ruuvitag-adapter",
-  "display_name": "RuuviTag",
+  "id": "ruuvitag-adapter",
+  "name": "RuuviTag",
   "description": "Connect your RuuviTags (bluetooth environmental sensor)",
   "author": "Tim Hellhake",
-  "homepage": "https://github.com/tim-hellhake/ruuvitag-adapter#readme",
-  "license": "https://github.com/tim-hellhake/ruuvitag-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/tim-hellhake/ruuvitag-adapter#readme",
+  "license_url": "https://github.com/tim-hellhake/ruuvitag-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "linux-arm",

@@ -1,11 +1,11 @@
 {
-  "name": "mi-flora-adapter",
-  "display_name": "Mi Flora",
+  "id": "mi-flora-adapter",
+  "name": "Mi Flora",
   "description": "Connect your Mi Flora devices",
   "author": "Tim Hellhake",
-  "homepage": "https://github.com/tim-hellhake/mi-flora-adapter#readme",
-  "license": "https://github.com/tim-hellhake/mi-flora-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/tim-hellhake/mi-flora-adapter#readme",
+  "license_url": "https://github.com/tim-hellhake/mi-flora-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "linux-arm",

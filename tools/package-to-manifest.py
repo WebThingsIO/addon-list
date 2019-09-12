@@ -22,6 +22,7 @@ def translate(package_json):
             'webthings': {
                 'exec': package['moziot']['exec'],
                 'strict_min_version': '0.10.0',
+                'strict_max_version': '*',
             },
         },
         'homepage_url': package['homepage'],

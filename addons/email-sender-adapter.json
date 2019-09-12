@@ -1,11 +1,11 @@
 {
-  "name": "email-sender-adapter",
-  "display_name": "Email Sender",
+  "id": "email-sender-adapter",
+  "name": "Email Sender",
   "description": "Simple email sending actions. Needs to be configured with email and app password.",
   "author": "Mozilla IoT",
-  "homepage": "https://github.com/mozilla-iot/email-sender-adapter",
-  "license": "https://github.com/mozilla-iot/email-sender-adapter/blob/master/LICENSE",
-  "type": "notifier",
+  "homepage_url": "https://github.com/mozilla-iot/email-sender-adapter",
+  "license_url": "https://github.com/mozilla-iot/email-sender-adapter/blob/master/LICENSE",
+  "primary_type": "notifier",
   "packages": [
     {
       "architecture": "any",

@@ -1,11 +1,11 @@
 {
-  "name": "logitech-harmony-adapter",
-  "display_name": "Logitech Harmony",
+  "id": "logitech-harmony-adapter",
+  "name": "Logitech Harmony",
   "description": "Logitech Harmony Hub support",
   "author": "Tim Hellhake",
-  "homepage": "https://github.com/tim-hellhake/logitech-harmony-adapter#readme",
-  "license": "https://github.com/tim-hellhake/logitech-harmony-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/tim-hellhake/logitech-harmony-adapter#readme",
+  "license_url": "https://github.com/tim-hellhake/logitech-harmony-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

@@ -1,11 +1,11 @@
 {
-  "name": "sonos-adapter",
-  "display_name": "Sonos",
+  "id": "sonos-adapter",
+  "name": "Sonos",
   "description": "Sonos player support",
   "author": "Tim Hellhake",
-  "homepage": "https://github.com/tim-hellhake/sonos-adapter#readme",
-  "license": "https://github.com/tim-hellhake/sonos-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/tim-hellhake/sonos-adapter#readme",
+  "license_url": "https://github.com/tim-hellhake/sonos-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

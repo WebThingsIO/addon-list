@@ -1,11 +1,11 @@
 {
-  "name": "google-home-adapter",
-  "display_name": "Google Home Text to Speech",
+  "id": "google-home-adapter",
+  "name": "Google Home Text to Speech",
   "description": "Uses your Google Home device to speak to you",
   "author": "Tim Hellhake",
-  "homepage": "https://github.com/tim-hellhake/google-home-adapter#readme",
-  "license": "https://github.com/tim-hellhake/google-home-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/tim-hellhake/google-home-adapter#readme",
+  "license_url": "https://github.com/tim-hellhake/google-home-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

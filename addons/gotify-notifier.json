@@ -1,11 +1,11 @@
 {
-  "name": "gotify-notifier",
-  "display_name": "Gotify Notifier",
+  "id": "gotify-notifier",
+  "name": "Gotify Notifier",
   "description": "Send notifications through a self-hosted Gotify server. Needs to be configured with server and app token.",
   "author": "Mozilla IoT",
-  "homepage": "https://github.com/mozilla-iot/gotify-notifier",
-  "license": "https://github.com/mozilla-iot/gotify-notifier/blob/master/LICENSE",
-  "type": "notifier",
+  "homepage_url": "https://github.com/mozilla-iot/gotify-notifier",
+  "license_url": "https://github.com/mozilla-iot/gotify-notifier/blob/master/LICENSE",
+  "primary_type": "notifier",
   "packages": [
     {
       "architecture": "any",

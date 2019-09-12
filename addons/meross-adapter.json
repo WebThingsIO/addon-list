@@ -1,11 +1,11 @@
 {
-  "name": "meross-adapter",
-  "display_name": "Meross",
+  "id": "meross-adapter",
+  "name": "Meross",
   "description": "Meross smart plug device support",
   "author": "Mozilla IoT",
-  "homepage": "https://github.com/mozilla-iot/meross-adapter",
-  "license": "https://github.com/mozilla-iot/meross-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/mozilla-iot/meross-adapter",
+  "license_url": "https://github.com/mozilla-iot/meross-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

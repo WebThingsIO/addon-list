@@ -1,21 +1,21 @@
 {
   "type": "object",
   "required": [
+    "id",
     "name",
-    "display_name",
     "description",
     "author",
-    "homepage",
-    "license",
-    "type",
+    "homepage_url",
+    "license_url",
+    "primary_type",
     "packages"
   ],
   "properties": {
-    "name": {
+    "id": {
       "type": "string",
       "minLength": 1
     },
-    "display_name": {
+    "name": {
       "type": "string",
       "minLength": 1
     },
@@ -27,15 +27,15 @@
       "type": "string",
       "minLength": 1
     },
-    "homepage": {
+    "homepage_url": {
       "type": "string",
       "minLength": 11
     },
-    "license": {
+    "license_url": {
       "type": "string",
       "minLength": 11
     },
-    "type": {
+    "primary_type": {
       "type": "string",
       "enum": [
         "adapter",
@@ -146,7 +146,7 @@
               }
             }
           },
-          "testOnly": {
+          "test_only": {
             "type": "boolean"
           }
         }
