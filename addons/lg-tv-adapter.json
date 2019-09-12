@@ -1,11 +1,11 @@
 {
-  "name": "lg-tv-adapter",
-  "display_name": "LG webOS TV",
+  "id": "lg-tv-adapter",
+  "name": "LG webOS TV",
   "description": "LG webOS TV support",
   "author": "Mozilla IoT",
-  "homepage": "https://github.com/mozilla-iot/lg-tv-adapter#readme",
-  "license": "https://github.com/mozilla-iot/lg-tv-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/mozilla-iot/lg-tv-adapter#readme",
+  "license_url": "https://github.com/mozilla-iot/lg-tv-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "linux-arm",

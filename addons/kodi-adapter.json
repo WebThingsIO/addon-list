@@ -1,11 +1,11 @@
 {
-  "name": "kodi-adapter",
-  "display_name": "Kodi",
+  "id": "kodi-adapter",
+  "name": "Kodi",
   "description": "Show notifications on your media player",
   "author": "Tim Hellhake",
-  "homepage": "https://github.com/tim-hellhake/kodi-adapter#readme",
-  "license": "https://github.com/tim-hellhake/kodi-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/tim-hellhake/kodi-adapter#readme",
+  "license_url": "https://github.com/tim-hellhake/kodi-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

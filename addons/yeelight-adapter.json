@@ -1,11 +1,11 @@
 {
-  "name": "yeelight-adapter",
-  "display_name": "Yeelight",
+  "id": "yeelight-adapter",
+  "name": "Yeelight",
   "description": "Yeelight smart bulb support",
   "author": "Mozilla IoT",
-  "homepage": "https://github.com/mozilla-iot/yeelight-adapter",
-  "license": "https://github.com/mozilla-iot/yeelight-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/mozilla-iot/yeelight-adapter",
+  "license_url": "https://github.com/mozilla-iot/yeelight-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

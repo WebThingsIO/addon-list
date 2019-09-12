@@ -1,11 +1,11 @@
 {
-  "name": "broadlink-adapter",
-  "display_name": "BroadLink",
+  "id": "broadlink-adapter",
+  "name": "BroadLink",
   "description": "Support IR devices with BroadLink.",
   "author": "sogaani",
-  "homepage": "https://github.com/sogaani/broadlink-adapter",
-  "license": "https://github.com/sogaani/broadlink-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/sogaani/broadlink-adapter",
+  "license_url": "https://github.com/sogaani/broadlink-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

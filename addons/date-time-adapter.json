@@ -1,11 +1,11 @@
 {
-  "name": "date-time-adapter",
-  "display_name": "DateTime Adapter",
+  "id": "date-time-adapter",
+  "name": "DateTime Adapter",
   "description": "A DateTime adapter to create more advanced rules using sunrise, sunset, weekends, etc.",
   "author": "tomasy",
-  "homepage": "https://github.com/tomasy/date-time-adapter",
-  "license": "https://github.com/tomasy/date-time-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/tomasy/date-time-adapter",
+  "license_url": "https://github.com/tomasy/date-time-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

@@ -1,11 +1,11 @@
 {
-  "name": "microblocks-adapter",
-  "display_name": "MicroBlocks",
+  "id": "microblocks-adapter",
+  "name": "MicroBlocks",
   "description": "MicroBlocks board support",
   "author": "MicroBlocks",
-  "homepage": "https://github.com/mozilla-iot/microblocks-adapter",
-  "license": "https://github.com/mozilla-iot/microblocks-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/mozilla-iot/microblocks-adapter",
+  "license_url": "https://github.com/mozilla-iot/microblocks-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "linux-arm",

@@ -1,11 +1,11 @@
 {
-  "name": "foobot-adapter",
-  "display_name": "Foobot",
+  "id": "foobot-adapter",
+  "name": "Foobot",
   "description": "Adapter for Foobot Air Quality Sensors",
   "author": "Bram van Mensvoort",
-  "homepage": "https://github.com/bvmensvoort/mozillaiot-foobot",
-  "license": "https://github.com/bvmensvoort/mozillaiot-foobot/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/bvmensvoort/mozillaiot-foobot",
+  "license_url": "https://github.com/bvmensvoort/mozillaiot-foobot/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

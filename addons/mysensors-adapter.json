@@ -1,11 +1,11 @@
 {
-  "name": "mysensors-adapter",
-  "display_name": "MySensors",
+  "id": "mysensors-adapter",
+  "name": "MySensors",
   "description": "Build your own smart home with this Arduino library",
   "author": "CreateCandle",
-  "homepage": "https://github.com/createcandle/Webthings-mysensors-adapter",
-  "license": "https://github.com/createcandle/Webthings-mysensors-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/createcandle/Webthings-mysensors-adapter",
+  "license_url": "https://github.com/createcandle/Webthings-mysensors-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

@@ -1,45 +1,60 @@
-List of installable add-ons for the Mozilla WebThings Gateway. These are discoverable from the **Settings** page.
+List of installable add-ons for the Mozilla WebThings Gateway. These are
+discoverable from the **Settings -> Add-ons** page.
 
 # Building Add-ons
 
-The add-on API is described in [this document](https://github.com/mozilla-iot/wiki/wiki/Adapter-API).
+The add-on API is described in [this document][adapter-api].
 
-You should also take a look at the [guidelines](https://github.com/mozilla-iot/addon-list/blob/master/guidelines.md) for building add-ons.
+You should also take a look at the [guidelines][guidelines] for building
+add-ons.
 
 # Packaging Add-ons
 
-Your add-on should be packaged as an npm-compatible package. If it is written in Javascript and is actually npm-compatible, you can simply package it with `npm pack`. If not, the [layout](https://github.com/mozilla-iot/wiki/wiki/Add-On-System-Design#package-layout) needs to be the same.
-
-The add-on package should also include a `SHA256SUMS` file, containing checksums of all included files (other than itself), and it should bundle all required dependencies other than `gateway-addon`, i.e. your entire `node_modules` directory. This applies to add-ons written in other languages, as well.
+Your add-on should be packaged according to [this document][manifest].
 
 ## Packages with Binaries
 
-If your package contains any binaries, i.e. executables, shared libraries, etc., you must cross-compile for any architecture(s) you want to support and distribute a package for each. The currently supported architectures are:
+If your package contains any binaries, i.e. executables, shared libraries,
+etc., you must cross-compile for any architecture(s) you want to support and
+distribute a package for each. The currently supported architectures are:
 
-* `any`: Use this if your package does not contain binaries, i.e. if it's pure Javascript/Python.
+* `any`: Use this if your package does not contain binaries, i.e. if it's pure
+  Javascript/Python.
 * `darwin-x64`: 64-bit Mac OS X
-* `linux-arm`: Linux on 32-bit ARM (this should be built to support armv6, such as older Raspberry Pi generations)
+* `linux-arm`: Linux on 32-bit ARM (this should be built to support armv6, such
+  as older Raspberry Pi generations)
 * `linux-arm64`: Linux on 64-bit ARM
 * `linux-ia32`: Linux on 32-bit x86
 * `linux-x64`: Linux on 64-bit x86
-* `openwrt-linux-arm`: OpenWrt on 32-bit ARM (this should be built to support armv6, such as older Raspberry Pi generations)
+* `openwrt-linux-arm_cortex-a7_neon-vfpv4`: OpenWrt on Raspberry Pi (and
+  similar hardware)
+* `openwrt-linux-arm_cortex-a9_vfpv3`: OpenWrt on Turris Omnia (and
+  similar hardware)
 * `win32-ia32`: Windows on 32-bit x86
 * `win32-x64`: Windows on 64-bit x86
 
-Furthermore, your packages may have to be distributed separately if the runtime requires it. For instance, if you're distributing a Node.js package with binaries, it will also need to be compiled for different Node.js versions.
+Furthermore, your packages may have to be distributed separately if the runtime
+requires it. For instance, if you're distributing a Node.js package with
+binaries, it will also need to be compiled for different Node.js versions.
 
 # Publishing Add-ons to this List
 
-You can submit a [pull request](https://github.com/mozilla-iot/addon-list/pulls) or an [issue](https://github.com/mozilla-iot/addon-list/issues) to this project. You must include the following information:
+You can submit a [pull request][PR] or an [issue][issue] to this project. You
+must include the following information:
 
-* `name`: The package name. This should be the same as in your `package.json`.
-* `display_name`: A friendly display name for your package. This will be shown in the Gateway's UI.
-* `description`: A friendly description for your package. This will be shown in the Gateway's UI.
+* `id`: The package ID. This should be the same as in your `manifest.json`.
+* `name`: A friendly display name for your package. This will be shown in the
+  Gateway's UI. This should be the same as in your `manifest.json`.
+* `description`: A friendly description for your package. This will be shown in
+  the Gateway's UI.
 * `author`: Name of the add-on author.
-* `homepage`: Homepage of the add-on, i.e. the Github repository.
-* `license`: Link to the add-on's license.
-* `type`: Primary type of this add-on. Should be one of: adapter, notifier
-* `packages`: An object describing supported architectures and their packages. Each entry should be of the form:
+* `homepage_url`: URL which points to the homepage of the add-on, i.e. the
+  GitHub repository. This should be the same as in your `manifest.json`.
+* `license_url`: URL which points to the add-on's license.
+* `primary_type`: Primary type of this add-on. This should be the same as in
+  your `manifest.json`. Should be one of: adapter, notifier, extension
+* `packages`: An object describing supported architectures and their packages.
+  Each entry should be of the form:
 
     ```javascript
     {
@@ -54,7 +69,7 @@ You can submit a [pull request](https://github.com/mozilla-iot/addon-list/pulls)
       "version": "x.y.z",
       "checksum": "SHA256 of package",
       "api": {
-        "min": 1,
+        "min": 2,
         "max": 2
       },
       "gateway": {
@@ -64,7 +79,8 @@ You can submit a [pull request](https://github.com/mozilla-iot/addon-list/pulls)
     }
     ```
 
-  * `architecture`: Replace this with the actual architecture (see the previous section).
+  * `architecture`: Replace this with the actual architecture (see the previous
+    section).
   * `language`: Description of the language the add-on is written in.
     * `name`: Name of the language. Currently supported:
       * `nodejs`
@@ -72,27 +88,35 @@ You can submit a [pull request](https://github.com/mozilla-iot/addon-list/pulls)
       * `binary`
     * `versions`: Versions of the language this package will run with.
       * `any`: Any version
-      * If using Node.js, you should use the [NODE_MODULE_VERSION](https://nodejs.org/en/download/releases/).
-      * If using Python, you can include an array such as `["3.5", "3.6", "3.7"]`.
+      * If using Node.js, you should use the
+        [NODE_MODULE_VERSION][node-versions].
+      * If using Python, you can include an array such as
+        `["3.5", "3.6", "3.7"]`.
   * `url`: A URL to download the packaged tarball (`.tar.gz` or `.tgz`) from.
-  * `version`: The package version. This should be the same as in your `package.json`.
+  * `version`: The package version. This should be the same as in your
+    `manifest.json`.
   * `checksum`: Checksum of the tarball
-  * `api`: The API levels supported by this package. This should be the same as in your `package.json`, so an object with the following 2 properties:
+  * `api`: The API levels supported by this package. This should be the same as
+    in your `package.json`, so an object with the following 2 properties:
     * `min`: The minimum supported API level
     * `max`: The maximum supported API level
-  * `gateway`: The gateway versions supported by this package. This should correspond to the `strict_min_version` and `strict_max_version` in your `manifest.json`.
+  * `gateway`: The gateway versions supported by this package.
+    * `min`: The minimum supported gateway version. This should correspond to
+      the `strict_min_version` in your `manifest.json`.
+    * `max`: The maximum supported gateway version. This should correspond to
+      the `strict_max_version` in your `manifest.json`.
 
 ## Example Entry
 
 ```javascript
 {
-  "name": "thing-url-adapter",
-  "display_name": "Web Thing",
+  "id": "thing-url-adapter",
+  "name": "Web Thing",
   "description": "Native web thing support",
   "author": "Mozilla IoT",
-  "homepage": "https://github.com/mozilla-iot/thing-url-adapter",
-  "license": "https://github.com/mozilla-iot/thing-url-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/mozilla-iot/thing-url-adapter",
+  "license_url": "https://github.com/mozilla-iot/thing-url-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "linux-arm",
@@ -157,3 +181,10 @@ You can submit a [pull request](https://github.com/mozilla-iot/addon-list/pulls)
   ]
 }
 ```
+
+[adapter-api]: https://github.com/mozilla-iot/wiki/wiki/Adapter-API
+[guidelines]: https://github.com/mozilla-iot/addon-list/blob/master/guidelines.md
+[manifest]: https://github.com/mozilla-iot/addon-list/blob/master/manifest.md
+[PR]: https://github.com/mozilla-iot/addon-list/pulls
+[issue]: https://github.com/mozilla-iot/addon-list/issues
+[node-versions]: https://nodejs.org/en/download/releases/

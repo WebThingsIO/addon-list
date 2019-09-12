@@ -1,11 +1,11 @@
 {
-  "name": "homematic-adapter",
-  "display_name": "HomeMatic",
+  "id": "homematic-adapter",
+  "name": "HomeMatic",
   "description": "Connect your HomeMatic devices",
   "author": "Tim Hellhake",
-  "homepage": "https://github.com/tim-hellhake/homematic-adapter#readme",
-  "license": "https://github.com/tim-hellhake/homematic-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/tim-hellhake/homematic-adapter#readme",
+  "license_url": "https://github.com/tim-hellhake/homematic-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

@@ -1,11 +1,11 @@
 {
-  "name": "systeminfo-adapter",
-  "display_name": "Systeminfo",
+  "id": "systeminfo-adapter",
+  "name": "Systeminfo",
   "description": "Get stats of the system",
   "author": "Tim Hellhake",
-  "homepage": "https://github.com/tim-hellhake/systeminfo-adapter#readme",
-  "license": "https://github.com/tim-hellhake/systeminfo-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/tim-hellhake/systeminfo-adapter#readme",
+  "license_url": "https://github.com/tim-hellhake/systeminfo-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

@@ -1,11 +1,11 @@
 {
-  "name": "lifx-adapter",
-  "display_name": "LIFX",
+  "id": "lifx-adapter",
+  "name": "LIFX",
   "description": "LIFX smart bulb support",
   "author": "Michael Stegeman",
-  "homepage": "https://github.com/mrstegeman/lifx-adapter",
-  "license": "https://github.com/mrstegeman/lifx-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/mrstegeman/lifx-adapter",
+  "license_url": "https://github.com/mrstegeman/lifx-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

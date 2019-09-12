@@ -1,11 +1,11 @@
 {
-  "name": "pushbullet-adapter",
-  "display_name": "Pushbullet",
+  "id": "pushbullet-adapter",
+  "name": "Pushbullet",
   "description": "Send notifications to your devices",
   "author": "Tim Hellhake",
-  "homepage": "https://github.com/tim-hellhake/pushbullet-adapter#readme",
-  "license": "https://github.com/tim-hellhake/pushbullet-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/tim-hellhake/pushbullet-adapter#readme",
+  "license_url": "https://github.com/tim-hellhake/pushbullet-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

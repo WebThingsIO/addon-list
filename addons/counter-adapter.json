@@ -1,11 +1,11 @@
 {
-  "name": "counter-adapter",
-  "display_name": "Counter",
+  "id": "counter-adapter",
+  "name": "Counter",
   "description": "Lets you count things by calling the increment action",
   "author": "Tim Hellhake",
-  "homepage": "https://github.com/tim-hellhake/counter-adapter#readme",
-  "license": "https://github.com/tim-hellhake/counter-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/tim-hellhake/counter-adapter#readme",
+  "license_url": "https://github.com/tim-hellhake/counter-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

@@ -7,15 +7,19 @@ WebExtension `manifest.json` [specification][manifest.json].
 
 The add-on should be packaged in a gzip-compressed tarball, and shall contain
 the following files and directories:
-* `manifest.json` - as specified below
-* `SHA256SUMS` - file containing SHA-256 checksums of every file in the
-  package, excluding itself. This must be compatible with the `sha256sum`
-  application from GNU's coreutils.
-* `_locales/` - (Optional) localization files. See specification
-  [here][locales].
-* Any other code, dependencies, and assets required for your add-on to run. If
-  the add-on contains binary, platform-specific executables or libraries, a
-  separate package must be generated for each supported platform.
+* `package/` - top-level directory, everything else must be contained within
+  * `manifest.json` - as specified below
+  * `SHA256SUMS` - file containing SHA-256 checksums of every file in the
+    package, excluding itself. This must be compatible with the `sha256sum`
+    application from GNU's coreutils.
+  * `_locales/` - (Optional) localization files. See specification
+    [here][locales].
+  * Any other code, dependencies, and assets required for your add-on to run.
+    The only exception to this is that the `gateway-addon` Python and Node.js
+    libraries will be provided on the system, so you _should not_ include them
+    in your add-on.
+  * If the add-on contains binary, platform-specific executables or libraries,
+    a separate package must be generated for each supported platform.
 
 ## Supported Keys in manifest.json
 

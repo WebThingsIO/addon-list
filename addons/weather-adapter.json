@@ -1,11 +1,11 @@
 {
-  "name": "weather-adapter",
-  "display_name": "Weather",
+  "id": "weather-adapter",
+  "name": "Weather",
   "description": "Current weather conditions",
   "author": "Mozilla IoT",
-  "homepage": "https://github.com/mozilla-iot/weather-adapter#readme",
-  "license": "https://github.com/mozilla-iot/weather-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/mozilla-iot/weather-adapter#readme",
+  "license_url": "https://github.com/mozilla-iot/weather-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

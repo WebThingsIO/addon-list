@@ -1,11 +1,11 @@
 {
-  "name": "github-adapter",
-  "display_name": "GitHub",
+  "id": "github-adapter",
+  "name": "GitHub",
   "description": "Watch your favourite GitHub repos",
   "author": "Tim Hellhake",
-  "homepage": "https://github.com/tim-hellhake/github-adapter#readme",
-  "license": "https://github.com/tim-hellhake/github-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/tim-hellhake/github-adapter#readme",
+  "license_url": "https://github.com/tim-hellhake/github-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

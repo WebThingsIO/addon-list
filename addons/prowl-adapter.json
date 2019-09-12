@@ -1,11 +1,11 @@
 {
-  "name": "prowl-adapter",
-  "display_name": "Prowl",
+  "id": "prowl-adapter",
+  "name": "Prowl",
   "description": "Pushes notifications to your device",
   "author": "Tim Hellhake",
-  "homepage": "https://github.com/tim-hellhake/prowl-adapter#readme",
-  "license": "https://github.com/tim-hellhake/prowl-adapter/blob/master/LICENSE",
-  "type": "notifier",
+  "homepage_url": "https://github.com/tim-hellhake/prowl-adapter#readme",
+  "license_url": "https://github.com/tim-hellhake/prowl-adapter/blob/master/LICENSE",
+  "primary_type": "notifier",
   "packages": [
     {
       "architecture": "any",

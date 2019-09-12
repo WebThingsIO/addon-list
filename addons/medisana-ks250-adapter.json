@@ -1,11 +1,11 @@
 {
-  "name": "medisana-ks250-adapter",
-  "display_name": "Medisana KS 250",
+  "id": "medisana-ks250-adapter",
+  "name": "Medisana KS 250",
   "description": "Connect your Medisana KS 250 (kitchen scale)",
   "author": "Tim Hellhake",
-  "homepage": "https://github.com/tim-hellhake/medisana-ks250-adapter#readme",
-  "license": "https://github.com/tim-hellhake/medisana-ks250-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/tim-hellhake/medisana-ks250-adapter#readme",
+  "license_url": "https://github.com/tim-hellhake/medisana-ks250-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "linux-arm",

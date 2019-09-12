@@ -1,11 +1,11 @@
 {
-  "name": "azure-iot-bridge",
-  "display_name": "Azure IoT bridge",
+  "id": "azure-iot-bridge",
+  "name": "Azure IoT bridge",
   "description": "Connect your devices to an Azure IoT hub.",
   "author": "Tim Hellhake",
-  "homepage": "https://github.com/tim-hellhake/azure-iot-bridge#readme",
-  "license": "https://github.com/tim-hellhake/azure-iot-bridge/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/tim-hellhake/azure-iot-bridge#readme",
+  "license_url": "https://github.com/tim-hellhake/azure-iot-bridge/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

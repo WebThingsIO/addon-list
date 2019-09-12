@@ -51,18 +51,18 @@ def hash_file(fname):
 
 
 def verify_package_json(package_json, list_entry, package):
-    name = list_entry['name']
+    _id = list_entry['id']
 
     if 'enabled' in package_json['moziot'] and \
             package_json['moziot']['enabled'] and \
             list_entry['author'].lower() != 'mozilla iot':
-        print('Add-on is enabled by default: {}'.format(name))
+        print('Add-on is enabled by default: {}'.format(_id))
         cleanup()
 
     # Verify the files list.
     for fname in package_json['files']:
         if not os.path.exists(os.path.join('package', fname)):
-            print('File missing for package "{}": {}'.format(name, fname))
+            print('File missing for package "{}": {}'.format(_id, fname))
             cleanup()
 
     # Verify SHA256SUMS.
@@ -74,22 +74,22 @@ def verify_package_json(package_json, list_entry, package):
                     fname = os.path.join('package', fname)
                     if cksum != hash_file(fname):
                         print('Checksum failed in package "{}": {}'
-                              .format(name, fname))
+                              .format(_id, fname))
                         cleanup()
         except (IOError, OSError, ValueError):
             print('Failed to read SHA256SUMS file for package "{}"'
-                  .format(name))
+                  .format(_id))
             cleanup()
     else:
-        print('SHA256SUMS file is missing from package "{}"'.format(name))
+        print('SHA256SUMS file is missing from package "{}"'.format(_id))
         cleanup()
 
-    # Verify that the name matches
-    if package_json['name'] != name:
-        print('Name mismatch for package "{}"'
+    # Verify that the ID matches
+    if package_json['name'] != _id:
+        print('ID mismatch for package "{}"'
               'name from package.json "{}" doesn\'t match '
-              'name from list.json'
-              .format(name, package_json['name']))
+              'id from list.json'
+              .format(_id, package_json['name']))
         cleanup()
 
     # Verify that the version matches
@@ -97,7 +97,7 @@ def verify_package_json(package_json, list_entry, package):
         print('Version mismatch for package "{}": '
               'version from package.json "{}" doesn\'t match '
               'version from list.json "{}"'
-              .format(name, package_json['version'], package['version']))
+              .format(_id, package_json['version'], package['version']))
         cleanup()
 
     # Verify that the author matches
@@ -106,31 +106,32 @@ def verify_package_json(package_json, list_entry, package):
         print('Author mismatch for package "{}": '
               'author from package.json "{}" doesn\'t match '
               'author from list.json "{}"'
-              .format(name, package_json['author']['name'],
+              .format(_id, package_json['author']['name'],
                       list_entry['author']))
         cleanup()
     elif package_json['author'].split('<')[0].strip() != list_entry['author']:
         print('Author mismatch for package "{}": '
               'author from package.json "{}" doesn\'t match '
               'author from list.json "{}"'
-              .format(name, package_json['author'], list_entry['author']))
+              .format(_id, package_json['author'], list_entry['author']))
         cleanup()
 
     # Verify that the display name matches
-    if package_json['display_name'] != list_entry['display_name']:
-        print('Display name mismatch for package "{}": '
+    if package_json['display_name'] != list_entry['name']:
+        print('Name mismatch for package "{}": '
               'display_name from package.json "{}" doesn\'t '
-              'match display_name from list.json "{}"'
-              .format(name, package_json['display_name'],
-                      list_entry['display_name']))
+              'match name from list.json "{}"'
+              .format(_id, package_json['display_name'],
+                      list_entry['name']))
         cleanup()
 
     # Verify that the homepage matches
-    if package_json['homepage'] != list_entry['homepage']:
+    if package_json['homepage'] != list_entry['homepage_url']:
         print('Homepage mismatch for package "{}": '
               'homepage from package.json "{}" doesn\'t match '
-              'homepage from list.json "{}"'
-              .format(name, package_json['homepage'], list_entry['homepage']))
+              'homepage_url from list.json "{}"'
+              .format(_id, package_json['homepage'],
+                      list_entry['homepage_url']))
         cleanup()
 
     # Verify that the type matches
@@ -138,11 +139,11 @@ def verify_package_json(package_json, list_entry, package):
     if 'type' in package_json['moziot']:
         t = package_json['moziot']['type']
 
-    if t != list_entry['type']:
+    if t != list_entry['primary_type']:
         print('type mismatch for package "{}": '
-              'type from package.json "{}" doesn\'t match type '
+              'type from package.json "{}" doesn\'t match primary_type '
               'from list.json "{}"'
-              .format(name, t, list_entry['type']))
+              .format(_id, t, list_entry['primary_type']))
         cleanup()
 
     # Verify that the API version matches
@@ -150,7 +151,7 @@ def verify_package_json(package_json, list_entry, package):
         print('api.min Version mismatch for package "{}": '
               'api.min version from package.json "{}" doesn\'t '
               'match api.min version from list.json "{}"'
-              .format(name, package_json['moziot']['api']['min'],
+              .format(_id, package_json['moziot']['api']['min'],
                       package['api']['min']))
         cleanup()
 
@@ -158,7 +159,7 @@ def verify_package_json(package_json, list_entry, package):
         print('api.max version mismatch for package "{}": '
               'api.max version from package.json "{}" doesn\'t '
               'match api.max version from list.json "{}"'
-              .format(name, package_json['moziot']['api']['max'],
+              .format(_id, package_json['moziot']['api']['max'],
                       package['api']['max']))
         cleanup()
 
@@ -169,23 +170,23 @@ def verify_package_json(package_json, list_entry, package):
                 package_json['moziot']['schema'])
         except jsonschema.SchemaError as e:
             print('Invalid config schema for {}: {}'
-                  .format(name, e))
+                  .format(_id, e))
             cleanup()
 
 
 def verify_manifest_json(manifest_json, list_entry, package):
-    name = list_entry['name']
+    _id = list_entry['id']
     webthings = manifest_json['gateway_specific_settings']['webthings']
 
     if 'enabled' in webthings and \
             webthings['enabled'] and \
             list_entry['author'].lower() != 'mozilla iot':
-        print('Add-on is enabled by default: {}'.format(name))
+        print('Add-on is enabled by default: {}'.format(_id))
         cleanup()
 
     # Verify SHA256SUMS.
     if not os.path.exists('./package/SHA256SUMS'):
-        print('SHA256SUMS file is missing from package "{}"'.format(name))
+        print('SHA256SUMS file is missing from package "{}"'.format(_id))
         cleanup()
 
     sums_file = os.path.realpath('./package/SHA256SUMS')
@@ -198,12 +199,12 @@ def verify_manifest_json(manifest_json, list_entry, package):
 
                 if not os.path.exists(fname):
                     print('File "{}" missing for add-on "{}"'
-                          .format(fname, name))
+                          .format(fname, _id))
                     cleanup()
 
                 sums[fname] = cksum
     except (IOError, OSError, ValueError):
-        print('Failed to read SHA256SUMS file for package "{}"'.format(name))
+        print('Failed to read SHA256SUMS file for package "{}"'.format(_id))
         cleanup()
 
     files = []
@@ -218,19 +219,19 @@ def verify_manifest_json(manifest_json, list_entry, package):
 
         if fname not in sums:
             print('Checksum missing for file "{}" in package "{}"'
-                  .format(fname, name))
+                  .format(fname, _id))
             cleanup()
 
         if sums[fname] != hash_file(fname):
-            print('Checksum failed in package "{}": {}'.format(name, fname))
+            print('Checksum failed in package "{}": {}'.format(_id, fname))
             cleanup()
 
-    # Verify that the name matches
-    if manifest_json['id'] != name:
+    # Verify that the ID matches
+    if manifest_json['id'] != _id:
         print('ID mismatch for package "{}"'
               'ID from manifest.json "{}" doesn\'t match '
-              'name from list.json'
-              .format(name, manifest_json['id']))
+              'ID from list.json'
+              .format(_id, manifest_json['id']))
         cleanup()
 
     # Verify that the version matches
@@ -238,7 +239,7 @@ def verify_manifest_json(manifest_json, list_entry, package):
         print('Version mismatch for package "{}": '
               'version from manifest.json "{}" doesn\'t match '
               'version from list.json "{}"'
-              .format(name, manifest_json['version'], package['version']))
+              .format(_id, manifest_json['version'], package['version']))
         cleanup()
 
     # Verify that the author matches
@@ -246,33 +247,33 @@ def verify_manifest_json(manifest_json, list_entry, package):
         print('Author mismatch for package "{}": '
               'author from manifest.json "{}" doesn\'t match '
               'author from list.json "{}"'
-              .format(name, manifest_json['author'], list_entry['author']))
+              .format(_id, manifest_json['author'], list_entry['author']))
         cleanup()
 
-    # Verify that the display name matches
-    if manifest_json['name'] != list_entry['display_name']:
+    # Verify that the name matches
+    if manifest_json['name'] != list_entry['name']:
         print('Name mismatch for package "{}": '
               'name from manifest.json "{}" doesn\'t '
-              'match display_name from list.json "{}"'
-              .format(name, manifest_json['name'], list_entry['display_name']))
+              'match name from list.json "{}"'
+              .format(_id, manifest_json['name'], list_entry['name']))
         cleanup()
 
     # Verify that the homepage matches
-    if manifest_json['homepage_url'] != list_entry['homepage']:
+    if manifest_json['homepage_url'] != list_entry['homepage_url']:
         print('Homepage mismatch for package "{}": '
               'homepage_url from manifest.json "{}" doesn\'t match '
-              'homepage from list.json "{}"'
-              .format(name, manifest_json['homepage_url'],
-                      list_entry['homepage']))
+              'homepage_url from list.json "{}"'
+              .format(_id, manifest_json['homepage_url'],
+                      list_entry['homepage_url']))
         cleanup()
 
     # Verify that the type matches
     t = webthings['primary_type']
-    if t != list_entry['type']:
+    if t != list_entry['primary_type']:
         print('type mismatch for package "{}": '
-              'primary_type from manifest.json "{}" doesn\'t match type '
-              'from list.json "{}"'
-              .format(name, t, list_entry['type']))
+              'primary_type from manifest.json "{}" doesn\'t match '
+              'primary_type from list.json "{}"'
+              .format(_id, t, list_entry['primary_type']))
         cleanup()
 
     gw_min = '0.10.0'
@@ -283,7 +284,7 @@ def verify_manifest_json(manifest_json, list_entry, package):
         print('Minimum gateway version mismatch for package "{}": '
               'strict_min_version from manifest.json "{}" doesn\'t match '
               'min from list.json "{}"'
-              .format(name, gw_min, package['gateway']['min']))
+              .format(_id, gw_min, package['gateway']['min']))
         cleanup()
 
     gw_max = '*'
@@ -294,7 +295,7 @@ def verify_manifest_json(manifest_json, list_entry, package):
         print('Maximum gateway version mismatch for package "{}": '
               'strict_max_version from manifest.json "{}" doesn\'t match '
               'max from list.json "{}"'
-              .format(name, gw_max, package['gateway']['max']))
+              .format(_id, gw_max, package['gateway']['max']))
         cleanup()
 
     # Validate the config schema, if present
@@ -303,8 +304,7 @@ def verify_manifest_json(manifest_json, list_entry, package):
             jsonschema.Draft7Validator.check_schema(
                 manifest_json['options']['schema'])
         except jsonschema.SchemaError as e:
-            print('Invalid config schema for {}: {}'
-                  .format(name, e))
+            print('Invalid config schema for {}: {}'.format(_id, e))
             cleanup()
 
     if 'default_locale' in manifest_json:
@@ -317,7 +317,7 @@ def verify_manifest_json(manifest_json, list_entry, package):
 
         if not os.path.exists(dname):
             print('Default locale "{}" does not exist in package "{}"'
-                  .format(manifest_json['default_locale'], name))
+                  .format(manifest_json['default_locale'], _id))
             cleanup()
 
 
@@ -353,9 +353,9 @@ def main():
             try:
                 with open(fname, 'rt') as f:
                     entry = json.load(f)
-                    if entry['name'] != adapter:
-                        print('Filename {} does not match adapter name {}'
-                              .format(adapter, entry['name']))
+                    if entry['id'] != adapter:
+                        print('Filename {} does not match adapter ID {}'
+                              .format(adapter, entry['id']))
                         cleanup()
 
                     addon_list.append(entry)
@@ -369,9 +369,9 @@ def main():
                     entry = json.load(f)
                     adapter = os.path.splitext(os.path.basename(path))[0]
 
-                    if entry['name'] != adapter:
-                        print('Filename {} does not match adapter name {}'
-                              .format(adapter, entry['name']))
+                    if entry['id'] != adapter:
+                        print('Filename {} does not match adapter ID {}'
+                              .format(adapter, entry['id']))
                         cleanup()
 
                     addon_list.append(entry)
@@ -382,9 +382,9 @@ def main():
     for entry in addon_list:
         jsonschema.validate(entry, list_schema)
 
-        name = entry['name']
+        _id = entry['id']
 
-        print('Checking {} ...'.format(name))
+        print('Checking {} ...'.format(_id))
 
         # Download the packages.
         for package in entry['packages']:
@@ -397,7 +397,7 @@ def main():
                     break
                 except urllib.error.URLError:
                     print('Failed to download package for "{}": {}'
-                          .format(name, package['architecture']))
+                          .format(_id, package['architecture']))
                     if (attempt + 1 >= MAX_DOWNLOAD_ATTEMPTS):
                         print('  aborting')
                         cleanup()
@@ -408,7 +408,7 @@ def main():
             # Verify the checksum.
             if checksum != hash_file('./package.tgz'):
                 print('Checksum invalid for "{}": {}'
-                      .format(name, package['architecture']))
+                      .format(_id, package['architecture']))
                 cleanup()
 
             # Check the package contents.
@@ -417,14 +417,14 @@ def main():
                     t.extractall()
             except (IOError, OSError, tarfile.TarError):
                 print('Failed to untar package for "{}": {}'
-                      .format(name, package['architecture']))
+                      .format(_id, package['architecture']))
                 cleanup()
 
             try:
                 with open('./package/package.json', 'rt') as f:
                     package_json = json.load(f)
             except (IOError, OSError, ValueError):
-                print('Failed to read package.json for "{}"'.format(name))
+                print('Failed to read package.json for "{}"'.format(_id))
                 cleanup()
 
             manifest_json = None
@@ -433,16 +433,16 @@ def main():
                     with open('./package/manifest.json', 'rt') as f:
                         manifest_json = json.load(f)
                 except (IOError, OSError, ValueError):
-                    print('Failed to read manifest.json for "{}"'.format(name))
+                    print('Failed to read manifest.json for "{}"'.format(_id))
                     cleanup()
             else:
-                print('manifest.json is missing for "{}"'.format(name))
+                print('manifest.json is missing for "{}"'.format(_id))
                 # TODO: enforce this once all add-ons have transitioned
                 # cleanup()
 
             licenses = glob.glob('./package/LICENSE*')
             if len(licenses) == 0:
-                print('LICENSE not included in package "{}"'.format(name))
+                print('LICENSE not included in package "{}"'.format(_id))
                 cleanup()
 
             # Verify required fields in package.json.

@@ -1,11 +1,11 @@
 {
-  "name": "nanoleaf-adapter",
-  "display_name": "Nanoleaf",
+  "id": "nanoleaf-adapter",
+  "name": "Nanoleaf",
   "description": "Control your Nanoleaf aurora",
   "author": "Roman Odermatt",
-  "homepage": "https://github.com/roderm/nanoleaf-adapter",
-  "license": "https://github.com/roderm/nanoleaf-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/roderm/nanoleaf-adapter",
+  "license_url": "https://github.com/roderm/nanoleaf-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

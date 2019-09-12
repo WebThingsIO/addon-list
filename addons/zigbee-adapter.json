@@ -1,11 +1,11 @@
 {
-  "name": "zigbee-adapter",
-  "display_name": "Zigbee",
+  "id": "zigbee-adapter",
+  "name": "Zigbee",
   "description": "Zigbee device support",
   "author": "Mozilla IoT",
-  "homepage": "https://github.com/mozilla-iot/zigbee-adapter",
-  "license": "https://github.com/mozilla-iot/zigbee-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/mozilla-iot/zigbee-adapter",
+  "license_url": "https://github.com/mozilla-iot/zigbee-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "linux-arm",

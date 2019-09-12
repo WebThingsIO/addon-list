@@ -1,11 +1,11 @@
 {
-  "name": "voco",
-  "display_name": "Voco",
+  "id": "voco",
+  "name": "Voco",
   "description": "Privacy friendly voice control. Say 'Hey Snips' to start a voice command.",
   "author": "CreateCandle",
-  "homepage": "https://github.com/createcandle/voco",
-  "license": "https://github.com/createcandle/voco/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/createcandle/voco",
+  "license_url": "https://github.com/createcandle/voco/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "linux-arm",

@@ -1,11 +1,11 @@
 {
-  "name": "yo-notifier",
-  "display_name": "Yo",
+  "id": "yo-notifier",
+  "name": "Yo",
   "description": "Send a Yo to your phone (gateway >= 0.9.0 only)",
   "author": "Tim Hellhake",
-  "homepage": "https://github.com/tim-hellhake/yo-notifier#readme",
-  "license": "https://github.com/tim-hellhake/yo-notifier/blob/master/LICENSE",
-  "type": "notifier",
+  "homepage_url": "https://github.com/tim-hellhake/yo-notifier#readme",
+  "license_url": "https://github.com/tim-hellhake/yo-notifier/blob/master/LICENSE",
+  "primary_type": "notifier",
   "packages": [
     {
       "architecture": "any",

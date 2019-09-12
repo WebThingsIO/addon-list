@@ -1,11 +1,11 @@
 {
-  "name": "gpio-adapter",
-  "display_name": "GPIO",
+  "id": "gpio-adapter",
+  "name": "GPIO",
   "description": "GPIO device support",
   "author": "Mozilla IoT",
-  "homepage": "https://github.com/mozilla-iot/gpio-adapter",
-  "license": "https://github.com/mozilla-iot/gpio-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/mozilla-iot/gpio-adapter",
+  "license_url": "https://github.com/mozilla-iot/gpio-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "linux-arm",

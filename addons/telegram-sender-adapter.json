@@ -1,11 +1,11 @@
 {
-  "name": "telegram-sender-adapter",
-  "display_name": "Telegram notification Sender",
+  "id": "telegram-sender-adapter",
+  "name": "Telegram notification Sender",
   "description": "Simple telegram sending actions. Needs to be configured with chatid and token.",
   "author": "ne0bot",
-  "homepage": "https://github.com/ne0bot/telegram-sender-adapter",
-  "license": "https://github.com/ne0bot/telegram-sender-adapter/blob/master/LICENSE",
-  "type": "notifier",
+  "homepage_url": "https://github.com/ne0bot/telegram-sender-adapter",
+  "license_url": "https://github.com/ne0bot/telegram-sender-adapter/blob/master/LICENSE",
+  "primary_type": "notifier",
   "packages": [
     {
       "architecture": "any",

@@ -1,11 +1,11 @@
 {
-  "name": "http-adapter",
-  "display_name": "HTTP",
+  "id": "http-adapter",
+  "name": "HTTP",
   "description": "Lets you make HTTP requests via actions",
   "author": "Tim Hellhake",
-  "homepage": "https://github.com/tim-hellhake/http-adapter#readme",
-  "license": "https://github.com/tim-hellhake/http-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/tim-hellhake/http-adapter#readme",
+  "license_url": "https://github.com/tim-hellhake/http-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",

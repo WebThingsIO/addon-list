@@ -1,11 +1,11 @@
 {
-  "name": "sengled-adapter",
-  "display_name": "Sengled",
+  "id": "sengled-adapter",
+  "name": "Sengled",
   "description": "Sengled Wi-Fi smart bulb device support",
   "author": "Mozilla IoT",
-  "homepage": "https://github.com/mozilla-iot/sengled-adapter",
-  "license": "https://github.com/mozilla-iot/sengled-adapter/blob/master/LICENSE",
-  "type": "adapter",
+  "homepage_url": "https://github.com/mozilla-iot/sengled-adapter",
+  "license_url": "https://github.com/mozilla-iot/sengled-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",
