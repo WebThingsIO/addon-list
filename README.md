@@ -56,6 +56,10 @@ You can submit a [pull request](https://github.com/mozilla-iot/addon-list/pulls)
       "api": {
         "min": 1,
         "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
       }
     }
     ```
@@ -76,6 +80,7 @@ You can submit a [pull request](https://github.com/mozilla-iot/addon-list/pulls)
   * `api`: The API levels supported by this package. This should be the same as in your `package.json`, so an object with the following 2 properties:
     * `min`: The minimum supported API level
     * `max`: The maximum supported API level
+  * `gateway`: The gateway versions supported by this package. This should correspond to the `strict_min_version` and `strict_max_version` in your `manifest.json`.
 
 ## Example Entry
 
@@ -103,6 +108,10 @@ You can submit a [pull request](https://github.com/mozilla-iot/addon-list/pulls)
       "api": {
         "min": 2,
         "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
       }
     },
     {
@@ -119,6 +128,10 @@ You can submit a [pull request](https://github.com/mozilla-iot/addon-list/pulls)
       "api": {
         "min": 2,
         "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
       }
     },
     {
@@ -135,6 +148,10 @@ You can submit a [pull request](https://github.com/mozilla-iot/addon-list/pulls)
       "api": {
         "min": 2,
         "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
       }
     }
   ]

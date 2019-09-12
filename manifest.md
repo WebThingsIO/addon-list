@@ -38,7 +38,7 @@ the following files and directories:
 | `name` | Yes | Name of the add-on. | https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/name | This replaces `display_name`. | 0.10 |
 | `optional_permissions` | No | Use the `optional_permissions` key to list permissions that you want to ask for at runtime, after your add-on has been installed. | https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/optional_permissions | The permission keywords from the specification do not apply to gateway add-ons, but the format of the key and value do. | |
 | `options` | No | A set of options that define how the add-on should operate. | | | 0.10 |
-| <pre>  .defaults</pre> | No | An object containing a set of default options. | | This replaces `moziot.config`. | 0.10 |
+| <pre>  .default</pre> | No | An object containing a set of default options. | | This replaces `moziot.config`. | 0.10 |
 | <pre>  .schema</pre> | No | An object containing a validation schema to validate user-provided options. This must conform to the JSON Schema Validation specification. | https://json-schema.org/latest/json-schema-validation.html | This replaces `moziot.schema`. | 0.10 |
 | `options_ui` | No | Defines an options page for the add-on. | https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/options_ui | If this key is used, options.defaults will still be used, but options.schema will be ignored in favor of the options page doing the validation. | |
 | `permissions` | No | This key is an array of strings, and each string is a request for a permission. | https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/permissions | The permission keywords from the specification do not apply to gateway add-ons, but the format of the key and value do. | |
@@ -61,7 +61,7 @@ A convenience script is available [here][script] to make the transition from
   "description": "HomeKit device adapter.",
   "gateway_specific_settings": {
     "webthings": {
-      "strict_min_version": "0.10",
+      "strict_min_version": "0.10.0",
       "primary_type": "adapter",
       "exec": "{nodeLoader} {path}"
     }
@@ -100,7 +100,7 @@ A convenience script is available [here][script] to make the transition from
   "description": "Send notifications through Pushover.",
   "gateway_specific_settings": {
     "webthings": {
-      "strict_min_version": "0.10",
+      "strict_min_version": "0.10.0",
       "primary_type": "notifier",
       "exec": "{nodeLoader} {path}"
     }
