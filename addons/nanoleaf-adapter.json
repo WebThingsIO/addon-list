@@ -17,7 +17,7 @@
       },
       "version": "0.1.1",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/nanoleaf-adapter-0.1.1.tgz",
-      "checksum": "de188fae3d2452e2477a999f94291df3f201ff5ed1a6598b96feaba2f49ca9d4",
+      "checksum": "869b43db533c92646c3ce5184542baa1ccfe83edb99fc30f1acaf11af0f5ba9a",
       "api": {
         "min": 2,
         "max": 2

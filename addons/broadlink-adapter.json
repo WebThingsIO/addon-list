@@ -17,7 +17,7 @@
       },
       "version": "0.1.4",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/broadlink-adapter-0.1.4.tgz",
-      "checksum": "6e7daa17668b6a0bcb18a2a1a1a2407075a222b36a4c618636f4703913f3f95d",
+      "checksum": "103f62eaca2061d848af5893397f27c3863847a0dd4a673991cc6533190fbbb0",
       "api": {
         "min": 2,
         "max": 2

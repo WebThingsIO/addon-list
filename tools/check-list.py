@@ -57,8 +57,7 @@ def verify_package_json(package_json, list_entry, package):
             package_json['moziot']['enabled'] and \
             list_entry['author'].lower() != 'mozilla iot':
         print('Add-on is enabled by default: {}'.format(name))
-        # TODO: enforce once broadlink and nanoleaf are updated
-        # cleanup()
+        cleanup()
 
     # Verify the files list.
     for fname in package_json['files']:
