@@ -1,0 +1,32 @@
+{
+  "id": "example-notifier",
+  "name": "Example Notifier",
+  "description": "Example notifier add-on for developers",
+  "author": "Mozilla IoT",
+  "homepage_url": "https://github.com/mozilla-iot/example-notifier",
+  "license_url": "https://github.com/mozilla-iot/example-notifier/blob/master/LICENSE",
+  "primary_type": "notifier",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/mozilla-iot/example-notifier/releases/download/v0.0.1/example-notifier-0.0.1.tgz",
+      "checksum": "41e1930cab2d8311a7300d5a22b476c93c02b5a8fa223275ed83583de34cd5a0",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "test_only": true,
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
