@@ -93,7 +93,6 @@
         "webthings": {
           "type": "object",
           "required": [
-            "exec",
             "primary_type"
           ],
           "properties": {

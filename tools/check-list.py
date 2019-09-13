@@ -184,7 +184,7 @@ def verify_manifest_json(manifest_json, list_entry, package):
         print('Add-on is enabled by default: {}'.format(_id))
         cleanup()
 
-    # Verify SHA256SUMS.
+    # Verify that SHA256SUMS exists and that every listed file exists
     if not os.path.exists('./package/SHA256SUMS'):
         print('SHA256SUMS file is missing from package "{}"'.format(_id))
         cleanup()
@@ -207,6 +207,7 @@ def verify_manifest_json(manifest_json, list_entry, package):
         print('Failed to read SHA256SUMS file for package "{}"'.format(_id))
         cleanup()
 
+    # Verify that every file has a checksum, and verify the checksum
     files = []
     for (dpath, _, fnames) in os.walk('package'):
         files.extend(
@@ -276,6 +277,12 @@ def verify_manifest_json(manifest_json, list_entry, package):
               .format(_id, t, list_entry['primary_type']))
         cleanup()
 
+    # Verify that exec is present if primary_type is not extension
+    if ('exec' not in webthings or not webthings['exec']) and t != 'extension':
+        print('exec missing for package "{}"'.format(_id))
+        cleanup()
+
+    # Verify min gateway version matches
     gw_min = '0.10.0'
     if 'strict_min_version' in webthings:
         gw_min = webthings['strict_min_version']
@@ -287,6 +294,7 @@ def verify_manifest_json(manifest_json, list_entry, package):
               .format(_id, gw_min, package['gateway']['min']))
         cleanup()
 
+    # Verify max gateway version matches
     gw_max = '*'
     if 'strict_max_version' in webthings:
         gw_max = webthings['strict_max_version']
@@ -307,6 +315,7 @@ def verify_manifest_json(manifest_json, list_entry, package):
             print('Invalid config schema for {}: {}'.format(_id, e))
             cleanup()
 
+    # Verify that the default locale actually exists
     if 'default_locale' in manifest_json:
         dname = os.path.join(
             '.',
