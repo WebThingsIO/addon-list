@@ -21,9 +21,6 @@
       "minItems": 1,
       "items": {
         "type": "object",
-        "required": [
-          "matches"
-        ],
         "properties": {
           "css": {
             "type": "array",
