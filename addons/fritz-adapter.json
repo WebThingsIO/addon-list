@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.4.2",
-      "url": "https://github.com/tim-hellhake/fritz-adapter/releases/download/0.4.2/fritz-adapter-0.4.2.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/fritz-adapter-0.4.2.tgz",
       "checksum": "8ee1cb751292ccc149ee10a460cb46e7510873580c9564df53d939c0d61e9a7a",
       "api": {
         "min": 2,
