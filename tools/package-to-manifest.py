@@ -37,7 +37,7 @@ def translate(package_json):
     if type(package['author']) is str:
         manifest['author'] = package['author']
     else:
-        manifest['author'] = package['author']['name']
+        manifest['author'] = str(package['author'])
 
     if 'type' in package['moziot']:
         manifest['gateway_specific_settings']['webthings']['primary_type'] = \
