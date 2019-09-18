@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.4.2",
-      "url": "https://github.com/mozilla-iot/virtual-things-adapter/releases/download/v0.4.2/virtual-things-adapter-0.4.2.tgz",
-      "checksum": "aa7e30788c93829d619a8871cd439888228f21b3d3bbc1e84e174d4fcd0cda76",
+      "version": "0.5.0",
+      "url": "https://github.com/mozilla-iot/virtual-things-adapter/releases/download/v0.5.0/virtual-things-adapter-0.5.0.tgz",
+      "checksum": "e8d1ee3b0d012889be4912b11ef6c76b2adc6f6cc0d0ef8c36118b633f878dd7",
       "api": {
         "min": 2,
         "max": 2
