@@ -429,13 +429,6 @@ def main():
                       .format(_id, package['architecture']))
                 cleanup()
 
-            try:
-                with open('./package/package.json', 'rt') as f:
-                    package_json = json.load(f)
-            except (IOError, OSError, ValueError):
-                print('Failed to read package.json for "{}"'.format(_id))
-                cleanup()
-
             manifest_json = None
             if os.path.exists('./package/manifest.json'):
                 try:
@@ -449,14 +442,27 @@ def main():
                 # TODO: enforce this once all add-ons have transitioned
                 # cleanup()
 
+            package_json = None
+            try:
+                with open('./package/package.json', 'rt') as f:
+                    package_json = json.load(f)
+            except (IOError, OSError, ValueError):
+                # Only allow package.json to be missing if this is an extension
+                # add-on, which is inherently only supported by Gateway 0.10+
+                if manifest_json is None or \
+                        manifest_json['gateway_specific_settings']['webthings']['primary_type'] != 'extension':  # noqa
+                    print('Failed to read package.json for "{}"'.format(_id))
+                    cleanup()
+
             licenses = glob.glob('./package/LICENSE*')
             if len(licenses) == 0:
                 print('LICENSE not included in package "{}"'.format(_id))
                 cleanup()
 
             # Verify required fields in package.json.
-            jsonschema.validate(package_json, package_schema)
-            verify_package_json(package_json, entry, package)
+            if package_json is not None:
+                jsonschema.validate(package_json, package_schema)
+                verify_package_json(package_json, entry, package)
 
             # Verify required fields in manifest.json.
             if manifest_json is not None:
