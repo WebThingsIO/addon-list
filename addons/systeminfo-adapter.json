@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/systeminfo-adapter/releases/download/0.2.0/systeminfo-adapter-0.2.0.tgz",
-      "checksum": "53ec54dbd59d233a6b8703efcfc1c6c2f2b4585b965aaaa9c1bbae574957d8a4",
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/systeminfo-adapter/releases/download/0.2.1/systeminfo-adapter-0.2.1.tgz",
+      "checksum": "3b8559f3baf505de71c4749756f9e95b1b38558657beab53475acf1dc9ebc30f",
       "api": {
         "min": 2,
         "max": 2
