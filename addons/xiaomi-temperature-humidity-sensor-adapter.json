@@ -15,9 +15,9 @@
           "57"
         ]
       },
-      "version": "0.1.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.3-linux-arm-v8.tgz",
-      "checksum": "1a0ffc67feda5fb35fd795b226c59dd42614a938c827eed7f79cedabef63df32",
+      "version": "0.1.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.4-linux-arm-v8.tgz",
+      "checksum": "52b2970cd1bbd7e0f68b023fa5fac360d575d5de69fc70da0229060d28c3043f",
       "api": {
         "min": 2,
         "max": 2
@@ -35,9 +35,9 @@
           "57"
         ]
       },
-      "version": "0.1.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.3-linux-x64-v8.tgz",
-      "checksum": "f6d82e92e8b0f125070169c44c4116d23f53634846f0150c1036d2024a9ec9f6",
+      "version": "0.1.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.4-linux-x64-v8.tgz",
+      "checksum": "9b10fb889cadcd87af993a6fd1732674e1d3e1996432119675fe731aaf2db297",
       "api": {
         "min": 2,
         "max": 2
@@ -55,9 +55,9 @@
           "57"
         ]
       },
-      "version": "0.1.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.3-darwin-x64-v8.tgz",
-      "checksum": "af55570d922cd5db52fccd0c84f335e0f1a147320e8f8f3d5913706742744d9c",
+      "version": "0.1.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.4-darwin-x64-v8.tgz",
+      "checksum": "e54a5de48b1712b49552a96416ff6793b1f750cf8b95e6e27dabe8d3207b2aa6",
       "api": {
         "min": 2,
         "max": 2
@@ -75,9 +75,9 @@
           "64"
         ]
       },
-      "version": "0.1.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.3-linux-arm-v10.tgz",
-      "checksum": "af00fbea58ad519d0f6cad8d91b8b8484b9f37207b4f8a82e9b4d205a7e2bacc",
+      "version": "0.1.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.4-linux-arm-v10.tgz",
+      "checksum": "3a834149a5ebbd4aa047020e73d09082fe8f97ecf66bb6afda27b19f69972b00",
       "api": {
         "min": 2,
         "max": 2
@@ -95,9 +95,9 @@
           "64"
         ]
       },
-      "version": "0.1.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.3-linux-x64-v10.tgz",
-      "checksum": "4621cca23b4117622e64027a599cc6a65d9c1abc542426fe0ba469971c24b64d",
+      "version": "0.1.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.4-linux-x64-v10.tgz",
+      "checksum": "263aed9c1000a215d093d0ce7df4a4c8cc3a8ba6df92c52c0bb77fdf9de8085d",
       "api": {
         "min": 2,
         "max": 2
@@ -115,9 +115,69 @@
           "64"
         ]
       },
-      "version": "0.1.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.3-darwin-x64-v10.tgz",
-      "checksum": "4520774876b3acb03ab25ce309b86025c8fad3fbdd782c131d078249651f5727",
+      "version": "0.1.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.4-darwin-x64-v10.tgz",
+      "checksum": "fc436fb14c5d1d0051ab4a7f6cbb4ac689c6b0679adc77eed662d96afb442374",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.4-linux-arm-v12.tgz",
+      "checksum": "4b827709c45d4e7f2ff612628caf514b866c761a4ba1c32b0afb9f1c49690734",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.4-linux-x64-v12.tgz",
+      "checksum": "6cffd50f56c003d2ce62f90bd9e9d1fa0aaaf7738006fa51848f19c155edd02e",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.4-darwin-x64-v12.tgz",
+      "checksum": "4a7a0087da1bc87caa27d7c5147fe52ea36a50795abc6144cadb968c4375ca6e",
       "api": {
         "min": 2,
         "max": 2
