@@ -32,8 +32,8 @@ will prevent the add-on from being accepted into the official add-on list.
 #### Data Storage
 
 If the add-on needs to store something persistently, it should only do so in
-the gateway's profile directory, i.e. ~/.mozilla-iot. This directory is
-guaranteed to persist through system, gateway, and add-on updates.
+the gateway's profile directory, i.e. `~/.mozilla-iot/data/your-addon-id`. This
+directory is guaranteed to persist through system, gateway, and add-on updates.
 
 ### Should Not Do
 
