@@ -15,9 +15,9 @@
           "57"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.2.0-linux-arm-v8.tgz",
-      "checksum": "a5fd924a4e09168cb8cd6065a913a485be38a78a731dcf87b8fead989b2ff478",
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.0-linux-arm-v8.tgz",
+      "checksum": "d8e96b1c702ab6a776ffa77d224174c5d3b98468d09a26f6475ab6bd2684b88b",
       "api": {
         "min": 2,
         "max": 2
@@ -35,9 +35,9 @@
           "57"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.2.0-linux-x64-v8.tgz",
-      "checksum": "8cfa673eae0cd7a6fd4a04a0593893fbfa91a91325208dc0a963b733de878da4",
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.0-linux-x64-v8.tgz",
+      "checksum": "db757c67cd145064ad4588fed0223d52c7cd3956fae42818ac43556c39cc0214",
       "api": {
         "min": 2,
         "max": 2
@@ -55,9 +55,9 @@
           "57"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.2.0-openwrt-linux-arm_cortex-a7_neon-vfpv4-v8.tgz",
-      "checksum": "dfaada722382b72305a809a3ae662b06bc903d799add0fe28d192a937eaacd63",
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.0-openwrt-linux-arm_cortex-a7_neon-vfpv4-v8.tgz",
+      "checksum": "a312d2ab79785859e16f6692f4c6b4988898e1c7b518b5f6e9825bfa5f268264",
       "api": {
         "min": 2,
         "max": 2
@@ -75,9 +75,9 @@
           "57"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.2.0-openwrt-linux-arm_cortex-a9_vfpv3-v8.tgz",
-      "checksum": "3076666d4dba6826df1b1b87b604c6cbdf19ca2147891caabd337063c8ff9dd3",
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.0-openwrt-linux-arm_cortex-a9_vfpv3-v8.tgz",
+      "checksum": "df7e862e961006fb7cf93b8490241ad924fe17647fff71f01fc13a6b4d63d2fd",
       "api": {
         "min": 2,
         "max": 2
@@ -95,9 +95,9 @@
           "57"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.2.0-darwin-x64-v8.tgz",
-      "checksum": "e702e993cc80eb8220f5a4ffd0a973bb01bbfa0842d2b3dd3a88d641258fa7ad",
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.0-darwin-x64-v8.tgz",
+      "checksum": "49ad50c45f2cfe2595da95af317edac655a478cdd1d3d0abf6c5016f871243c1",
       "api": {
         "min": 2,
         "max": 2
@@ -115,9 +115,9 @@
           "64"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.2.0-linux-arm-v10.tgz",
-      "checksum": "a7f6db4fff9dff090149e363fafcd280cfd06959cd6099d13bb510f2b487efd9",
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.0-linux-arm-v10.tgz",
+      "checksum": "2d5cbb5d7c5098c9c6c71f40a11d7e301313b338cfb1483804b6bbad66912874",
       "api": {
         "min": 2,
         "max": 2
@@ -135,9 +135,9 @@
           "64"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.2.0-linux-x64-v10.tgz",
-      "checksum": "cbf68f9c37831ad20c74c194f76b0886717a58b04035accf341a1885af872d71",
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.0-linux-x64-v10.tgz",
+      "checksum": "667a35d5703fd49020a6864928ac90655403ea99da18f010b4ec3246826ec77a",
       "api": {
         "min": 2,
         "max": 2
@@ -155,9 +155,69 @@
           "64"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.2.0-darwin-x64-v10.tgz",
-      "checksum": "635dbfe3bb6fcca5e88d5ffecf2827610c11f98582eb40549fa8b3684f1408f1",
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.0-darwin-x64-v10.tgz",
+      "checksum": "da5becd080d510942a913e5c30cceb9fb3d57855884aa6f5bd602d9194b1d9b3",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.0-linux-arm-v12.tgz",
+      "checksum": "e2193d8e347e94939712dc01f07ee29d99724c13316feb69eed2072f2ec1a95c",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.0-linux-x64-v12.tgz",
+      "checksum": "de28b280315b979c31486622a9205fd9869aa5a18c73e1ef97ab198fb522571f",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.0-darwin-x64-v12.tgz",
+      "checksum": "c0856362311a44da495ec22eba5c8a8de5759d4f88c20d795f0941d17fdc172b",
       "api": {
         "min": 2,
         "max": 2
