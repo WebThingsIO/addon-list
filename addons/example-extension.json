@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.0.1",
-      "url": "https://github.com/mozilla-iot/example-extension/releases/download/v0.0.1/example-extension-0.0.1.tgz",
-      "checksum": "dcc8a623ed21c2f60ced6dcda714f98c3881c9c2ab5bf080ef962e6045806746",
+      "version": "0.0.2",
+      "url": "https://github.com/mozilla-iot/example-extension/releases/download/v0.0.2/example-extension-0.0.2.tgz",
+      "checksum": "d75c29ddb7897ccebc0536f80fb63e63678655ade959983d5e434e52a4b06cc7",
       "api": {
         "min": 2,
         "max": 2
