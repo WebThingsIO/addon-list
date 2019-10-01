@@ -15,9 +15,9 @@
           "57"
         ]
       },
-      "version": "0.2.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.2.2-linux-arm-v8.tgz",
-      "checksum": "9e949c3eea5bdc97840224f42d7449dcb403707107051719824e26a6255aa558",
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.3.0-linux-arm-v8.tgz",
+      "checksum": "5fa70a9a1d9b7f124560925b42738c994dd51764a0ddb698404ccabd94a5f8b1",
       "api": {
         "min": 2,
         "max": 2
@@ -35,9 +35,49 @@
           "57"
         ]
       },
-      "version": "0.2.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.2.2-linux-x64-v8.tgz",
-      "checksum": "3ec4ae78dd46ed24deb37c55c7b724d63e0722bdfd0eeb1dff27ec3b17db5396",
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.3.0-linux-x64-v8.tgz",
+      "checksum": "cc83379c3514cc98d0370b549ee4fb33fd61c1ccd2073bf5b600ca39b6ec5fd4",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "openwrt-linux-arm_cortex-a7_neon-vfpv4",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.3.0-openwrt-linux-arm_cortex-a7_neon-vfpv4-v8.tgz",
+      "checksum": "c3c583a8ff43697986471b11844817aad8beea294f54c7d988069d3a3b767c6a",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "openwrt-linux-arm_cortex-a9_vfpv3",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.3.0-openwrt-linux-arm_cortex-a9_vfpv3-v8.tgz",
+      "checksum": "e378cb9ac2f50648c1512b2a9120c8f45fb6f1c9e29764dfac6ae59978dda1bb",
       "api": {
         "min": 2,
         "max": 2
@@ -55,9 +95,9 @@
           "57"
         ]
       },
-      "version": "0.2.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.2.2-darwin-x64-v8.tgz",
-      "checksum": "5a6bb3bdedbc03d6851bd1dfd697418263aa22170ef3ee988cf1f2cc2bbad5ef",
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.3.0-darwin-x64-v8.tgz",
+      "checksum": "0ba1de1b1acda9459cf79c6a8281bdcc6ce920b6ca61d92fde52844902a0a144",
       "api": {
         "min": 2,
         "max": 2
@@ -75,9 +115,9 @@
           "64"
         ]
       },
-      "version": "0.2.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.2.2-linux-arm-v10.tgz",
-      "checksum": "977eb0ee2551a42320b0447d6db5c3b6add50fd7828fe865a1f27705aa144448",
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.3.0-linux-arm-v10.tgz",
+      "checksum": "dbf850a2efd884924217bd68a6e8a59ab34a5a412ba66155f366c86387af3d70",
       "api": {
         "min": 2,
         "max": 2
@@ -95,9 +135,9 @@
           "64"
         ]
       },
-      "version": "0.2.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.2.2-linux-x64-v10.tgz",
-      "checksum": "6c34e349eaaf85216556af6fb013e8c08c43a0c9b6c635fad202e73d4d215de4",
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.3.0-linux-x64-v10.tgz",
+      "checksum": "e0a0d0b410c15b25533c2555b98e917640204eb837f6ea8290597da618e1bd36",
       "api": {
         "min": 2,
         "max": 2
@@ -115,9 +155,69 @@
           "64"
         ]
       },
-      "version": "0.2.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.2.2-darwin-x64-v10.tgz",
-      "checksum": "808cf4b2b71b1183a5bdf0ce2470bce33233ba4590a2960e1208790ae6b34322",
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.3.0-darwin-x64-v10.tgz",
+      "checksum": "c7ba7c4fc5f9a40e44f3918d41331374ed3e4ae47dae1c133076aa510d2c7f93",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.3.0-linux-arm-v12.tgz",
+      "checksum": "8808d92e620b38c3d6d072755016c264b1f5d9f5fba634a5615d7a95f6a37de4",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.3.0-linux-x64-v12.tgz",
+      "checksum": "0490ec5c279fb0fa046e0b35988920bbad4faf022e4da88029907c1c1a068306",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.3.0-darwin-x64-v12.tgz",
+      "checksum": "6f249e84d18ef8b01dbca28c85dc66b57fa07f11b04fc49f67eb376ec7d62e5b",
       "api": {
         "min": 2,
         "max": 2
