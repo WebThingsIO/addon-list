@@ -17,9 +17,9 @@
           "3.7"
         ]
       },
-      "version": "0.4.1",
-      "url": "https://github.com/mozilla-iot/tplink-adapter/releases/download/v0.4.1/tplink-adapter-0.4.1.tgz",
-      "checksum": "da62ff32236f6b5b5cb348f0087c1224975fdd13b7eeac0ee23d18bfaabf9855",
+      "version": "0.5.0",
+      "url": "https://github.com/mozilla-iot/tplink-adapter/releases/download/v0.5.0/tplink-adapter-0.5.0.tgz",
+      "checksum": "706db2fc5f896a193af59e515bed8abf52e29ec889128366f521f22c5e0eeb52",
       "api": {
         "min": 2,
         "max": 2
