@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://github.com/mozilla-iot/twilio-adapter/releases/download/v0.1.0/twilio-adapter-0.1.0.tgz",
-      "checksum": "f2f9e153b2d4d3057f1de8fe37afc18ccd2905ec480c1ea1887aa6b084960415",
+      "version": "0.2.0",
+      "url": "https://github.com/mozilla-iot/twilio-adapter/releases/download/v0.2.0/twilio-adapter-0.2.0.tgz",
+      "checksum": "96e0241ec9c2c10c071748a403a55529879a4213c474b8fd24cdc4ced56bd7a5",
       "api": {
         "min": 2,
         "max": 2
