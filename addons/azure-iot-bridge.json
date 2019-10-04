@@ -15,7 +15,7 @@
           "any"
         ]
       },
-      "version": "0.1.1",
+      "version": "0.1.2",
       "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/0.1.2/azure-iot-bridge-0.1.2.tgz",
       "checksum": "c46b49ce7b0d7cfdbf5b91aeaffce981418e9dfe2609f22b7f9668c58ff783a6",
       "api": {
