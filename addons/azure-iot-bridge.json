@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/azure-iot-bridge-0.1.1.tgz",
-      "checksum": "dd8a4b13ca342962f02c040985529faf8f6d2db2f9c5f9e7045117e475b6dd02",
+      "version": "0.1.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/azure-iot-bridge-0.1.2.tgz",
+      "checksum": "c46b49ce7b0d7cfdbf5b91aeaffce981418e9dfe2609f22b7f9668c58ff783a6",
       "api": {
         "min": 2,
         "max": 2
