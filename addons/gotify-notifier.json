@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.0.1",
-      "url": "https://github.com/mozilla-iot/gotify-notifier/releases/download/v0.0.1/gotify-notifier-0.0.1.tgz",
-      "checksum": "51bbbb02231aff1023c7e2c57e41b5a04635f1edb4b2f66f6db67a786552dba0",
+      "version": "0.1.0",
+      "url": "https://github.com/mozilla-iot/gotify-notifier/releases/download/v0.1.0/gotify-notifier-0.1.0.tgz",
+      "checksum": "0adbab48a410f6d6401b41e9052efc00e520080d76d3bb05063bfb37730ae461",
       "api": {
         "min": 2,
         "max": 2
