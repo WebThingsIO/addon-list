@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://github.com/mozilla-iot/email-sender-adapter/releases/download/v0.1.0/email-sender-adapter-0.1.0.tgz",
-      "checksum": "fbb76366e51f9f6ab58b1ee49d950928d62617cdf535634144572a4e69aefa5e",
+      "version": "0.2.0",
+      "url": "https://github.com/mozilla-iot/email-sender-adapter/releases/download/v0.2.0/email-sender-adapter-0.2.0.tgz",
+      "checksum": "355d8df905de8683f0540db2cf040db2f832d75bf00e2aecf610cc887465b71e",
       "api": {
         "min": 2,
         "max": 2
