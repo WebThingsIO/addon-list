@@ -17,9 +17,9 @@
           "3.7"
         ]
       },
-      "version": "0.1.5",
-      "url": "https://github.com/mozilla-iot/eufy-adapter/releases/download/v0.1.5/eufy-adapter-0.1.5.tgz",
-      "checksum": "2956e2c2fa9b0c8ef7a84b96163d64a828eb5cb7beb293286e45c1d3de15086b",
+      "version": "0.2.0",
+      "url": "https://github.com/mozilla-iot/eufy-adapter/releases/download/v0.2.0/eufy-adapter-0.2.0.tgz",
+      "checksum": "8391e09d7ccc65a79a869199d0537ad0d2ba5e9386da3edd1235f824253162e9",
       "api": {
         "min": 2,
         "max": 2
