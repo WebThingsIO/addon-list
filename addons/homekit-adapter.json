@@ -15,9 +15,9 @@
           "57"
         ]
       },
-      "version": "0.5.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.5.3-linux-arm-v8.tgz",
-      "checksum": "def55fa5742b2be4c5c33f9068ba7c4b900cf9b56a50e4e8291dc1381d5d5013",
+      "version": "0.6.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.6.0-linux-arm-v8.tgz",
+      "checksum": "a7fc17696980d17ac29a91c16226fe023b5ada412dceb00505a7bb4fb7960110",
       "api": {
         "min": 2,
         "max": 2
@@ -35,9 +35,9 @@
           "57"
         ]
       },
-      "version": "0.5.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.5.3-linux-x64-v8.tgz",
-      "checksum": "5d54acc049d3f4712773b41f616e4bbc4d6cf2e82bc34c7115f98a01eae94d5d",
+      "version": "0.6.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.6.0-linux-x64-v8.tgz",
+      "checksum": "6b27a9f2df8e332615bd404050174b99c9cc4e122f82f12298e432de99b01764",
       "api": {
         "min": 2,
         "max": 2
@@ -55,9 +55,9 @@
           "57"
         ]
       },
-      "version": "0.5.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.5.3-darwin-x64-v8.tgz",
-      "checksum": "1b64b972802be71d1acb8b1974951f2acd5af54879f1852cf460a73278950cd7",
+      "version": "0.6.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.6.0-darwin-x64-v8.tgz",
+      "checksum": "2d8737533e3f1aa8282d2c18730f07b33d0120ff6e38c5d0261ace98cac6c1c8",
       "api": {
         "min": 2,
         "max": 2
@@ -75,9 +75,9 @@
           "64"
         ]
       },
-      "version": "0.5.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.5.3-linux-arm-v10.tgz",
-      "checksum": "61d9bef5a9b6af97298c752eb32f429bdd15ea920f75ac3013ffb56709dce333",
+      "version": "0.6.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.6.0-linux-arm-v10.tgz",
+      "checksum": "bb33c0260cf2e94e3d27d7221751d1bab6cdd882bd5f12c13fb649fc08d50aed",
       "api": {
         "min": 2,
         "max": 2
@@ -95,9 +95,9 @@
           "64"
         ]
       },
-      "version": "0.5.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.5.3-linux-x64-v10.tgz",
-      "checksum": "a68b60ba638a6638882c3aee234ac1162fb7ba867b79bc082bd02e7a7c672b2c",
+      "version": "0.6.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.6.0-linux-x64-v10.tgz",
+      "checksum": "b0c909831681d742ec9417e033198d7b9bdef45f72811e041c9491761255bb1c",
       "api": {
         "min": 2,
         "max": 2
@@ -115,9 +115,9 @@
           "64"
         ]
       },
-      "version": "0.5.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.5.3-darwin-x64-v10.tgz",
-      "checksum": "8c1cf5858f630803eeb0f5a6421074a87083c54eef6bb72d9cf8c4aae114d4ed",
+      "version": "0.6.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.6.0-darwin-x64-v10.tgz",
+      "checksum": "d452cd4d6935d22bd554dacfd5784ae1b83fe46eb4575212147e1fe58dc4a3bf",
       "api": {
         "min": 2,
         "max": 2
@@ -135,9 +135,9 @@
           "72"
         ]
       },
-      "version": "0.5.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.5.3-linux-arm-v12.tgz",
-      "checksum": "b5b5e2aace933e04f23fcb3ad435c87f3f0ff80ba727d5d86cfb13e7f98d2bb1",
+      "version": "0.6.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.6.0-linux-arm-v12.tgz",
+      "checksum": "f1d54ffc1c0fb3b0c317b236dba84d1f4cff13bbd6ff3b5b0945e0b78f6add7b",
       "api": {
         "min": 2,
         "max": 2
@@ -155,9 +155,9 @@
           "72"
         ]
       },
-      "version": "0.5.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.5.3-linux-x64-v12.tgz",
-      "checksum": "2723d689127c316401e1aefc6633881d8a0ed7f36b180c5cd77a0197200701a5",
+      "version": "0.6.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.6.0-linux-x64-v12.tgz",
+      "checksum": "13921db797b2194c6394e01c4132963d9cb4b5fc54491152f137978888dea667",
       "api": {
         "min": 2,
         "max": 2
@@ -175,9 +175,9 @@
           "72"
         ]
       },
-      "version": "0.5.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.5.3-darwin-x64-v12.tgz",
-      "checksum": "37e056709d53b842a5649f30a90ecb7102031c373c79b497ab4868fd5ab24d03",
+      "version": "0.6.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.6.0-darwin-x64-v12.tgz",
+      "checksum": "59710250c0392cba88ab2bda548ffde402f0075a9163285cbbfc8c4121ad94d7",
       "api": {
         "min": 2,
         "max": 2
