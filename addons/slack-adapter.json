@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/slack-adapter/releases/download/0.2.0/slack-adapter-0.2.0.tgz",
-      "checksum": "e52304e244de97a1e21e135f685f7f45f730bd6c213c76aa36055a7519e4191d",
+      "version": "0.2.2",
+      "url": "https://github.com/tim-hellhake/slack-adapter/releases/download/0.2.2/slack-adapter-0.2.2.tgz",
+      "checksum": "f92c7e2efc09043b297ce4ed979480871564f8d051c3ca85d8114044ab4b4118",
       "api": {
         "min": 2,
         "max": 2
