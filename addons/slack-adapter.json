@@ -5,7 +5,7 @@
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/slack-adapter#readme",
   "license_url": "https://github.com/tim-hellhake/slack-adapter/blob/master/LICENSE",
-  "primary_type": "adapter",
+  "primary_type": "notifier",
   "packages": [
     {
       "architecture": "any",
