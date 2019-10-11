@@ -1,6 +1,6 @@
 {
   "id": "pushover-notifier",
-  "name": "Pushover Notifier",
+  "name": "Pushover",
   "description": "Send notifications through Pushover. Needs to be configured with user and app tokens.",
   "author": "Mozilla IoT",
   "homepage_url": "https://github.com/mozilla-iot/pushover-notifier",
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://github.com/mozilla-iot/pushover-notifier/releases/download/v0.0.2/pushover-notifier-0.0.2.tgz",
-      "checksum": "5203eed27f21d48228e01ad5f4b166cbd59ad902563b88b4c2d8afe1ad84e4ca",
+      "version": "0.0.3",
+      "url": "https://github.com/mozilla-iot/pushover-notifier/releases/download/v0.0.3/pushover-notifier-0.0.3.tgz",
+      "checksum": "ad21fac59b43a091a2cf6c4ddf2ea8666ca434fa059bc0d1d9303a9c8ebff333",
       "api": {
         "min": 2,
         "max": 2
