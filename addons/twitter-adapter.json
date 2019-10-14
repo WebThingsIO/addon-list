@@ -5,7 +5,7 @@
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/twitter-adapter#readme",
   "license_url": "https://github.com/tim-hellhake/twitter-adapter/blob/master/LICENSE",
-  "primary_type": "adapter",
+  "primary_type": "notifier",
   "packages": [
     {
       "architecture": "any",
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/twitter-adapter-0.1.0.tgz",
-      "checksum": "66ef605cc0d39088da63e6f75debcebbe2c4f090d7f5a5c053716dd8693e17a1",
+      "version": "0.2.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/twitter-adapter-0.2.1.tgz",
+      "checksum": "b0d930e8512da32ea6ea57b668c2912c8c2fee58725473cc8418a62d6d33aeeb",
       "api": {
         "min": 2,
         "max": 2
