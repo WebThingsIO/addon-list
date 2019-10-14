@@ -57,7 +57,7 @@
       },
       "version": "0.1.4",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sensor-tag-adapter-0.1.4-darwin-x64-v8.tgz",
-      "checksum": "",
+      "checksum": "fc0a083e31cc2eafe9108cf82c426c5b0ab33588d29e2b2b17d4e83b111b9e50",
       "api": {
         "min": 2,
         "max": 2
@@ -117,7 +117,7 @@
       },
       "version": "0.1.4",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sensor-tag-adapter-0.1.4-darwin-x64-v10.tgz",
-      "checksum": "",
+      "checksum": "09f9560a91f159242f58a1118fce9d7614acf67cbd8b42c14244296a9867ee96",
       "api": {
         "min": 2,
         "max": 2
@@ -177,7 +177,7 @@
       },
       "version": "0.1.4",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sensor-tag-adapter-0.1.4-darwin-x64-v12.tgz",
-      "checksum": "",
+      "checksum": "e0cdb066d7477dc8b865836f5a20874377e5885c690cfe00a8181c2b536df3ec",
       "api": {
         "min": 2,
         "max": 2
