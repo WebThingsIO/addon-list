@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.2.1",
-      "url": "https://github.com/tim-hellhake/twitter-adapter/releases/download/0.2.1/twitter-adapter-0.2.1.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/twitter-adapter-0.2.1.tgz",
       "checksum": "b0d930e8512da32ea6ea57b668c2912c8c2fee58725473cc8418a62d6d33aeeb",
       "api": {
         "min": 2,
