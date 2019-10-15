@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://github.com/tim-hellhake/pushsafer-notifier/releases/download/0.1.1/pushsafer-notifier-0.1.1.tgz",
-      "checksum": "dfb81f69a63f757e880e56c40970cc0915712d457e1571e1f242290309d434d4",
+      "version": "0.1.2",
+      "url": "https://github.com/tim-hellhake/pushsafer-notifier/releases/download/0.1.2/pushsafer-notifier-0.1.2.tgz",
+      "checksum": "88e2236ce0f816804639908218c5e638a860b2ef5810e9743e0c7e5c3d34104e",
       "api": {
         "min": 2,
         "max": 2
