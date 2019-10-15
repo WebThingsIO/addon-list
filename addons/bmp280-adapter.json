@@ -1,6 +1,6 @@
 {
   "id": "bmp280-adapter",
-  "name": "BMP280 sensor adapter",
+  "name": "BME280/BMP280",
   "description": "Get temperature and pressure data from BMP280-like sensors",
   "author": "Matthieu Corageoud",
   "homepage_url": "https://github.com/matco/bmp280-adapter",
@@ -15,9 +15,29 @@
           "57"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/bmp280-adapter-0.0.2-linux-arm-v8.tgz",
-      "checksum": "1fbf07b959e7b09624297ea7e5f8d3c0347bc0dde99a546a296f8d4155506e9a",
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/bmp280-adapter-0.1.0-linux-arm-v8.tgz",
+      "checksum": "6ad9d52cbf96ae19c28ef5fb7fb60be56fd904d253af721a7aa1f8deb24680cf",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/bmp280-adapter-0.1.0-linux-x64-v8.tgz",
+      "checksum": "af31092b60ed1eca1d6640da54017475f476e78850726be812d08fb7648a9785",
       "api": {
         "min": 2,
         "max": 2
@@ -35,9 +55,9 @@
           "57"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/bmp280-adapter-0.0.2-openwrt-linux-arm_cortex-a7_neon-vfpv4-v8.tgz",
-      "checksum": "52ef674ca35b1e573af33e613306bd547bc5c46ba0bccba5a2e726b65d72c72b",
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/bmp280-adapter-0.1.0-openwrt-linux-arm_cortex-a7_neon-vfpv4-v8.tgz",
+      "checksum": "e21f22f628a819a6f32a81149439baf9ab95c5b5ad4bc7a53e12477a21112319",
       "api": {
         "min": 2,
         "max": 2
@@ -55,49 +75,9 @@
           "57"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/bmp280-adapter-0.0.2-openwrt-linux-arm_cortex-a9_vfpv3-v8.tgz",
-      "checksum": "8c8dc1240c3687107e38c990701bad0c1849f9e220b2787093a6b586b07995d1",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-x64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/bmp280-adapter-0.0.2-linux-x64-v8.tgz",
-      "checksum": "79edf20619516866662c1696684ded562e9a8e20daddedcd6521974df93dc235",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "darwin-x64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/bmp280-adapter-0.0.2-darwin-x64-v8.tgz",
-      "checksum": "217a642bc0fdc301a2b601c742a98b854c246a04ac7085f60cec40be39a8abd8",
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/bmp280-adapter-0.1.0-openwrt-linux-arm_cortex-a9_vfpv3-v8.tgz",
+      "checksum": "590dc70edc5c4bc27c2a333afbf9e68f8cfbfed2aa8f84e4b1812ac9266e9d0a",
       "api": {
         "min": 2,
         "max": 2
@@ -115,9 +95,9 @@
           "64"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/bmp280-adapter-0.0.2-linux-arm-v10.tgz",
-      "checksum": "c8205924cd022662463543681d38c6f974a895a409ed5907832d161e4c6921d9",
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/bmp280-adapter-0.1.0-linux-arm-v10.tgz",
+      "checksum": "c2a770d7dfcef8bc2220b1eca30a95eef330fd32b0aee90c563c44567db177cc",
       "api": {
         "min": 2,
         "max": 2
@@ -135,29 +115,9 @@
           "64"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/bmp280-adapter-0.0.2-linux-x64-v10.tgz",
-      "checksum": "f9b9790e2b3b9421590ec02537b449c648c26d110cb599b7fbffdb80a9c6f66b",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "darwin-x64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "64"
-        ]
-      },
-      "version": "0.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/bmp280-adapter-0.0.2-darwin-x64-v10.tgz",
-      "checksum": "33bb2a6da06b1e291290a5e0e20b7ee4dfcdb8943a27387391599753a9149399",
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/bmp280-adapter-0.1.0-linux-x64-v10.tgz",
+      "checksum": "2667290d97578414f9a301e2f2481b1295c1b9a7df84fe16cca5e81c9ae82212",
       "api": {
         "min": 2,
         "max": 2
