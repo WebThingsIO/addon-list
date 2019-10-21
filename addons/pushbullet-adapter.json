@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/pushbullet-adapter-0.1.0.tgz",
-      "checksum": "332ecbdc618d6c03733a8c75a8d1b188825870bf50f9b5d45bcfd451515c051e",
+      "version": "0.2.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/pushbullet-adapter-0.2.0.tgz",
+      "checksum": "f8eb20fbc26367d0cd9701a8368763e8880e3351600116662c6ab001a816b006",
       "api": {
         "min": 2,
         "max": 2
