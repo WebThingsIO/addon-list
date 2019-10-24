@@ -1,7 +1,7 @@
 {
   "id": "github-adapter",
   "name": "GitHub",
-  "description": "Watch your favourite GitHub repos",
+  "description": "Watch the issue count of your favourite GitHub repos",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/github-adapter#readme",
   "license_url": "https://github.com/tim-hellhake/github-adapter/blob/master/LICENSE",
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/github-adapter-0.1.2.tgz",
-      "checksum": "8ddf202bae02f9efb9c15a463068222c474a5ab1959d1175e02401f4db1dfb3d",
+      "version": "0.1.3",
+      "url": "https://github.com/tim-hellhake/github-adapter/releases/download/0.1.3/github-adapter-0.1.3.tgz",
+      "checksum": "3dcabee5e0a154431617a6b109eb3864ddb1f9a80723a703f6bc6768512021b5",
       "api": {
         "min": 2,
         "max": 2
