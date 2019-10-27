@@ -1,0 +1,29 @@
+{
+  "id": "tellstick-adapter",
+  "name": "Tellstick",
+  "description": "Telldus Tellstick adapter for Mozilla WebThings Gateway",
+  "author": "Antti Kivimäki",
+  "homepage_url": "https://github.com/majori/tellstick-adapter",
+  "license_url": "https://github.com/majori/tellstick-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": ["any"]
+      },
+      "version": "0.1.0",
+      "url": "https://github.com/majori/tellstick-adapter/releases/download/v0.1.0/tellstick-adapter-0.1.0.tgz",
+      "checksum": "b29dac871d109d2c3de3b2da9fb62dd7419d7817bb719c57db997c13fe069575",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
