@@ -15,7 +15,7 @@
       },
       "version": "0.1.0",
       "url": "https://github.com/majori/tellstick-adapter/releases/download/v0.1.0/tellstick-adapter-0.1.0.tgz",
-      "checksum": "b29dac871d109d2c3de3b2da9fb62dd7419d7817bb719c57db997c13fe069575",
+      "checksum": "af1836fedbee8198796bb7159714ab0fa3f4ba8513b3458e21e99fcb5f264940",
       "api": {
         "min": 2,
         "max": 2
