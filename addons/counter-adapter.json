@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.3.2",
-      "url": "https://github.com/tim-hellhake/counter-adapter/releases/download/0.3.2/counter-adapter-0.3.2.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/counter-adapter-0.3.2.tgz",
       "checksum": "23fdc64ae1b70a93741a8570779c906d28881e352ef21fdf33cc5bdefd617309",
       "api": {
         "min": 2,
