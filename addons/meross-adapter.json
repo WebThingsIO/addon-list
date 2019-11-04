@@ -17,9 +17,9 @@
           "3.7"
         ]
       },
-      "version": "0.3.0",
-      "url": "https://github.com/mozilla-iot/meross-adapter/releases/download/v0.3.0/meross-adapter-0.3.0.tgz",
-      "checksum": "048d6da8bf21eb08ed9b5cd5ee147e79ca3243395ac9501afb34936ba79fa2ab",
+      "version": "0.3.1",
+      "url": "https://github.com/mozilla-iot/meross-adapter/releases/download/v0.3.1/meross-adapter-0.3.1.tgz",
+      "checksum": "035d8a374d58d44a6bc985adab4e4fa6209f51e5f52f1e3c1e2ed1f3ff8e605a",
       "api": {
         "min": 2,
         "max": 2
