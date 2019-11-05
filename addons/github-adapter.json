@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.1.5",
-      "url": "https://github.com/tim-hellhake/github-adapter/releases/download/0.1.5/github-adapter-0.1.5.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/github-adapter-0.1.5.tgz",
       "checksum": "a7c7bca16fccb8082719ac7ff0e720d618e10f9e64ddccd77f153a340c094d39",
       "api": {
         "min": 2,
