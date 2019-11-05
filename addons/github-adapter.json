@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.4",
-      "url": "https://github.com/tim-hellhake/github-adapter/releases/download/0.1.4/github-adapter-0.1.4.tgz",
-      "checksum": "e4f0de5b752899aea63c18d7f5e3fd25fc010ab45587d396c875013053b03719",
+      "version": "0.1.5",
+      "url": "https://github.com/tim-hellhake/github-adapter/releases/download/0.1.5/github-adapter-0.1.5.tgz",
+      "checksum": "a7c7bca16fccb8082719ac7ff0e720d618e10f9e64ddccd77f153a340c094d39",
       "api": {
         "min": 2,
         "max": 2
