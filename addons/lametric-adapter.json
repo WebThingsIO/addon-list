@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/lametric-adapter/releases/download/0.2.0/lametric-adapter-0.2.0.tgz",
-      "checksum": "ba75eadd47b809d59aec6b473bff976c73c6ee2d74f8eb1d6bf0d1435b440725",
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/lametric-adapter/releases/download/0.2.1/lametric-adapter-0.2.1.tgz",
+      "checksum": "5d58a9f0532714bc787b102728557c15e7b74ec47023be4f881400ad3af96194",
       "api": {
         "min": 2,
         "max": 2
