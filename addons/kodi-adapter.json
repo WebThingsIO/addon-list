@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.1",
-      "url": "https://github.com/tim-hellhake/kodi-adapter/releases/download/0.2.1/kodi-adapter-0.2.1.tgz",
-      "checksum": "aef4f7a505740112f18565bc7e85160a2e3f98aab1e2a4b9c9fbd20bc163996b",
+      "version": "0.2.2",
+      "url": "https://github.com/tim-hellhake/kodi-adapter/releases/download/0.2.2/kodi-adapter-0.2.2.tgz",
+      "checksum": "e58b0441dca1a671b7baab62f8a9be569c9148c7870881825cf9bbba75bc01bf",
       "api": {
         "min": 2,
         "max": 2
