@@ -15,8 +15,8 @@
           "any"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kodi-adapter-0.2.0.tgz",
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/kodi-adapter/releases/download/0.2.1/kodi-adapter-0.2.1.tgz",
       "checksum": "c6532d03660af6de0f9b3e90ce584558b27ba297da263b8e23e2582bcb853a53",
       "api": {
         "min": 2,
