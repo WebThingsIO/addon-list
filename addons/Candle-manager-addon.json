@@ -17,9 +17,9 @@
           "3.7"
         ]
       },
-      "version": "1.0.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/Candle-manager-addon-1.0.0.tgz",
-      "checksum": "5b20940b38fb5fe3815df578d1fe7f377de87d4ab160ff6fe6f0528e1844b873",
+      "version": "1.0.1",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.0.1/Candle-manager-addon-1.0.1.tgz",
+      "checksum": "3ef9b2fe91f88a13c14d67d19c81443362ee04cb3625743d3dabed8a4b627333",
       "api": {
         "min": 2,
         "max": 2
