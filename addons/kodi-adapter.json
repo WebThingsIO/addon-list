@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kodi-adapter-0.2.0.tgz",
-      "checksum": "c6532d03660af6de0f9b3e90ce584558b27ba297da263b8e23e2582bcb853a53",
+      "version": "0.2.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kodi-adapter-0.2.2.tgz",
+      "checksum": "e58b0441dca1a671b7baab62f8a9be569c9148c7870881825cf9bbba75bc01bf",
       "api": {
         "min": 2,
         "max": 2
