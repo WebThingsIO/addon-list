@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/twitter-adapter-0.2.2.tgz",
-      "checksum": "dc69db7ad08aa6e35fdc2f1bd3c1ca58f237675390c885dda73945f341de2353",
+      "version": "0.2.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/twitter-adapter-0.2.4.tgz",
+      "checksum": "f1d50ac6d35cc5959dc8b31138f3dcf55a0290cfaa1fc70e9cf1d1fa371cffac",
       "api": {
         "min": 2,
         "max": 2
