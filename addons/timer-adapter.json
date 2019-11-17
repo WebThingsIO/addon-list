@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "1.0.1",
-      "url": "https://github.com/tim-hellhake/timer-adapter/releases/download/1.0.1/timer-adapter-1.0.1.tgz",
-      "checksum": "da0a10b24a35ddfea5aa31d2495e6bf3f05630bd5bf4dc8f6cb3d8f5725deee5",
+      "version": "1.1.0",
+      "url": "https://github.com/tim-hellhake/timer-adapter/releases/download/1.1.0/timer-adapter-1.1.0.tgz",
+      "checksum": "33d4c85ebdfe431d632a1bd2b19f734997ac30a68efe0490b1952266201b411b",
       "api": {
         "min": 2,
         "max": 2
