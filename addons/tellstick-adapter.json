@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tellstick-adapter-0.1.0.tgz",
-      "checksum": "7647b8277fdebd3a5bb73678a872927eadfeffd9d7da658cffbcb8107ae90a64",
+      "version": "0.2.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tellstick-adapter-0.2.0.tgz",
+      "checksum": "953861609ab4e901335093b5fc27bd6f77796f23e5f5704ba89c95087ea8815f",
       "api": {
         "min": 2,
         "max": 2
