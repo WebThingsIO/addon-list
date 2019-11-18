@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.2.0",
-      "url": "https://github.com/majori/tellstick-adapter/releases/download/v0.2.0/tellstick-adapter-0.2.0.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tellstick-adapter-0.2.0.tgz",
       "checksum": "953861609ab4e901335093b5fc27bd6f77796f23e5f5704ba89c95087ea8815f",
       "api": {
         "min": 2,
