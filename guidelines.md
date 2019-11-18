@@ -35,6 +35,11 @@ If the add-on needs to store something persistently, it should only do so in
 the gateway's profile directory, i.e. `~/.mozilla-iot/data/your-addon-id`. This
 directory is guaranteed to persist through system, gateway, and add-on updates.
 
+#### Device IDs
+
+Device IDs should be prefixed by the name of the adapter, e.g. `zigbee-ABCDEF`.
+This prevents conflicts with other adapters.
+
 ### Should Not Do
 
 #### Install System Dependencies
@@ -62,3 +67,10 @@ Using an IP address or some other ephemeral data as part of a device's ID can
 lead to numerous issues. For instance, if the router assigns a new IP address
 to the device, it will no longer be usable via the WebThings UI. Instead,
 something more static should be used.
+
+#### Use Invalid Characters in Device ID
+
+Device IDs are eventually used directly in thing URLs for the gateway. As such,
+using spaces, slashes, etc. in the ID can lead to issues. If your ID is
+generated from user input, you should instead hash the input such that you are
+only using valid characters for a URL path component.
