@@ -15,9 +15,9 @@
           "57"
         ]
       },
-      "version": "0.1.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.1.2-linux-arm-v8.tgz",
-      "checksum": "f09771d844d6b9d60328a99ca21221f6928cf1bca59f4e51aaebf0879f391a06",
+      "version": "0.1.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.1.3-linux-arm-v8.tgz",
+      "checksum": "",
       "api": {
         "min": 2,
         "max": 2
@@ -35,9 +35,9 @@
           "57"
         ]
       },
-      "version": "0.1.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.1.2-linux-x64-v8.tgz",
-      "checksum": "8244cec4b09626927d8ecead4acf1710c5c21cc798f1d96edbc7c4771bc65737",
+      "version": "0.1.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.1.3-linux-x64-v8.tgz",
+      "checksum": "",
       "api": {
         "min": 2,
         "max": 2
@@ -55,9 +55,9 @@
           "57"
         ]
       },
-      "version": "0.1.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.1.2-darwin-x64-v8.tgz",
-      "checksum": "f56d90d92a3fd16a25c4f2e32f921c6414fa1174c4464c38b522d907d59891ab",
+      "version": "0.1.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.1.3-darwin-x64-v8.tgz",
+      "checksum": "",
       "api": {
         "min": 2,
         "max": 2
@@ -75,9 +75,9 @@
           "64"
         ]
       },
-      "version": "0.1.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.1.2-linux-arm-v10.tgz",
-      "checksum": "0a973a2adc79bfa8da9f104068e250ec7f0be490d05604133cafa946320c7182",
+      "version": "0.1.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.1.3-linux-arm-v10.tgz",
+      "checksum": "",
       "api": {
         "min": 2,
         "max": 2
@@ -95,9 +95,9 @@
           "64"
         ]
       },
-      "version": "0.1.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.1.2-linux-x64-v10.tgz",
-      "checksum": "ffd2df34e6abe14d9e421f7a4cf11f1d1ce026f4ca39f5d36da564b33448596e",
+      "version": "0.1.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.1.3-linux-x64-v10.tgz",
+      "checksum": "",
       "api": {
         "min": 2,
         "max": 2
@@ -115,9 +115,9 @@
           "64"
         ]
       },
-      "version": "0.1.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.1.2-darwin-x64-v10.tgz",
-      "checksum": "423b1e6656a0262da62a17f67eb0cd482923794301709b40acf513df337c0fbd",
+      "version": "0.1.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.1.3-darwin-x64-v10.tgz",
+      "checksum": "",
       "api": {
         "min": 2,
         "max": 2
