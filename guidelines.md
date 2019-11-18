@@ -72,5 +72,6 @@ something more static should be used.
 
 Device IDs are eventually used directly in thing URLs for the gateway. As such,
 using spaces, slashes, etc. in the ID can lead to issues. If your ID is
-generated from user input, you should instead hash the input such that you are
-only using valid characters for a URL path component.
+generated from user input, you should instead hash the input, or better yet,
+generate a random ID, such that you are only using valid characters for a URL
+path component.
