@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.4.0",
-      "url": "https://github.com/tim-hellhake/http-adapter/releases/download/0.4.0/http-adapter-0.4.0.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/http-adapter-0.4.0.tgz",
       "checksum": "af7fcee7769544bd347d884a0e4d5a081dcc0e4a3cb980a27fb9c521c7a6b4ac",
       "api": {
         "min": 2,
