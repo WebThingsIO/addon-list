@@ -86,12 +86,14 @@ must include the following information:
       * `nodejs`
       * `python`
       * `binary`
+      * `none` - used only in the case of pure UI extensions
     * `versions`: Versions of the language this package will run with.
       * `any`: Any version
       * If using Node.js, you should use the
         [NODE_MODULE_VERSION][node-versions].
       * If using Python, you can include an array such as
         `["3.5", "3.6", "3.7"]`.
+      * If `name` is `none`, `versions` can be omitted.
   * `url`: A URL to download the packaged tarball (`.tar.gz` or `.tgz`) from.
   * `version`: The package version. This should be the same as in your
     `manifest.json`.
