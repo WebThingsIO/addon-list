@@ -9,17 +9,10 @@
   "packages": [
     {
       "architecture": "linux-arm",
-      "language": {
-        "name": "python",
-        "versions": [
-          "3.5",
-          "3.6",
-          "3.7"
-        ]
-      },
+      "language" "none",
       "version": "0.0.1",
       "url": "https://github.com/flatsiedatsie/square-theme/releases/download/0.0.1/square-theme-0.0.1.tgz",
-      "checksum": "ccb8704250378f4a009abf2c67493eb54d6e931fbdd450b853bc63bcda59f76e",
+      "checksum": "e5d7c8b9634fa2d4252356abcee1828662f3301095683d418da119856a4ea589",
       "api": {
         "min": 2,
         "max": 2
