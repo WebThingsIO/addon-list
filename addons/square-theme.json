@@ -1,0 +1,26 @@
+{
+  "id": "square-theme",
+  "name": "Square Theme",
+  "description": "A theme that removes the octopus view, and adds setpoint buttons",
+  "author": "Flatsiedatsie",
+  "homepage_url": "https://github.com/flatsiedatsie/square-theme",
+  "license_url": "https://github.com/flatsiedatsie/square-theme/blob/master/LICENSE",
+  "primary_type": "extension",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": "none",
+      "version": "0.0.1",
+      "url": "https://github.com/flatsiedatsie/square-theme/releases/download/0.0.1/square-theme-0.0.1.tgz",
+      "checksum": "2b711f232be37a1a858c0b33c4f7dd7cb6aa2e92035fa54c5c108a8b9e91cea6",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
