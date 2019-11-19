@@ -9,7 +9,7 @@
   "packages": [
     {
       "architecture": "linux-arm",
-      "language" "none",
+      "language": "none",
       "version": "0.0.1",
       "url": "https://github.com/flatsiedatsie/square-theme/releases/download/0.0.1/square-theme-0.0.1.tgz",
       "checksum": "e5d7c8b9634fa2d4252356abcee1828662f3301095683d418da119856a4ea589",
