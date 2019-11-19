@@ -1,0 +1,33 @@
+{
+  "id": "power-settings",
+  "name": "Power Settings",
+  "description": "Shutdown or reboot your system, go fullscreen, and manually set the time.",
+  "author": "Flatsiedatsie",
+  "homepage_url": "https://github.com/flatsiedatsie/power-settings",
+  "license_url": "https://github.com/flatsiedatsie/power-settings/blob/master/LICENSE",
+  "primary_type": "extension",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5",
+          "3.6",
+          "3.7"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/power-settings-0.0.1.tgz",
+      "checksum": "f1670f3a3f985d3f9b22377c8f24cad884d0da974185536e7e0e894d0e5b228a",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
