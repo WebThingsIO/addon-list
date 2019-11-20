@@ -74,45 +74,55 @@
             ]
           },
           "language": {
-            "oneOf": [
-              {
-                "type": "object",
-                "required": [
-                  "name",
-                  "versions"
-                ],
-                "properties": {
-                  "name": {
-                    "type": "string",
-                    "enum": [
-                      "nodejs",
-                      "python",
-                      "binary"
-                    ]
-                  },
-                  "versions": {
-                    "type": "array",
-                    "minItems": 1,
-                    "items": {
-                      "type": "string",
-                      "minLength": 1
-                    }
-                  }
-                }
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
               },
-              {
-                "type": "object",
-                "required": [
-                  "name"
-                ],
-                "properties": {
-                  "name": {
-                    "type": "string",
-                    "const": "none"
-                  }
+              "versions": {
+                "type": "array",
+                "minItems": 1,
+                "items": {
+                  "type": "string",
+                  "minLength": 1
                 }
               }
-            ]
+            },
+            "if": {
+              "properties": {
+                "name": {
+                  "enum": [
+                    "nodejs",
+                    "python"
+                  ]
+                }
+              },
+              "required": [
+                "name"
+              ]
+            },
+            "then": {
+              "required": [
+                "versions"
+              ]
+            },
+            "else": {
+              "if": {
+                "properties": {
+                  "name": {
+                    "enum": [
+                      "binary",
+                      "none"
+                    ]
+                  }
+                },
+                "required": [
+                  "name"
+                ]
+              },
+              "then": true,
+              "else": false
+            }
           },
           "version": {
             "type": "string",
