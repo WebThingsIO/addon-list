@@ -16,7 +16,7 @@
         ]
       },
       "version": "1.1.2",
-      "url": "https://github.com/tim-hellhake/systeminfo-adapter/releases/download/1.1.2/systeminfo-adapter-1.1.2.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/systeminfo-adapter-1.1.2.tgz",
       "checksum": "ba25f74e150c0b283fdf6a4f141faee329c60deb1a89091fbfa2a5da022947b5",
       "api": {
         "min": 2,
