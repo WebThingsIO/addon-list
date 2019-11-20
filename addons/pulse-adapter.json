@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.3.0",
-      "url": "https://github.com/mozilla-iot/pulse-adapter/releases/download/v0.3.0/pulse-adapter-0.3.0.tgz",
-      "checksum": "10d507af0c72b552a4ce9272349ad675e80e29c0302cc879dd22875444cf113c",
+      "version": "0.4.0",
+      "url": "https://github.com/mozilla-iot/pulse-adapter/releases/download/v0.4.0/pulse-adapter-0.4.0.tgz",
+      "checksum": "2111e30d81030846b32e00240701cec10e420db8dde221ea9172bae4c9ce5144",
       "api": {
         "min": 2,
         "max": 2
