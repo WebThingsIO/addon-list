@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.4.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/http-adapter-0.4.0.tgz",
-      "checksum": "af7fcee7769544bd347d884a0e4d5a081dcc0e4a3cb980a27fb9c521c7a6b4ac",
+      "version": "0.4.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/http-adapter-0.4.1.tgz",
+      "checksum": "82dc4184e815f7f01489459d3a6f2b9475c6916ccf08158f0b1c190df8bde485",
       "api": {
         "min": 2,
         "max": 2
