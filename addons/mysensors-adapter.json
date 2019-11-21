@@ -18,7 +18,7 @@
         ]
       },
       "version": "1.0.1",
-      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.0.1/mysensors-adapter-1.0.1.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mysensors-adapter-1.0.1.tgz",
       "checksum": "5ef826cc10f34d4b97bc28be290a02064dfd7727eac7eb67590263ce082443a6",
       "api": {
         "min": 2,
