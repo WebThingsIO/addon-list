@@ -15,11 +15,11 @@
           "any"
         ]
       },
-      "version": "0.2.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/logitech-harmony-adapter-0.2.7.tgz",
-      "checksum": "6072ac6b7875534edad876d8a0b9c01d15f868ba1a80fad4ecfaf62628b236b4",
+      "version": "0.2.10",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/logitech-harmony-adapter-0.2.10.tgz",
+      "checksum": "b04391189e4b0dfc4db0328e65f14a90884cfad53288097b0b01999505af1323",
       "api": {
-        "min": 1,
+        "min": 2,
         "max": 2
       },
       "gateway": {
