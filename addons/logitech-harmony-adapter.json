@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.2.10",
-      "url": "https://github.com/tim-hellhake/logitech-harmony-adapter/releases/download/0.2.10/logitech-harmony-adapter-0.2.10.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/logitech-harmony-adapter-0.2.10.tgz",
       "checksum": "b04391189e4b0dfc4db0328e65f14a90884cfad53288097b0b01999505af1323",
       "api": {
         "min": 2,
