@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.8",
-      "url": "https://github.com/tim-hellhake/logitech-harmony-adapter/releases/download/0.2.8/logitech-harmony-adapter-0.2.8.tgz",
-      "checksum": "008e7a3dddf50700e133698fa14e224bfd2ee321bc5a4f0c24cbba2618d6d328",
+      "version": "0.2.9",
+      "url": "https://github.com/tim-hellhake/logitech-harmony-adapter/releases/download/0.2.9/logitech-harmony-adapter-0.2.9.tgz",
+      "checksum": "099b043e96bc866770f5fb7367875418cb90b82e3ba313539aef8355ac13d639",
       "api": {
         "min": 2,
         "max": 2
