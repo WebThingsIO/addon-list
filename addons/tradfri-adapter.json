@@ -1,7 +1,7 @@
 {
   "id": "tradfri-adapter",
   "name": "Tradfri",
-  "description": "Connect your Tradfri devices",
+  "description": "Connect your Tradfri devices using the Tradfri gateway",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/tradfri-adapter#readme",
   "license_url": "https://github.com/tim-hellhake/tradfri-adapter/blob/master/LICENSE",
