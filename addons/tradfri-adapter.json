@@ -1,0 +1,31 @@
+{
+  "id": "tradfri-adapter",
+  "name": "Tradfri",
+  "description": "Connect your Tradfri devices using the Tradfri gateway",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/tradfri-adapter#readme",
+  "license_url": "https://github.com/tim-hellhake/tradfri-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.1.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.1.1.tgz",
+      "checksum": "4c78b059a73a3205cad471d077f168ba616d16695b9df31cdb7df98d567b46d2",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
