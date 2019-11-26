@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.1.6",
-      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/0.1.6/azure-iot-bridge-0.1.6.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/azure-iot-bridge-0.1.6.tgz",
       "checksum": "817f2c879e6feab38ed5c6e934660423f987bf9cd94abeb6d54a3c0185396b20",
       "api": {
         "min": 2,
