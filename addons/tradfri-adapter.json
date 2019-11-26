@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://github.com/tim-hellhake/tradfri-adapter/releases/download/0.1.0/tradfri-adapter-0.1.0.tgz",
-      "checksum": "55c0a30347b51ac9c4d74e0a8b9e9b311b18d3fef0207ef8f5aab664d0d83be5",
+      "version": "0.1.1",
+      "url": "https://github.com/tim-hellhake/tradfri-adapter/releases/download/0.1.1/tradfri-adapter-0.1.1.tgz",
+      "checksum": "4c78b059a73a3205cad471d077f168ba616d16695b9df31cdb7df98d567b46d2",
       "api": {
         "min": 2,
         "max": 2
