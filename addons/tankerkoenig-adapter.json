@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tankerkoenig-adapter-0.2.1.tgz",
-      "checksum": "94a85204815350dac963e733351e83dba26cc257f068d62ea3eccb6e07b73b9e",
+      "version": "0.2.2",
+      "url": "https://github.com/tim-hellhake/tankerkoenig-adapter/releases/download/0.2.2/tankerkoenig-adapter-0.2.2.tgz",
+      "checksum": "5fdefc787b564a00c7e0226f82ae58f20e97e9a6e9160df352966456c734bdc3",
       "api": {
         "min": 2,
         "max": 2
