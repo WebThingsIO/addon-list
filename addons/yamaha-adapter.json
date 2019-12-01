@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://github.com/tim-hellhake/yamaha-adapter/releases/download/0.1.0/yamaha-adapter-0.1.0.tgz",
-      "checksum": "79d15bc7427e89eb129b234e6774d91e5eea71447aea42cd704980e6bc581f78",
+      "version": "0.1.1",
+      "url": "https://github.com/tim-hellhake/yamaha-adapter/releases/download/0.1.1/yamaha-adapter-0.1.1.tgz",
+      "checksum": "ad05027710efa534bf925078b365b725185c0db63ac5e659832d6db0096f2399",
       "api": {
         "min": 2,
         "max": 2
