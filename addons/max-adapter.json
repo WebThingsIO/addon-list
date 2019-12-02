@@ -17,7 +17,7 @@
       },
       "version": "0.1.4",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.4-linux-arm-v8.tgz",
-      "checksum": "",
+      "checksum": "f3f21bebd3b6d5081104376bf55d085d2dba69b2dda0c9dd8382fb742536b44b",
       "api": {
         "min": 2,
         "max": 2
@@ -37,7 +37,7 @@
       },
       "version": "0.1.4",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.4-linux-x64-v8.tgz",
-      "checksum": "",
+      "checksum": "501048d404fcabefb2f87d9d1e76d719fe5204111d9c189a2dff5d1beb85df8c",
       "api": {
         "min": 2,
         "max": 2
@@ -57,7 +57,7 @@
       },
       "version": "0.1.4",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.4-openwrt-linux-arm_cortex-a7_neon-vfpv4-v8.tgz",
-      "checksum": "",
+      "checksum": "d62ee5e667b2943ba44740825cb2de7cb5002f14b4cadc34d90d2027147230c8",
       "api": {
         "min": 2,
         "max": 2
@@ -77,7 +77,7 @@
       },
       "version": "0.1.4",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.4-openwrt-linux-arm_cortex-a9_vfpv3-v8.tgz",
-      "checksum": "",
+      "checksum": "51d1905ecbcbba171b5b1bc86701162e6351c04276b25dced9cb74deb5da5cf7",
       "api": {
         "min": 2,
         "max": 2
@@ -97,7 +97,7 @@
       },
       "version": "0.1.4",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.4-darwin-x64-v8.tgz",
-      "checksum": "",
+      "checksum": "d1abe52384113c29c4a681312c3112cfec3eb65c8d7736e20368a81d07b97346",
       "api": {
         "min": 2,
         "max": 2
@@ -117,7 +117,7 @@
       },
       "version": "0.1.4",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.4-linux-arm-v10.tgz",
-      "checksum": "",
+      "checksum": "eb04fc2613e1c1c25f514e4fb8b562e62b2dc3b46bf608913f9818528d1f19ce",
       "api": {
         "min": 2,
         "max": 2
@@ -137,7 +137,7 @@
       },
       "version": "0.1.4",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.4-linux-x64-v10.tgz",
-      "checksum": "",
+      "checksum": "a5c4d649a911a140aa17b8182159a1fe487a0a801add8814babd7038c82667c5",
       "api": {
         "min": 2,
         "max": 2
@@ -157,7 +157,67 @@
       },
       "version": "0.1.4",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.4-darwin-x64-v10.tgz",
-      "checksum": "",
+      "checksum": "479ca5c399d8a10dfdcd6195aa5645a4fe28044b934ab4a25186d74e1ef162bd",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.4-linux-arm-v12.tgz",
+      "checksum": "2502d0f000d22a462e739c34fb754ab494465a5ea25d0175d8e71ded2f95ec53",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.4-linux-x64-v12.tgz",
+      "checksum": "0eeceabcc27dcae497c32b62b61855b58172f2cc57293b25ae16e11628c69e5d",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.4-darwin-x64-v12.tgz",
+      "checksum": "52b5c1c07cec7aea579236efaaf6ff982e7334c3fedf5f761dada083b0f9b14e",
       "api": {
         "min": 2,
         "max": 2
