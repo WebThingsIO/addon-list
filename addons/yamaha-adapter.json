@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.1.2",
-      "url": "https://github.com/tim-hellhake/yamaha-adapter/releases/download/0.1.2/yamaha-adapter-0.1.2.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/yamaha-adapter-0.1.2.tgz",
       "checksum": "8702394a41ba4454c9571deebf66a1bc374f666ed8e5e1fbec8c3fc65bbf339f",
       "api": {
         "min": 2,
