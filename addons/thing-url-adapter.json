@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.4.1",
-      "url": "https://github.com/mozilla-iot/thing-url-adapter/releases/download/v0.4.1/thing-url-adapter-0.4.1.tgz",
-      "checksum": "af821d5f7d976d2e379dabc34d0ebbc0ee8990eddec8caeb8063b11dd7f80676",
+      "version": "0.4.2",
+      "url": "https://github.com/mozilla-iot/thing-url-adapter/releases/download/v0.4.2/thing-url-adapter-0.4.2.tgz",
+      "checksum": "4e844636e062b011463f3bfac370760d01302086a1fb4b69d82856fe4364fc10",
       "api": {
         "min": 2,
         "max": 2
