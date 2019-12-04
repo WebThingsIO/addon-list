@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.2.3",
-      "url": "https://github.com/tim-hellhake/cron-adapter/releases/download/0.2.3/cron-adapter-0.2.3.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/cron-adapter-0.2.3.tgz",
       "checksum": "981a38fa39372b8ad4537a2e14b130fe81b15b16aebd6f8e4cc534ed76164b53",
       "api": {
         "min": 2,
