@@ -15,8 +15,8 @@
           "57"
         ]
       },
-      "version": "0.1.6",
-      "url": "https://github.com/tim-hellhake/max-adapter/releases/download/0.1.6/max-adapter-0.1.6.tgz",
+      "version": "0.1.7",
+      "url": "https://github.com/tim-hellhake/max-adapter/releases/download/0.1.7/max-adapter-0.1.7.tgz",
       "checksum": "e53460ad14a6f875d214a0d08fac02c86f7c10500b2bebe7a2f01de7a9f00259",
       "api": {
         "min": 2,
