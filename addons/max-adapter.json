@@ -15,9 +15,9 @@
           "57"
         ]
       },
-      "version": "0.1.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.3-linux-arm-v8.tgz",
-      "checksum": "a04ddef146be41d2bde400e4af832e467faface3e05aa75a4932fc3e1c5bef42",
+      "version": "0.1.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.7-linux-arm-v8.tgz",
+      "checksum": "a18b3fd799fa16c0a6382724a687c5f0c7cde061b518fc66e180eda8b6a7d1c7",
       "api": {
         "min": 2,
         "max": 2
@@ -35,9 +35,9 @@
           "57"
         ]
       },
-      "version": "0.1.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.3-linux-x64-v8.tgz",
-      "checksum": "cb2fa4987c81b59ee8978440f8d3676176a38028c1884ea8f44d724547ba1190",
+      "version": "0.1.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.7-linux-x64-v8.tgz",
+      "checksum": "fde3b3b35ef125c04303ae531b6a25dab1f0d22f5b071028ab4b9dc4cb88ef9b",
       "api": {
         "min": 2,
         "max": 2
@@ -55,9 +55,9 @@
           "57"
         ]
       },
-      "version": "0.1.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.3-openwrt-linux-arm_cortex-a7_neon-vfpv4-v8.tgz",
-      "checksum": "20647e9f19a4d37ed376bc129afd453e64804b448551eea80aff008003ebc4a3",
+      "version": "0.1.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.7-openwrt-linux-arm_cortex-a7_neon-vfpv4-v8.tgz",
+      "checksum": "ac7e9c04e8eae6249653359ca0365ae45e672d1350f9ca1095edf574a5b63e99",
       "api": {
         "min": 2,
         "max": 2
@@ -75,9 +75,9 @@
           "57"
         ]
       },
-      "version": "0.1.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.3-openwrt-linux-arm_cortex-a9_vfpv3-v8.tgz",
-      "checksum": "ab99ad98a18a5636ce0375f02c483f99bcc908adc06c2bcf3d5d68b03c427211",
+      "version": "0.1.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.7-openwrt-linux-arm_cortex-a9_vfpv3-v8.tgz",
+      "checksum": "a442edc1460aaeb31acec522d4000a5d00fdc35f94e1aadf5b04ed175354b936",
       "api": {
         "min": 2,
         "max": 2
@@ -95,9 +95,9 @@
           "57"
         ]
       },
-      "version": "0.1.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.3-darwin-x64-v8.tgz",
-      "checksum": "72970ffeace88093b902ebedba876a8f168c51233194853ad1219af3d58daef6",
+      "version": "0.1.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.7-darwin-x64-v8.tgz",
+      "checksum": "bf82f4bc2ce96ba181309cf999617c3565453cf882b0f38c47e72de5f3ca6b19",
       "api": {
         "min": 2,
         "max": 2
@@ -115,9 +115,9 @@
           "64"
         ]
       },
-      "version": "0.1.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.3-linux-arm-v10.tgz",
-      "checksum": "a28449d521a99af889becb4f0f4da1181536a7ee50ec0a4ac2ca5359ebfe4a1e",
+      "version": "0.1.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.7-linux-arm-v10.tgz",
+      "checksum": "0b4bde5374230a479b1542f355860a26bd495f8d286c0d815d85c7f456c8e9a9",
       "api": {
         "min": 2,
         "max": 2
@@ -135,9 +135,9 @@
           "64"
         ]
       },
-      "version": "0.1.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.3-linux-x64-v10.tgz",
-      "checksum": "4a02607a8d04fd59ac001fe97f0a298146f3c6269b91240d7fd5928c36ae5a87",
+      "version": "0.1.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.7-linux-x64-v10.tgz",
+      "checksum": "25c09dbad7d1c8f7a7f77423f746f093331ec91a490db37f0ec4af3bfba80121",
       "api": {
         "min": 2,
         "max": 2
@@ -155,9 +155,69 @@
           "64"
         ]
       },
-      "version": "0.1.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.3-darwin-x64-v10.tgz",
-      "checksum": "12476175e528ddd929cc1c7c8708b4c030e82dd02abc51e90aa59e6af427221e",
+      "version": "0.1.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.7-darwin-x64-v10.tgz",
+      "checksum": "5cd86b526bc93f8bf8e4a2ffbf7389c11d9f50183b25c87d5b9c88f789a02113",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.7-linux-arm-v12.tgz",
+      "checksum": "fa8f4f3cae133a6da399abd7385bd300a04acb78974f284ec84c689555db9941",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.7-linux-x64-v12.tgz",
+      "checksum": "7df732995f5409fbb8246d57bfec90ff20094982a96135a9f1745a0946e5f34d",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.7-darwin-x64-v12.tgz",
+      "checksum": "c07f276e45c706c17c3273275040471ac14e1c69a2149148b889af2facc557b4",
       "api": {
         "min": 2,
         "max": 2
