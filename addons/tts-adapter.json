@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tts-adapter-0.1.3.tgz",
-      "checksum": "c1d3e7a20e20e0409a1dad5dc81f9f967edfecb6d4a3762b6a186be0cb86b482",
+      "version": "0.1.4",
+      "url": "https://github.com/tim-hellhake/tts-adapter/releases/download/0.1.4/tts-adapter-0.1.4.tgz",
+      "checksum": "1a9ab5794826c6ed42c83af4e3bd8086e1f9fc6d4a5b33e7b261b85981b93011",
       "api": {
         "min": 2,
         "max": 2
