@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.3.1",
-      "url": "https://github.com/tim-hellhake/luftdaten-adapter/releases/download/0.3.1/luftdaten-adapter-0.3.1.tgz",
-      "checksum": "5c54d45d3419ec5f48d13b279e7be0bba5e3e91bf126aef3aecfa82c7b4186c7",
+      "version": "0.3.2",
+      "url": "https://github.com/tim-hellhake/luftdaten-adapter/releases/download/0.3.2/luftdaten-adapter-0.3.2.tgz",
+      "checksum": "e198dad9cfbe642900ced6dbcd71bcdbe13cff20fa0e7ae7f99581d709840be8",
       "api": {
         "min": 2,
         "max": 2
