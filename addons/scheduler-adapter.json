@@ -1,0 +1,31 @@
+{
+  "id": "scheduler-adapter",
+  "name": "Scheduler",
+  "description": "Allows you to use a time schedule in your rules",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/scheduler-adapter#readme",
+  "license_url": "https://github.com/tim-hellhake/scheduler-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/scheduler-adapter-0.1.0.tgz",
+      "checksum": "e879f864bba69e64bce5d769dcb6c3ea8b78de6194c70eb20d3dfc144bcdbba2",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
