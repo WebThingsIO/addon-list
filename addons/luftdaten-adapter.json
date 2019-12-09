@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.3.2",
-      "url": "https://github.com/tim-hellhake/luftdaten-adapter/releases/download/0.3.2/luftdaten-adapter-0.3.2.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/luftdaten-adapter-0.3.2.tgz",
       "checksum": "e198dad9cfbe642900ced6dbcd71bcdbe13cff20fa0e7ae7f99581d709840be8",
       "api": {
         "min": 2,
