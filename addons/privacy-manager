@@ -20,7 +20,7 @@
       },
       "version": "0.0.1",
       "url": "https://github.com/createcandle/privacy-manager/releases/download/0.0.1/privacy-manager-0.0.1.tgz",
-      "checksum": "d9673d232a388c225e3e5addb83d4daf7a9131a79418dde74d0cdf4435a62dc7",
+      "checksum": "ea05f8bd04dbb678032ba24730eb7b1e3aeb2f9511df24a560e10f065c0bc838",
       "api": {
         "min": 2,
         "max": 2
