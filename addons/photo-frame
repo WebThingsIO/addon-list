@@ -1,0 +1,28 @@
+{
+  "id": "photo-frame",
+  "name": "Photo Frame",
+  "description": "Show your favourite photos. Great if you use a tablet to control your home.",
+  "author": "Flatsiedatsie",
+  "homepage_url": "https://github.com/flatsiedatsie/photo-frame",
+  "license_url": "https://github.com/flatsiedatsie/photo-frame/blob/master/LICENSE",
+  "primary_type": "extension",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "none"
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/flatsiedatsie/photo-frame/releases/download/0.0.1/photo-frame-0.0.1.tgz",
+      "checksum": "ec06e477bbcf57764df9ec25d138cff559e9dcf3677d2cba67c306274e7e611e",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
