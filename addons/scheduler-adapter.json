@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/scheduler-adapter-0.1.0.tgz",
-      "checksum": "e879f864bba69e64bce5d769dcb6c3ea8b78de6194c70eb20d3dfc144bcdbba2",
+      "version": "0.1.1",
+      "url": "https://github.com/tim-hellhake/scheduler-adapter/releases/download/0.1.1/scheduler-adapter-0.1.1.tgz",
+      "checksum": "b470d30e63340fc18520b7ab476a75d005d90376014c8910450fbf99f15c0ab1",
       "api": {
         "min": 2,
         "max": 2
