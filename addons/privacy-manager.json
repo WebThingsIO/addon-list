@@ -20,7 +20,7 @@
       },
       "version": "0.0.1",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/privacy-manager-0.0.1.tgz",
-      "checksum": "ea05f8bd04dbb678032ba24730eb7b1e3aeb2f9511df24a560e10f065c0bc838",
+      "checksum": "4e021915527d2c1cc0b0d74337f3c45af373bd1fc92fb95eb8bde7b36913d306",
       "api": {
         "min": 2,
         "max": 2
