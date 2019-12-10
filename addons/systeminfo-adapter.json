@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "1.1.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/systeminfo-adapter-1.1.2.tgz",
-      "checksum": "ba25f74e150c0b283fdf6a4f141faee329c60deb1a89091fbfa2a5da022947b5",
+      "version": "1.1.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/systeminfo-adapter-1.1.3.tgz",
+      "checksum": "52a86c51ecfe521594a3f14a0cf4e8b9940ae425d584548fe132b2bae787e6b6",
       "api": {
         "min": 2,
         "max": 2
