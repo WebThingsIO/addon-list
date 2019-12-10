@@ -10,10 +10,16 @@
     {
       "architecture": "any",
       "language": {
-        "name": "none"
+        "name": "python",
+        "versions": [
+          "3.5",
+          "3.6",
+          "3.7",
+          "3.8"
+        ]
       },
       "version": "0.0.1",
-      "url": "https://github.com/flatsiedatsie/photo-frame/releases/download/0.0.1/photo-frame-0.0.1.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/photo-frame-0.0.1.tgz",
       "checksum": "ec06e477bbcf57764df9ec25d138cff559e9dcf3677d2cba67c306274e7e611e",
       "api": {
         "min": 2,
