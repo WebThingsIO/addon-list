@@ -27,7 +27,7 @@ def main():
     checker_changed = False
     for fname in files:
         match = re.match(r'^addons/([^/]+)\.json$', fname)
-        if match:
+        if match and os.path.exists(fname):
             addons_changed.append(match.group(1))
         elif re.match(r'^schema/.+$', fname):
             schema_changed = True
