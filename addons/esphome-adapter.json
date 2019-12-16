@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/esphome-adapter/releases/download/0.2.0/esphome-adapter-0.2.0.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/esphome-adapter-0.2.0.tgz",
       "checksum": "a49553ac34953321937c62eda76db23db22478e14f25cea0beb2770bb9a4a2bd",
       "api": {
         "min": 2,
