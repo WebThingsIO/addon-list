@@ -18,9 +18,9 @@
           "3.8"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/network-presence-detection-adapter-0.1.1.tgz",
-      "checksum": "8828e949f2f6fa0996009f0b313096e3b9a61191d39e28e889d2f8d2cbf7ce06",
+      "version": "0.1.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/network-presence-detection-adapter-0.1.2.tgz",
+      "checksum": "c2ed2d13b7aa8f89ecd66887294588b757b0a8e3774bc987202c9c3d662c229f",
       "api": {
         "min": 2,
         "max": 2
