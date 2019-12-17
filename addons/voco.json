@@ -20,7 +20,7 @@
       },
       "version": "1.0.1",
       "url": "https://www.candlesmarthome.com/assistant/voco-1.0.1.tgz",
-      "checksum": "936d0d39b079bdc8141a3a5770242fb0f8239d8a9f9635ae1ded2e391540b027",
+      "checksum": "eb4c4b7e2f76622a53c2833f5151d1cc33fa8270ea32c9b81e8e862af86c5ee4",
       "api": {
         "min": 2,
         "max": 2
