@@ -18,9 +18,9 @@
           "3.8"
         ]
       },
-      "version": "1.0.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voco-1.0.1.tgz",
-      "checksum": "eb4c4b7e2f76622a53c2833f5151d1cc33fa8270ea32c9b81e8e862af86c5ee4",
+      "version": "1.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voco-1.0.2.tgz",
+      "checksum": "78b1e3fd9c39b53825c5e75275a1edb476f6c684aead8a3f6ee5960ff7f69e18",
       "api": {
         "min": 2,
         "max": 2
