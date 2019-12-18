@@ -19,7 +19,7 @@
         ]
       },
       "version": "1.0.2",
-      "url": "https://www.candlesmarthome.com/assistant/voco-1.0.2.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voco-1.0.2.tgz",
       "checksum": "78b1e3fd9c39b53825c5e75275a1edb476f6c684aead8a3f6ee5960ff7f69e18",
       "api": {
         "min": 2,
