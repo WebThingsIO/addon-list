@@ -17,7 +17,7 @@
         ]
       },
       "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/shelly-adapter/releases/download/0.2.0/shelly-adapter-0.2.0.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/shelly-adapter-0.2.0.tgz",
       "checksum": "4ab54d939c9a36164b4ec798029db33fc9b5fff0a2c164d562d56218ffd1a6ce",
       "api": {
         "min": 2,
