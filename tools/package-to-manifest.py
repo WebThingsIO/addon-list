@@ -34,7 +34,7 @@ def translate(package_json):
         'version': package['version'],
     }
 
-    if type(package['author']) is str:
+    if type(package['author']) is str or unicode:
         manifest['author'] = package['author']
     else:
         manifest['author'] = package['author']['name']
