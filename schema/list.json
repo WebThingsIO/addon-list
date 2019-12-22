@@ -122,7 +122,8 @@
               },
               "then": true,
               "else": false
-            }
+            },
+            "additionalProperties": false
           },
           "version": {
             "type": "string",
@@ -170,13 +171,16 @@
                 "type": "string",
                 "pattern": "^(\\d+\\.\\d+\\.\\d+|\\*)$"
               }
-            }
+            },
+            "additionalProperties": false
           },
           "test_only": {
             "type": "boolean"
           }
-        }
+        },
+        "additionalProperties": false
       }
     }
-  }
+  },
+  "additionalProperties": false
 }
