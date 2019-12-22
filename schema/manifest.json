@@ -70,7 +70,8 @@
               "minLength": 1
             }
           }
-        }
+        },
+        "additionalProperties": false
       }
     },
     "default_locale": {
@@ -116,9 +117,11 @@
               "type": "string",
               "pattern": "^(\\d+\\.\\d+\\.\\d+|\\*)$"
             }
-          }
+          },
+          "additionalProperties": false
         }
-      }
+      },
+      "additionalProperties": false
     },
     "homepage_url": {
       "type": "string",
@@ -151,13 +154,14 @@
     "options": {
       "type": "object",
       "properties": {
-        "defaults": {
+        "default": {
           "type": "object"
         },
         "schema": {
           "type": "object"
         }
-      }
+      },
+      "additionalProperties": false
     },
     "options_ui": {
       "type": "object",
@@ -169,7 +173,8 @@
           "type": "string",
           "minLength": 1
         }
-      }
+      },
+      "additionalProperties": false
     },
     "permissions": {
       "type": "array",
@@ -195,5 +200,6 @@
         "minLength": 1
       }
     }
-  }
+  },
+  "additionalProperties": false
 }
