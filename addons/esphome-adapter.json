@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/esphome-adapter-0.2.0.tgz",
-      "checksum": "a49553ac34953321937c62eda76db23db22478e14f25cea0beb2770bb9a4a2bd",
+      "version": "0.2.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/esphome-adapter-0.2.1.tgz",
+      "checksum": "298b1ff07556e26aac5ed380692a4d29c71a6087f96bb84e6eaeea9f70e014ba",
       "api": {
         "min": 2,
         "max": 2
