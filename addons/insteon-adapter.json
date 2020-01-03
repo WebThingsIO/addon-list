@@ -2,7 +2,7 @@
   "id": "insteon-adapter",
   "name": "INSTEON",
   "description": "INSTEON device support",
-  "author": "James Willcox <snorp@snorp.net>",
+  "author": "James Willcox",
   "homepage_url": "https://github.com/snorp/insteon-adapter",
   "license_url": "https://github.com/snorp/insteon-adapter/blob/master/LICENSE",
   "primary_type": "adapter",
