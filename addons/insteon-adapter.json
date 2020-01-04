@@ -17,7 +17,7 @@
       },
       "version": "1.0.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/insteon-adapter-1.0.0-linux-arm-v8.tgz",
-      "checksum": "617b3369a6b4d920e63ba94cd7b63d372fd040a4c039a7ee1296ccc600c2da4e",
+      "checksum": "ec1ce058b21d98e05762eebb4e36f122c7246c8429d28d16a093fc3a68f270d3",
       "api": {
         "min": 2,
         "max": 2
@@ -37,7 +37,7 @@
       },
       "version": "1.0.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/insteon-adapter-1.0.0-linux-x64-v8.tgz",
-      "checksum": "0149d91edd3774a5253a7c158c4670fc9bdcdb94b8912749a62501e60d2cc4c3",
+      "checksum": "cac900ee5049a110cd28ebb9467abe1adbca933384de751192d3f5cc51482a1c",
       "api": {
         "min": 2,
         "max": 2
@@ -57,7 +57,7 @@
       },
       "version": "1.0.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/insteon-adapter-1.0.0-openwrt-linux-arm_cortex-a7_neon-vfpv4-v8.tgz",
-      "checksum": "92d9178f3a4f62d0a7730b912f2ca85863a20a6999b156da0b7718c3bcdcbf19",
+      "checksum": "320527d21f525f7b50c660e7f7c20c2fb828e22006928e10d3ca2b7ce64fb9c9",
       "api": {
         "min": 2,
         "max": 2
@@ -77,7 +77,7 @@
       },
       "version": "1.0.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/insteon-adapter-1.0.0-openwrt-linux-arm_cortex-a9_vfpv3-v8.tgz",
-      "checksum": "4c4b1f27b9a9c2cbc230358e2487f41197629f6775cb0855901e0703f84d5426",
+      "checksum": "4c07037ee78bd1e225f6a7d44a623343dab3610e91fb9ea5741529308cab5fa5",
       "api": {
         "min": 2,
         "max": 2
@@ -97,7 +97,7 @@
       },
       "version": "1.0.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/insteon-adapter-1.0.0-darwin-x64-v8.tgz",
-      "checksum": "375a84654d1a82b27c19cfeca2f16946755e089ec586cc915e9462bf3521196d",
+      "checksum": "cad48886951cd3316f5cf9dd3ce177c8eedbb0701713e31b45aa63162955f079",
       "api": {
         "min": 2,
         "max": 2
@@ -117,7 +117,7 @@
       },
       "version": "1.0.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/insteon-adapter-1.0.0-linux-arm-v10.tgz",
-      "checksum": "1b867a9a819055732b7fc2deb3edb0ed73082af91b7ca558ff379e2de557c75f",
+      "checksum": "904fda85869726c01ec0e64f84d58ff784fcd1925e3732d5138529ebb8abc691",
       "api": {
         "min": 2,
         "max": 2
@@ -137,7 +137,7 @@
       },
       "version": "1.0.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/insteon-adapter-1.0.0-linux-x64-v10.tgz",
-      "checksum": "d939884bbab0ae58215e93884865b7a3be97015dcec202461ef6b5117f11c36b",
+      "checksum": "42026c252a0004fd9ccaabd5bf203d7f491b7aa788a0249ca01889f2a7e25b88",
       "api": {
         "min": 2,
         "max": 2
@@ -157,7 +157,7 @@
       },
       "version": "1.0.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/insteon-adapter-1.0.0-darwin-x64-v10.tgz",
-      "checksum": "d6cfa655cf994bb8fd634e14c8df56dd5175c08235def791ffe10ee7fb1b3a5e",
+      "checksum": "68bc7f38c064ffa7c2fec5c7c9dabdbb10176b73d56b542fa265709f5be28fa3",
       "api": {
         "min": 2,
         "max": 2
@@ -177,7 +177,7 @@
       },
       "version": "1.0.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/insteon-adapter-1.0.0-linux-arm-v12.tgz",
-      "checksum": "2756b9f3843d34b4ed45e682c27fbd55d1b224b23b46eb3a33d41ea548f28cb0",
+      "checksum": "36fe65bed85729e3fab69e5a4017350281835c9450437d89dfb6cc0c89702974",
       "api": {
         "min": 2,
         "max": 2
@@ -197,7 +197,7 @@
       },
       "version": "1.0.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/insteon-adapter-1.0.0-linux-x64-v12.tgz",
-      "checksum": "cbc14d4163293df97fd484fe463299bc4d47c8cdc40c7a12bd2db73a0ad7d93a",
+      "checksum": "cf34d4f8b55c6a479f497729efbdcd96edae08aa05f5f4c5b02474837728086f",
       "api": {
         "min": 2,
         "max": 2
@@ -217,7 +217,7 @@
       },
       "version": "1.0.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/insteon-adapter-1.0.0-darwin-x64-v12.tgz",
-      "checksum": "0519d39110843e34e5130255b517008401ab1167f916d1878408aafe47bb5f68",
+      "checksum": "ec321afcdac9a09b59a2bcdab9e2e208b4ed296e5b46bacf651a6c35fdda85a7",
       "api": {
         "min": 2,
         "max": 2
