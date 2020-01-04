@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ring-adapter-0.0.2.tgz",
-      "checksum": "535fae7390528b1f7aa455e38acbdb40aba8298dd83b8545e865cd26c6bf3f63",
+      "version": "0.0.3",
+      "url": "https://github.com/damooooooooooh/ring-adapter/releases/download/0.0.3/ring-adapter-0.0.3.tgz",
+      "checksum": "70df627796f37d2eb23e2f873a669db61e961dc29f34940b737b7c302dd4323c",
       "api": {
         "min": 2,
         "max": 2
