@@ -1,7 +1,7 @@
 {
   "id": "ring-adapter",
   "name": "Ring",
-  "description": "Ring device adapter.",
+  "description": "Ring device adapter for Ring Doorbells, Lights and Sirens.",
   "author": "damooooooooooh",
   "homepage_url": "https://github.com/damooooooooooh/ring-adapter",
   "license_url": "https://github.com/damooooooooooh/ring-adapter/blob/master/LICENSE",
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.0.3",
-      "url": "https://github.com/damooooooooooh/ring-adapter/releases/download/v0.0.3/ring-adapter-0.0.3.tgz",
-      "checksum": "e651347dd390f918055b9db5c6fca0f29d7e6deb2a9ac91238d49a55f82572c4",
+      "version": "0.0.4",
+      "url": "https://github.com/damooooooooooh/ring-adapter/releases/download/v0.0.4/ring-adapter-0.0.4.tgz",
+      "checksum": "9860c9e93c03a4a61f439b7ed1a2f3545985b5d49f4e111093dd1419e2a42eaa",
       "api": {
         "min": 2,
         "max": 2
