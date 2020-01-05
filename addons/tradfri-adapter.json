@@ -1,10 +1,10 @@
 {
-  "id": "serial-adapter",
-  "name": "Serial",
-  "description": "Serial JSON interface to serial-mcu",
-  "author": "Mozilla IoT",
-  "homepage_url": "https://github.com/mozilla-iot/serial-adapter",
-  "license_url": "https://github.com/mozilla-iot/serial-adapter/blob/master/LICENSE",
+  "id": "tradfri-adapter",
+  "name": "Tradfri",
+  "description": "Connect your Tradfri devices using the Tradfri gateway",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/tradfri-adapter#readme",
+  "license_url": "https://github.com/tim-hellhake/tradfri-adapter/blob/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,9 +15,9 @@
           "57"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.0-linux-arm-v8.tgz",
-      "checksum": "15d5da91ccd0f7e084bd29e3fa8a449d5da96ad00be33a08cdf12c098d0cfa72",
+      "version": "0.1.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.1.3-linux-arm-v8.tgz",
+      "checksum": "7654117d03b02893fe79c9252a59b5144a19d21e37cab227ae664fcf44eaa4ee",
       "api": {
         "min": 2,
         "max": 2
@@ -35,9 +35,9 @@
           "57"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.0-linux-x64-v8.tgz",
-      "checksum": "385cf9a657d7dbb487580b2f34fb10266db7332f6892b58a5f3eda3901cd061a",
+      "version": "0.1.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.1.3-linux-x64-v8.tgz",
+      "checksum": "939dc8304ea5c382d84dcaeb076eca997c3fcacd1197805ef33d7240015b4c79",
       "api": {
         "min": 2,
         "max": 2
@@ -55,9 +55,9 @@
           "57"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.0-openwrt-linux-arm_cortex-a7_neon-vfpv4-v8.tgz",
-      "checksum": "f63e1e3abc288226b32366a3641a8fcbe7e92bfa36db9c2eb94d9924e8962566",
+      "version": "0.1.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.1.3-openwrt-linux-arm_cortex-a7_neon-vfpv4-v8.tgz",
+      "checksum": "92de7fac397296e99de888e9d17f1a4b8a91a3f62a1187a25e797d0d08088a8a",
       "api": {
         "min": 2,
         "max": 2
@@ -75,9 +75,9 @@
           "57"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.0-openwrt-linux-arm_cortex-a9_vfpv3-v8.tgz",
-      "checksum": "0aeb75147646b95e82804ad9488317f71ac697c6de4e551046649a32ee67f541",
+      "version": "0.1.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.1.3-openwrt-linux-arm_cortex-a9_vfpv3-v8.tgz",
+      "checksum": "5d782bc97d85226e001bf4ef62ae03f90766a93f132103fee68303792fa5f2f1",
       "api": {
         "min": 2,
         "max": 2
@@ -95,9 +95,9 @@
           "57"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.0-darwin-x64-v8.tgz",
-      "checksum": "4a4df515264db19be96479070110b49ee80976dea1bec42c77aee47619f065a5",
+      "version": "0.1.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.1.3-darwin-x64-v8.tgz",
+      "checksum": "9886586715c54e00a78976b1dd0b81c217a0a3e507450e3553b9290dd3ef55a3",
       "api": {
         "min": 2,
         "max": 2
@@ -115,9 +115,9 @@
           "64"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.0-linux-arm-v10.tgz",
-      "checksum": "38229cd107ac7e4d3581f95ea03bca9b8b0aa2aacd6086119502b5a188d506ae",
+      "version": "0.1.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.1.3-linux-arm-v10.tgz",
+      "checksum": "9d629bc1d5351c299b0643d05e8afefdfebcac996355122a6a7f5a68ec68c308",
       "api": {
         "min": 2,
         "max": 2
@@ -135,9 +135,9 @@
           "64"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.0-linux-x64-v10.tgz",
-      "checksum": "f7eb97eb083ac3bd6ac59010a5fe0f3190140e3c58defec6764d74907987c7a2",
+      "version": "0.1.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.1.3-linux-x64-v10.tgz",
+      "checksum": "3d2754bc423407c6fd4cd04bc3f9ab2be4eeeb6ed06c43d71af03d68e5e0e788",
       "api": {
         "min": 2,
         "max": 2
@@ -155,9 +155,9 @@
           "64"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.0-darwin-x64-v10.tgz",
-      "checksum": "a9e8cd14ca14daff0d9f19b39314ee7ee6b3e4f55dba289e2d15005822984f22",
+      "version": "0.1.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.1.3-darwin-x64-v10.tgz",
+      "checksum": "bd55b6709304b2c8e8f597190e5e650cc69792640ed807bb0949207d6bde2901",
       "api": {
         "min": 2,
         "max": 2
@@ -175,9 +175,9 @@
           "72"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.0-linux-arm-v12.tgz",
-      "checksum": "d11d219b4f08092b1814d9a9a3bd5a03dbadc12ba11f413ff4f361be7efcd89d",
+      "version": "0.1.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.1.3-linux-arm-v12.tgz",
+      "checksum": "41cc885382b7e0a9b95f30592f9b4996f8b7f346c44767429634438a3475713f",
       "api": {
         "min": 2,
         "max": 2
@@ -195,9 +195,9 @@
           "72"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.0-linux-x64-v12.tgz",
-      "checksum": "a0330e7d7d7184cb73764bd35995cb71362086ff5ab1571b093a222e07029b9e",
+      "version": "0.1.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.1.3-linux-x64-v12.tgz",
+      "checksum": "8c7b5980207644d9e78fa7de9e8e8b0fa6e1947defdbc0399859e001ae972f1f",
       "api": {
         "min": 2,
         "max": 2
@@ -215,9 +215,9 @@
           "72"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.0-darwin-x64-v12.tgz",
-      "checksum": "3b329aacc51e0cb1556d24cdf7d293563562f173bfd88174aa7206d9adc96085",
+      "version": "0.1.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.1.3-darwin-x64-v12.tgz",
+      "checksum": "595db6280f69f4d03f2211b9206188048666ee50ddca9a664a89099f7bd36f79",
       "api": {
         "min": 2,
         "max": 2
