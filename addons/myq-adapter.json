@@ -17,7 +17,7 @@
       },
       "version": "0.1.0",
       "url": "https://github.com/kennethklee/webthings-myq-adapter/releases/download/v0.1.0/myq-adapter-0.1.0.tgz",
-      "checksum": "99d51f7baf80775bae3f09634d53ec07842b846e",
+      "checksum": "bda2fe9d1b453abb2a471b9f30e44472c78a7236690f6e7a75cc13611a79a50a",
       "api": {
         "min": 2,
         "max": 2
