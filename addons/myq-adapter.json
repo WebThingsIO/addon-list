@@ -1,6 +1,6 @@
 {
   "id": "myq-adapter",
-  "name": "MyQ Adapter",
+  "name": "MyQ",
   "description": "MyQ adapter add-on for Mozilla WebThings Gateway",
   "author": "Kenneth Lee",
   "homepage_url": "https://github.com/kennethklee/webthings-myq-adapter",
@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.1.1",
-      "url": "https://github.com/kennethklee/webthings-myq-adapter/releases/download/v0.1.1/myq-adapter-0.1.1.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/myq-adapter-0.1.1.tgz",
       "checksum": "c079f0ca5f4497ad167db63a4e64bc70ad65fdd2edc2bfad253ab675112d53d8",
       "api": {
         "min": 2,
