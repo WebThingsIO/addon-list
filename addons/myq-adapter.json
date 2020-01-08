@@ -3,7 +3,7 @@
   "name": "MyQ",
   "description": "MyQ adapter add-on for Mozilla WebThings Gateway",
   "author": "Kenneth Lee",
-  "homepage_url": "https://github.com/kennethklee/webthings-myq-adapter",
+  "homepage_url": "https://github.com/kennethklee/webthings-myq-adapter#readme",
   "license_url": "https://github.com/kennethklee/webthings-myq-adapter/blob/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
