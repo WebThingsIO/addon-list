@@ -17,7 +17,7 @@
       },
       "version": "0.1.1",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/myq-adapter-0.1.1.tgz",
-      "checksum": "c079f0ca5f4497ad167db63a4e64bc70ad65fdd2edc2bfad253ab675112d53d8",
+      "checksum": "ffbaa797422997b596dd6a87d4650fc2baefa2b95f8439fc1cfcd555363eb45e",
       "api": {
         "min": 2,
         "max": 2
