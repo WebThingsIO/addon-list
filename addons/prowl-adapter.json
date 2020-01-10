@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.2.2",
-      "url": "https://github.com/tim-hellhake/prowl-adapter/releases/download/0.2.2/prowl-adapter-0.2.2.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/prowl-adapter-0.2.2.tgz",
       "checksum": "466f5ee5116a47ed86d764fb9bdc42349dcec672b0bccdbfef5406c352a1e4e7",
       "api": {
         "min": 2,
