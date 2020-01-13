@@ -19,7 +19,7 @@
         ]
       },
       "version": "0.0.2",
-      "url": "https://github.com/flatsiedatsie/power-settings/releases/download/0.0.2/power-settings-0.0.2.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/power-settings-0.0.2.tgz",
       "checksum": "b57c4a138d1aca2ee02c9f14b70077798cbe9b3abf84f49a9ceb8c1e6abb8b60",
       "api": {
         "min": 2,
