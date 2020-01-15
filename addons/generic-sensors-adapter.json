@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.0.10",
-      "url": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter/releases/download/v0.0.10/generic-sensors-adapter-0.0.10-linux-arm-v8.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.10-linux-arm-v8.tgz",
       "checksum": "646cfb81633453903b0a37a1f8c3f166d3a124b9bc42e734ef8d06da12f88939",
       "api": {
         "min": 2,
@@ -35,8 +35,8 @@
           "57"
         ]
       },
-        "version": "0.0.10",
-        "url": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter/releases/download/v0.0.10/generic-sensors-adapter-0.0.10-linux-arm64-v8.tgz",
+      "version": "0.0.10",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.10-linux-arm64-v8.tgz",
       "checksum": "c93b0a172008b6bbe6eae510feec8a40f1c5f5a50dd23ad4e6b229be198537f1",
       "api": {
         "min": 2,
@@ -56,7 +56,7 @@
         ]
       },
       "version": "0.0.10",
-      "url": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter/releases/download/v0.0.10/generic-sensors-adapter-0.0.10-linux-ia32-v8.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.10-linux-ia32-v8.tgz",
       "checksum": "0a795e2c307ab3dc84ce002f56a2db68e08c823cae42aea13bc78ed0067b7655",
       "api": {
         "min": 2,
@@ -76,7 +76,7 @@
         ]
       },
       "version": "0.0.10",
-      "url": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter/releases/download/v0.0.10/generic-sensors-adapter-0.0.10-linux-x64-v8.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.10-linux-x64-v8.tgz",
       "checksum": "136256391661e0c6a4f6a4ec8f5c6194315941084e05ea5c53ba23dda17bccfa",
       "api": {
         "min": 2,
