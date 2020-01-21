@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/flic-button-adapter-0.2.0.tgz",
-      "checksum": "08ca520041196263cb6db457048c61ca390fea169e8b0683df257fa83ebea23e",
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/flic-button-adapter-0.3.0.tgz",
+      "checksum": "7c0adef79a849bf3ca6271353513b66ffe4be3724d8646cfbdc9f1a312a80a6c",
       "api": {
         "min": 2,
         "max": 2
