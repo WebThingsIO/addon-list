@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.7.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sonos-adapter-0.7.6.tgz",
-      "checksum": "f1af47a0b48a8a1164c3009c12c5fe35eaf495521959f216bc0e6cc404edeeee",
+      "version": "0.7.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sonos-adapter-0.7.7.tgz",
+      "checksum": "b821054ac8b9f88ad21b77a89a74764d1cd1831c8aad7ac08ceb7bb851947622",
       "api": {
         "min": 2,
         "max": 2
