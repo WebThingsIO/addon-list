@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.7.7",
-      "url": "https://github.com/tim-hellhake/sonos-adapter/releases/download/0.7.7/sonos-adapter-0.7.7.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sonos-adapter-0.7.7.tgz",
       "checksum": "b821054ac8b9f88ad21b77a89a74764d1cd1831c8aad7ac08ceb7bb851947622",
       "api": {
         "min": 2,
