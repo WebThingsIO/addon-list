@@ -28,26 +28,6 @@
       }
     },
     {
-      "architecture": "linux-x64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/blinkt-adapter-0.1.0-linux-x64-v8.tgz",
-      "checksum": "c2218504659be10142f9c041a8f997618e63bd5b89c7d5913962e15e81568f7f",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
       "architecture": "linux-arm",
       "language": {
         "name": "nodejs",
@@ -68,26 +48,6 @@
       }
     },
     {
-      "architecture": "linux-x64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "64"
-        ]
-      },
-      "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/blinkt-adapter-0.1.0-linux-x64-v10.tgz",
-      "checksum": "c07cd419269c171055f471e759b0956be121aad40d9be4180602b2f022f05a67",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
       "architecture": "linux-arm",
       "language": {
         "name": "nodejs",
@@ -98,26 +58,6 @@
       "version": "0.1.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/blinkt-adapter-0.1.0-linux-arm-v12.tgz",
       "checksum": "ff49346804bb99829c4d5c69997894f907d500d78276ffad0a8c5966468be37e",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-x64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "72"
-        ]
-      },
-      "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/blinkt-adapter-0.1.0-linux-x64-v12.tgz",
-      "checksum": "a7dd4ab0b68a7ef61e414794e5163d4de8d7e75b26d0281ab70416265bb7b96e",
       "api": {
         "min": 2,
         "max": 2
