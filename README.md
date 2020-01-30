@@ -94,7 +94,8 @@ must include the following information:
   * `version`: The package version. This should be the same as in your
     `manifest.json`.
   * `checksum`: Checksum of the tarball
-  * `api`: The API levels supported by this package. This should be the same as
+  * `api`: The API levels supported by this package. This is only necessary if
+    your add-on supports gateway versions <= 0.9.X. This should be the same as
     in your `package.json`, so an object with the following 2 properties:
     * `min`: The minimum supported API level
     * `max`: The maximum supported API level

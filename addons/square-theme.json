@@ -15,10 +15,6 @@
       "version": "0.0.1",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/square-theme-0.0.1.tgz",
       "checksum": "35faaeb70b3831b9a460941f77572877c147547d282031258b2ed822e1faa6b8",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
       "gateway": {
         "min": "0.10.0",
         "max": "*"
