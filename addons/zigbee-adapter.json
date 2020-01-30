@@ -48,46 +48,6 @@
       }
     },
     {
-      "architecture": "openwrt-linux-arm_cortex-a7_neon-vfpv4",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.10.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.10.7-openwrt-linux-arm_cortex-a7_neon-vfpv4-v8.tgz",
-      "checksum": "17f869c2c350a9a51b00f62fd2804fd73dc257cbe5e7089ca8d6a8947218b9a3",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "openwrt-linux-arm_cortex-a9_vfpv3",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.10.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.10.7-openwrt-linux-arm_cortex-a9_vfpv3-v8.tgz",
-      "checksum": "2ace14d0ec8310c27a8dd6bb8c37a174d88a5a8456e1395960ca0577ee41ac0b",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
       "architecture": "darwin-x64",
       "language": {
         "name": "nodejs",

@@ -48,46 +48,6 @@
       }
     },
     {
-      "architecture": "openwrt-linux-arm_cortex-a7_neon-vfpv4",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.5.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.0-openwrt-linux-arm_cortex-a7_neon-vfpv4-v8.tgz",
-      "checksum": "f63e1e3abc288226b32366a3641a8fcbe7e92bfa36db9c2eb94d9924e8962566",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "openwrt-linux-arm_cortex-a9_vfpv3",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.5.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.0-openwrt-linux-arm_cortex-a9_vfpv3-v8.tgz",
-      "checksum": "0aeb75147646b95e82804ad9488317f71ac697c6de4e551046649a32ee67f541",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
       "architecture": "darwin-x64",
       "language": {
         "name": "nodejs",

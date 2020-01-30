@@ -48,46 +48,6 @@
       }
     },
     {
-      "architecture": "openwrt-linux-arm_cortex-a7_neon-vfpv4",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/bmp280-adapter-0.1.0-openwrt-linux-arm_cortex-a7_neon-vfpv4-v8.tgz",
-      "checksum": "e21f22f628a819a6f32a81149439baf9ab95c5b5ad4bc7a53e12477a21112319",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "openwrt-linux-arm_cortex-a9_vfpv3",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/bmp280-adapter-0.1.0-openwrt-linux-arm_cortex-a9_vfpv3-v8.tgz",
-      "checksum": "590dc70edc5c4bc27c2a333afbf9e68f8cfbfed2aa8f84e4b1812ac9266e9d0a",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
       "architecture": "linux-arm",
       "language": {
         "name": "nodejs",
