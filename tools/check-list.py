@@ -447,10 +447,10 @@ def main():
                 with open('./package/package.json', 'rt') as f:
                     package_json = json.load(f)
             except (IOError, OSError, ValueError):
-                # Only allow package.json to be missing if this is an extension
-                # add-on, which is inherently only supported by Gateway 0.10+
-                if manifest_json is None or \
-                        manifest_json['gateway_specific_settings']['webthings']['primary_type'] != 'extension':  # noqa
+                # Only allow package.json to be missing if the api version is
+                # not specified in the entry, indicating that this package
+                # only supports newer gateway versions.
+                if 'api' in package:
                     print('Failed to read package.json for "{}"'.format(_id))
                     cleanup()
 
@@ -460,7 +460,7 @@ def main():
                 cleanup()
 
             # Verify required fields in package.json.
-            if package_json is not None:
+            if package_json is not None and 'api' in package:
                 jsonschema.validate(package_json, package_schema)
                 verify_package_json(package_json, entry, package)
 
