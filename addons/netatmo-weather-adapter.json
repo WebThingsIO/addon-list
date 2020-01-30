@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.3.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/netatmo-weather-adapter-0.3.6.tgz",
-      "checksum": "31e51448cd72550455e41129db52229826377eacca40bf220bac3d53782b81c3",
+      "version": "0.3.8",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/netatmo-weather-adapter-0.3.8.tgz",
+      "checksum": "590ef083ecffb12e3de9fffb6f7092f9082605fa6234bdbcbcb3efe028749830",
       "api": {
         "min": 2,
         "max": 2
