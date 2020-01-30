@@ -48,46 +48,6 @@
       }
     },
     {
-      "architecture": "openwrt-linux-arm_cortex-a7_neon-vfpv4",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "1.0.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/insteon-adapter-1.0.1-openwrt-linux-arm_cortex-a7_neon-vfpv4-v8.tgz",
-      "checksum": "75d189d1fa6f743d4333ffa6ecea9948837032db3059bf95eaad7ef233a82017",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "openwrt-linux-arm_cortex-a9_vfpv3",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "1.0.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/insteon-adapter-1.0.1-openwrt-linux-arm_cortex-a9_vfpv3-v8.tgz",
-      "checksum": "622d4387e052a83eeb5e5a8c28d7627ce128e42a3fbcd3e32a537266f7d494e6",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
       "architecture": "darwin-x64",
       "language": {
         "name": "nodejs",

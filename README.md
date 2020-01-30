@@ -26,10 +26,6 @@ distribute a package for each. The currently supported architectures are:
 * `linux-arm64`: Linux on 64-bit ARM
 * `linux-ia32`: Linux on 32-bit x86
 * `linux-x64`: Linux on 64-bit x86
-* `openwrt-linux-arm_cortex-a7_neon-vfpv4`: OpenWrt on Raspberry Pi (and
-  similar hardware)
-* `openwrt-linux-arm_cortex-a9_vfpv3`: OpenWrt on Turris Omnia (and
-  similar hardware)
 * `win32-ia32`: Windows on 32-bit x86
 * `win32-x64`: Windows on 64-bit x86
 

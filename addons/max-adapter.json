@@ -48,46 +48,6 @@
       }
     },
     {
-      "architecture": "openwrt-linux-arm_cortex-a7_neon-vfpv4",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.1.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.7-openwrt-linux-arm_cortex-a7_neon-vfpv4-v8.tgz",
-      "checksum": "ac7e9c04e8eae6249653359ca0365ae45e672d1350f9ca1095edf574a5b63e99",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "openwrt-linux-arm_cortex-a9_vfpv3",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.1.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.7-openwrt-linux-arm_cortex-a9_vfpv3-v8.tgz",
-      "checksum": "a442edc1460aaeb31acec522d4000a5d00fdc35f94e1aadf5b04ed175354b936",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
       "architecture": "darwin-x64",
       "language": {
         "name": "nodejs",
