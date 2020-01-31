@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.0.1",
-      "url": "https://github.com/mozilla-iot/example-notifier/releases/download/v0.0.1/example-notifier-0.0.1.tgz",
-      "checksum": "41e1930cab2d8311a7300d5a22b476c93c02b5a8fa223275ed83583de34cd5a0",
+      "version": "0.1.0",
+      "url": "https://github.com/mozilla-iot/example-notifier/releases/download/v0.1.0/example-notifier-0.1.0.tgz",
+      "checksum": "81cc1138669b7c99c07f511b06d279cf28e8d59323d430abe928954847f99a21",
       "api": {
         "min": 2,
         "max": 2
