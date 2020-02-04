@@ -15,9 +15,9 @@
           "57"
         ]
       },
-      "version": "0.1.4",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/enocean-adapter-0.1.4-linux-arm-v8.tgz",
-      "checksum": "0ac049fd8b9ec3df436076627871868db52b33a65a24130979a7b176644f06fd",
+      "version": "0.1.6",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/enocean-adapter-0.1.6-linux-arm-v8.tgz",
+      "checksum": "",
       "api": {
         "min": 2,
         "max": 2
@@ -35,9 +35,9 @@
           "57"
         ]
       },
-      "version": "0.1.4",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/enocean-adapter-0.1.4-linux-x64-v8.tgz",
-      "checksum": "0be515977cb87c72dd1e34c11432ea6d9a0665d76e7315f2ea08983ec039e7b8",
+      "version": "0.1.6",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/enocean-adapter-0.1.6-linux-x64-v8.tgz",
+      "checksum": "",
       "api": {
         "min": 2,
         "max": 2
@@ -55,9 +55,9 @@
           "57"
         ]
       },
-      "version": "0.1.4",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/enocean-adapter-0.1.4-darwin-x64-v8.tgz",
-      "checksum": "3cdced5be56a33009ad8fdd406f836f91df3fbdd03ad799255a94fe5a369cf7c",
+      "version": "0.1.6",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/enocean-adapter-0.1.6-darwin-x64-v8.tgz",
+      "checksum": "",
       "api": {
         "min": 2,
         "max": 2
@@ -75,9 +75,9 @@
           "64"
         ]
       },
-      "version": "0.1.4",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/enocean-adapter-0.1.4-linux-arm-v10.tgz",
-      "checksum": "a7650483202fed11d9d8a45df6e0c5b64c43d47aea3b65b9f7ee4c771e55fee8",
+      "version": "0.1.6",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/enocean-adapter-0.1.6-linux-arm-v10.tgz",
+      "checksum": "",
       "api": {
         "min": 2,
         "max": 2
@@ -95,9 +95,9 @@
           "64"
         ]
       },
-      "version": "0.1.4",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/enocean-adapter-0.1.4-linux-x64-v10.tgz",
-      "checksum": "6424171633c8e4be208429bafbccf994dfad26af640c30b8dfdff4cdbe0df728",
+      "version": "0.1.6",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/enocean-adapter-0.1.6-linux-x64-v10.tgz",
+      "checksum": "",
       "api": {
         "min": 2,
         "max": 2
@@ -115,9 +115,9 @@
           "64"
         ]
       },
-      "version": "0.1.4",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/enocean-adapter-0.1.4-darwin-x64-v10.tgz",
-      "checksum": "8ad25647d0dd31d59eeed3c4b3681c2fbc4bf1cf9a6c42366a3f7c44697104dc",
+      "version": "0.1.6",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/enocean-adapter-0.1.6-darwin-x64-v10.tgz",
+      "checksum": "",
       "api": {
         "min": 2,
         "max": 2
