@@ -18,9 +18,9 @@
           "3.8"
         ]
       },
-      "version": "0.2.1",
-      "url": "https://github.com/mozilla-iot/tide-calendar-adapter/releases/download/v0.2.1/tide-calendar-adapter-0.2.1.tgz",
-      "checksum": "2a513e8254cdbd6bc5021f6cdb3e3391c6211ecf4ba597b1894c4fade0f020a3",
+      "version": "0.3.0",
+      "url": "https://github.com/mozilla-iot/tide-calendar-adapter/releases/download/v0.3.0/tide-calendar-adapter-0.3.0.tgz",
+      "checksum": "9eca154671e9805c184fa46cf67b35ea2d0c62b21b77b2c6c517c88214ee75e7",
       "api": {
         "min": 2,
         "max": 2
