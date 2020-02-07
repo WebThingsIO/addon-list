@@ -18,9 +18,9 @@
           "3.8"
         ]
       },
-      "version": "0.3.0",
-      "url": "https://github.com/mozilla-iot/etekcity-adapter/releases/download/v0.3.0/etekcity-adapter-0.3.0.tgz",
-      "checksum": "96f4986779770d49db0b8e5c90802ad221f0a4d9191a97f05fe3bf6d289cc2bb",
+      "version": "0.4.0",
+      "url": "https://github.com/mozilla-iot/etekcity-adapter/releases/download/v0.4.0/etekcity-adapter-0.4.0.tgz",
+      "checksum": "fe1fd5995c8a51acef0654b311eb468446b5b21dd45b3fe0d09336466ddc0b56",
       "api": {
         "min": 2,
         "max": 2
