@@ -18,9 +18,9 @@
           "3.8"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/mozilla-iot/wemo-adapter/releases/download/v0.2.0/wemo-adapter-0.2.0.tgz",
-      "checksum": "4682901e70c3f216bb1ab38ce9d8e39ebc6be11307e32ca2b189fc51ea5f509c",
+      "version": "0.3.0",
+      "url": "https://github.com/mozilla-iot/wemo-adapter/releases/download/v0.3.0/wemo-adapter-0.3.0.tgz",
+      "checksum": "56ab8179433096ac01e8f7c00d725047aed9e7a04550c502c2a9b81b2701b1ec",
       "api": {
         "min": 2,
         "max": 2
