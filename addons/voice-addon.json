@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "1.0.1",
-      "url": "https://github.com/andrenatal/voice-addon/releases/download/1.0.1/voice-addon-1.0.1.tgz",
-      "checksum": "916a55351f035308b775a8f44c3d8a0e41696180c923c0329b538ec36078759d",
+      "version": "1.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-1.0.2.tgz",
+      "checksum": "b42f785284f804edd50395fb4b11938cbb5b374f672b135dbe541cda6112f752",
       "api": {
         "min": 2,
         "max": 2
@@ -35,9 +35,9 @@
           "any"
         ]
       },
-      "version": "1.0.1",
-      "url": "https://github.com/andrenatal/voice-addon/releases/download/1.0.1/voice-addon-1.0.1.tgz",
-      "checksum": "916a55351f035308b775a8f44c3d8a0e41696180c923c0329b538ec36078759d",
+      "version": "1.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-1.0.2.tgz",
+      "checksum": "b42f785284f804edd50395fb4b11938cbb5b374f672b135dbe541cda6112f752",
       "api": {
         "min": 2,
         "max": 2
