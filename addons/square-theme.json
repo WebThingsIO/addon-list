@@ -12,9 +12,9 @@
       "language": {
         "name": "none"
       },
-      "version": "0.0.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/square-theme-0.0.1.tgz",
-      "checksum": "35faaeb70b3831b9a460941f77572877c147547d282031258b2ed822e1faa6b8",
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/square-theme-0.0.2.tgz",
+      "checksum": "8912d1336bc29827dd266decca6e42698e5f1529b3b92270f7d816f60a9f78f0",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
