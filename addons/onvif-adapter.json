@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.1",
-      "url": "https://github.com/mozilla-iot/onvif-adapter/releases/download/v0.2.1/onvif-adapter-0.2.1.tgz",
-      "checksum": "a7c5824d634bd8e97bdc8abfc2cea8f3e31f9f3a378339b9fef28d0d308c9382",
+      "version": "0.3.0",
+      "url": "https://github.com/mozilla-iot/onvif-adapter/releases/download/v0.3.0/onvif-adapter-0.3.0.tgz",
+      "checksum": "6dc3df53376b7aa9c6519929ec76e222403d22d21f36af56e60b130dad20da0d",
       "api": {
         "min": 2,
         "max": 2
