@@ -18,9 +18,9 @@
           "3.8"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/power-settings-0.0.2.tgz",
-      "checksum": "b57c4a138d1aca2ee02c9f14b70077798cbe9b3abf84f49a9ceb8c1e6abb8b60",
+      "version": "0.0.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/power-settings-0.0.3.tgz",
+      "checksum": "d554ef58689784b06d56a91875e41a6611a353fb02b194144997708dd1aaf234",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
