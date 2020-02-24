@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sipgate-adapter-0.2.1.tgz",
-      "checksum": "aaa9d113d81487e2229de906b2c76a452a1ce74049c6afa20961c0122ae60cb3",
+      "version": "0.2.2",
+      "url": "https://github.com/tim-hellhake/sipgate-adapter/releases/download/0.2.2/sipgate-adapter-0.2.2.tgz",
+      "checksum": "tbd",
       "api": {
         "min": 2,
         "max": 2
