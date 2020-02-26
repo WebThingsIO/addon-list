@@ -28,6 +28,26 @@
       }
     },
     {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.1.6",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.6-linux-arm64-v8.tgz",
+      "checksum": "5757662f0991065d1b3051913209519e131c3f6a185e7cad383247817330f8ef",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
       "architecture": "linux-x64",
       "language": {
         "name": "nodejs",
@@ -88,6 +108,26 @@
       }
     },
     {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.6",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.6-linux-arm64-v10.tgz",
+      "checksum": "26aa1699637b96aa1d5248e2034768a4825657f3bc61f8365285e5f009f4b68f",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
       "architecture": "linux-x64",
       "language": {
         "name": "nodejs",
@@ -138,6 +178,26 @@
       "version": "0.1.6",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.6-linux-arm-v12.tgz",
       "checksum": "524db37c2183c38baed2db80214dc1f48639195487f196bb77b9caa0be8c3e63",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.6",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.6-linux-arm64-v12.tgz",
+      "checksum": "358c5e39047a6da9b2a7075cd56b80d2b402937fe3f9bb441d24bd0fc7fe5299",
       "api": {
         "min": 2,
         "max": 2

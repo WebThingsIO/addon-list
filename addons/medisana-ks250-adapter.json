@@ -28,6 +28,26 @@
       }
     },
     {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.4-linux-arm64-v8.tgz",
+      "checksum": "c8ebfee61392d5e889c713ebcf046e2f07fb7f6bd8a2be6f7ab43ac6f825a8e9",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
       "architecture": "linux-x64",
       "language": {
         "name": "nodejs",
@@ -88,6 +108,26 @@
       }
     },
     {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.4-linux-arm64-v10.tgz",
+      "checksum": "03242bf8743af25c1da7c1d8f8a0e0b66fcf3044692c8dd23e1c8724f7d03f01",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
       "architecture": "linux-x64",
       "language": {
         "name": "nodejs",
@@ -138,6 +178,26 @@
       "version": "0.1.4",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.4-linux-arm-v12.tgz",
       "checksum": "2d88a75a531e0ca0568f8f60eca27b3245bf5ab5421475babe4c7afcff41266b",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.4-linux-arm64-v12.tgz",
+      "checksum": "3a2b907dc4f03631bbe954fe2a3f49f967457a2efdfe52ba518a8a67a8dcea3d",
       "api": {
         "min": 2,
         "max": 2
