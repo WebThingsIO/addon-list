@@ -28,6 +28,26 @@
       }
     },
     {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.8.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.8.2-linux-arm64-v8.tgz",
+      "checksum": "0af3a8fcfcf8ebf00fe2ad3f26839569bc408e906860b22ec82cb9eec4e90260",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
       "architecture": "linux-x64",
       "language": {
         "name": "nodejs",
@@ -88,6 +108,26 @@
       }
     },
     {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.8.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.8.2-linux-arm64-v10.tgz",
+      "checksum": "23debea43d938bffbe5153c748be63b676cea7fa2a882dbbfaac4eb3c9216638",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
       "architecture": "linux-x64",
       "language": {
         "name": "nodejs",
@@ -138,6 +178,26 @@
       "version": "0.8.2",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.8.2-linux-arm-v12.tgz",
       "checksum": "aa09af4f8df2b1fc219febc3841796719213f6a2aa28be957fe1652f33b139b6",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.8.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.8.2-linux-arm64-v12.tgz",
+      "checksum": "714a7e7cfd18af13d2c0a4f130ff7099b0196f1298209546178202af47271bce",
       "api": {
         "min": 2,
         "max": 2

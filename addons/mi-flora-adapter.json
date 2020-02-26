@@ -28,6 +28,26 @@
       }
     },
     {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "1.0.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-1.0.0-linux-arm64-v8.tgz",
+      "checksum": "9415e72b150180d5e16ee130c7af976fd6cb217f794a9403c825b6a7ff7b7700",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
       "architecture": "linux-x64",
       "language": {
         "name": "nodejs",
@@ -88,6 +108,26 @@
       }
     },
     {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "1.0.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-1.0.0-linux-arm64-v10.tgz",
+      "checksum": "94292bf01c99789d1826e2689bcda1087ebfaf0304020a19f0878d43a05438a7",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
       "architecture": "linux-x64",
       "language": {
         "name": "nodejs",
@@ -138,6 +178,26 @@
       "version": "1.0.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-1.0.0-linux-arm-v12.tgz",
       "checksum": "94a9fe7c7df63f97e6365b966c00145aed5b9f1c43afe3e209ec6bbb98fbef9a",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "1.0.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-1.0.0-linux-arm64-v12.tgz",
+      "checksum": "d715caead35af0415f27ea46119cbeb3fdad9d3e322fab27492f21006a64e27f",
       "api": {
         "min": 2,
         "max": 2

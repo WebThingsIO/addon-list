@@ -28,6 +28,26 @@
       }
     },
     {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "1.0.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/insteon-adapter-1.0.1-linux-arm64-v8.tgz",
+      "checksum": "e264ee02f4c2f5d924baeb8d6a1e1bda813a8dc57a39361ad1103c80e1074608",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
       "architecture": "linux-x64",
       "language": {
         "name": "nodejs",
@@ -88,6 +108,26 @@
       }
     },
     {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "1.0.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/insteon-adapter-1.0.1-linux-arm64-v10.tgz",
+      "checksum": "c24acd105261cdc463275e8ea93dc2b0a8ba9314fae64094a6486ea2e7cc0db2",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
       "architecture": "linux-x64",
       "language": {
         "name": "nodejs",
@@ -138,6 +178,26 @@
       "version": "1.0.1",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/insteon-adapter-1.0.1-linux-arm-v12.tgz",
       "checksum": "e7b31a3359ba2992283b0d4fd06c8950e6c32d0e102a195c6b40eb441a8daec9",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "1.0.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/insteon-adapter-1.0.1-linux-arm64-v12.tgz",
+      "checksum": "69b061799017007cf3588c36d27b7b7932862a17ccc84b063ded3b2fc7b735eb",
       "api": {
         "min": 2,
         "max": 2

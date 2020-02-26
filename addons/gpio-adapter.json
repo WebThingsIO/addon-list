@@ -28,6 +28,26 @@
       }
     },
     {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.7.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.1-linux-arm64-v8.tgz",
+      "checksum": "f0fc08dc4e2806cd41907bac010df134ddec96c27d7dc45090794a4acd9d27f8",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
       "architecture": "linux-x64",
       "language": {
         "name": "nodejs",
@@ -68,6 +88,26 @@
       }
     },
     {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.7.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.1-linux-arm64-v10.tgz",
+      "checksum": "a3fd9996a80572a97298f38409b0e899cde664b0bdef5c01f19e56cb5055d88a",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
       "architecture": "linux-x64",
       "language": {
         "name": "nodejs",
@@ -98,6 +138,26 @@
       "version": "0.7.1",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.1-linux-arm-v12.tgz",
       "checksum": "f0ad6d0c1d97e1a873fdcf2bacd2268eed5564e805a7b3a354709d36ed07936e",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.7.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.1-linux-arm64-v12.tgz",
+      "checksum": "84ec6ffcbd7980f59c9122472163c5d746ed6c53ed745a602fd95f798879afde",
       "api": {
         "min": 2,
         "max": 2
