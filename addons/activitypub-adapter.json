@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.0.18",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/activitypub-adapter-0.0.18.tgz",
-      "checksum": "f945315c602094b676b59fc24c2c93ebdd443a39767b9aec93e865cd404e3930",
+      "version": "0.0.20",
+      "url": "https://github.com/rzr/mastodon-lite/releases/download/v0.0.20/activitypub-adapter-0.0.20.tgz",
+      "checksum": "d1c8130bbd582dd79c8938b87308444a4bd0222dce376387351265b9fc4ae4cf",
       "api": {
         "min": 2,
         "max": 2
