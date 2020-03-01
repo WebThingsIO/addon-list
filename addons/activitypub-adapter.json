@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.0.20",
-      "url": "https://github.com/rzr/mastodon-lite/releases/download/v0.0.20/activitypub-adapter-0.0.20.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/activitypub-adapter-0.0.20.tgz",
       "checksum": "d1c8130bbd582dd79c8938b87308444a4bd0222dce376387351265b9fc4ae4cf",
       "api": {
         "min": 2,
