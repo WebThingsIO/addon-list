@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.6.1",
-      "url": "https://github.com/mozilla-iot/example-adapter/releases/download/v0.6.1/example-adapter-0.6.1.tgz",
-      "checksum": "136d3b8c9811e517ca85cd5e2289256c3634610d0f23587f7e0079247d956233",
+      "version": "0.6.2",
+      "url": "https://github.com/mozilla-iot/example-adapter/releases/download/v0.6.2/example-adapter-0.6.2.tgz",
+      "checksum": "70b6bbdbdbd8e32c81af72162d2298c33a0f6028c7b95df63440fc6f8f5883a1",
       "api": {
         "min": 2,
         "max": 2
