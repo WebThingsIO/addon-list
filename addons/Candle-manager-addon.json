@@ -29,6 +29,29 @@
         "min": "0.10.0",
         "max": "*"
       }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5",
+          "3.6",
+          "3.7",
+          "3.8"
+        ]
+      },
+      "version": "1.0.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/Candle-manager-addon-1.0.7.tgz",
+      "checksum": "fd27313e55b5aae04c42584ceb40cd8372eb01c1b1e87f42e73c52282c697569",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
     }
   ]
 }
