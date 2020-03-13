@@ -15,8 +15,8 @@
           "57"
         ]
       },
-      "version": "0.1.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.6-linux-arm-v8.tgz",
+      "version": "0.1.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.7-linux-arm-v8.tgz",
       "checksum": "c42ef675a394b3896fae885a0b13a50c77617fcbf3a7da0510df67946e46fa26",
       "api": {
         "min": 2,
@@ -35,8 +35,8 @@
           "57"
         ]
       },
-      "version": "0.1.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.6-linux-arm64-v8.tgz",
+      "version": "0.1.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.7-linux-arm64-v8.tgz",
       "checksum": "5757662f0991065d1b3051913209519e131c3f6a185e7cad383247817330f8ef",
       "api": {
         "min": 2,
@@ -55,8 +55,8 @@
           "57"
         ]
       },
-      "version": "0.1.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.6-linux-x64-v8.tgz",
+      "version": "0.1.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.7-linux-x64-v8.tgz",
       "checksum": "66cdd2769ecf4ff4c35d5026dd7e814d923ea658d37a6bdea2977db0305df8ca",
       "api": {
         "min": 2,
@@ -75,8 +75,8 @@
           "57"
         ]
       },
-      "version": "0.1.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.6-darwin-x64-v8.tgz",
+      "version": "0.1.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.7-darwin-x64-v8.tgz",
       "checksum": "bf45a3f1b5bcc3727844a55301e35ed5ee628e9c060c809292b4b35630d4ea1c",
       "api": {
         "min": 2,
@@ -95,8 +95,8 @@
           "64"
         ]
       },
-      "version": "0.1.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.6-linux-arm-v10.tgz",
+      "version": "0.1.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.7-linux-arm-v10.tgz",
       "checksum": "e37c2c7a40bc69e8322c92aa1a9691106b292c6895c3a5d39b74d08fe4c12e3d",
       "api": {
         "min": 2,
@@ -115,8 +115,8 @@
           "64"
         ]
       },
-      "version": "0.1.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.6-linux-arm64-v10.tgz",
+      "version": "0.1.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.7-linux-arm64-v10.tgz",
       "checksum": "26aa1699637b96aa1d5248e2034768a4825657f3bc61f8365285e5f009f4b68f",
       "api": {
         "min": 2,
@@ -135,8 +135,8 @@
           "64"
         ]
       },
-      "version": "0.1.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.6-linux-x64-v10.tgz",
+      "version": "0.1.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.7-linux-x64-v10.tgz",
       "checksum": "938145a53a4a587f7ada0c0052fc561ff54491d7258b327c0e2446e22f870fa5",
       "api": {
         "min": 2,
@@ -155,8 +155,8 @@
           "64"
         ]
       },
-      "version": "0.1.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.6-darwin-x64-v10.tgz",
+      "version": "0.1.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.7-darwin-x64-v10.tgz",
       "checksum": "26f50bc4ac99acff2e2a6275596941ffa009a1b281607c5117bbd11c20255994",
       "api": {
         "min": 2,
@@ -175,8 +175,8 @@
           "72"
         ]
       },
-      "version": "0.1.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.6-linux-arm-v12.tgz",
+      "version": "0.1.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.7-linux-arm-v12.tgz",
       "checksum": "524db37c2183c38baed2db80214dc1f48639195487f196bb77b9caa0be8c3e63",
       "api": {
         "min": 2,
@@ -195,8 +195,8 @@
           "72"
         ]
       },
-      "version": "0.1.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.6-linux-arm64-v12.tgz",
+      "version": "0.1.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.7-linux-arm64-v12.tgz",
       "checksum": "358c5e39047a6da9b2a7075cd56b80d2b402937fe3f9bb441d24bd0fc7fe5299",
       "api": {
         "min": 2,
@@ -215,8 +215,8 @@
           "72"
         ]
       },
-      "version": "0.1.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.6-linux-x64-v12.tgz",
+      "version": "0.1.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.7-linux-x64-v12.tgz",
       "checksum": "50b98acfce47d5aa0bcf2ae3dda32489dad138dde0fada7ea4faa12b48d0032a",
       "api": {
         "min": 2,
@@ -235,8 +235,8 @@
           "72"
         ]
       },
-      "version": "0.1.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.6-darwin-x64-v12.tgz",
+      "version": "0.1.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/xiaomi-temperature-humidity-sensor-adapter-0.1.7-darwin-x64-v12.tgz",
       "checksum": "720d7b1236cc822c84052094b65baaca9fe3130c6e03c274dea13776c377c819",
       "api": {
         "min": 2,
