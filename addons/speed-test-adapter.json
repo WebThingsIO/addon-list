@@ -18,9 +18,9 @@
           "3.8"
         ]
       },
-      "version": "0.3.0",
-      "url": "https://github.com/mozilla-iot/speed-test-adapter/releases/download/v0.3.0/speed-test-adapter-0.3.0.tgz",
-      "checksum": "9248d861bdff3e52350808125c286317bbd262e29a5ce8e4f2aea5e4c9e6ec4a",
+      "version": "0.3.1",
+      "url": "https://github.com/mozilla-iot/speed-test-adapter/releases/download/v0.3.1/speed-test-adapter-0.3.1.tgz",
+      "checksum": "bfe855bbe07b532d89e232a9b881432c7ee2206d6680dea34305965f24130016",
       "api": {
         "min": 2,
         "max": 2
