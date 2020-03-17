@@ -15,9 +15,9 @@
           "57"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.0-linux-arm-v8.tgz",
-      "checksum": "52d5f59cf9e73adee37a1af06420408448fa15696acb8e13f5a312c422d6d358",
+      "version": "0.2.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.1-linux-arm-v8.tgz",
+      "checksum": "",
       "api": {
         "min": 2,
         "max": 2
@@ -35,9 +35,9 @@
           "57"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.0-linux-arm64-v8.tgz",
-      "checksum": "63302e5ae7420d52195b04944a65a7040b933dfa40d55c849e0b6babc1ddd6c1",
+      "version": "0.2.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.1-linux-arm64-v8.tgz",
+      "checksum": "",
       "api": {
         "min": 2,
         "max": 2
@@ -55,9 +55,9 @@
           "57"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.0-linux-x64-v8.tgz",
-      "checksum": "f44d79455604838f269430bc5c3891f8215fca0969fb0905bb441ffa36b144d6",
+      "version": "0.2.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.1-linux-x64-v8.tgz",
+      "checksum": "",
       "api": {
         "min": 2,
         "max": 2
@@ -75,9 +75,9 @@
           "57"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.0-darwin-x64-v8.tgz",
-      "checksum": "bf3fe1ab77280d9306caf82a45c2e4027d8ac1bfc2ab6bb78b57cf57c910899b",
+      "version": "0.2.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.1-darwin-x64-v8.tgz",
+      "checksum": "",
       "api": {
         "min": 2,
         "max": 2
@@ -95,9 +95,9 @@
           "64"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.0-linux-arm-v10.tgz",
-      "checksum": "9b783f44a8e8470de123226f40635b34ab9ad88bdb0c4868b92d58ed1d9920f8",
+      "version": "0.2.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.1-linux-arm-v10.tgz",
+      "checksum": "",
       "api": {
         "min": 2,
         "max": 2
@@ -115,9 +115,9 @@
           "64"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.0-linux-arm64-v10.tgz",
-      "checksum": "6d10a7f904de2db0add402320e122da0b145570b0848a355d96bc314f66ba761",
+      "version": "0.2.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.1-linux-arm64-v10.tgz",
+      "checksum": "",
       "api": {
         "min": 2,
         "max": 2
@@ -135,9 +135,9 @@
           "64"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.0-linux-x64-v10.tgz",
-      "checksum": "ee0bae58c6b32b397b76980e177d1e94da1613917aa8c40ae4fac9ee7d029b46",
+      "version": "0.2.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.1-linux-x64-v10.tgz",
+      "checksum": "",
       "api": {
         "min": 2,
         "max": 2
@@ -155,9 +155,9 @@
           "64"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.0-darwin-x64-v10.tgz",
-      "checksum": "e9ded8bcfc8211e2e4f4778ccdf4fa6f5dca4c13a87b655a55ee2990a020a21f",
+      "version": "0.2.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.1-darwin-x64-v10.tgz",
+      "checksum": "",
       "api": {
         "min": 2,
         "max": 2
@@ -175,9 +175,9 @@
           "72"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.0-linux-arm-v12.tgz",
-      "checksum": "9b783f44a8e8470de123226f40635b34ab9ad88bdb0c4868b92d58ed1d9920f8",
+      "version": "0.2.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.1-linux-arm-v12.tgz",
+      "checksum": "",
       "api": {
         "min": 2,
         "max": 2
@@ -195,9 +195,9 @@
           "72"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.0-linux-arm64-v12.tgz",
-      "checksum": "5428d05a23801618bdcf7e1cb87ddea2a88b6c19f0608f8882db939c8e24806d",
+      "version": "0.2.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.1-linux-arm64-v12.tgz",
+      "checksum": "",
       "api": {
         "min": 2,
         "max": 2
@@ -215,9 +215,9 @@
           "72"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.0-linux-x64-v12.tgz",
-      "checksum": "ee0bae58c6b32b397b76980e177d1e94da1613917aa8c40ae4fac9ee7d029b46",
+      "version": "0.2.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.1-linux-x64-v12.tgz",
+      "checksum": "",
       "api": {
         "min": 2,
         "max": 2
@@ -235,9 +235,9 @@
           "72"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.0-darwin-x64-v12.tgz",
-      "checksum": "ea69bf182a02dd9ec16cf613c4fd3daeff99faadeb5867cab2e2ff6db6cd4f07",
+      "version": "0.2.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.1-darwin-x64-v12.tgz",
+      "checksum": "",
       "api": {
         "min": 2,
         "max": 2
