@@ -1,0 +1,31 @@
+{
+  "id": "scene-control-adapter",
+  "name": "Scene Control",
+  "description": "Emulate scenes through rules.",
+  "author": "Mozilla IoT",
+  "homepage_url": "https://github.com/mozilla-iot/scene-control-adapter",
+  "license_url": "https://github.com/mozilla-iot/scene-control-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://github.com/mozilla-iot/scene-control-adapter/releases/download/v0.1.0/scene-control-adapter-0.1.0.tgz",
+      "checksum": "7255152da7596b06e5cacdc1f1b2692c34f228902c96a4e451dde8ea6ea3d694",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
