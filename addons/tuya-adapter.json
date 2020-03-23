@@ -1,0 +1,31 @@
+{
+  "id": "tuya-adapter",
+  "name": "Tuya Smart Life",
+  "description": "Tuya Smart Life IoT devices support",
+  "author": "Galveston01",
+  "homepage_url": "https://github.com/Galveston01/tuya-adapter",
+  "license_url": "https://github.com/Galveston01/tuya-adapter/blob/master/LICENSE.md",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.1.2",
+      "url": "https://github.com/Galveston01/tuya-adapter/releases/download/v0.1.2/tuya-adapter-0.1.2.tgz",
+      "checksum": "3e1b975151889af5cfba9abafa2baab4b055eafd2836e55292c14b2208f25055",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
