@@ -32,7 +32,7 @@ the following files and directories:
 | `gateway_specific_settings` | Yes | The `gateway_specific_settings` object contains keys that are specific to a particular gateway implementation. | https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/browser_specific_settings | Based on [`browser_specific_settings`][browser_specific_settings]. | 0.10.0 |
 | <pre>  .webthings</pre> | Yes | WebThings Gateway settings | | | 0.10.0 |
 | <pre>    .exec</pre> | Yes | The execution command. This command may include:<ul><li>`{nodeLoader}`, which will be replaced with Node.js add-on loader command.</li><li>`{path}`, which will be replaced with the path of your add-on's directory.</li><li>`{name}`, which will be replaced with the id value.</li></ul> | | This replaces `moziot.exec`. | 0.10.0 |
-| <pre>    .primary_type</pre> | Yes | Primary add-on type. While an add-on may implement multiple types, such as and adapter and a notifier, this key specifies which of those is the primary functionality. | | This replaces `moziot.type`. Must be one of: `adapter`, `notifier`, `extension`, `service` | 0.10.0 |
+| <pre>    .primary_type</pre> | Yes | Primary add-on type. While an add-on may implement multiple types, such as and adapter and a notifier, this key specifies which of those is the primary functionality. | | This replaces `moziot.type`. Must be one of: `adapter`, `notifier`, `extension` | 0.10.0 |
 | <pre>    .strict_min_version</pre> | No | Minimum WebThings Gateway version to support. If the WebThings Gateway version on which the add-on is being installed or run is below this version, then the add-on will be disabled, or not permitted to be installed. | | This replaces `moziot.api.min`. Defaults to "0.10.0". | 0.10.0 |
 | <pre>    .strict_max_version</pre> | No | Maximum WebThings Gateway version to support. If the WebThings Gateway version on which the add-on is being installed or run is above this version, then the add-on will be disabled, or not permitted to be installed. | | This replaces `moziot.api.max`. Defaults to "\*", which disables checking for a maximum version. | 0.10.0 |
 | `homepage_url` | Yes | URL for the add-on's homepage. | https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/homepage_url | This replaces `homepage`. | 0.10.0 |
@@ -143,11 +143,40 @@ A convenience script is available [here][script] to make the transition from
 
 ### Extension
 
-TODO
-
-### Service
-
-TODO
+```json
+{
+  "author": "Flatsiedatsie",
+  "content_scripts": [
+    {
+      "css": [
+        "css/extension.css"
+      ],
+      "js": [
+        "js/extension.js"
+      ]
+    }
+  ],
+  "description": "A theme that removes the octopus view, and adds setpoint buttons",
+  "gateway_specific_settings": {
+    "webthings": {
+      "primary_type": "extension",
+      "strict_max_version": "*",
+      "strict_min_version": "0.10.0"
+    }
+  },
+  "homepage_url": "https://github.com/flatsiedatsie/square-theme",
+  "id": "square-theme",
+  "license": "MPL-2.0",
+  "manifest_version": 1,
+  "name": "Square Theme",
+  "short_name": "Square",
+  "version": "0.0.1",
+  "web_accessible_resources": [
+    "css/*.css",
+    "js/*.js"
+  ]
+}
+```
 
 [manifest.json]: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json
 [locales]: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/Internationalization
