@@ -8,30 +8,7 @@
   "primary_type": "adapter",
   "packages": [
     {
-      "architecture": "linux-arm",
-      "language": {
-        "name": "python",
-        "versions": [
-          "3.5",
-          "3.6",
-          "3.7",
-          "3.8"
-        ]
-      },
-      "version": "1.0.0",
-      "url": "https://github.com/flatsiedatsie/internet-radio/releases/download/1.0.0/internet-radio-1.0.0.tgz",
-      "checksum": "1ff2e6c49921a16f16c1f0ff75bbf5b389ef790bc9fd1343ee6f420ccf2419bf",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "darwin-x64",
+      "architecture": "any",
       "language": {
         "name": "python",
         "versions": [
