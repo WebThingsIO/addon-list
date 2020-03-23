@@ -18,9 +18,9 @@
           "3.8"
         ]
       },
-      "version": "0.0.5",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/internet-radio-0.0.5.tgz",
-      "checksum": "77d34405fe24a426a900b061bca8e01cd1b77b23639afa16352a6ffca679b098",
+      "version": "1.0.0",
+      "url": "https://github.com/flatsiedatsie/internet-radio/releases/download/1.0.0/internet-radio-1.0.0.tgz",
+      "checksum": "1f159041ed187a5a89108a37a202cf585a455a91d09611ac89a11e8f81ec10af",
       "api": {
         "min": 2,
         "max": 2
@@ -29,6 +29,28 @@
         "min": "0.10.0",
         "max": "*"
       }
-    }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5",
+          "3.6",
+          "3.7",
+          "3.8"
+        ]
+      },
+      "version": "1.0.0",
+      "url": "https://github.com/flatsiedatsie/internet-radio/releases/download/1.0.0/internet-radio-1.0.0.tgz",
+      "checksum": "1f159041ed187a5a89108a37a202cf585a455a91d09611ac89a11e8f81ec10af",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
   ]
 }
