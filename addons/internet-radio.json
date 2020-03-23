@@ -18,9 +18,9 @@
           "3.8"
         ]
       },
-      "version": "0.0.5",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/internet-radio-0.0.5.tgz",
-      "checksum": "77d34405fe24a426a900b061bca8e01cd1b77b23639afa16352a6ffca679b098",
+      "version": "1.0.0",
+      "url": "https://github.com/flatsiedatsie/internet-radio/releases/download/1.0.0/internet-radio-1.0.0.tgz",
+      "checksum": "7b3e44bf448e5e685d13fcc9f741a7e930479e5069822c73f191252972c1ac9c",
       "api": {
         "min": 2,
         "max": 2
