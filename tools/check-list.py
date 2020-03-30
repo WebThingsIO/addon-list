@@ -439,8 +439,7 @@ def main():
                     cleanup()
             else:
                 print('manifest.json is missing for "{}"'.format(_id))
-                # TODO: enforce this once all add-ons have transitioned
-                # cleanup()
+                cleanup()
 
             package_json = None
             try:
