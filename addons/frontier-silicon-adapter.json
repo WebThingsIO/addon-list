@@ -4,7 +4,7 @@
   "description": "Frontier Silicon Internet Radio support",
   "author": "Galveston01",
   "homepage_url": "https://github.com/Galveston01/frontier-silicon-adapter",
-  "license_url": "https://github.com/Galveston01/frontier-silicon-adapter/blob/master/LICENSE",
+  "license_url": "https://github.com/Galveston01/frontier-silicon-adapter/blob/master/LICENSE.md",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.7.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/frontier-silicon-adapter-0.7.0.tgz",
-      "checksum": "66fca4753b22fa01e1ca3dc52211f5768636e9f852864b736f207099ed38185d",
+      "version": "0.8.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/frontier-silicon-adapter-0.8.1.tgz",
+      "checksum": "b87fcfe70428ad6921cd390f2665906aa875074ff641df2e372e66bc982a9082",
       "api": {
         "min": 2,
         "max": 2
