@@ -16,8 +16,8 @@
         ]
       },
       "version": "0.8.0",
-      "url": "https://github.com/Galveston01/frontier-silicon-adapter/releases/download/v0.8.0/frontier-silicon-adapter-0.8.0.tgz",
-      "checksum": "da7826c59f1ab7523fd899dffb73d1019fdc019a8c5def1cd9c808accd300d23",
+      "url": "https://github.com/Galveston01/frontier-silicon-adapter/releases/download/v0.8.1/frontier-silicon-adapter-0.8.1.tgz",
+      "checksum": "b87fcfe70428ad6921cd390f2665906aa875074ff641df2e372e66bc982a9082",
       "api": {
         "min": 2,
         "max": 2
