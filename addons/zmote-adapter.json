@@ -1,0 +1,27 @@
+{
+  "id": "zmote-adapter",
+  "name": "zmote",
+  "description": "Control your IR devices with zmote (https://www.zmote.io/)",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/zmote-adapter#readme",
+  "license_url": "https://github.com/tim-hellhake/zmote-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://github.com/tim-hellhake/zmote-adapter/releases/download/0.1.0/zmote-adapter-0.1.0.tgz",
+      "checksum": "3a8fd8db8f4137ac9148680505ea5c23bd5f05d3a3174c5fac9d6ec9308c6a78",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
