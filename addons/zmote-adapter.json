@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zmote-adapter-0.1.0.tgz",
-      "checksum": "3a8fd8db8f4137ac9148680505ea5c23bd5f05d3a3174c5fac9d6ec9308c6a78",
+      "version": "0.2.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zmote-adapter-0.2.0.tgz",
+      "checksum": "2318b7cdc3a44878bb7337116accaf12974d2c196ecfc141a1bc8ddfe00bdf94",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
