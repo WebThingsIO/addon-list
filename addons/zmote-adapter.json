@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/zmote-adapter/releases/download/0.2.0/zmote-adapter-0.2.0.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zmote-adapter-0.2.0.tgz",
       "checksum": "2318b7cdc3a44878bb7337116accaf12974d2c196ecfc141a1bc8ddfe00bdf94",
       "gateway": {
         "min": "0.10.0",
