@@ -18,9 +18,9 @@
           "3.8"
         ]
       },
-      "version": "0.2.2",
-      "url": "https://github.com/mozilla-iot/yeelight-adapter/releases/download/v0.2.2/yeelight-adapter-0.2.2.tgz",
-      "checksum": "870e94260858a5a6501aa676fa201999ab390729a9884475196f6b5b88979abf",
+      "version": "0.3.0",
+      "url": "https://github.com/mozilla-iot/yeelight-adapter/releases/download/v0.3.0/yeelight-adapter-0.3.0.tgz",
+      "checksum": "21a72baf1ee01573f7794ca9597c088d75db16232be5f61916cf5c6f2a76d8d6",
       "api": {
         "min": 2,
         "max": 2
