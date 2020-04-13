@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "1.3.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/timer-adapter-1.3.1.tgz",
-      "checksum": "65510a0972ede4b23eadb20e119712439b0f62b74ee5a0b990826b821a89f5ae",
+      "version": "1.4.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/timer-adapter-1.4.0.tgz",
+      "checksum": "e987dda998b547a5714c31bb1271325f22f2e9dc66b3760e34ca7c6b07902396",
       "api": {
         "min": 2,
         "max": 2
