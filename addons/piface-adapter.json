@@ -8,15 +8,55 @@
   "primary_type": "adapter",
   "packages": [
     {
-      "architecture": "any",
+      "architecture": "linux-arm",
       "language": {
         "name": "nodejs",
         "versions": [
-          "any"
+          "57"
         ]
       },
       "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/piface-adapter-0.1.0-linux-arm.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/piface-adapter-0.1.0-linux-arm-v8.tgz",
+      "checksum": "",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/piface-adapter-0.1.0-linux-arm-v10.tgz",
+      "checksum": "",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/piface-adapter-0.1.0-linux-arm-v12.tgz",
       "checksum": "",
       "api": {
         "min": 2,
