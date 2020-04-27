@@ -3,10 +3,8 @@ discoverable from the **Settings -> Add-ons** page.
 
 # Building Add-ons
 
-The add-on API is described in [this document][adapter-api].
-
-You should also take a look at the [guidelines][guidelines] for building
-add-ons.
+See [here](https://github.com/mozilla-iot/wiki/wiki#general-1) for lots of
+resources.
 
 # Packaging Add-ons
 
