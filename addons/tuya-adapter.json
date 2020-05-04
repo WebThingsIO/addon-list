@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.2.1",
-      "url": "https://github.com/Galveston01/tuya-adapter/releases/download/v0.2.1/tuya-adapter-0.2.1.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tuya-adapter-0.2.1.tgz",
       "checksum": "1a948696dba663c55506b8130b84729f86aafb4fd1b0e24bb326588280b0f1ef",
       "api": {
         "min": 2,
