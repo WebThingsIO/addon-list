@@ -1,0 +1,27 @@
+{
+  "id": "ttn-adapter",
+  "name": "The Things Network",
+  "description": "Connect your lora sensors from https://thethingsnetwork.org",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/ttn-adapter#readme",
+  "license_url": "https://github.com/tim-hellhake/ttn-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ttn-adapter-0.1.0.tgz",
+      "checksum": "203749366db98e33b65adbe3b6add1be1ed4e9eb176e3a8bea0310749ff45c64",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
