@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.9.1",
-      "url": "https://github.com/mozilla-iot/philips-hue-adapter/releases/download/v0.9.1/philips-hue-adapter-0.9.1.tgz",
-      "checksum": "bbcdc474d6231b5fd1a8138bcd13e118c40f1458ff7d0ffc988d62da621a5849",
+      "version": "0.9.2",
+      "url": "https://github.com/mozilla-iot/philips-hue-adapter/releases/download/v0.9.2/philips-hue-adapter-0.9.2.tgz",
+      "checksum": "371c379b028a11b2e22d41c5f6ee98ac9e43bdb591ce29b77baed3d9bca7b42a",
       "api": {
         "min": 2,
         "max": 2
