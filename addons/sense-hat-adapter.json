@@ -1,0 +1,31 @@
+{
+  "id": "sense-hat-adapter",
+  "name": "Sense Hat",
+  "description": "Sense hat device support",
+  "author": "Philippe Coval",
+  "homepage_url": "https://github.com/rzr/sense-hat-webthing",
+  "license_url": "https://github.com/rzr/sense-hat-webthing/blob/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.0.3",
+      "url": "https://github.com/rzr/sense-hat-webthing/releases/download/v0.0.3/sense-hat-adapter-0.0.3-linux-arm.tgz",
+      "checksum": "fc516709fc98fb51884722aac91da5df750d3d26a27ad1a1d49ba5e304401ea0",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    }
+  ]
+}
