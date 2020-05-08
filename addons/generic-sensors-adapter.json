@@ -15,9 +15,9 @@
           "57"
         ]
       },
-      "version": "0.0.12",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.12-linux-arm-v8.tgz",
-      "checksum": "b2a565b6115e507fc151a7dd84ebc94e45fd019ee4616173d8b562cd0aa9deda",
+      "version": "0.0.13",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.13-linux-arm-v8.tgz",
+      "checksum": "TODO",
       "api": {
         "min": 2,
         "max": 2
