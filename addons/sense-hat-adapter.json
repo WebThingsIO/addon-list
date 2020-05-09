@@ -15,9 +15,9 @@
           "3.7"
         ]
       },
-      "version": "0.0.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sense-hat-adapter-0.0.3-linux-arm.tgz",
-      "checksum": "fc516709fc98fb51884722aac91da5df750d3d26a27ad1a1d49ba5e304401ea0",
+      "version": "0.0.4",
+      "url": "https://github.com/rzr/sense-hat-webthing/releases/download/v0.0.4/sense-hat-adapter-0.0.4-linux-arm.tgz",
+      "checksum": "e1ebbe603b50f2f9befa250e7d09ff024e5b1c8c7de0446fb25f46ce5dc3f751",
       "api": {
         "min": 2,
         "max": 2
