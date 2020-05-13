@@ -17,7 +17,7 @@
       },
       "version": "0.1.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-linux-arm-v8.tgz",
-      "checksum": "",
+      "checksum": "4b96f6488e7a28283e083ebc7435c5af9a1e9c83f7901fbb30b0ed401eb4076c",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -33,7 +33,7 @@
       },
       "version": "0.1.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-linux-arm64-v8.tgz",
-      "checksum": "",
+      "checksum": "4829a52a84cf471b93d0c58be3d5664b6cd4f216ca23b81e1c372149b02409bf",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -49,7 +49,7 @@
       },
       "version": "0.1.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-linux-x64-v8.tgz",
-      "checksum": "",
+      "checksum": "bfc4155f6db5ba3f722b7f4c9bafa625685ac200052c2417b978c1f9d7b40381",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -65,7 +65,7 @@
       },
       "version": "0.1.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-darwin-x64-v8.tgz",
-      "checksum": "",
+      "checksum": "4db5e176b775c4f311dde9680a1b428cf7d3d3e3a770f80e46e1d062e2c8cd57",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -81,7 +81,7 @@
       },
       "version": "0.1.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-linux-arm-v10.tgz",
-      "checksum": "",
+      "checksum": "3dee01ae268c34bac5ab61e3b7af2456891e661699193cdca135a4e499d64e5e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -97,7 +97,7 @@
       },
       "version": "0.1.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-linux-arm64-v10.tgz",
-      "checksum": "",
+      "checksum": "5e472f74297f30d3ab9f20796e01f2227828820ad70554c54af56cedecd29bae",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -113,7 +113,7 @@
       },
       "version": "0.1.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-linux-x64-v10.tgz",
-      "checksum": "",
+      "checksum": "980b88d2fdaa6b9a41d4cb43d7a53f038ca4b838adbc840db0460806b18cc105",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -129,7 +129,7 @@
       },
       "version": "0.1.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-darwin-x64-v10.tgz",
-      "checksum": "",
+      "checksum": "063cc548cc95b20b77d99a299bdc316bdb06286ec86172e6915d1e122ff17bfb",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -145,7 +145,7 @@
       },
       "version": "0.1.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-linux-arm-v12.tgz",
-      "checksum": "",
+      "checksum": "31f462ff97c8c427186a654444775f9476455bcf3894800d6a735538c606b80f",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -161,7 +161,7 @@
       },
       "version": "0.1.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-linux-arm64-v12.tgz",
-      "checksum": "",
+      "checksum": "1e33e8db2d656f2e76fab507595ef41c0a474d4652f61668a77c1d13c0aed025",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -177,7 +177,7 @@
       },
       "version": "0.1.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-linux-x64-v12.tgz",
-      "checksum": "",
+      "checksum": "c56bdbd2da4ad780a909bddfa169119865055a692b02f531e91b8b488d005afa",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -193,7 +193,7 @@
       },
       "version": "0.1.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-darwin-x64-v12.tgz",
-      "checksum": "",
+      "checksum": "f4472b83001007511e02fbfb78a7450c2b84c496748e75a959390773b55501ff",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
