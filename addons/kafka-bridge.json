@@ -17,7 +17,7 @@
       },
       "version": "0.1.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-linux-arm-v8.tgz",
-      "checksum": "4b96f6488e7a28283e083ebc7435c5af9a1e9c83f7901fbb30b0ed401eb4076c",
+      "checksum": "ddc724b9dd655cc8419c79c87deacf5c87d48a240bd443fe9a9519e7baf40ad2",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -33,7 +33,7 @@
       },
       "version": "0.1.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-linux-arm64-v8.tgz",
-      "checksum": "4829a52a84cf471b93d0c58be3d5664b6cd4f216ca23b81e1c372149b02409bf",
+      "checksum": "119ed7c858231e2feab9796a109c688e3459b4d953e51bbe2e5c4b94e2eb2683",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -49,7 +49,7 @@
       },
       "version": "0.1.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-linux-x64-v8.tgz",
-      "checksum": "bfc4155f6db5ba3f722b7f4c9bafa625685ac200052c2417b978c1f9d7b40381",
+      "checksum": "d64e5282617cfe2b1c13f69c039bc0688d35e816ab43c7707ca091d56dd40d77",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -65,7 +65,7 @@
       },
       "version": "0.1.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-darwin-x64-v8.tgz",
-      "checksum": "4db5e176b775c4f311dde9680a1b428cf7d3d3e3a770f80e46e1d062e2c8cd57",
+      "checksum": "3d9d70115d4d6036b9096aa411e638e2a407fafe401850fe0442385631292ce8",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -81,7 +81,7 @@
       },
       "version": "0.1.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-linux-arm-v10.tgz",
-      "checksum": "3dee01ae268c34bac5ab61e3b7af2456891e661699193cdca135a4e499d64e5e",
+      "checksum": "73018485c24b52dff6f793c4c33dc11a077dd6ac9fbac8a8f550e832878ca8da",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -97,7 +97,7 @@
       },
       "version": "0.1.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-linux-arm64-v10.tgz",
-      "checksum": "5e472f74297f30d3ab9f20796e01f2227828820ad70554c54af56cedecd29bae",
+      "checksum": "f03a4b81f2afd8ade2cd87dbcd44aa58639ad8659fbb92a9e94caa160c34ec13",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -113,7 +113,7 @@
       },
       "version": "0.1.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-linux-x64-v10.tgz",
-      "checksum": "980b88d2fdaa6b9a41d4cb43d7a53f038ca4b838adbc840db0460806b18cc105",
+      "checksum": "3c560803aac9c842df603ce5a471574394d39534b7eff7ae4a3631fcbd01f9e7",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -129,7 +129,7 @@
       },
       "version": "0.1.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-darwin-x64-v10.tgz",
-      "checksum": "063cc548cc95b20b77d99a299bdc316bdb06286ec86172e6915d1e122ff17bfb",
+      "checksum": "18cfc8cdf9d48bbfd95122e5ca0aa37f3e7b97a9898e97a14084459cb424e0e1",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -145,7 +145,7 @@
       },
       "version": "0.1.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-linux-arm-v12.tgz",
-      "checksum": "31f462ff97c8c427186a654444775f9476455bcf3894800d6a735538c606b80f",
+      "checksum": "bd075b0aee330ecf9c0b81cfea2cb7f95d9dd708fe3ba7f2ea7f3541cee3075f",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -161,7 +161,7 @@
       },
       "version": "0.1.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-linux-arm64-v12.tgz",
-      "checksum": "1e33e8db2d656f2e76fab507595ef41c0a474d4652f61668a77c1d13c0aed025",
+      "checksum": "9bc7ac34fe97a22a3e67af70100b45508d62f3919fb509dd6f136b6f6b531629",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -177,7 +177,7 @@
       },
       "version": "0.1.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-linux-x64-v12.tgz",
-      "checksum": "c56bdbd2da4ad780a909bddfa169119865055a692b02f531e91b8b488d005afa",
+      "checksum": "a913e9d4949fcb76afc918273c538c37e85fd5b58731f71448135f6c5b282541",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -193,7 +193,7 @@
       },
       "version": "0.1.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-darwin-x64-v12.tgz",
-      "checksum": "f4472b83001007511e02fbfb78a7450c2b84c496748e75a959390773b55501ff",
+      "checksum": "dc364941cdd544bb09cc8968ef0c3aa7f9c92b9686c1a0f5c62fe775ed0d24fb",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
