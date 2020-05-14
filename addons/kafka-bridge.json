@@ -1,0 +1,203 @@
+{
+  "id": "kafka-bridge",
+  "name": "Kafka bridge",
+  "description": "Expose your devices as topics on a kafka broker",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/kafka-bridge#readme",
+  "license_url": "https://github.com/tim-hellhake/kafka-bridge/blob/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-linux-arm-v8.tgz",
+      "checksum": "ddc724b9dd655cc8419c79c87deacf5c87d48a240bd443fe9a9519e7baf40ad2",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-linux-arm64-v8.tgz",
+      "checksum": "119ed7c858231e2feab9796a109c688e3459b4d953e51bbe2e5c4b94e2eb2683",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-linux-x64-v8.tgz",
+      "checksum": "d64e5282617cfe2b1c13f69c039bc0688d35e816ab43c7707ca091d56dd40d77",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-darwin-x64-v8.tgz",
+      "checksum": "3d9d70115d4d6036b9096aa411e638e2a407fafe401850fe0442385631292ce8",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-linux-arm-v10.tgz",
+      "checksum": "73018485c24b52dff6f793c4c33dc11a077dd6ac9fbac8a8f550e832878ca8da",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-linux-arm64-v10.tgz",
+      "checksum": "f03a4b81f2afd8ade2cd87dbcd44aa58639ad8659fbb92a9e94caa160c34ec13",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-linux-x64-v10.tgz",
+      "checksum": "3c560803aac9c842df603ce5a471574394d39534b7eff7ae4a3631fcbd01f9e7",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-darwin-x64-v10.tgz",
+      "checksum": "18cfc8cdf9d48bbfd95122e5ca0aa37f3e7b97a9898e97a14084459cb424e0e1",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-linux-arm-v12.tgz",
+      "checksum": "bd075b0aee330ecf9c0b81cfea2cb7f95d9dd708fe3ba7f2ea7f3541cee3075f",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-linux-arm64-v12.tgz",
+      "checksum": "9bc7ac34fe97a22a3e67af70100b45508d62f3919fb509dd6f136b6f6b531629",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-linux-x64-v12.tgz",
+      "checksum": "a913e9d4949fcb76afc918273c538c37e85fd5b58731f71448135f6c5b282541",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.0-darwin-x64-v12.tgz",
+      "checksum": "dc364941cdd544bb09cc8968ef0c3aa7f9c92b9686c1a0f5c62fe775ed0d24fb",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
