@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/github-adapter-0.1.6.tgz",
-      "checksum": "dbcf8482e281b69f8de06fd10ade743af2eff6554374f07e20fe8bf23d5719aa",
+      "version": "0.2.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/github-adapter-0.2.0.tgz",
+      "checksum": "e538ab1857e86908a0cba7a94eb9f022db42f1aa8f1020bb1bbe65123b610547",
       "api": {
         "min": 2,
         "max": 2
