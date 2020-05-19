@@ -15,9 +15,9 @@
           "3.5"
         ]
       },
-      "version": "0.0.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sense-hat-adapter-0.0.6-linux-arm-v3.5.tgz",
-      "checksum": "bdbf1195f9e50b157a7752c30ad13a4c499c71daa07e7a03a217e29ed6ecbc37",
+      "version": "0.0.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sense-hat-adapter-0.0.7-linux-arm-v3.5.tgz",
+      "checksum": "d414df893d0c9ac0b9f65cdb5fe69dc50f6182ebf3b6aa0449956e03ba00cc4c",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "3.6"
         ]
       },
-      "version": "0.0.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sense-hat-adapter-0.0.6-linux-arm-v3.6.tgz",
-      "checksum": "aa043c78b91f6d4ab1b77fa3a9b8b09c32766c6ac0a3aef13e09d67b2ddf51b2",
+      "version": "0.0.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sense-hat-adapter-0.0.7-linux-arm-v3.6.tgz",
+      "checksum": "aca5cf3a49b646beabe43601561792853cba85f311a2a8bcaeda8d8f56ca7735",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
@@ -47,9 +47,9 @@
           "3.7"
         ]
       },
-      "version": "0.0.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sense-hat-adapter-0.0.6-linux-arm-v3.7.tgz",
-      "checksum": "514e3aa359e2b51a932d2ab9f70f71dc558db89e38a3e8f1eb9fd7d23e4be783",
+      "version": "0.0.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sense-hat-adapter-0.0.7-linux-arm-v3.7.tgz",
+      "checksum": "437cbd6e29223271f249b9b3957a077f85b725f65a77a92fb0eefb50b13951e0",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
@@ -63,9 +63,9 @@
           "3.8"
         ]
       },
-      "version": "0.0.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sense-hat-adapter-0.0.6-linux-arm-v3.8.tgz",
-      "checksum": "1f8d96d3d971c0f032b93e6e550a6da3db5da973f82005b80209ec3a3851a88e",
+      "version": "0.0.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sense-hat-adapter-0.0.7-linux-arm-v3.8.tgz",
+      "checksum": "c21ccd2c39e7cbb401586adfedca552775f1d8aa18ef8dc96f24273ceb9fac0b",
       "api": {
         "min": 2,
         "max": 2
