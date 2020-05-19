@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.15.0",
-      "url": "https://github.com/tim-hellhake/tasmota-adapter/releases/download/0.15.0/tasmota-adapter-0.15.0.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tasmota-adapter-0.15.0.tgz",
       "checksum": "de012068fca96586098f356b51e3f3439cb6941df9e9c8a944bc7b6118f5b2ea",
       "api": {
         "min": 2,
