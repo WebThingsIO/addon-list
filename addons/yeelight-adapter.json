@@ -3,24 +3,21 @@
   "name": "Yeelight",
   "description": "Yeelight smart bulb support",
   "author": "Mozilla IoT",
-  "homepage_url": "https://github.com/mozilla-iot/yeelight-adapter",
+  "homepage_url": "https://github.com/mozilla-iot/yeelight-adapter#readme",
   "license_url": "https://github.com/mozilla-iot/yeelight-adapter/blob/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
       "architecture": "any",
       "language": {
-        "name": "python",
+        "name": "nodejs",
         "versions": [
-          "3.5",
-          "3.6",
-          "3.7",
-          "3.8"
+          "any"
         ]
       },
-      "version": "0.3.1",
-      "url": "https://github.com/mozilla-iot/yeelight-adapter/releases/download/v0.3.1/yeelight-adapter-0.3.1.tgz",
-      "checksum": "9b99ba37b60aedeccdce3e2700be2d169cd99424fb7ef7001072488d042f058b",
+      "version": "0.4.0",
+      "url": "https://github.com/mozilla-iot/yeelight-adapter/releases/download/v0.4.0/yeelight-adapter-0.4.0.tgz",
+      "checksum": "0cf489ee58a065dc3c82e07caa861e04179f491de5e76a0bc563b81bc7c650d4",
       "api": {
         "min": 2,
         "max": 2
