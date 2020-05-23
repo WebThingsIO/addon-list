@@ -1,0 +1,27 @@
+{
+  "id": "homie-adapter",
+  "name": "Homie",
+  "description": "Connect your homie mqtt (https://homieiot.github.io/) devices",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/homie-adapter#readme",
+  "license_url": "https://github.com/tim-hellhake/homie-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://github.com/tim-hellhake/homie-adapter/releases/download/0.1.0/homie-adapter-0.1.0.tgz",
+      "checksum": "6dffad77164b712dd0d4dde072a2e844222ec50f53bede7df6bacab56adef125",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
