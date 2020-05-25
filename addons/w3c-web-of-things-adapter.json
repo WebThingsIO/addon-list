@@ -1,0 +1,31 @@
+{
+  "id": "w3c-web-of-things-adapter",
+  "name": "W3C Web of Things adapter",
+  "description": "Basic W3C WoT protocol binding support",
+  "author": "AGH UST",
+  "homepage_url": "https://github.com/jakubdybczak/w3c-web-of-things-adapter",
+  "license_url": "https://github.com/jakubdybczak/w3c-web-of-things-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/jakubdybczak/w3c-web-of-things-adapter/releases/download/v0.0.1/w3c-web-of-things-adapter-0.0.1.tgz",
+      "checksum": "e9251f494a59c3c4a5d105bd107be9b2b15a5bb8cee900764814957128e061c3",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
