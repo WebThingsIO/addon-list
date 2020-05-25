@@ -17,7 +17,7 @@
       },
       "version": "0.0.1",
       "url": "https://github.com/jakubdybczak/w3c-web-of-things-adapter/releases/download/v0.0.1/w3c-web-of-things-adapter-0.0.1.tgz",
-      "checksum": "e9251f494a59c3c4a5d105bd107be9b2b15a5bb8cee900764814957128e061c3",
+      "checksum": "b41c312b2b6d4b5c4617d5b1b2041fb217dbd7edb94aac5b20b9d089e346810f",
       "api": {
         "min": 2,
         "max": 2
