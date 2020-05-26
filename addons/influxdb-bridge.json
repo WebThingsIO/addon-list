@@ -1,6 +1,6 @@
 {
   "id": "influxdb-bridge",
-  "name": "InfluxDB bridge",
+  "name": "InfluxDB",
   "description": "Save your device states to an InfluxDB",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/influxdb-bridge#readme",
