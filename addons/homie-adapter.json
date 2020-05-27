@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homie-adapter-0.1.0.tgz",
-      "checksum": "6dffad77164b712dd0d4dde072a2e844222ec50f53bede7df6bacab56adef125",
+      "version": "0.2.0",
+      "url": "https://github.com/tim-hellhake/homie-adapter/releases/download/0.2.0/homie-adapter-0.2.0.tgz",
+      "checksum": "1d7393f75be392eab93f55af814e71ce5b6d2e1efb4da9fae164135f7a957273",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
