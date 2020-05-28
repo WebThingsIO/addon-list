@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.5.0",
-      "url": "https://github.com/tim-hellhake/spotify-adapter/releases/download/0.5.0/spotify-adapter-0.5.0.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/spotify-adapter-0.5.0.tgz",
       "checksum": "48f77c9c595e3a2602d4319289264315517d114123fc31a31ed1bd7e91eee148",
       "api": {
         "min": 2,
