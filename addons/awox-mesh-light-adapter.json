@@ -1,0 +1,79 @@
+{
+  "id": "awox-mesh-light-adapter",
+  "name": "AwoxMeshLight",
+  "description": "Awox mesh light device support",
+  "author": "Philippe Coval",
+  "homepage_url": "https://github.com/rzr/awox-mesh-light-webthing",
+  "license_url": "https://github.com/rzr/awox-mesh-light-webthing/blob/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.2-linux-arm-v3.5.tgz",
+      "checksum": "",
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.2-linux-arm-v3.6.tgz",
+      "checksum": "",
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.2-linux-arm-v3.7.tgz",
+      "checksum": "",
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.2-linux-arm-v3.8.tgz",
+      "checksum": "",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    }
+  ]
+}
