@@ -1,0 +1,31 @@
+{
+  "id": "opengarage-adapter",
+  "name": "OpenGarage",
+  "description": "OpenGarage support",
+  "author": "Michael Stegeman",
+  "homepage_url": "https://github.com/mrstegeman/opengarage-adapter#readme",
+  "license_url": "https://github.com/mrstegeman/opengarage-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/opengarage-adapter-0.1.0.tgz",
+      "checksum": "31705754b3a08f8af434ae75da4cba202727a78d3e30b9236493d19af7686544",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
