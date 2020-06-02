@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/opengarage-adapter-0.1.0.tgz",
-      "checksum": "31705754b3a08f8af434ae75da4cba202727a78d3e30b9236493d19af7686544",
+      "version": "0.1.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/opengarage-adapter-0.1.1.tgz",
+      "checksum": "97bf3edee4616dfb6a44597134ad71d5f2e1bb9af0d03443ffae396e1df4f5f2",
       "api": {
         "min": 2,
         "max": 2
