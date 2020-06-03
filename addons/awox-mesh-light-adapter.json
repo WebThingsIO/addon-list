@@ -17,7 +17,7 @@
       },
       "version": "0.0.6",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-arm-v3.5.tgz",
-      "checksum": "48c445a2926d47ec3377cb79d63f7d5b82ec86bc7e687a619f5751d5b6205a18",
+      "checksum": "4e5b65abba86d18f252babe86023f2114b96f45892d827d47495ec0246a7da4b",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
@@ -33,7 +33,7 @@
       },
       "version": "0.0.6",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-arm-v3.6.tgz",
-      "checksum": "4e71cc56dcfd1743b1ba58a025c13c464860d059955c96ed3b3adfc2c8191f29",
+      "checksum": "d1f044cbb28468160b12ebbbce0115094d1b1f68659f55981a37d0426d02dcbf",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
@@ -49,7 +49,7 @@
       },
       "version": "0.0.6",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-arm-v3.7.tgz",
-      "checksum": "f5992e52225db5e3c247284ab01ddf5b5057bae4ff956406b38c357c5082f01b",
+      "checksum": "ff1b9b466ec18be4e7fddda0b821ec92941ce3810e4c354dc2fed3c33d87c3d1",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
@@ -65,7 +65,7 @@
       },
       "version": "0.0.6",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-arm-v3.8.tgz",
-      "checksum": "7e77447facde9d74eba734dac3021de3f8fe25fd9219c27b9425330b60bc48b4",
+      "checksum": "1faa2f1bf22726da0b425dbd577b83338daa82160b8ea517c1f1157c561f83f7",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
@@ -81,7 +81,7 @@
       },
       "version": "0.0.6",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-arm64-v3.5.tgz",
-      "checksum": "fc23a3b251c2e8aba76c4af406bca5aeac0ca457bc8b15a33b47f4283029f652",
+      "checksum": "3349aa0ac74f528141148a3d2617f888c7949f1b23d66be0e2bf83275bae6b56",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
@@ -97,7 +97,7 @@
       },
       "version": "0.0.6",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-arm64-v3.6.tgz",
-      "checksum": "bde0fa3b9722717c0376b66a8b0cb06df3ef699529eefeb868ee9d7d15ff0215",
+      "checksum": "5057e1dd95b7ecfb99466ee4ea2d2defcd1fcbc544a714edaecd382d380d54b0",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
@@ -113,7 +113,7 @@
       },
       "version": "0.0.6",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-arm64-v3.7.tgz",
-      "checksum": "eeb27d5f87220a7f1386652a841087b393e366649dc93f21ee79ef02aef64882",
+      "checksum": "d8a35396c2a6a1b29e8b7ddfaa710289bb5c7465e9b27704a03c05f1ba585a77",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
@@ -129,7 +129,7 @@
       },
       "version": "0.0.6",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-arm64-v3.8.tgz",
-      "checksum": "940b4eddaae72b83d275d7e0ca7270f8e1e94015945f3d485e06971505e3b5bf",
+      "checksum": "84deac2ae1f88a08ae392eeacb94ccb4e182fcff722c01557ecde86b378457cb",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
@@ -145,7 +145,7 @@
       },
       "version": "0.0.6",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-x64-v3.5.tgz",
-      "checksum": "335ccd07261c03490f164af2f4975a5bcdd71c6c649a45c7ac87a0e800e56fa0",
+      "checksum": "9d03e1a5bc162e4eb0bf6d974d3fd34f097459d7e015518514c3762a6a2c6ab0",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
@@ -161,7 +161,7 @@
       },
       "version": "0.0.6",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-x64-v3.6.tgz",
-      "checksum": "1ca8c70693484de2b4a0894f37e5ba9188f9ffc0c74882085cdb3ed4fefe05e1",
+      "checksum": "3fd54e4fc2fafe485482048e59353d69549f8c8c5a202cee248b42ce16eedbcc",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
@@ -177,7 +177,7 @@
       },
       "version": "0.0.6",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-x64-v3.7.tgz",
-      "checksum": "72717b2bb963ca711d2b35063ec62bf28a30bb2162d0bb21a820b59ccc303806",
+      "checksum": "62382ace2efdcf0947b05ed74c2df6203ba2706f92ee135e2b29f315d608c4f9",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
@@ -193,7 +193,7 @@
       },
       "version": "0.0.6",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-x64-v3.8.tgz",
-      "checksum": "a2657d94af196f8cd30d17bd8d5ee3cd1c316f530b8e604bbbea30b7f5dc4841",
+      "checksum": "708a458f35d7a0d15564afb09d43b592f77cc02769cb2c9425e16a59a77edbaf",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
