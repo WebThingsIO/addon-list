@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.9.0",
-      "url": "https://github.com/tim-hellhake/sonos-adapter/releases/download/0.9.0/sonos-adapter-0.9.0.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sonos-adapter-0.9.0.tgz",
       "checksum": "14941fb7aa8834329531e3e8cd54bf29c9e3f453eb5ff63722fff315f6eb744c",
       "gateway": {
         "min": "0.10.0",
