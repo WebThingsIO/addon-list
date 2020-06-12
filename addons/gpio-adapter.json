@@ -15,9 +15,9 @@
           "57"
         ]
       },
-      "version": "0.7.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.1-linux-arm-v8.tgz",
-      "checksum": "b14ab323a73f92b2b14ef6782568023533294fa3c36704acd4c48480e27f5a24",
+      "version": "0.7.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.2-linux-arm-v8.tgz",
+      "checksum": "daf6f9a37104997db0589a92ab30821f072ce0b407cbcc204cd5f4fa1e8808d8",
       "api": {
         "min": 2,
         "max": 2
@@ -35,9 +35,9 @@
           "57"
         ]
       },
-      "version": "0.7.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.1-linux-arm64-v8.tgz",
-      "checksum": "f0fc08dc4e2806cd41907bac010df134ddec96c27d7dc45090794a4acd9d27f8",
+      "version": "0.7.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.2-linux-arm64-v8.tgz",
+      "checksum": "20be8949620e72cd46249aaa1a80d124d68092c1bb3dd45b48b1a31aa38ac998",
       "api": {
         "min": 2,
         "max": 2
@@ -55,9 +55,9 @@
           "57"
         ]
       },
-      "version": "0.7.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.1-linux-x64-v8.tgz",
-      "checksum": "8db239238eee468f1d5d083c18c2dcee5560780d5973dc2c6f4a9762f0db8c03",
+      "version": "0.7.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.2-linux-x64-v8.tgz",
+      "checksum": "47057b7a3cf43423bd73631b0f239f8c7bfae5c698c883b8b39b77e43efe5ea5",
       "api": {
         "min": 2,
         "max": 2
@@ -75,9 +75,9 @@
           "64"
         ]
       },
-      "version": "0.7.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.1-linux-arm-v10.tgz",
-      "checksum": "48fd28ae5120bff08e775dde2703913ccd407b40975ab0b85cefd8c7d2e47fd9",
+      "version": "0.7.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.2-linux-arm-v10.tgz",
+      "checksum": "c4b9853c8122c3b0a78792d6b28ed0ba38876d08ad9f36a662add4680c7c9b13",
       "api": {
         "min": 2,
         "max": 2
@@ -95,9 +95,9 @@
           "64"
         ]
       },
-      "version": "0.7.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.1-linux-arm64-v10.tgz",
-      "checksum": "a3fd9996a80572a97298f38409b0e899cde664b0bdef5c01f19e56cb5055d88a",
+      "version": "0.7.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.2-linux-arm64-v10.tgz",
+      "checksum": "d4b7319e3e6129e773b685f382b6440f286620aae1d0a1027811efa85baed3db",
       "api": {
         "min": 2,
         "max": 2
@@ -115,9 +115,9 @@
           "64"
         ]
       },
-      "version": "0.7.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.1-linux-x64-v10.tgz",
-      "checksum": "d429932c535e11f24ad22fee2beab66a5248a7f12fbd837dc48e4b571c4204ab",
+      "version": "0.7.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.2-linux-x64-v10.tgz",
+      "checksum": "47b52f43e366970928f695d4132e5a4e135007ac1fa2297dcc7415413860ee87",
       "api": {
         "min": 2,
         "max": 2
@@ -135,9 +135,9 @@
           "72"
         ]
       },
-      "version": "0.7.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.1-linux-arm-v12.tgz",
-      "checksum": "f0ad6d0c1d97e1a873fdcf2bacd2268eed5564e805a7b3a354709d36ed07936e",
+      "version": "0.7.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.2-linux-arm-v12.tgz",
+      "checksum": "e974f8394abb1e672a2e89a99970f73e35ffa5bcb23641fcd5b3a8ee8d8bae53",
       "api": {
         "min": 2,
         "max": 2
@@ -155,9 +155,9 @@
           "72"
         ]
       },
-      "version": "0.7.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.1-linux-arm64-v12.tgz",
-      "checksum": "84ec6ffcbd7980f59c9122472163c5d746ed6c53ed745a602fd95f798879afde",
+      "version": "0.7.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.2-linux-arm64-v12.tgz",
+      "checksum": "9edc052fa79374b2bfe7b90b11c1736df66398f4c317e8a05dcb84814383b2d3",
       "api": {
         "min": 2,
         "max": 2
@@ -175,9 +175,9 @@
           "72"
         ]
       },
-      "version": "0.7.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.1-linux-x64-v12.tgz",
-      "checksum": "29a91e06119f1ab712eb1cb0d5ed4a1086f6ecc3397b243df84c4f6d59d5c4ac",
+      "version": "0.7.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.2-linux-x64-v12.tgz",
+      "checksum": "0b4d7e67f9d2cff0d1ec2a2f305e71986e2ed2081c4809a4974e8c59a353ae56",
       "api": {
         "min": 2,
         "max": 2
