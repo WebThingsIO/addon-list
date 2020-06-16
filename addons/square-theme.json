@@ -13,7 +13,7 @@
         "name": "none"
       },
       "version": "0.0.5",
-      "url": "https://github.com/flatsiedatsie/square-theme/releases/download/0.0.5/square-theme-0.0.5.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/square-theme-0.0.5.tgz",
       "checksum": "dac32d68509009f0d5b34b3973ddd0ee284a8196015e0d740503aeaf693da6db",
       "gateway": {
         "min": "0.10.0",
