@@ -18,9 +18,9 @@
           "3.8"
         ]
       },
-      "version": "1.0.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/internet-radio-1.0.0.tgz",
-      "checksum": "1ff2e6c49921a16f16c1f0ff75bbf5b389ef790bc9fd1343ee6f420ccf2419bf",
+      "version": "1.0.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/internet-radio-1.0.1.tgz",
+      "checksum": "6a517ad9219ec70e88c247bc110a7387fd27f0b6ff995761ab7407ebcfd65903",
       "api": {
         "min": 2,
         "max": 2
