@@ -1,0 +1,30 @@
+{
+  "id": "seashell",
+  "name": "Seashell",
+  "description": "An easy and quick way to run shell commands. For advanced users. ",
+  "author": "Flatsiedatsie",
+  "homepage_url": "https://github.com/flatsiedatsie/seashell",
+  "license_url": "https://github.com/flatsiedatsie/seashell/blob/master/LICENSE",
+  "primary_type": "extension",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5",
+          "3.6",
+          "3.7",
+          "3.8"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/seashell-0.0.1.tgz",
+      "checksum": "040746498d2a148527d5d860121cc5983bf8ed7c48497137af5ef71b26c63eb0",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
