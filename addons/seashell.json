@@ -3,8 +3,8 @@
   "name": "Seashell",
   "description": "An easy and quick way to run shell commands. For advanced users. ",
   "author": "Flatsiedatsie",
-  "homepage_url": "https://github.com/flatsiedatsie/shelly",
-  "license_url": "https://github.com/flatsiedatsie/shelly/blob/master/LICENSE",
+  "homepage_url": "https://github.com/flatsiedatsie/seashell",
+  "license_url": "https://github.com/flatsiedatsie/seashell/blob/master/LICENSE",
   "primary_type": "extension",
   "packages": [
     {
