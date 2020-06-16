@@ -19,8 +19,8 @@
         ]
       },
       "version": "0.0.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/photo-frame-0.0.1.tgz",
-      "checksum": "ec06e477bbcf57764df9ec25d138cff559e9dcf3677d2cba67c306274e7e611e",
+      "url": "https://github.com/flatsiedatsie/photo-frame/releases/download/0.0.2/photo-frame-0.0.2.tgz",
+      "checksum": "bba87eafa19090006247512dc60629ec2bf4c4907e394941dcfc91bb1a3be89a",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
