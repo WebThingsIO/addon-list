@@ -1,0 +1,30 @@
+{
+  "id": "shelly",
+  "name": "Shelly",
+  "description": "An easy and quick way to run shell commands. For advanced users. ",
+  "author": "Flatsiedatsie",
+  "homepage_url": "https://github.com/flatsiedatsie/shelly",
+  "license_url": "https://github.com/flatsiedatsie/shelly/blob/master/LICENSE",
+  "primary_type": "extension",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5",
+          "3.6",
+          "3.7",
+          "3.8"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/flatsiedatsie/shelly/releases/download/0.0.1/shelly-0.0.1.tgz",
+      "checksum": "4cab2bf245994925536bcfca826be12c27591a000994bb81474bc35121102caf",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
