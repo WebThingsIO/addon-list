@@ -1,0 +1,31 @@
+{
+  "id": "run-program-adapter",
+  "name": "Run Program",
+  "description": "Create virtual devices to run programs on the gateway host.",
+  "author": "Mozilla IoT",
+  "homepage_url": "https://github.com/mozilla-iot/run-program-adapter",
+  "license_url": "https://github.com/mozilla-iot/run-program-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.3.0",
+      "url": "https://github.com/mozilla-iot/run-program-adapter/releases/download/v0.3.0/run-program-adapter-0.3.0.tgz",
+      "checksum": "6d8c5051f6ee3db3115ce41442c9f4ded892c40dd361563ff4ffd396bd5fedd0",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
