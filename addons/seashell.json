@@ -19,7 +19,7 @@
         ]
       },
       "version": "0.0.1",
-      "url": "https://github.com/flatsiedatsie/seashell/releases/download/0.0.1/seashell-0.0.1.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/seashell-0.0.1.tgz",
       "checksum": "040746498d2a148527d5d860121cc5983bf8ed7c48497137af5ef71b26c63eb0",
       "gateway": {
         "min": "0.10.0",
