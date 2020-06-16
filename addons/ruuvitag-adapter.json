@@ -17,11 +17,7 @@
       },
       "version": "0.3.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.3.0-linux-arm-v8.tgz",
-      "checksum": "14f89b0afa545b131eb2ca29ede47a8aadaf805d9fc21858ab6d0ec054b0d1bf",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "checksum": "517aa630d41ba88e7fcc8441d50f023a81274aee796a05cea94df400bef7543b",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -37,11 +33,7 @@
       },
       "version": "0.3.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.3.0-linux-arm64-v8.tgz",
-      "checksum": "98ba1aef126f66e4ccdfede9167f2d97e3bf668c91829d596bee57da5f1d306a",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "checksum": "0bbe1f2bc0ae8055315ab3d454919c82e48a96cdf7b70afea94dcac91231c3d4",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -57,11 +49,7 @@
       },
       "version": "0.3.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.3.0-linux-x64-v8.tgz",
-      "checksum": "9634c56b36bab567706577328f1e62bf691956234aa119122e53323aee23fec5",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "checksum": "6c0f23b0c32d022a5fe69d3e6767fe18f66321431f2649f45a80418ac6e56ebd",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -77,11 +65,7 @@
       },
       "version": "0.3.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.3.0-darwin-x64-v8.tgz",
-      "checksum": "0347217cb5571115b3d97c3e728194ec920557a13aee9914f95e4dde8e98ec8a",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "checksum": "e0ff838551ce64467889bfb4d4fc6b86bc800bba9b621866d0c540da34e89fab",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -97,11 +81,7 @@
       },
       "version": "0.3.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.3.0-linux-arm-v10.tgz",
-      "checksum": "e28d2d7175c50374e013b2a762b911e464cbcc2358a63e37d328ac9d963b123b",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "checksum": "8cfcc378e11f58dbc5976a2eab8975ca90f93c0e96c2f2341118d74082a84ccd",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -117,11 +97,7 @@
       },
       "version": "0.3.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.3.0-linux-arm64-v10.tgz",
-      "checksum": "9ea142d997a3f541547c9e9d7a020dc93005d8b6a4e768d78a0427745c63e3a8",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "checksum": "b72b476954739384ce3c31fc439aeeb51f92480b21126b9294f3416091ecee86",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -137,11 +113,7 @@
       },
       "version": "0.3.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.3.0-linux-x64-v10.tgz",
-      "checksum": "64413af718a3dd635f51d4547063387a3bc2c2f959772ce6ed0da001c873afcf",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "checksum": "2f55c9ff76e78a2f32ddd942a925739925c4a073dde305224d264b6c3c2d44e6",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -157,11 +129,7 @@
       },
       "version": "0.3.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.3.0-darwin-x64-v10.tgz",
-      "checksum": "d1621f9c86ff47aa34b5387d55ae7b1fcec34d6e459d9525cec6bac2db6eda2b",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "checksum": "b9353318934d0181b047e8a5840bf780ca26f76609908730b8b347ba5f13c3a9",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -177,11 +145,7 @@
       },
       "version": "0.3.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.3.0-linux-arm-v12.tgz",
-      "checksum": "b6cab97b59423a72ffe1717001b3e96784926c1d3967c175ddfd64e2ade8cb3b",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "checksum": "794ec8f314a5fa5a54ad1cd544de8591f17089def04c219f0cd86684a361b740",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -197,11 +161,7 @@
       },
       "version": "0.3.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.3.0-linux-arm64-v12.tgz",
-      "checksum": "108b0e1cee579bd0f00c6f8256f3bbddba66c8e70f73512e41f12224cdd8122c",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "checksum": "a960630cad51be55a2eab49ede7d80096b62d28e974b2c4ed8b08ceb6d2a171a",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -217,11 +177,7 @@
       },
       "version": "0.3.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.3.0-linux-x64-v12.tgz",
-      "checksum": "39b19e03b14768cd4a0f5b0a1ba7fc75654bfe93213a815c67c006850a00798d",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "checksum": "72e6c187d5dca1d785f82fd3f45531fab14bb0d68b9a4ef71518a7b0a8683a6d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -237,11 +193,7 @@
       },
       "version": "0.3.0",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.3.0-darwin-x64-v12.tgz",
-      "checksum": "bb23070e45661d34ee0106e5e1dc4d7a9572b28e47626187831ae8b9d972c471",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "checksum": "2ac91efc098796150e711c0c030635844599a27ade10295f1108e413041ef66a",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
