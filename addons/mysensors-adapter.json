@@ -20,7 +20,7 @@
       },
       "version": "1.1.0",
       "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.1.0/mysensors-adapter-1.1.0.tgz",
-      "checksum": "9edcc1205341c03b176027c6ea76a54a8d544fd90df6be0c16909709c8cb2421",
+      "checksum": "34a657690c3f4ffbcd8d4146d29a254f16eca586f5f3130bbb085b87f8836348",
       "api": {
         "min": 2,
         "max": 2
