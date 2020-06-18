@@ -16,7 +16,7 @@
         ]
       },
       "version": "1.6.0",
-      "url": "https://github.com/tim-hellhake/timer-adapter/releases/download/1.6.0/timer-adapter-1.6.0.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/timer-adapter-1.6.0.tgz",
       "checksum": "bec24b61e0f051aaa29ff6435428f8f8cb4e3ef141dc0ac55a5af866e89399b5",
       "gateway": {
         "min": "0.10.0",
