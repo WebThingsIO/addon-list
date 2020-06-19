@@ -1,0 +1,34 @@
+{
+  "id": "display-toggle",
+  "name": "Display Toggle",
+  "description": "Turn a Raspberry Pi (touch) screen on and off",
+  "author": "Flatsiedatsie",
+  "homepage_url": "https://github.com/flatsiedatsie/display-toggle",
+  "license_url": "https://github.com/flatsiedatsie/display-toggle/blob/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5",
+          "3.6",
+          "3.7",
+          "3.8"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/flatsiedatsie/display-toggle/releases/download/0.0.1/display-toggle-0.0.1.tgz",
+      "checksum": "6057f45229821be5a654902db6525c0e4fdffcd903cad0333e6fb4bff6aafbf2",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
