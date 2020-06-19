@@ -1,6 +1,6 @@
 {
   "id": "matrix-adapter",
-  "name": "Matrix",
+  "name": "Matrix chat",
   "description": "Send unencrypted Matrix messages. For encryption use pantalaimon.",
   "author": "Christian Paul",
   "homepage_url": "https://gitlab.com/webthings/matrix-adapter",
