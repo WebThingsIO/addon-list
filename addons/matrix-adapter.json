@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.1.0",
-      "url": "https://gateway.pinata.cloud/ipfs/bafybeiaehbntjzvctq56lu6jnhbx4ejdld447eqt2imi6fpxwcuwugjlyy?filename=matrix-adapter-0.1.0.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/matrix-adapter-0.1.0.tgz",
       "checksum": "dfb8b2e0923f0746ad6c887d6e9f86a7593731fe23184cd6ec7941e23a315c8f",
       "api": {
         "min": 2,
