@@ -1,6 +1,6 @@
 {
   "id": "display-toggle",
-  "name": "Display Toggle",
+  "name": "Display toggle",
   "description": "Turn a Raspberry Pi (touch) screen on and off",
   "author": "Flatsiedatsie",
   "homepage_url": "https://github.com/flatsiedatsie/display-toggle",
