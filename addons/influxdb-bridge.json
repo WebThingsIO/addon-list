@@ -15,9 +15,9 @@
           "57"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.2.0-linux-arm-v8.tgz",
-      "checksum": "88296758839228895d650ac9cd437299ef22dbc8e6dfc4dc15aed94101bfe2da",
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.3.0-linux-arm-v8.tgz",
+      "checksum": "425461d95354a335184911d8541651231de2a00dbeda4f01c909a528403ddb9d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "57"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.2.0-linux-arm64-v8.tgz",
-      "checksum": "0581380478d92da4f671d3acc2fbebade0bc2537ac6b6901b1726c523a723b0c",
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.3.0-linux-arm64-v8.tgz",
+      "checksum": "a6c3d6f38126f35a15755191132a56f22c563c5922b433b4da0073a0103a0411",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -47,9 +47,9 @@
           "57"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.2.0-linux-x64-v8.tgz",
-      "checksum": "2f33bc558fc169d2a365129b5c36b3bbbae206e1bcbba57e1e5cbeb915b984f6",
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.3.0-linux-x64-v8.tgz",
+      "checksum": "0271da64d9d3f24fb6d2a75ced052c8e7411ab392ab5a1fff55a8e1d0d7b500a",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -63,9 +63,9 @@
           "57"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.2.0-darwin-x64-v8.tgz",
-      "checksum": "2930747b14af577fc8f7fee354d8e055a6f951056780aaf1d713633ea8446ff0",
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.3.0-darwin-x64-v8.tgz",
+      "checksum": "c71efd06d033a5a48798f3eecc89ee4f1acd175910adc5ff254885d239d8b944",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -79,9 +79,9 @@
           "64"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.2.0-linux-arm-v10.tgz",
-      "checksum": "b0e0fa09cd9bee1025ba9d1a9359a5ef31e3374acb765553f89dbcd26b6f12ae",
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.3.0-linux-arm-v10.tgz",
+      "checksum": "b41dd88f70b8299a825ec90cad22e8b1bad712663e137b4331cb99b79a73c636",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,9 +95,9 @@
           "64"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.2.0-linux-arm64-v10.tgz",
-      "checksum": "6e22a0d85a4db3dd1b0fbf537fcea800aa67229e6539628e176d41b5600b4bd8",
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.3.0-linux-arm64-v10.tgz",
+      "checksum": "77b74b6b56cf53d86a3ed66c6fcc1fa6f53c194d04bca4a168f1ccd252c4c80e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -111,9 +111,9 @@
           "64"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.2.0-linux-x64-v10.tgz",
-      "checksum": "73d7a3581170f2b51b36dff3f1f34382ed19540f44d1ea7a8f816c1a4cfbba71",
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.3.0-linux-x64-v10.tgz",
+      "checksum": "3704458bb0b2d1195fe4722a84fef4634730477e1636e787c576943dea16cc66",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,9 +127,9 @@
           "64"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.2.0-darwin-x64-v10.tgz",
-      "checksum": "993ed70c3c54632c4f8298ea1bf2ad32aca080bcffbbdfca96b61377306336ca",
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.3.0-darwin-x64-v10.tgz",
+      "checksum": "03d4314554fdc8df574397d948205a6d24e997ea26d8417f686218568e2b24c4",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -143,9 +143,9 @@
           "72"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.2.0-linux-arm-v12.tgz",
-      "checksum": "79a81e81be909fff8a900a18a6b4cac91aaee84eef653d6bb6e99cb2157495d1",
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.3.0-linux-arm-v12.tgz",
+      "checksum": "31440050a1191e449a3115b173be8e54aaf9d40e5ae5864dde24008182655031",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -159,9 +159,9 @@
           "72"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.2.0-linux-arm64-v12.tgz",
-      "checksum": "3ee2e9c7d56cc18487d648ff49f1794d86ba500d6bda5a3bfdbd9a2ec200e9c4",
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.3.0-linux-arm64-v12.tgz",
+      "checksum": "e1500aebe098cdc577d57cadfe13f5432a252117075c661bed0e691d0a677193",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,9 +175,9 @@
           "72"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.2.0-linux-x64-v12.tgz",
-      "checksum": "62b44abe3cebcba3e476d2bb17327053ab7ba3e2785b819d2c7dfcbf14882073",
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.3.0-linux-x64-v12.tgz",
+      "checksum": "7a9c5cc41b51f5dca9af10c838e115965b086662613744fa4cc17df2316d6606",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,9 +191,9 @@
           "72"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.2.0-darwin-x64-v12.tgz",
-      "checksum": "646f66066216f8fb9b320f90b3cf59c90ed5de4261871f4f7d49201268855213",
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.3.0-darwin-x64-v12.tgz",
+      "checksum": "5dbd68b90f1957d40bd58c7f3b0ff0bc9d51ace070ef2400b64cd00b813aa272",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
