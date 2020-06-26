@@ -3,7 +3,7 @@
   "name": "Matrix chat",
   "description": "Send unencrypted Matrix messages. For encryption use pantalaimon.",
   "author": "Christian Paul",
-  "homepage_url": "https://gitlab.com/webthings/matrix-adapter#readme",
+  "homepage_url": "https://gitlab.com/webthings/matrix-adapter",
   "license_url": "https://gitlab.com/webthings/matrix-adapter/-/blob/master/LICENSE",
   "primary_type": "notifier",
   "packages": [
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/matrix-adapter-0.1.0.tgz",
-      "checksum": "dfb8b2e0923f0746ad6c887d6e9f86a7593731fe23184cd6ec7941e23a315c8f",
+      "version": "0.2.0",
+      "url": "https://gateway.pinata.cloud/ipfs/QmQ63ELv3R8cArvrHrcJxZuM6mbAEYojikJXfeduMcxxqn/matrix-adapter-0.2.0.tgz",
+      "checksum": "d8faa94d8a00e49858413409fca1baab98d2825314ab649232494a305ba5266f",
       "api": {
         "min": 2,
         "max": 2
