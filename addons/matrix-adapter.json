@@ -16,8 +16,8 @@
         ]
       },
       "version": "0.2.0",
-      "url": "https://gateway.pinata.cloud/ipfs/QmayBLYY5YNj4Af7YSphDLAZFQHr1ocQ1i9fpVzN9G1i6a/matrix-adapter-0.2.0.tgz",
-      "checksum": "e7cf9ef68129a9e9f6bbfe6d84e357a8eb7a3c78c35dc7dd683b5590d681881f",
+      "url": "https://gateway.pinata.cloud/ipfs/QmPczAsL2fbDy5kpUZiyWm2mhHVqPgstkFfQih3FVLc9Wc/matrix-adapter-0.2.0.tgz",
+      "checksum": "3abfb2914af0b8e104e824ba36ff5c88d790f7333c4f66380d3dcaa31f8b6a60",
       "api": {
         "min": 2,
         "max": 2
