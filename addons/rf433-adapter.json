@@ -8,16 +8,16 @@
   "primary_type": "adapter",
   "packages": [
     {
-      "architecture": "any",
+      "architecture": "linux-arm",
       "language": {
         "name": "nodejs",
         "versions": [
           "any"
         ]
       },
-      "version": "0.1.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/rf433-adapter-0.1.3-linux-arm.tgz",
-      "checksum": "f5f40a216e34032a928593a6b1aa3b5bed6900d9a8d9faa3fe51757b45b5a2c8",
+      "version": "0.1.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/rf433-adapter-0.1.4.tgz",
+      "checksum": "bca62a7ecbed0f65d0f73292864168e534b51603addc70a68161af0bd47d5caf",
       "api": {
         "min": 2,
         "max": 2
