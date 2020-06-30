@@ -25,7 +25,7 @@ jobs:
         AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         AWS_REGION: 'us-west-2'
       run: |
-        aws configure --profile s3-sync-action <<-EOF > /dev/null 2>&1
+        aws configure --profile s3-copy-action <<-EOF > /dev/null 2>&1
         ${AWS_ACCESS_KEY_ID}
         ${AWS_SECRET_ACCESS_KEY}
         ${AWS_REGION}

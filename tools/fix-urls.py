@@ -27,6 +27,7 @@ def copy_to_s3(url):
     try:
         subprocess.check_output([
           'aws', 's3', 'cp',
+          '--profile', 's3-copy-action',
           '--acl', 'public-read',
           fname,
           's3://mozilla-gateway-addons/'
