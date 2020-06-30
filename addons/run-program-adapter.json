@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.3.0",
-      "url": "https://github.com/mozilla-iot/run-program-adapter/releases/download/v0.3.0/run-program-adapter-0.3.0.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/run-program-adapter-0.3.0.tgz",
       "checksum": "6d8c5051f6ee3db3115ce41442c9f4ded892c40dd361563ff4ffd396bd5fedd0",
       "api": {
         "min": 2,

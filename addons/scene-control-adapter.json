@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.1.0",
-      "url": "https://github.com/mozilla-iot/scene-control-adapter/releases/download/v0.1.0/scene-control-adapter-0.1.0.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/scene-control-adapter-0.1.0.tgz",
       "checksum": "7255152da7596b06e5cacdc1f1b2692c34f228902c96a4e451dde8ea6ea3d694",
       "api": {
         "min": 2,

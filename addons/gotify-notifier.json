@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.1.1",
-      "url": "https://github.com/mozilla-iot/gotify-notifier/releases/download/v0.1.1/gotify-notifier-0.1.1.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gotify-notifier-0.1.1.tgz",
       "checksum": "16e13e9ff4aa96a011ab69ca7b0d312c2cda03e1cc7d7db64053530598d4b7b7",
       "api": {
         "min": 2,

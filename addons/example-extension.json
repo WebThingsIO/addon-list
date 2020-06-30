@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.2.0",
-      "url": "https://github.com/mozilla-iot/example-extension/releases/download/v0.2.0/example-extension-0.2.0.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/example-extension-0.2.0.tgz",
       "checksum": "4874be06d9585eabc84e424196ca06c3b9f3677efd4a5d4ac8e0f27b61f254d1",
       "test_only": true,
       "gateway": {

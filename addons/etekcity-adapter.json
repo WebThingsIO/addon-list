@@ -19,7 +19,7 @@
         ]
       },
       "version": "0.5.0",
-      "url": "https://github.com/mozilla-iot/etekcity-adapter/releases/download/v0.5.0/etekcity-adapter-0.5.0.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/etekcity-adapter-0.5.0.tgz",
       "checksum": "ca99cda20ffcb15e5491ddacdb1d57db2ba40339bd65b114c4214e9fecc7ff98",
       "api": {
         "min": 2,

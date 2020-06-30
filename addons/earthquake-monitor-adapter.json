@@ -19,7 +19,7 @@
         ]
       },
       "version": "0.3.0",
-      "url": "https://github.com/mozilla-iot/earthquake-monitor-adapter/releases/download/v0.3.0/earthquake-monitor-adapter-0.3.0.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/earthquake-monitor-adapter-0.3.0.tgz",
       "checksum": "3d78cd23e849b381a46146e988cca46aebc4e005eeebd197cef4ff2c3a9f7321",
       "api": {
         "min": 2,

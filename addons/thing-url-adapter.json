@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.4.7",
-      "url": "https://github.com/mozilla-iot/thing-url-adapter/releases/download/v0.4.7/thing-url-adapter-0.4.7.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/thing-url-adapter-0.4.7.tgz",
       "checksum": "d085b356847e25691d0fa69f1cc33cedd3a6cfef44fd32cf072d2430c013d612",
       "api": {
         "min": 2,

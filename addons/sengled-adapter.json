@@ -19,7 +19,7 @@
         ]
       },
       "version": "0.3.0",
-      "url": "https://github.com/mozilla-iot/sengled-adapter/releases/download/v0.3.0/sengled-adapter-0.3.0.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sengled-adapter-0.3.0.tgz",
       "checksum": "2396ed367cf7b3195475e44b9a4dcf0978e56f172f73b313d44d92ece7557cfc",
       "api": {
         "min": 2,

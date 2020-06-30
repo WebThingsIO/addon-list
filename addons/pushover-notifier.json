@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.1.0",
-      "url": "https://github.com/mozilla-iot/pushover-notifier/releases/download/v0.1.0/pushover-notifier-0.1.0.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/pushover-notifier-0.1.0.tgz",
       "checksum": "c317ef6caf2bcc2740a6beb0f3733c32f51bb4e737f3aebb719ac31117e8015c",
       "api": {
         "min": 2,
@@ -29,4 +29,3 @@
     }
   ]
 }
-

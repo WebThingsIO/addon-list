@@ -19,7 +19,7 @@
         ]
       },
       "version": "0.3.1",
-      "url": "https://github.com/mozilla-iot/speed-test-adapter/releases/download/v0.3.1/speed-test-adapter-0.3.1.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/speed-test-adapter-0.3.1.tgz",
       "checksum": "bfe855bbe07b532d89e232a9b881432c7ee2206d6680dea34305965f24130016",
       "api": {
         "min": 2,

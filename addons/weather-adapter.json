@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.5.0",
-      "url": "https://github.com/mozilla-iot/weather-adapter/releases/download/v0.5.0/weather-adapter-0.5.0.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/weather-adapter-0.5.0.tgz",
       "checksum": "e6d64186b7cb1325b04199aa339ae9239a91f61f96657592089f2fe4b0e7fc03",
       "api": {
         "min": 2,

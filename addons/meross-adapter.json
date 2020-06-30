@@ -19,7 +19,7 @@
         ]
       },
       "version": "0.4.0",
-      "url": "https://github.com/mozilla-iot/meross-adapter/releases/download/v0.4.0/meross-adapter-0.4.0.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/meross-adapter-0.4.0.tgz",
       "checksum": "168d6a2b3196efc60aa99568901ebcbcb582bd046be90ba208058b1ac94fa676",
       "api": {
         "min": 2,

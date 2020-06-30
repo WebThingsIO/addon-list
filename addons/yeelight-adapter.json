@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.4.0",
-      "url": "https://github.com/mozilla-iot/yeelight-adapter/releases/download/v0.4.0/yeelight-adapter-0.4.0.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/yeelight-adapter-0.4.0.tgz",
       "checksum": "0cf489ee58a065dc3c82e07caa861e04179f491de5e76a0bc563b81bc7c650d4",
       "api": {
         "min": 2,

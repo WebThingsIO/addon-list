@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.6.2",
-      "url": "https://github.com/mozilla-iot/example-adapter/releases/download/v0.6.2/example-adapter-0.6.2.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/example-adapter-0.6.2.tgz",
       "checksum": "70b6bbdbdbd8e32c81af72162d2298c33a0f6028c7b95df63440fc6f8f5883a1",
       "api": {
         "min": 2,
