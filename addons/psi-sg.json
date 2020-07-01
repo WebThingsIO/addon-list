@@ -14,9 +14,9 @@
         "versions": [
           "64"
         ]
-      },
-      "version": "0.1.1",
-      "url": "https://github.com/chas-iot/psi-sg/releases/download/v0.1.1/psi-sg-0.1.1.tgz",
+     },
+      "version": "0.1.2",
+      "url": "https://github.com/chas-iot/psi-sg/releases/download/v0.1.2/psi-sg-0.1.2.tgz",
       "checksum": "bb4f60055dbb6279b254c1c77ab5759469e9c28cfc286849696ec411567fc9fa",
       "gateway": {
         "min": "0.10.0",
@@ -31,8 +31,8 @@
           "64"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://github.com/chas-iot/psi-sg/releases/download/v0.1.1/psi-sg-0.1.1.tgz",
+      "version": "0.1.2",
+      "url": "https://github.com/chas-iot/psi-sg/releases/download/v0.1.2/psi-sg-0.1.2.tgz",
       "checksum": "bb4f60055dbb6279b254c1c77ab5759469e9c28cfc286849696ec411567fc9fa",
       "api": {
         "min": 2,
@@ -51,8 +51,8 @@
           "64"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://github.com/chas-iot/psi-sg/releases/download/v0.1.1/psi-sg-0.1.1.tgz",
+      "version": "0.1.2",
+      "url": "https://github.com/chas-iot/psi-sg/releases/download/v0.1.2/psi-sg-0.1.2.tgz",
       "checksum": "bb4f60055dbb6279b254c1c77ab5759469e9c28cfc286849696ec411567fc9fa",
       "api": {
         "min": 2,
