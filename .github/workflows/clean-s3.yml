@@ -1,0 +1,37 @@
+name: Clean S3
+
+on:
+  schedule:
+    - cron: '0 4 * * 0'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v1
+      with:
+        python-version: 3.7
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        python -m pip install --upgrade awscli
+    - name: Set up awscli
+      env:
+        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        AWS_REGION: 'us-west-2'
+      run: |
+        aws configure --profile s3-copy-action <<-EOF > /dev/null 2>&1
+        ${AWS_ACCESS_KEY_ID}
+        ${AWS_SECRET_ACCESS_KEY}
+        ${AWS_REGION}
+        text
+        EOF
+    - name: Clean S3
+      run: |
+        ./tools/clean-s3.py
+    - name: Check full list
+      run: |
+        ./tools/check-list.py
