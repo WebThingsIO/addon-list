@@ -15,9 +15,9 @@
           "57"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.3.2-linux-arm-v8.tgz",
-      "checksum": "0f8f9d283238087a0dfe3d681d4cfac43b5205c97ba5bd4dfcaaa57e315de087",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.4.0/ruuvitag-adapter-0.4.0-linux-arm-v8.tgz",
+      "checksum": "67bee25093c3a11972bc1dc5269e63342680d5cf94f88d42d6e2cc84cf8271bb",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "57"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.3.2-linux-arm64-v8.tgz",
-      "checksum": "268a519359081b11f5cbe1310e339445a373d6a1eb4b85af325412728c080fbd",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.4.0/ruuvitag-adapter-0.4.0-linux-arm64-v8.tgz",
+      "checksum": "064c05a87fd85e0255ecdd4c15e8574986ceae77550cebb08054ba2df21d1127",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -47,9 +47,9 @@
           "57"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.3.2-linux-x64-v8.tgz",
-      "checksum": "0174923321cea68c44744d5ea9f5665b86a524eae8f8b9501fc6a76725c74c12",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.4.0/ruuvitag-adapter-0.4.0-linux-x64-v8.tgz",
+      "checksum": "34b8b7f08b5877bce6631cf8fd2846d1e7eac4bee2ad1724a6315ab033949534",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -63,9 +63,9 @@
           "57"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.3.2-darwin-x64-v8.tgz",
-      "checksum": "60182b1561c931bd750dca4ba995a0366bf27650542b037c24e1a7f47e6cd99a",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.4.0/ruuvitag-adapter-0.4.0-darwin-x64-v8.tgz",
+      "checksum": "9b878cab6ea4ac9951b56195503479cd012ddd1ddd6e753a07844161ea05b05f",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -79,9 +79,9 @@
           "64"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.3.2-linux-arm-v10.tgz",
-      "checksum": "b61b7f353d73c6b68b4e0ae284648ca94e00e318fdf963d83964ae4a6ec9959b",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.4.0/ruuvitag-adapter-0.4.0-linux-arm-v10.tgz",
+      "checksum": "f90878c19eba797fc8cbe10e2e5c96f98397d3ddb5371cbaaf53b76abb00cc7a",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,9 +95,9 @@
           "64"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.3.2-linux-arm64-v10.tgz",
-      "checksum": "2f0974c1a7a6632a750d35f1b5d74cef7a35b72d0f425f49d7bb4b6095b8208e",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.4.0/ruuvitag-adapter-0.4.0-linux-arm64-v10.tgz",
+      "checksum": "5f8eb43a72e2591331c86b27fd671ab08dd99f2bce22a1aea5e3730838175f7b",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -111,9 +111,9 @@
           "64"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.3.2-linux-x64-v10.tgz",
-      "checksum": "8390d469bff21bd26907fa7679309ce24b80eb00c28bb9a81a501b03d0fab73a",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.4.0/ruuvitag-adapter-0.4.0-linux-x64-v10.tgz",
+      "checksum": "1fa545f9128e17a4768873e751d55ba6a1402f9f3ee2b28f1f2fbc2ada12fc19",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,9 +127,9 @@
           "64"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.3.2-darwin-x64-v10.tgz",
-      "checksum": "8042f0e5f3b7124ebfef8c80e98cecf30b7113f3310328c7fdda68fdffd45689",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.4.0/ruuvitag-adapter-0.4.0-darwin-x64-v10.tgz",
+      "checksum": "a9a7edbcc6183ad7e41bc51bba2327003f3feeeafdec5d7657be7eb36fef989e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -143,9 +143,9 @@
           "72"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.3.2-linux-arm-v12.tgz",
-      "checksum": "e78e2d510c820c37b9748b47a9b4da4a1bfa05352752b224fd8061938e4b7495",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.4.0/ruuvitag-adapter-0.4.0-linux-arm-v12.tgz",
+      "checksum": "f26d54973072a247398b359868dde8a51b12c6eb43be931c976e679cdc810d17",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -159,9 +159,9 @@
           "72"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.3.2-linux-arm64-v12.tgz",
-      "checksum": "16d0ef9dbd89afb6c58f9e53bd6141bc2f6054a9b3c9f121c566215f7ad7919f",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.4.0/ruuvitag-adapter-0.4.0-linux-arm64-v12.tgz",
+      "checksum": "18fadee021f9290fb5406c40502695672439393da82565db2684af024e4928d0",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,9 +175,9 @@
           "72"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.3.2-linux-x64-v12.tgz",
-      "checksum": "7840e9dd8ce1ef1c40b2e6ccd701293d0722b6b70da838b30a928e37dbd07a22",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.4.0/ruuvitag-adapter-0.4.0-linux-x64-v12.tgz",
+      "checksum": "9c1d2f20f521827fc76ff131cbc31d161e833bd5caecb84024b10803db29c3c7",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,9 +191,9 @@
           "72"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ruuvitag-adapter-0.3.2-darwin-x64-v12.tgz",
-      "checksum": "e3f4220afb920321cf26257cab0c4f4fd78c751b545004b18a63667044090ec8",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.4.0/ruuvitag-adapter-0.4.0-darwin-x64-v12.tgz",
+      "checksum": "cbe3cc24884848e751e8a0c96ec7df1a200b2aa87aceb55b1b26d3b46d5a2f9a",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
