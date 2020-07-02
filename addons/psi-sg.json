@@ -12,7 +12,7 @@
       "language": {
         "name": "nodejs",
         "versions": [
-          "64"
+          "any"
         ]
      },
       "version": "0.1.5",
