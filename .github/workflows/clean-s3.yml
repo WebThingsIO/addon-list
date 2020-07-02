@@ -2,7 +2,7 @@ name: Clean S3
 
 on:
   schedule:
-    - cron: '0 4 * * 0'
+    - cron: '0 9 * * 0'
 
 jobs:
   build:
