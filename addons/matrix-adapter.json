@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/matrix-adapter-0.2.1.tgz",
-      "checksum": "b656eecf3d1f9eabb3e5d563ff1c3fa02f68c5dd217dcce0a35d590617d88ca5",
+      "version": "0.3.2",
+      "url": "https://gateway.pinata.cloud/ipfs/QmbHhhsh5dYojjuC4Hz2MJyseAVS6ahmCgG7NUNpg6bieB/matrix-adapter-0.3.2.tgz",
+      "checksum": "b546a62f12b06d941aff2f24a57cc89c83b8d2db189f515073d041ccc997e255",
       "api": {
         "min": 2,
         "max": 2
