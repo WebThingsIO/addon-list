@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/matrix-adapter-0.2.1.tgz",
-      "checksum": "b656eecf3d1f9eabb3e5d563ff1c3fa02f68c5dd217dcce0a35d590617d88ca5",
+      "version": "0.3.0",
+      "url": "https://gitlab.com/webthings/matrix-adapter/-/jobs/629049597/artifacts/raw/matrix-adapter-0.3.0.tgz?inline=false",
+      "checksum": "33c5cd8fc240aaac4faddf4fb4ed200c61cdb151afea1cfea5d38c61a3d630dd",
       "api": {
         "min": 2,
         "max": 2
