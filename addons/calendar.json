@@ -1,0 +1,27 @@
+{
+  "id": "calendar",
+  "name": "Calendar",
+  "description": "Provides calendar management of the working week, holidays, and other event dates. This is to support rules such as not switching on a wakeup alarm on public or personal holidays.",
+  "author": "Chas-IoT",
+  "homepage_url": "https://github.com/chas-iot/calendar",
+  "license_url": "https://github.com/chas-iot/calendar/blob/trunk/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/chas-iot/calendar/releases/download/v0.0.1/calendar-0.0.1.tgz",
+      "checksum": "e61cc8f8b8e4fc94febf4d3bf07df01d6407c389395f9815dc79e26e352649ec",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
