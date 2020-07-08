@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.3.0",
-      "url": "https://gitlab.com/webthings/matrix-adapter/-/jobs/629049597/artifacts/raw/matrix-adapter-0.3.0.tgz?inline=false",
+      "url": "https://gateway.pinata.cloud/ipfs/QmWAywkhzAMsQusyzrK5XCTqB9LFRzpmXXiagdJQezfPTu/matrix-adapter-0.3.0.tgz",
       "checksum": "33c5cd8fc240aaac4faddf4fb4ed200c61cdb151afea1cfea5d38c61a3d630dd",
       "api": {
         "min": 2,
