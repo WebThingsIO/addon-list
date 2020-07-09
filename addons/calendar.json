@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://github.com/chas-iot/calendar/releases/download/v0.0.2/calendar-0.0.2.tgz",
-      "checksum": "e2635cdcfcab6eec559b8e66be4761796f08eb444e11b6580578e99845a62580",
+      "version": "0.0.3",
+      "url": "https://github.com/chas-iot/calendar/releases/download/v0.0.3/calendar-0.0.3.tgz",
+      "checksum": "732a0c166d04c8b2dc1fb5d622fe94fa1428fd60216017df7bb7a6082229757d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
