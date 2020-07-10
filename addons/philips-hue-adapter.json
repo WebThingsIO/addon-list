@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.9.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/philips-hue-adapter-0.9.3.tgz",
-      "checksum": "36aa3b2bda420e8492db2c6e8a7f645c328346a5dd099f96ebde828d32a7b20f",
+      "version": "0.9.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/philips-hue-adapter-0.9.4.tgz",
+      "checksum": "4a1ff30c644b561b5287a223de138e8c9813c442a64621a11e6d863c2596ffe5",
       "api": {
         "min": 2,
         "max": 2
