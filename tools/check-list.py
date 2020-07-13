@@ -100,10 +100,76 @@ def check_warn_binary(fname, package_entry):
         print('Compressed file found: {}'.format(fname))
         return
 
+    ignore_binary = [
+        # Node stuff
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm/node.napi.armv7.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm/node.napi.armv7.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm64/node.napi.armv8.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm64/node.napi.armv8.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.musl.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm64/node.napi.armv8.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm64/node.napi.armv8.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm/node.napi.armv7.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm/node.napi.armv7.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.musl.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm/node.napi.armv7.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm/node.napi.armv7.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm64/node.napi.armv8.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm64/node.napi.armv8.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.musl.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm64/node.napi.armv8.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm64/node.napi.armv8.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm/node.napi.armv7.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm/node.napi.armv7.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.musl.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm/node.napi.armv7.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm/node.napi.armv7.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm64/node.napi.armv8.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm64/node.napi.armv8.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.musl.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm64/node.napi.armv8.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm64/node.napi.armv8.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm/node.napi.armv7.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm/node.napi.armv7.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.musl.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.node'),
+
+        # Python stuff
+
+        # Adapter-specific stuff
+    ]
+
     platform = package_entry['architecture'].split('-')[0]
-    if (platform == 'linux' and mime == 'application/x-mach-binary') or \
+    if ((platform == 'linux' and mime == 'application/x-mach-binary') or \
             (platform == 'darwin' and mime in ['application/x-executable',
-                                               'application/x-sharedlib']):
+                                               'application/x-sharedlib']) or \
+            (platform == 'any' and mime in ['application/x-executable',
+                                            'application/x-mach-binary',
+                                            'application/x-sharedlib'])) and \
+            fname not in ignore_binary:
         print('Potentially unsupported binary file: {}'.format(fname))
         return
 
