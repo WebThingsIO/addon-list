@@ -16,7 +16,7 @@
         ]
       },
       "version": "1.0.0",
-      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.0.0/azure-iot-bridge-1.0.0-linux-arm-v8.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/azure-iot-bridge-1.0.0-linux-arm-v8.tgz",
       "checksum": "898e0f270492d46ff96a4cec28bffc86f8bb5a0a79da45e456b126d2f9ad46a6",
       "gateway": {
         "min": "0.10.0",
@@ -32,7 +32,7 @@
         ]
       },
       "version": "1.0.0",
-      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.0.0/azure-iot-bridge-1.0.0-linux-arm64-v8.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/azure-iot-bridge-1.0.0-linux-arm64-v8.tgz",
       "checksum": "26a25462d061baa90396aca8064f285d4afb47cec82645fdd7865899a3a55fa9",
       "gateway": {
         "min": "0.10.0",
@@ -48,7 +48,7 @@
         ]
       },
       "version": "1.0.0",
-      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.0.0/azure-iot-bridge-1.0.0-linux-x64-v8.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/azure-iot-bridge-1.0.0-linux-x64-v8.tgz",
       "checksum": "367c274c84c6be9ac4fa3a09f91e0a3a8e87eb86f1e1aad5a069ff366d22d8db",
       "gateway": {
         "min": "0.10.0",
@@ -64,7 +64,7 @@
         ]
       },
       "version": "1.0.0",
-      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.0.0/azure-iot-bridge-1.0.0-darwin-x64-v8.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/azure-iot-bridge-1.0.0-darwin-x64-v8.tgz",
       "checksum": "278af0020ef91ccaed8ed98c9c3c26d5c0fb6d5cbae00ecedbacce7ccd997d2f",
       "gateway": {
         "min": "0.10.0",
@@ -80,7 +80,7 @@
         ]
       },
       "version": "1.0.0",
-      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.0.0/azure-iot-bridge-1.0.0-linux-arm-v10.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/azure-iot-bridge-1.0.0-linux-arm-v10.tgz",
       "checksum": "88b58f69cda597ed8d3e6b7ec491bc06651eb1c230745964ce206c2bcef3bc03",
       "gateway": {
         "min": "0.10.0",
@@ -96,7 +96,7 @@
         ]
       },
       "version": "1.0.0",
-      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.0.0/azure-iot-bridge-1.0.0-linux-arm64-v10.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/azure-iot-bridge-1.0.0-linux-arm64-v10.tgz",
       "checksum": "f50b2e54ae80948ec0d58a9a6ba38c2b4887b29f3544ff7868a54bd29e71de04",
       "gateway": {
         "min": "0.10.0",
@@ -112,7 +112,7 @@
         ]
       },
       "version": "1.0.0",
-      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.0.0/azure-iot-bridge-1.0.0-linux-x64-v10.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/azure-iot-bridge-1.0.0-linux-x64-v10.tgz",
       "checksum": "c976db7be8759a60564cda7d617d4324efedb4ab3434c05bd58adc0f66db0d67",
       "gateway": {
         "min": "0.10.0",
@@ -128,7 +128,7 @@
         ]
       },
       "version": "1.0.0",
-      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.0.0/azure-iot-bridge-1.0.0-darwin-x64-v10.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/azure-iot-bridge-1.0.0-darwin-x64-v10.tgz",
       "checksum": "0a083decc7a45b52e373a54796d0f0439d45f64c7478c105755e95cf4f823d21",
       "gateway": {
         "min": "0.10.0",
@@ -144,7 +144,7 @@
         ]
       },
       "version": "1.0.0",
-      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.0.0/azure-iot-bridge-1.0.0-linux-arm-v12.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/azure-iot-bridge-1.0.0-linux-arm-v12.tgz",
       "checksum": "27d12447e2f04c34176a59529d96f596f602a779c6644d1b2c57082f31bcff8f",
       "gateway": {
         "min": "0.10.0",
@@ -160,7 +160,7 @@
         ]
       },
       "version": "1.0.0",
-      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.0.0/azure-iot-bridge-1.0.0-linux-arm64-v12.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/azure-iot-bridge-1.0.0-linux-arm64-v12.tgz",
       "checksum": "b01cf31c28e04f05a6c016774ea83a1f0b665daf80d131b64a2293bfd031497d",
       "gateway": {
         "min": "0.10.0",
@@ -176,7 +176,7 @@
         ]
       },
       "version": "1.0.0",
-      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.0.0/azure-iot-bridge-1.0.0-linux-x64-v12.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/azure-iot-bridge-1.0.0-linux-x64-v12.tgz",
       "checksum": "fa8066721ed16d3337e39a7faf446f839f0747cd1dd869e15db2d5784fa74ebe",
       "gateway": {
         "min": "0.10.0",
@@ -192,7 +192,7 @@
         ]
       },
       "version": "1.0.0",
-      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.0.0/azure-iot-bridge-1.0.0-darwin-x64-v12.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/azure-iot-bridge-1.0.0-darwin-x64-v12.tgz",
       "checksum": "52b53a7c311ee081293c204978e94d472a1975afc5fb46ebd2777a785c974f92",
       "gateway": {
         "min": "0.10.0",
@@ -208,7 +208,7 @@
         ]
       },
       "version": "1.0.0",
-      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.0.0/azure-iot-bridge-1.0.0-linux-arm-v14.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/azure-iot-bridge-1.0.0-linux-arm-v14.tgz",
       "checksum": "8c3e5afb7fafb30d4efc9af0c152e027673b8d1463a0d3068a1ec55fcde11f65",
       "gateway": {
         "min": "0.10.0",
@@ -224,7 +224,7 @@
         ]
       },
       "version": "1.0.0",
-      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.0.0/azure-iot-bridge-1.0.0-linux-arm64-v14.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/azure-iot-bridge-1.0.0-linux-arm64-v14.tgz",
       "checksum": "2143ba0dabaa4d00313ed3ced72bb9067549805c0d6e4def6b7558b6332f18da",
       "gateway": {
         "min": "0.10.0",
@@ -240,7 +240,7 @@
         ]
       },
       "version": "1.0.0",
-      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.0.0/azure-iot-bridge-1.0.0-linux-x64-v14.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/azure-iot-bridge-1.0.0-linux-x64-v14.tgz",
       "checksum": "771cf247173a73e2f20a1a24616056c9b5fdbff3fc403b75cf0d7ed6a50273fb",
       "gateway": {
         "min": "0.10.0",
@@ -256,7 +256,7 @@
         ]
       },
       "version": "1.0.0",
-      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.0.0/azure-iot-bridge-1.0.0-darwin-x64-v14.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/azure-iot-bridge-1.0.0-darwin-x64-v14.tgz",
       "checksum": "fc26cc477d2f55eb0f5dfaf582905ba9b96d41b4a3c22a615199431a7481435d",
       "gateway": {
         "min": "0.10.0",
