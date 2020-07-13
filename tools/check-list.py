@@ -4,6 +4,7 @@ import glob
 import hashlib
 import json
 import jsonschema
+import magic
 import os
 import re
 import shutil
@@ -18,6 +19,7 @@ _LIST_SCHEMA = os.path.join(_ROOT, 'schema', 'list.json')
 _PACKAGE_SCHEMA = os.path.join(_ROOT, 'schema', 'package.json')
 _MANIFEST_SCHEMA = os.path.join(_ROOT, 'schema', 'manifest.json')
 _ADDONS_DIR = os.path.join(_ROOT, 'addons')
+_MAGIC = magic.Magic(mime=True)
 
 MAX_DOWNLOAD_ATTEMPTS = 5
 DOWNLOAD_ATTEMPT_DELAY = 3  # seconds
@@ -50,6 +52,38 @@ def hash_file(fname):
         return None
 
 
+def check_warn_binary(fname, package_entry):
+    mime = _MAGIC.from_file(fname)
+
+    warn_compressed = [
+        'application/gzip',
+        'application/x-7z-compressed',
+        'application/x-bzip2',
+        'application/x-compress',
+        'application/x-gzip',
+        'application/x-lrzip',
+        'application/x-lz4',
+        'application/x-lzip',
+        'application/x-lzma',
+        'application/x-tar',
+        'application/x-xz',
+        'application/zip',
+        'application/zstd',
+    ]
+    if mime in warn_compressed:
+        print('Compressed file found: {}'.format(fname))
+        return
+
+    warn_binary = [
+        'application/x-executable',
+        'application/x-mach-binary',
+        'application/x-sharedlib',
+    ]
+    if mime in warn_binary and package_entry['architecture'] == 'any':
+        print('Potentially unsafe binary file: {}'.format(fname))
+        return
+
+
 def verify_package_json(package_json, list_entry, package):
     _id = list_entry['id']
 
@@ -76,6 +110,8 @@ def verify_package_json(package_json, list_entry, package):
                         print('Checksum failed in package "{}": {}'
                               .format(_id, fname))
                         cleanup()
+
+                    check_warn_binary(fname, package)
         except (IOError, OSError, ValueError):
             print('Failed to read SHA256SUMS file for package "{}"'
                   .format(_id))
@@ -226,6 +262,8 @@ def verify_manifest_json(manifest_json, list_entry, package):
         if sums[fname] != hash_file(fname):
             print('Checksum failed in package "{}": {}'.format(_id, fname))
             cleanup()
+
+        check_warn_binary(fname, package)
 
     # Verify that the ID matches
     if manifest_json['id'] != _id:

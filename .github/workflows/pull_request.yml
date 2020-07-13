@@ -16,8 +16,10 @@ jobs:
         python-version: 3.7
     - name: Install dependencies
       run: |
+        sudo apt -qq update
+        sudo apt install -y libmagic1
         python -m pip install --upgrade pip
-        python -m pip install jsonschema
+        python -m pip install jsonschema python-magic
     - name: Check changes
       run: |
         ./test-pr.py
