@@ -53,34 +53,58 @@ def hash_file(fname):
 
 
 def check_warn_binary(fname, package_entry):
+    cwd = os.path.realpath(os.getcwd())
+    fname = os.path.realpath(fname)
     mime = _MAGIC.from_file(fname)
 
+    ignore_compressed = [
+        # Node stuff
+        os.path.join(cwd, 'package/node_modules/bytebuffer/dist/ByteBufferAB.min.js.gz'),
+        os.path.join(cwd, 'package/node_modules/long/dist/Long.min.js.gz'),
+        os.path.join(cwd, 'package/node_modules/napi-build-utils/napi-build-utils-1.0.0.tgz'),
+        os.path.join(cwd, 'package/node_modules/protobufjs/dist/ProtoBuf.min.js.gz'),
+        os.path.join(cwd, 'package/node_modules/protobufjs/dist/ProtoBuf.noparse.min.js.gz'),
+        os.path.join(cwd, 'package/node_modules/tar-fs/test/fixtures/invalid.tar'),
+
+        # Python stuff
+        os.path.join(cwd, 'package/lib/bluepy/bluez-src.tgz'),
+        os.path.join(cwd, 'package/lib/dateutil/zoneinfo/dateutil-zoneinfo.tar.gz'),
+        os.path.join(cwd, 'package/lib/numpy/lib/tests/data/py2-objarr.npz'),
+        os.path.join(cwd, 'package/lib/numpy/lib/tests/data/py3-objarr.npz'),
+
+        # Adapter-specific stuff
+        os.path.join(cwd, 'package/openzwave/config.orig/cooper/RF9505-T.xml.zip'),
+    ]
     warn_compressed = [
         'application/gzip',
         'application/x-7z-compressed',
+        'application/x-bzip',
         'application/x-bzip2',
         'application/x-compress',
+        'application/x-compressed-tar',
+        'application/x-cpio',
+        'application/x-gtar',
         'application/x-gzip',
+        'application/x-java-archive',
         'application/x-lrzip',
         'application/x-lz4',
         'application/x-lzip',
         'application/x-lzma',
+        'application/x-rar',
         'application/x-tar',
         'application/x-xz',
         'application/zip',
         'application/zstd',
     ]
-    if mime in warn_compressed:
+    if fname not in ignore_compressed and mime in warn_compressed:
         print('Compressed file found: {}'.format(fname))
         return
 
-    warn_binary = [
-        'application/x-executable',
-        'application/x-mach-binary',
-        'application/x-sharedlib',
-    ]
-    if mime in warn_binary and package_entry['architecture'] == 'any':
-        print('Potentially unsafe binary file: {}'.format(fname))
+    platform = package_entry['architecture'].split('-')[0]
+    if (platform == 'linux' and mime == 'application/x-mach-binary') or \
+            (platform == 'darwin' and mime in ['application/x-executable',
+                                               'application/x-sharedlib']):
+        print('Potentially unsupported binary file: {}'.format(fname))
         return
 
 
