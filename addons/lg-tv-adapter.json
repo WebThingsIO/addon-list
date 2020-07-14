@@ -15,9 +15,9 @@
           "57"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.2-linux-arm-v8.tgz",
-      "checksum": "220070c65dde7209631a08391cff43c1e35bbd88b50c0b5b4e43c8f0b66fde68",
+      "version": "0.3.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.3-linux-arm-v8.tgz",
+      "checksum": "402b3e7dfe9d0739d421539fde1fc5e4223f10827e131d638b177aadaa552cb2",
       "api": {
         "min": 2,
         "max": 2
@@ -35,9 +35,9 @@
           "57"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.2-linux-arm64-v8.tgz",
-      "checksum": "6f5991f55548688732a422d619591730ee3bd324958abe7f4da0336de023051e",
+      "version": "0.3.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.3-linux-arm64-v8.tgz",
+      "checksum": "8b376c312015522f30a01804d51efd3776994b47e6c33bea6202a4802ba72f10",
       "api": {
         "min": 2,
         "max": 2
@@ -55,9 +55,9 @@
           "57"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.2-linux-x64-v8.tgz",
-      "checksum": "486143534f82dd3ea2485fe003a367bdd389f68535c1f0cd6ae2560c3eb6989a",
+      "version": "0.3.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.3-linux-x64-v8.tgz",
+      "checksum": "ccf91e43c66d00192b43c45c3c7a4da4ea9fd4a444196db66cb2c0acc0bff9a5",
       "api": {
         "min": 2,
         "max": 2
@@ -75,9 +75,9 @@
           "57"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.2-darwin-x64-v8.tgz",
-      "checksum": "799c5c7903e793045701c9b579a6917a5bf4a191f71c40c3a76fd10d8fcfcce4",
+      "version": "0.3.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.3-darwin-x64-v8.tgz",
+      "checksum": "92f98de03e7e0e81337467e332aca21d55b91fa0ce7b5e8ebd0057880c50bb67",
       "api": {
         "min": 2,
         "max": 2
@@ -95,9 +95,9 @@
           "64"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.2-linux-arm-v10.tgz",
-      "checksum": "5f1d42ce82a76b9682b422c0b6415dce166352eb1bdf803f9c066883d0f8154e",
+      "version": "0.3.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.3-linux-arm-v10.tgz",
+      "checksum": "b5cc1c08ab354914fb49bbbaf8bd956356dbce0a4e73e7f4bebb4f64c06b3965",
       "api": {
         "min": 2,
         "max": 2
@@ -115,9 +115,9 @@
           "64"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.2-linux-arm64-v10.tgz",
-      "checksum": "dc42b3f324fd21d70df1fb92a94ad73d4b6b6d7bec0b8c4e8d4c5f66ee820199",
+      "version": "0.3.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.3-linux-arm64-v10.tgz",
+      "checksum": "561c3e066bf8219df783ec43b83b2f1483439e4d52dddf166346567dd14ef41d",
       "api": {
         "min": 2,
         "max": 2
@@ -135,9 +135,9 @@
           "64"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.2-linux-x64-v10.tgz",
-      "checksum": "602abefaf3ad8fff34839410de28aa57f10409d4e0c84df61eebdb1cfe7f16fb",
+      "version": "0.3.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.3-linux-x64-v10.tgz",
+      "checksum": "80c56fe9df35e5fb5b5ec2cc5ad2cfba04797de693453365e2496df774410f5b",
       "api": {
         "min": 2,
         "max": 2
@@ -155,9 +155,9 @@
           "64"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.2-darwin-x64-v10.tgz",
-      "checksum": "7eaff7afe4fd4af71e4b5ace55b2f9a570072f043fe4abf79b2a7859427e07fb",
+      "version": "0.3.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.3-darwin-x64-v10.tgz",
+      "checksum": "f60683a944f0970abba2e087b5fef8426dea5421099be57d0ae4a3cd06d7e384",
       "api": {
         "min": 2,
         "max": 2
@@ -175,9 +175,9 @@
           "72"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.2-linux-arm-v12.tgz",
-      "checksum": "0f35fc18a69448c5a331de29be6cc0347d8c55b7408c097f79e7c09cece98bed",
+      "version": "0.3.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.3-linux-arm-v12.tgz",
+      "checksum": "cc2e621f161a6963cdcc6a43136824f73e358db326a3bf445426b76e4f1e507b",
       "api": {
         "min": 2,
         "max": 2
@@ -195,9 +195,9 @@
           "72"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.2-linux-arm64-v12.tgz",
-      "checksum": "747af65bf75cedfc11098f3684fe231faf53f8351226fd830847cf8332632017",
+      "version": "0.3.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.3-linux-arm64-v12.tgz",
+      "checksum": "ec300884c2b4c5ddb3d93dc2df2f03ebb9343508e286c5330325c4d10c119cac",
       "api": {
         "min": 2,
         "max": 2
@@ -215,9 +215,9 @@
           "72"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.2-linux-x64-v12.tgz",
-      "checksum": "371d71954edd8e50b230665e8a61f8995f87e3a4b2e8876b1eac428a9d6920df",
+      "version": "0.3.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.3-linux-x64-v12.tgz",
+      "checksum": "c353cb716c3563a57935de34148acc0268d1374d783f6b0d2de52e2c20dd5986",
       "api": {
         "min": 2,
         "max": 2
@@ -235,9 +235,89 @@
           "72"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.2-darwin-x64-v12.tgz",
-      "checksum": "89edeed5cdd49c188d76127cf40b699cb5976dfbae0107c0c9af011b270708f0",
+      "version": "0.3.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.3-darwin-x64-v12.tgz",
+      "checksum": "a3949e23f4190c1820baa6bd97593c547f77bdf50f9ec5cae9fd5dcc83cad5b8",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.3.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.3-linux-arm-v14.tgz",
+      "checksum": "1e1b58064dfba90ca2d6901b1773173ff58c11b8ad5d2fe40174570758092756",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.3.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.3-linux-arm64-v14.tgz",
+      "checksum": "f3db0691c5e2da9e64cc3d3d5dc25c7d3e988f0c33a020d828541c2ee48abac6",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.3.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.3-linux-x64-v14.tgz",
+      "checksum": "113055f4a673a36c6cfdb0d7cbcfe16faf96e2b98431c1286266da9ef4581f9c",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.3.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.3-darwin-x64-v14.tgz",
+      "checksum": "98868799cf38f636cf864040b3c1d7183143020d95e831f15cf53458698af34a",
       "api": {
         "min": 2,
         "max": 2
