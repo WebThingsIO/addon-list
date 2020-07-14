@@ -8,16 +8,36 @@
   "primary_type": "adapter",
   "packages": [
     {
-      "architecture": "any",
+      "architecture": "linux-arm",
       "language": {
         "name": "nodejs",
         "versions": [
           "any"
         ]
       },
-      "version": "0.3.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/flic-button-adapter-0.3.0.tgz",
-      "checksum": "7c0adef79a849bf3ca6271353513b66ffe4be3724d8646cfbdc9f1a312a80a6c",
+      "version": "0.3.1",
+      "url": "https://github.com/mrstegeman/flic-button-adapter/releases/download/v0.3.1/flic-button-adapter-0.3.1-linux-arm.tgz",
+      "checksum": "e8275f7391017499b66c3735cd8733ed4ccab9697a6a812a9288cacee343db5e",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.3.1",
+      "url": "https://github.com/mrstegeman/flic-button-adapter/releases/download/v0.3.1/flic-button-adapter-0.3.1-linux-x64.tgz",
+      "checksum": "c51ffe57d2a4d88062d1c63ff243b85bdd6edfe9be4bfcce2ca9775e1f587639",
       "api": {
         "min": 2,
         "max": 2
