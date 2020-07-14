@@ -15,9 +15,9 @@
           "57"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.0-linux-arm-v8.tgz",
-      "checksum": "15d5da91ccd0f7e084bd29e3fa8a449d5da96ad00be33a08cdf12c098d0cfa72",
+      "version": "0.5.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-linux-arm-v8.tgz",
+      "checksum": "bbbe5f93b22c687932d288a6767341475c9778a60d4557e7a41e77e21c72fb5e",
       "api": {
         "min": 2,
         "max": 2
@@ -35,9 +35,9 @@
           "57"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.0-linux-arm64-v8.tgz",
-      "checksum": "5c72afb2c04871e7855da874d397e87ccaa3525ca017e451dcb8ee551cb173e5",
+      "version": "0.5.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-linux-arm64-v8.tgz",
+      "checksum": "94b7893de6eca47254970ed499aefc229cf83873c4d810c3ecfe9db6fea2361f",
       "api": {
         "min": 2,
         "max": 2
@@ -55,9 +55,9 @@
           "57"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.0-linux-x64-v8.tgz",
-      "checksum": "385cf9a657d7dbb487580b2f34fb10266db7332f6892b58a5f3eda3901cd061a",
+      "version": "0.5.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-linux-x64-v8.tgz",
+      "checksum": "00701b85c6d5908eed226a3a36e97f430276238af83b09c1c0e757618d2b002b",
       "api": {
         "min": 2,
         "max": 2
@@ -75,9 +75,9 @@
           "57"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.0-darwin-x64-v8.tgz",
-      "checksum": "4a4df515264db19be96479070110b49ee80976dea1bec42c77aee47619f065a5",
+      "version": "0.5.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-darwin-x64-v8.tgz",
+      "checksum": "e461c343001d13d174a05b20e9d2ccaeed1e5d1838bbc09791766c33041aa687",
       "api": {
         "min": 2,
         "max": 2
@@ -95,9 +95,9 @@
           "64"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.0-linux-arm-v10.tgz",
-      "checksum": "38229cd107ac7e4d3581f95ea03bca9b8b0aa2aacd6086119502b5a188d506ae",
+      "version": "0.5.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-linux-arm-v10.tgz",
+      "checksum": "41fe34cd3ecc51fbb38986e99b6e485052a34c50ce7a43989ceab4467c5623e9",
       "api": {
         "min": 2,
         "max": 2
@@ -115,9 +115,9 @@
           "64"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.0-linux-arm64-v10.tgz",
-      "checksum": "9f6cc33a8edaf15db67bf7c2b44cbc15329dfcb965b00044e39c102f3ec8528b",
+      "version": "0.5.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-linux-arm64-v10.tgz",
+      "checksum": "d127d8f51b7f00bdd71cd9de7dd16b8b3eda962f514f675ac819d7bf4a853386",
       "api": {
         "min": 2,
         "max": 2
@@ -135,9 +135,9 @@
           "64"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.0-linux-x64-v10.tgz",
-      "checksum": "f7eb97eb083ac3bd6ac59010a5fe0f3190140e3c58defec6764d74907987c7a2",
+      "version": "0.5.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-linux-x64-v10.tgz",
+      "checksum": "906c1b60b945ba4d7fad2d18c8a8cfb9b50da8f4af1267e463bbc379995771ac",
       "api": {
         "min": 2,
         "max": 2
@@ -155,9 +155,9 @@
           "64"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.0-darwin-x64-v10.tgz",
-      "checksum": "a9e8cd14ca14daff0d9f19b39314ee7ee6b3e4f55dba289e2d15005822984f22",
+      "version": "0.5.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-darwin-x64-v10.tgz",
+      "checksum": "6b48431a2c2d439e16644c25e366ed4523d39d054a0b4c508dc870d12b227370",
       "api": {
         "min": 2,
         "max": 2
@@ -175,9 +175,9 @@
           "72"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.0-linux-arm-v12.tgz",
-      "checksum": "d11d219b4f08092b1814d9a9a3bd5a03dbadc12ba11f413ff4f361be7efcd89d",
+      "version": "0.5.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-linux-arm-v12.tgz",
+      "checksum": "729d781bcb04963ab3121dc1bdebf3af592f32f44548b4e857faa32446ba1748",
       "api": {
         "min": 2,
         "max": 2
@@ -195,9 +195,9 @@
           "72"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.0-linux-arm64-v12.tgz",
-      "checksum": "40323d8d5423ccfd655fc942f7693ba41e0cf22647a4b68c8e63c9ec473e7e55",
+      "version": "0.5.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-linux-arm64-v12.tgz",
+      "checksum": "8eec3de3c964f592d9a9a4f0a1145c65086759206ebc5e1868d092c405601e3f",
       "api": {
         "min": 2,
         "max": 2
@@ -215,9 +215,9 @@
           "72"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.0-linux-x64-v12.tgz",
-      "checksum": "a0330e7d7d7184cb73764bd35995cb71362086ff5ab1571b093a222e07029b9e",
+      "version": "0.5.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-linux-x64-v12.tgz",
+      "checksum": "edc0470d057c4c102ed030e2a716c41360edc49a5073d0c82e82d88c8a634713",
       "api": {
         "min": 2,
         "max": 2
@@ -235,9 +235,89 @@
           "72"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.0-darwin-x64-v12.tgz",
-      "checksum": "3b329aacc51e0cb1556d24cdf7d293563562f173bfd88174aa7206d9adc96085",
+      "version": "0.5.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-darwin-x64-v12.tgz",
+      "checksum": "362946061b930a310494a1e0a4cd4019b38d3f8cb939d449500fcbcf5731a127",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.5.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-linux-arm-v14.tgz",
+      "checksum": "0f71154b4cc66aaa2576e65a40294a9adc866a9d09ad045e8676b24d84c24c04",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.5.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-linux-arm64-v14.tgz",
+      "checksum": "e132c729d4010143b358958acf47951cc15db8c962cd59516151cb6bd13ff0af",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.5.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-linux-x64-v14.tgz",
+      "checksum": "7e735d02ae68fd3025249ee22b4e358f14d9245f2f0701d3bb3f8fe12d29e425",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.5.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-darwin-x64-v14.tgz",
+      "checksum": "c0f8b6832108195f943041c6bcc6257aa9bbec9ff344591bd9d1b36aa4128a1a",
       "api": {
         "min": 2,
         "max": 2
