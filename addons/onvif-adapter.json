@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.3.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/onvif-adapter-0.3.0.tgz",
-      "checksum": "6dc3df53376b7aa9c6519929ec76e222403d22d21f36af56e60b130dad20da0d",
+      "version": "0.3.1",
+      "url": "https://github.com/mozilla-iot/onvif-adapter/releases/download/v0.3.1/onvif-adapter-0.3.1.tgz",
+      "checksum": "70bf4e07a2127428086b5db3fcc5307351b63beb7c3bc4eff3e45195d6dd05d1",
       "api": {
         "min": 2,
         "max": 2
