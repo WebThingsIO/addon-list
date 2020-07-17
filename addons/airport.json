@@ -19,7 +19,7 @@
         ]
       },
       "version": "0.0.4",
-      "url": "https://github.com/flatsiedatsie/airport/releases/download/0.0.4/airport-0.0.4.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/airport-0.0.4.tgz",
       "checksum": "d67149bd178f0d3ac31618709bce3c5fc85c6b19eeaeeeb71ab2af1b7ceca3f6",
       "gateway": {
         "min": "0.10.0",
