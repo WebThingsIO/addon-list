@@ -1,0 +1,31 @@
+{
+  "id": "netgear-adapter",
+  "name": "Netgear",
+  "description": "Netgear router support",
+  "author": "Michael Stegeman",
+  "homepage_url": "https://github.com/mrstegeman/netgear-adapter#readme",
+  "license_url": "https://github.com/mrstegeman/netgear-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/mrstegeman/netgear-adapter/releases/download/v0.0.1/netgear-adapter-0.0.1.tgz",
+      "checksum": "b8ca764aa1702d20c1f51eaf3e446067074a6d002888569dc42acf96551ce48c",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
