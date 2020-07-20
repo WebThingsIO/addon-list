@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.1.2",
-      "url": "https://github.com/mozilla-iot/example-notifier/releases/download/v0.1.2/example-notifier-0.1.2.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/example-notifier-0.1.2.tgz",
       "checksum": "c29c79a43f889f6c4fc5a4abfbfb19333f526f3a6d92f65c2a975d810c42671a",
       "test_only": true,
       "gateway": {
