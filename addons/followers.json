@@ -21,10 +21,6 @@
       "version": "0.0.1",
       "url": "https://github.com/flatsiedatsie/followers-addon/releases/download/0.0.1/followers-0.0.1.tgz",
       "checksum": "ec44be98379e8276613690dca0d01bec1c6cf21732030220795ad571cecf8281",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
       "gateway": {
         "min": "0.10.0",
         "max": "*"
