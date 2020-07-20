@@ -1,0 +1,30 @@
+{
+  "id": "followers",
+  "name": "Followers",
+  "description": "Lets the property of one thing change according to the value of another. For example, slowly increase the brightness of a lamp if a sensor detects less sunlight.",
+  "author": "Flatsiedatsie",
+  "homepage_url": "https://github.com/flatsiedatsie/followers-addon",
+  "license_url": "https://github.com/flatsiedatsie/followers-addon/blob/master/LICENSE",
+  "primary_type": "extension",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5",
+          "3.6",
+          "3.7",
+          "3.8"
+        ]
+      },
+      "version": "0.0.2",
+      "url": "https://github.com/flatsiedatsie/followers-addon/releases/download/0.0.2/followers-0.0.2.tgz",
+      "checksum": "14c182f923e591a84bca885ff258d275894b7474bc106f7803a9a48d3d76e068",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
