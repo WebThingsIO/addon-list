@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.4.4",
-      "url": "https://github.com/mrstegeman/chromecast-adapter/releases/download/v0.4.4/chromecast-adapter-0.4.4.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/chromecast-adapter-0.4.4.tgz",
       "checksum": "8484a67aa09547edee051706991e6e3c653fbde57a8437e5a2cef609fc46a67c",
       "gateway": {
         "min": "0.10.0",

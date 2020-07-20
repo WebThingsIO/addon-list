@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.2.1",
-      "url": "https://github.com/mozilla-iot/wake-on-lan-adapter/releases/download/v0.2.1/wake-on-lan-adapter-0.2.1.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/wake-on-lan-adapter-0.2.1.tgz",
       "checksum": "a8f66f88682db837c34fe5dc8187f5ff0824d5cb176bbb391475087167e1d63f",
       "gateway": {
         "min": "0.10.0",

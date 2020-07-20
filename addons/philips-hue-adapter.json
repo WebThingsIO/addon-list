@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.9.5",
-      "url": "https://github.com/mozilla-iot/philips-hue-adapter/releases/download/v0.9.5/philips-hue-adapter-0.9.5.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/philips-hue-adapter-0.9.5.tgz",
       "checksum": "abd134473ba4667cd74e0515bbf617835d721453d5c8bc7cd0fcaca3f91aeff0",
       "gateway": {
         "min": "0.10.0",
