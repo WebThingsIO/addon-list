@@ -15,13 +15,9 @@
           "57"
         ]
       },
-      "version": "0.9.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.1-linux-arm-v8.tgz",
-      "checksum": "3ea8f3aef6787bf92dee2c206b51ee06bfabf500f6dda548e27f6688446e990f",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.9.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-linux-arm-v8.tgz",
+      "checksum": "ce65167a1a1b11c4247dc188dca41e4eecd0f330fab13e41355c056f40c0b8c3",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -35,13 +31,9 @@
           "57"
         ]
       },
-      "version": "0.9.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.1-linux-arm64-v8.tgz",
-      "checksum": "c732a06647a369a159dd2e305d4909de8d78450ec4a873015e77c94ea7dc1e17",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.9.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-linux-arm64-v8.tgz",
+      "checksum": "7a76a1ca38298e8cca441fce18bbd37b31da2f1aecb434c7d40784dde8ce10f7",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -55,13 +47,9 @@
           "57"
         ]
       },
-      "version": "0.9.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.1-linux-x64-v8.tgz",
-      "checksum": "b91136794b796c9a993e2756e2334d5b552dd45947d083755fbee40a55deb413",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.9.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-linux-x64-v8.tgz",
+      "checksum": "221d50d7465c11291adce88be2ef0f640308af36a10140ca3421cdc1f1b46dad",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -75,13 +63,9 @@
           "57"
         ]
       },
-      "version": "0.9.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.1-darwin-x64-v8.tgz",
-      "checksum": "e87d7b043ad36e4e37ed1cbc6359460d9c9ee97daf834c1d4c1e5c3802cc90bb",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.9.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-darwin-x64-v8.tgz",
+      "checksum": "f3093df4416b4088d048814ead991aa2a02ebd20fc65956e01d2cff3a2680d72",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,13 +79,9 @@
           "64"
         ]
       },
-      "version": "0.9.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.1-linux-arm-v10.tgz",
-      "checksum": "f2dd78f194daded3983be330c0fbcd6b8d801090d125c717ba23b7c4f05a277d",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.9.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-linux-arm-v10.tgz",
+      "checksum": "d0bdf8d4517754215a461fa14ba21b4c1d479910bfc5d8843ff5d5271aa01de5",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -115,13 +95,9 @@
           "64"
         ]
       },
-      "version": "0.9.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.1-linux-arm64-v10.tgz",
-      "checksum": "bae81468db7f67f2620fafe5f1968b4ab71e3afbfdd9065df3a26229d3e186f9",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.9.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-linux-arm64-v10.tgz",
+      "checksum": "ae4966f345fd24991ef5ab58567a12699287d9602ca71ef3f1d77edf99c85df0",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -135,13 +111,9 @@
           "64"
         ]
       },
-      "version": "0.9.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.1-linux-x64-v10.tgz",
-      "checksum": "532888a418443cd3fbecdc3d1c77db1cea2919ce8df237953caca95c6bc4cbb6",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.9.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-linux-x64-v10.tgz",
+      "checksum": "e90eb27a99412f762cca3a8d8c295a9ae2f0cbcecb2030ae4cf7e20a47b384b9",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -155,13 +127,9 @@
           "64"
         ]
       },
-      "version": "0.9.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.1-darwin-x64-v10.tgz",
-      "checksum": "3be4a904bacbc80685641e6f791b5d81b36003860a84234d0080f78470dc511b",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.9.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-darwin-x64-v10.tgz",
+      "checksum": "f8dbbe425bef94dd070cc5f8df8d07736705b608bfa1d3889c60505b8ec17adc",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,13 +143,9 @@
           "72"
         ]
       },
-      "version": "0.9.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.1-linux-arm-v12.tgz",
-      "checksum": "116cbc893813980a3ee80bed6b7cebb7a735930a867f35d236e578e118574dda",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.9.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-linux-arm-v12.tgz",
+      "checksum": "bbe8301b8e45750aa6111164dffc39d29f079c24fec40cf5ac38c9c8c04a7d8b",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -195,13 +159,9 @@
           "72"
         ]
       },
-      "version": "0.9.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.1-linux-arm64-v12.tgz",
-      "checksum": "b4f9b1055c75d4800e029581ecf4b1f500bd8d83401fe1e1f5f0fc78b8422761",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.9.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-linux-arm64-v12.tgz",
+      "checksum": "072f1656160a7aa79423c3a7fe6ea8ee53f4817b7484be77d9b835328d24d232",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -215,13 +175,9 @@
           "72"
         ]
       },
-      "version": "0.9.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.1-linux-x64-v12.tgz",
-      "checksum": "6a3a310136040faf601c6c237f488f24851cc5360c5474bb7eb681b06f3e6ec4",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.9.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-linux-x64-v12.tgz",
+      "checksum": "46c2dbedf9110371a2fc258859acb85ac8a14311c4fd12366b06bafca504ea4f",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -235,13 +191,9 @@
           "72"
         ]
       },
-      "version": "0.9.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.1-darwin-x64-v12.tgz",
-      "checksum": "8a41637010c7901e9d1e6a76060aa04cc3bee6d21b11b411bc3179d138f9b208",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.9.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-darwin-x64-v12.tgz",
+      "checksum": "b078631de00521d799b690207836203e727d773163e183106e87179a0b0adaa3",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -255,13 +207,9 @@
           "83"
         ]
       },
-      "version": "0.9.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.1-linux-arm-v14.tgz",
-      "checksum": "4e1eed19c34b4e088dafaaff109802c75fb177205482224892a6e6c7ed3a7761",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.9.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-linux-arm-v14.tgz",
+      "checksum": "a75de8ef54690d00e2e1b85f19f3c49187f453996384f54340c5f62cc6fdf9d2",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -275,13 +223,9 @@
           "83"
         ]
       },
-      "version": "0.9.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.1-linux-arm64-v14.tgz",
-      "checksum": "61b114dddefe549512dbdfc17cdb72d903f3ea88ea726edc6836010f45c39c32",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.9.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-linux-arm64-v14.tgz",
+      "checksum": "7d6f52b2c0b0778c1746c6ff678be1d2bbf4e1c8d646904b18da22aa893d848d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -295,13 +239,9 @@
           "83"
         ]
       },
-      "version": "0.9.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.1-linux-x64-v14.tgz",
-      "checksum": "c6915a64bcc5d0c6a6546897ffe705ee8399bc10a72e8de86b44f0e13904fe93",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.9.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-linux-x64-v14.tgz",
+      "checksum": "6affe563172472a1edce8f4e13d5955339ee138e173a26e70b9298435d96f69b",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -315,13 +255,9 @@
           "83"
         ]
       },
-      "version": "0.9.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.1-darwin-x64-v14.tgz",
-      "checksum": "c1fe3279beb91c2da55530e15579da403f0fa63145a07f96b921818cd96bc76a",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.9.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-darwin-x64-v14.tgz",
+      "checksum": "ce8d3b6b53fc0d0c843cd99c90b18b5dd1edb9fb73b77bad48b6dbf4dc45747e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

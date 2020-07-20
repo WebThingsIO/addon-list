@@ -15,13 +15,9 @@
           "57"
         ]
       },
-      "version": "0.5.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-linux-arm-v8.tgz",
-      "checksum": "bbbe5f93b22c687932d288a6767341475c9778a60d4557e7a41e77e21c72fb5e",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.5.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-linux-arm-v8.tgz",
+      "checksum": "51f722f1e95671145c7f7e7c7485e5aea133531786968666f7eae3d2b4d8423b",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -35,13 +31,9 @@
           "57"
         ]
       },
-      "version": "0.5.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-linux-arm64-v8.tgz",
-      "checksum": "94b7893de6eca47254970ed499aefc229cf83873c4d810c3ecfe9db6fea2361f",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.5.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-linux-arm64-v8.tgz",
+      "checksum": "6078f19255d68bc057d3c6471a7ea77fbf936aaf259f4e22430674a8f5eebc8e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -55,13 +47,9 @@
           "57"
         ]
       },
-      "version": "0.5.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-linux-x64-v8.tgz",
-      "checksum": "00701b85c6d5908eed226a3a36e97f430276238af83b09c1c0e757618d2b002b",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.5.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-linux-x64-v8.tgz",
+      "checksum": "9dea0b06c3d6339421f33cc48cb820acf23d631a9953da1e1d7febb4ca2541a9",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -75,13 +63,9 @@
           "57"
         ]
       },
-      "version": "0.5.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-darwin-x64-v8.tgz",
-      "checksum": "e461c343001d13d174a05b20e9d2ccaeed1e5d1838bbc09791766c33041aa687",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.5.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-darwin-x64-v8.tgz",
+      "checksum": "c9eb3e0243636c4c7840601cad24ff89635d407a1d814cae489f7f487faf3027",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,13 +79,9 @@
           "64"
         ]
       },
-      "version": "0.5.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-linux-arm-v10.tgz",
-      "checksum": "41fe34cd3ecc51fbb38986e99b6e485052a34c50ce7a43989ceab4467c5623e9",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.5.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-linux-arm-v10.tgz",
+      "checksum": "f82de7c343d8507393e07a01a00d03d845be9c209cf89abd761a30d707f0f601",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -115,13 +95,9 @@
           "64"
         ]
       },
-      "version": "0.5.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-linux-arm64-v10.tgz",
-      "checksum": "d127d8f51b7f00bdd71cd9de7dd16b8b3eda962f514f675ac819d7bf4a853386",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.5.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-linux-arm64-v10.tgz",
+      "checksum": "35ea2f52e493b0f87944b564011abfd054895e7ecc3820af4fbb2c666561a2de",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -135,13 +111,9 @@
           "64"
         ]
       },
-      "version": "0.5.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-linux-x64-v10.tgz",
-      "checksum": "906c1b60b945ba4d7fad2d18c8a8cfb9b50da8f4af1267e463bbc379995771ac",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.5.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-linux-x64-v10.tgz",
+      "checksum": "dc4aedddb52cb8ef7cefb6695066b81181ce8fd4d9c49ae27a002d162c4f4ba6",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -155,13 +127,9 @@
           "64"
         ]
       },
-      "version": "0.5.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-darwin-x64-v10.tgz",
-      "checksum": "6b48431a2c2d439e16644c25e366ed4523d39d054a0b4c508dc870d12b227370",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.5.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-darwin-x64-v10.tgz",
+      "checksum": "7b18b78bdefd5b4aafffb6056deb7d8575bf0f40644a6e46738bfc178c0c43f5",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,13 +143,9 @@
           "72"
         ]
       },
-      "version": "0.5.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-linux-arm-v12.tgz",
-      "checksum": "729d781bcb04963ab3121dc1bdebf3af592f32f44548b4e857faa32446ba1748",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.5.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-linux-arm-v12.tgz",
+      "checksum": "35a5f1d8dea93937606737431828f586ad3986944363cf7e04f5aff6464e7f93",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -195,13 +159,9 @@
           "72"
         ]
       },
-      "version": "0.5.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-linux-arm64-v12.tgz",
-      "checksum": "8eec3de3c964f592d9a9a4f0a1145c65086759206ebc5e1868d092c405601e3f",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.5.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-linux-arm64-v12.tgz",
+      "checksum": "b9e3fde2835bc05aa56ee61d0d0b51dd810a018f50cc1c1bbf2827df9091b7ea",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -215,13 +175,9 @@
           "72"
         ]
       },
-      "version": "0.5.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-linux-x64-v12.tgz",
-      "checksum": "edc0470d057c4c102ed030e2a716c41360edc49a5073d0c82e82d88c8a634713",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.5.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-linux-x64-v12.tgz",
+      "checksum": "ac27e3706ce6a25927932125cec1403bc8286892cf5d2a896cdb01b6a87e25a1",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -235,13 +191,9 @@
           "72"
         ]
       },
-      "version": "0.5.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-darwin-x64-v12.tgz",
-      "checksum": "362946061b930a310494a1e0a4cd4019b38d3f8cb939d449500fcbcf5731a127",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.5.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-darwin-x64-v12.tgz",
+      "checksum": "1f5f3ac10a9f5befd4f77f411e165bc4dc570bd57e5e44c10deb43c811358e5a",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -255,13 +207,9 @@
           "83"
         ]
       },
-      "version": "0.5.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-linux-arm-v14.tgz",
-      "checksum": "0f71154b4cc66aaa2576e65a40294a9adc866a9d09ad045e8676b24d84c24c04",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.5.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-linux-arm-v14.tgz",
+      "checksum": "8247af91c66ff3c30899a0d3c4330877ad4c7eecd4fdf7d4fd4455a6917bbb87",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -275,13 +223,9 @@
           "83"
         ]
       },
-      "version": "0.5.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-linux-arm64-v14.tgz",
-      "checksum": "e132c729d4010143b358958acf47951cc15db8c962cd59516151cb6bd13ff0af",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.5.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-linux-arm64-v14.tgz",
+      "checksum": "efb75e1031db40e63296ff122b7cb3ef7bb9258df285dbbf7b4c6acea5e145fa",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -295,13 +239,9 @@
           "83"
         ]
       },
-      "version": "0.5.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-linux-x64-v14.tgz",
-      "checksum": "7e735d02ae68fd3025249ee22b4e358f14d9245f2f0701d3bb3f8fe12d29e425",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.5.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-linux-x64-v14.tgz",
+      "checksum": "3f36620c92218b02acce58066469e3f1c25ae04f3c0381ab588209dce994353f",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -315,13 +255,9 @@
           "83"
         ]
       },
-      "version": "0.5.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.1-darwin-x64-v14.tgz",
-      "checksum": "c0f8b6832108195f943041c6bcc6257aa9bbec9ff344591bd9d1b36aa4128a1a",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.5.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-darwin-x64-v14.tgz",
+      "checksum": "038c4b7e50cdea1676a19fd961bdc88b91459134f8720bde3654502007365d49",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
