@@ -18,13 +18,9 @@
           "3.8"
         ]
       },
-      "version": "0.4.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tide-calendar-adapter-0.4.1.tgz",
-      "checksum": "bc7bdba0b4f803c497c649bbca7123c1799af4caa5a88f257749d35df4aa92b6",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.4.2",
+      "url": "https://github.com/mozilla-iot/tide-calendar-adapter/releases/download/v0.4.2/tide-calendar-adapter-0.4.2.tgz",
+      "checksum": "f7e84c24628387572f526aa0e467e8348cddbd1e8fc55b733e53b94a27490b41",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

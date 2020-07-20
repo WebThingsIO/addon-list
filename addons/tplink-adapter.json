@@ -18,13 +18,9 @@
           "3.8"
         ]
       },
-      "version": "0.6.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tplink-adapter-0.6.0.tgz",
-      "checksum": "db797f86d53ef8e4e6d54e5674b7b767f8cd4515d53bc1f874a754ab5bee9e00",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.6.1",
+      "url": "https://github.com/mozilla-iot/tplink-adapter/releases/download/v0.6.1/tplink-adapter-0.6.1.tgz",
+      "checksum": "e99c10c90cfa8d9833463244f7b975d6bdcc9b55be4013441e3e341644502d4f",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
