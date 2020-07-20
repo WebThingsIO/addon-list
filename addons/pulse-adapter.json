@@ -15,13 +15,9 @@
           "any"
         ]
       },
-      "version": "0.4.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/pulse-adapter-0.4.0.tgz",
-      "checksum": "2111e30d81030846b32e00240701cec10e420db8dde221ea9172bae4c9ce5144",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.4.1",
+      "url": "https://github.com/mozilla-iot/pulse-adapter/releases/download/v0.4.1/pulse-adapter-0.4.1.tgz",
+      "checksum": "d5701b0bc5c9522e001c187c6932f45c93bbd4af95a6f0b6c0e22f15ff988813",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

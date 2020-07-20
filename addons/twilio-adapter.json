@@ -15,13 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/twilio-adapter-0.2.0.tgz",
-      "checksum": "96e0241ec9c2c10c071748a403a55529879a4213c474b8fd24cdc4ced56bd7a5",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.2.1",
+      "url": "https://github.com/mozilla-iot/twilio-adapter/releases/download/v0.2.1/twilio-adapter-0.2.1.tgz",
+      "checksum": "5b7a449bd77c822c59a5be42bfe67af8c4f3f940c93368d7925d28b69831c040",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
