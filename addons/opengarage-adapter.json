@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.4",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/opengarage-adapter-0.1.4.tgz",
-      "checksum": "b36c3b16a3aa2061b4f9f26a7e141c938c1584c863188d7dbceab10c6c624626",
+      "version": "0.2.0",
+      "url": "https://github.com/mrstegeman/opengarage-adapter/releases/download/v0.2.0/opengarage-adapter-0.2.0.tgz",
+      "checksum": "ce523eb8254089d7e15d3c1262a87b662d05d22ce799bb19e33de260851c2b38",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
