@@ -1,0 +1,30 @@
+{
+  "id": "p1-adapter",
+  "name": "P1",
+  "description": "Connect to home energy meters that use the P1 standard",
+  "author": "CandleSmartHome.com",
+  "homepage_url": "https://github.com/createcandle/p1-adapter",
+  "license_url": "https://github.com/createcandle/p1-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5",
+          "3.6",
+          "3.7",
+          "3.8"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.0.1/p1-adapter-0.0.1.tgz",
+      "checksum": "2071f946e7b83a0e7e01fd7f115cf635fbd9099b2385ece6880c5f2352119c46",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
