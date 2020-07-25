@@ -15,9 +15,9 @@
           "57"
         ]
       },
-      "version": "0.2.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.3-linux-arm-v8.tgz",
-      "checksum": "75a18199ff8f96cf39011da60a87004dce88d28e917ac6eb29f3c64d9d01bddc",
+      "version": "0.3.0",
+      "url": "https://github.com/tim-hellhake/tradfri-adapter/releases/download/0.3.0/tradfri-adapter-0.3.0-linux-arm-v8.tgz",
+      "checksum": "5a49bd2b444ad925ea3542325233b97a05d85d12c2c080890e5a28d525534306",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "57"
         ]
       },
-      "version": "0.2.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.3-linux-arm64-v8.tgz",
-      "checksum": "c19113a5542595e1b169ada6e4b932acda35bf1b0cd4bb8f7c9f2fc96287028d",
+      "version": "0.3.0",
+      "url": "https://github.com/tim-hellhake/tradfri-adapter/releases/download/0.3.0/tradfri-adapter-0.3.0-linux-arm64-v8.tgz",
+      "checksum": "4fefb03430d51b8e81abff8729f89e3ec08479d736fa38d3995445c9c85638aa",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -47,9 +47,9 @@
           "57"
         ]
       },
-      "version": "0.2.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.3-linux-x64-v8.tgz",
-      "checksum": "3a6d7cd97466a3d40e6f181ec9db25086a7f8f05814c4564b1cfadca86551d00",
+      "version": "0.3.0",
+      "url": "https://github.com/tim-hellhake/tradfri-adapter/releases/download/0.3.0/tradfri-adapter-0.3.0-linux-x64-v8.tgz",
+      "checksum": "08301fac8e86018eb3cd685204a9d525fd0e2dbb78ff87e2a0fc56ad15df9abd",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -63,9 +63,9 @@
           "57"
         ]
       },
-      "version": "0.2.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.3-darwin-x64-v8.tgz",
-      "checksum": "fd470b25021e477f4da685ef39814705420236dbfd89838ce4df771984c9c231",
+      "version": "0.3.0",
+      "url": "https://github.com/tim-hellhake/tradfri-adapter/releases/download/0.3.0/tradfri-adapter-0.3.0-darwin-x64-v8.tgz",
+      "checksum": "c0a7ff1376c40612ffb6e0c38d6304019a9a0956c033bf40934a510466d70800",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -79,9 +79,9 @@
           "64"
         ]
       },
-      "version": "0.2.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.3-linux-arm-v10.tgz",
-      "checksum": "12d42fee342f3ea97b5cb4d80912932127291110fd01f5ab72e89e263e55b8eb",
+      "version": "0.3.0",
+      "url": "https://github.com/tim-hellhake/tradfri-adapter/releases/download/0.3.0/tradfri-adapter-0.3.0-linux-arm-v10.tgz",
+      "checksum": "66b185ef699e1cb5b9dbdeded0252389aae6091ff640bc113afdf7eff8e2ec95",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,9 +95,9 @@
           "64"
         ]
       },
-      "version": "0.2.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.3-linux-arm64-v10.tgz",
-      "checksum": "7014c4b6964cca20452f3035804eb2696495b90aa25225de4c55a04f12b84baf",
+      "version": "0.3.0",
+      "url": "https://github.com/tim-hellhake/tradfri-adapter/releases/download/0.3.0/tradfri-adapter-0.3.0-linux-arm64-v10.tgz",
+      "checksum": "94d2764a70e4a90f98550e1914023cf20af385ac77eb13a0d5e365d7dd395ef9",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -111,9 +111,9 @@
           "64"
         ]
       },
-      "version": "0.2.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.3-linux-x64-v10.tgz",
-      "checksum": "5e70297ce761c3fe8ccc7f3c46b94bb70ead215ee7efbef3e0a179db4b8b1e49",
+      "version": "0.3.0",
+      "url": "https://github.com/tim-hellhake/tradfri-adapter/releases/download/0.3.0/tradfri-adapter-0.3.0-linux-x64-v10.tgz",
+      "checksum": "0c7bdf574765a694f13f1385dfbe626490da56d1602c66e2f8f970e1d72ad30f",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,9 +127,9 @@
           "64"
         ]
       },
-      "version": "0.2.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.3-darwin-x64-v10.tgz",
-      "checksum": "2a629e1aaad742455726a25085fb5ebdc502d02b64608b161a9d5adf8d454bfe",
+      "version": "0.3.0",
+      "url": "https://github.com/tim-hellhake/tradfri-adapter/releases/download/0.3.0/tradfri-adapter-0.3.0-darwin-x64-v10.tgz",
+      "checksum": "35520624197b17d27d1dd95ab8112060202c1d56908dc3e0f0653ec25fef0cd3",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -143,9 +143,9 @@
           "72"
         ]
       },
-      "version": "0.2.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.3-linux-arm-v12.tgz",
-      "checksum": "026b1e9e63f473b64acd866aefb3d641881aaddfa7d3965fd128aa131d7ff362",
+      "version": "0.3.0",
+      "url": "https://github.com/tim-hellhake/tradfri-adapter/releases/download/0.3.0/tradfri-adapter-0.3.0-linux-arm-v12.tgz",
+      "checksum": "befb4c3d586d4888f4a91ae58cf85ffe12bad8a8c4058e893fe9090fe2387ece",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -159,9 +159,9 @@
           "72"
         ]
       },
-      "version": "0.2.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.3-linux-arm64-v12.tgz",
-      "checksum": "61a951182d02b7292c79d1aac4e547067d0cf3df1c9ea2db17d5805f1f7d727d",
+      "version": "0.3.0",
+      "url": "https://github.com/tim-hellhake/tradfri-adapter/releases/download/0.3.0/tradfri-adapter-0.3.0-linux-arm64-v12.tgz",
+      "checksum": "d5d03496716c878d86a33d7a65393e76e3ca0c516d35463ed435d064aab9a477",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,9 +175,9 @@
           "72"
         ]
       },
-      "version": "0.2.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.3-linux-x64-v12.tgz",
-      "checksum": "ce0c9deeda85aacbeacc386661a3b9e3d5aa1387abb33a6573e69adf3d0b3d33",
+      "version": "0.3.0",
+      "url": "https://github.com/tim-hellhake/tradfri-adapter/releases/download/0.3.0/tradfri-adapter-0.3.0-linux-x64-v12.tgz",
+      "checksum": "b4a8c4ba5a6bd3e83f65d414280878e5852159d50313bb6eae15320f6f78d273",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,9 +191,9 @@
           "72"
         ]
       },
-      "version": "0.2.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.3-darwin-x64-v12.tgz",
-      "checksum": "7ae3437b7e6aad1b7a2b12df76f7f73401d8f51e75895d39edacba3d386b701e",
+      "version": "0.3.0",
+      "url": "https://github.com/tim-hellhake/tradfri-adapter/releases/download/0.3.0/tradfri-adapter-0.3.0-darwin-x64-v12.tgz",
+      "checksum": "69804d748bd38eeca1e8711295e0e5a56c440d8432c7b8e5f767da1877658be4",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -207,9 +207,9 @@
           "83"
         ]
       },
-      "version": "0.2.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.3-linux-arm-v14.tgz",
-      "checksum": "2d42e8274d829fcfd198235c8421b67759ae7a325efd278777ca92cf43b3fda0",
+      "version": "0.3.0",
+      "url": "https://github.com/tim-hellhake/tradfri-adapter/releases/download/0.3.0/tradfri-adapter-0.3.0-linux-arm-v14.tgz",
+      "checksum": "aba31b4df6bb2628ce6274dd1a29b81ce7fb5d2088e6f96d66dad2a8dcf4c11e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -223,9 +223,9 @@
           "83"
         ]
       },
-      "version": "0.2.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.3-linux-arm64-v14.tgz",
-      "checksum": "70acda0bed02f8d7d9f471f77dc7a32aa098f9bd7aed078f4fe36d767a614353",
+      "version": "0.3.0",
+      "url": "https://github.com/tim-hellhake/tradfri-adapter/releases/download/0.3.0/tradfri-adapter-0.3.0-linux-arm64-v14.tgz",
+      "checksum": "8060c2bcface8c8c49306357048271405d4ce4f6e3fd7a68dcd7ac9502d7efe1",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -239,9 +239,9 @@
           "83"
         ]
       },
-      "version": "0.2.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.3-linux-x64-v14.tgz",
-      "checksum": "9fbb0398083adf98daecb2ec8522c0f4e715826eb6b0e81e3bfb4f3414fe908a",
+      "version": "0.3.0",
+      "url": "https://github.com/tim-hellhake/tradfri-adapter/releases/download/0.3.0/tradfri-adapter-0.3.0-linux-x64-v14.tgz",
+      "checksum": "d82ceea4422879f01b24c272f73e3a520389fa8008c90b7a1035a18194e3c8bb",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -255,9 +255,9 @@
           "83"
         ]
       },
-      "version": "0.2.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tradfri-adapter-0.2.3-darwin-x64-v14.tgz",
-      "checksum": "d8362669034c24991a752a1c59f4de5d3f0054174155a59d0d8b91eba138b143",
+      "version": "0.3.0",
+      "url": "https://github.com/tim-hellhake/tradfri-adapter/releases/download/0.3.0/tradfri-adapter-0.3.0-darwin-x64-v14.tgz",
+      "checksum": "440fc17af9ae80a2fca09c619b4c23936ac96cad6328454baf5d59cb501a3c47",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
