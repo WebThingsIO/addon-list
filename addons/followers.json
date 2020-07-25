@@ -19,7 +19,7 @@
         ]
       },
       "version": "0.1.4",
-      "url": "https://github.com/flatsiedatsie/followers-addon/releases/download/0.1.4/followers-0.1.4.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/followers-0.1.4.tgz",
       "checksum": "d5b5347006880058d80facdcaf3a69d90bb3502292fe61a24137b094b7c8ab19",
       "gateway": {
         "min": "0.10.0",

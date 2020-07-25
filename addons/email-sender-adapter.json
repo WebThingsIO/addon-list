@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.4.0",
-      "url": "https://github.com/mozilla-iot/email-sender-adapter/releases/download/v0.4.0/email-sender-adapter-0.4.0.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/email-sender-adapter-0.4.0.tgz",
       "checksum": "3dcb4d2e64a7cd4bc5f9ccfabd65051993c9fdf00c5475f1c39aee2615856974",
       "gateway": {
         "min": "0.10.0",
