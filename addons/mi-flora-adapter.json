@@ -4,7 +4,7 @@
   "description": "Connect your Mi Flora devices",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/mi-flora-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/mi-flora-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/mi-flora-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

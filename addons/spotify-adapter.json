@@ -4,7 +4,7 @@
   "description": "Control your Spotify player",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/spotify-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/spotify-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/spotify-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

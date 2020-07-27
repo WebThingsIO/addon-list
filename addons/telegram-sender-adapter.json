@@ -4,7 +4,7 @@
   "description": "Simple telegram sending actions. Needs to be configured with chatid and token.",
   "author": "ne0bot",
   "homepage_url": "https://github.com/ne0bot/telegram-sender-adapter",
-  "license_url": "https://github.com/ne0bot/telegram-sender-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/ne0bot/telegram-sender-adapter/master/LICENSE",
   "primary_type": "notifier",
   "packages": [
     {

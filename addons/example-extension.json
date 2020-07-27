@@ -4,7 +4,7 @@
   "description": "Example extension add-on for developers",
   "author": "Mozilla IoT",
   "homepage_url": "https://github.com/mozilla-iot/example-extension",
-  "license_url": "https://github.com/mozilla-iot/example-extension/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/mozilla-iot/example-extension/master/LICENSE",
   "primary_type": "extension",
   "packages": [
     {

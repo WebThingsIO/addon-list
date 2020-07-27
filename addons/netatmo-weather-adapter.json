@@ -4,7 +4,7 @@
   "description": "Netatmo weather station support. Requires Netatmo Smart Home API credentials.",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/netatmo-weather-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/netatmo-weather-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/netatmo-weather-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

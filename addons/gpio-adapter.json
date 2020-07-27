@@ -4,7 +4,7 @@
   "description": "GPIO device support",
   "author": "Mozilla IoT",
   "homepage_url": "https://github.com/mozilla-iot/gpio-adapter",
-  "license_url": "https://github.com/mozilla-iot/gpio-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/mozilla-iot/gpio-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

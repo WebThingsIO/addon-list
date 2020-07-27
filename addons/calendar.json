@@ -4,7 +4,7 @@
   "description": "Provides calendar management of the working week, holidays, and other event dates. This is to support rules such as not switching on a wakeup alarm on public or personal holidays.",
   "author": "Chas-IoT",
   "homepage_url": "https://github.com/chas-iot/calendar#readme",
-  "license_url": "https://github.com/chas-iot/calendar/blob/trunk/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/chas-iot/calendar/trunk/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

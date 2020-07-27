@@ -4,7 +4,7 @@
   "description": "React to input events, e.g. from a USB keyboard or remote",
   "author": "Galveston01",
   "homepage_url": "https://github.com/Galveston01/input-event-adapter",
-  "license_url": "https://github.com/Galveston01/input-event-adapter/blob/master/LICENSE.md",
+  "license_url": "https://raw.githubusercontent.com/Galveston01/input-event-adapter/master/LICENSE.md",
   "primary_type": "adapter",
   "packages": [
     {

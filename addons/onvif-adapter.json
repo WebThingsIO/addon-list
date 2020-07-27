@@ -4,7 +4,7 @@
   "description": "ONVIF Profile S camera adapter.",
   "author": "Mozilla IoT",
   "homepage_url": "https://github.com/mozilla-iot/onvif-adapter#readme",
-  "license_url": "https://github.com/mozilla-iot/onvif-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/mozilla-iot/onvif-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

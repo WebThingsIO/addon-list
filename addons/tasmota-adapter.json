@@ -4,7 +4,7 @@
   "description": "Connect your Tasmota devices",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/tasmota-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/tasmota-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/tasmota-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

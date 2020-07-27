@@ -4,7 +4,7 @@
   "description": "React to Flic button presses via proprietary flic daemon (included for Linux)",
   "author": "Michael Stegeman",
   "homepage_url": "https://github.com/mrstegeman/flic-button-adapter#readme",
-  "license_url": "https://github.com/mrstegeman/flic-button-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/mrstegeman/flic-button-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

@@ -4,7 +4,7 @@
   "description": "Connect your Medisana KS 250 (kitchen scale)",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/medisana-ks250-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/medisana-ks250-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/medisana-ks250-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

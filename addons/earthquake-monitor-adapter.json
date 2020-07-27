@@ -4,7 +4,7 @@
   "description": "Earthquake monitor using USGS data",
   "author": "Mozilla IoT",
   "homepage_url": "https://github.com/mozilla-iot/earthquake-monitor-adapter",
-  "license_url": "https://github.com/mozilla-iot/earthquake-monitor-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/mozilla-iot/earthquake-monitor-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

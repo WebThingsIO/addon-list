@@ -4,7 +4,7 @@
   "description": "Connect your MAX! devices",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/max-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/max-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/max-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

@@ -4,7 +4,7 @@
   "description": "Connect your HomeMatic devices",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/homematic-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/homematic-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/homematic-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

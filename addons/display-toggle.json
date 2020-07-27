@@ -4,7 +4,7 @@
   "description": "Turn a Raspberry Pi (touch) screen on and off",
   "author": "Flatsiedatsie",
   "homepage_url": "https://github.com/flatsiedatsie/display-toggle",
-  "license_url": "https://github.com/flatsiedatsie/display-toggle/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/flatsiedatsie/display-toggle/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

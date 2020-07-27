@@ -4,7 +4,7 @@
   "description": "Awox mesh light device support",
   "author": "Philippe Coval",
   "homepage_url": "https://github.com/rzr/awox-mesh-light-webthing",
-  "license_url": "https://github.com/rzr/awox-mesh-light-webthing/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/rzr/awox-mesh-light-webthing/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

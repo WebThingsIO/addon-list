@@ -4,7 +4,7 @@
   "description": "Emulate scenes through rules.",
   "author": "Mozilla IoT",
   "homepage_url": "https://github.com/mozilla-iot/scene-control-adapter",
-  "license_url": "https://github.com/mozilla-iot/scene-control-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/mozilla-iot/scene-control-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

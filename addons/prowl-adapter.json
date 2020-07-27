@@ -4,7 +4,7 @@
   "description": "Pushes notifications to your device",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/prowl-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/prowl-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/prowl-adapter/master/LICENSE",
   "primary_type": "notifier",
   "packages": [
     {

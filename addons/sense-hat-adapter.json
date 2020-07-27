@@ -4,7 +4,7 @@
   "description": "Sense hat device support",
   "author": "Philippe Coval",
   "homepage_url": "https://github.com/rzr/sense-hat-webthing",
-  "license_url": "https://github.com/rzr/sense-hat-webthing/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/rzr/sense-hat-webthing/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
