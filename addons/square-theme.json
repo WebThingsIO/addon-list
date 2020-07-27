@@ -4,7 +4,7 @@
   "description": "A theme that offers a more square design, and adds features such as log filtering, setpoint buttons, and various little tweaks.",
   "author": "Flatsiedatsie",
   "homepage_url": "https://github.com/flatsiedatsie/square-theme",
-  "license_url": "https://github.com/flatsiedatsie/square-theme/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/flatsiedatsie/square-theme/master/LICENSE",
   "primary_type": "extension",
   "packages": [
     {

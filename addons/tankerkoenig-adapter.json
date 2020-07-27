@@ -4,7 +4,7 @@
   "description": "Shows you the gas prices near you (Germany only)",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/tankerkoenig-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/tankerkoenig-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/tankerkoenig-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

@@ -4,7 +4,7 @@
   "description": "Internet speed test",
   "author": "Mozilla IoT",
   "homepage_url": "https://github.com/mozilla-iot/speed-test-adapter",
-  "license_url": "https://github.com/mozilla-iot/speed-test-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/mozilla-iot/speed-test-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

@@ -4,7 +4,7 @@
   "description": "Lets the property of one thing change according to the value of another",
   "author": "Flatsiedatsie",
   "homepage_url": "https://github.com/flatsiedatsie/followers-addon",
-  "license_url": "https://github.com/flatsiedatsie/followers-addon/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/flatsiedatsie/followers-addon/master/LICENSE",
   "primary_type": "extension",
   "packages": [
     {

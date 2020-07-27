@@ -4,7 +4,7 @@
   "description": "Check if devices are on your network",
   "author": "Flatsiedatsie",
   "homepage_url": "https://github.com/flatsiedatsie/Webthings-network-presence-detection",
-  "license_url": "https://github.com/flatsiedatsie/Webthings-network-presence-detection/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/flatsiedatsie/Webthings-network-presence-detection/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

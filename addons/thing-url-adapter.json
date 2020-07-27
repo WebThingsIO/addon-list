@@ -4,7 +4,7 @@
   "description": "Native web thing support",
   "author": "Mozilla IoT",
   "homepage_url": "https://github.com/mozilla-iot/thing-url-adapter",
-  "license_url": "https://github.com/mozilla-iot/thing-url-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/mozilla-iot/thing-url-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

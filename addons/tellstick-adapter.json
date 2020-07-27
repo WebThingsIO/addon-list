@@ -4,7 +4,7 @@
   "description": "Telldus Tellstick adapter for Mozilla WebThings Gateway. Requires telldus-core service for older generation Tellsticks.",
   "author": "Antti Kivimäki",
   "homepage_url": "https://github.com/majori/tellstick-adapter",
-  "license_url": "https://github.com/majori/tellstick-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/majori/tellstick-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

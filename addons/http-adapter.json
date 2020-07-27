@@ -4,7 +4,7 @@
   "description": "Lets you make HTTP requests via actions",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/http-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/http-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/http-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

@@ -4,7 +4,7 @@
   "description": "Runs for the specified number of seconds",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/timer-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/timer-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/timer-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

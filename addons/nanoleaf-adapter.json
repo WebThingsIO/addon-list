@@ -4,7 +4,7 @@
   "description": "Control your Nanoleaf aurora",
   "author": "Roman Odermatt",
   "homepage_url": "https://github.com/roderm/nanoleaf-adapter",
-  "license_url": "https://github.com/roderm/nanoleaf-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/roderm/nanoleaf-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

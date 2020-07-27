@@ -4,7 +4,7 @@
   "description": "Play your favourite online radio stations",
   "author": "Flatsiedatsie",
   "homepage_url": "https://github.com/flatsiedatsie/internet-radio",
-  "license_url": "https://github.com/flatsiedatsie/internet-radio/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/flatsiedatsie/internet-radio/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

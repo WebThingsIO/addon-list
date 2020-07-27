@@ -4,7 +4,7 @@
   "description": "Hands-free voice addon with personalized keyword and local voice processing.",
   "author": "Mozilla IoT",
   "homepage_url": "https://github.com/mozilla-iot/voice-addon",
-  "license_url": "https://github.com/mozilla-iot/voice-addon/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/mozilla-iot/voice-addon/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

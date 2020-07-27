@@ -4,7 +4,7 @@
   "description": "Connect your Fritz! devices",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/fritz-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/fritz-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/fritz-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

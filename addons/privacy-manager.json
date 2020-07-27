@@ -4,7 +4,7 @@
   "description": "Privacy Manager allows you to change and remove data in your logs.",
   "author": "CreateCandle",
   "homepage_url": "https://github.com/createcandle/privacy-manager",
-  "license_url": "https://github.com/createcandle/privacy-manager/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/createcandle/privacy-manager/master/LICENSE",
   "primary_type": "extension",
   "packages": [
     {

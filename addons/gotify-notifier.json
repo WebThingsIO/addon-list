@@ -4,7 +4,7 @@
   "description": "Send notifications through a self-hosted Gotify server. Needs to be configured with server and app token.",
   "author": "Mozilla IoT",
   "homepage_url": "https://github.com/mozilla-iot/gotify-notifier",
-  "license_url": "https://github.com/mozilla-iot/gotify-notifier/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/mozilla-iot/gotify-notifier/master/LICENSE",
   "primary_type": "notifier",
   "packages": [
     {

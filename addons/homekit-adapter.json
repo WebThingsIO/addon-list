@@ -4,7 +4,7 @@
   "description": "HomeKit device support",
   "author": "Mozilla IoT",
   "homepage_url": "https://github.com/mozilla-iot/homekit-adapter",
-  "license_url": "https://github.com/mozilla-iot/homekit-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/mozilla-iot/homekit-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

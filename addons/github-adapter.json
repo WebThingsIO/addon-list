@@ -4,7 +4,7 @@
   "description": "Watch the issue count of your favourite GitHub repos",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/github-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/github-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/github-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

@@ -4,7 +4,7 @@
   "description": "Frontier Silicon Internet Radio support",
   "author": "Galveston01",
   "homepage_url": "https://github.com/Galveston01/frontier-silicon-adapter",
-  "license_url": "https://github.com/Galveston01/frontier-silicon-adapter/blob/master/LICENSE.md",
+  "license_url": "https://raw.githubusercontent.com/Galveston01/frontier-silicon-adapter/master/LICENSE.md",
   "primary_type": "adapter",
   "packages": [
     {

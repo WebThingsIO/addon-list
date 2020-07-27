@@ -4,7 +4,7 @@
   "description": "An easy and quick way to run shell commands. For advanced users. ",
   "author": "Flatsiedatsie",
   "homepage_url": "https://github.com/flatsiedatsie/seashell",
-  "license_url": "https://github.com/flatsiedatsie/seashell/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/flatsiedatsie/seashell/master/LICENSE",
   "primary_type": "extension",
   "packages": [
     {

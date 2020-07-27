@@ -4,7 +4,7 @@
   "description": "Get temperature and pressure data from BMP280-like sensors",
   "author": "Matthieu Corageoud",
   "homepage_url": "https://github.com/matco/bmp280-adapter",
-  "license_url": "https://github.com/matco/bmp280-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/matco/bmp280-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

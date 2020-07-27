@@ -4,7 +4,7 @@
   "description": "TP-Link Kasa smart plug/bulb device support",
   "author": "Mozilla IoT",
   "homepage_url": "https://github.com/mozilla-iot/tplink-adapter",
-  "license_url": "https://github.com/mozilla-iot/tplink-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/mozilla-iot/tplink-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

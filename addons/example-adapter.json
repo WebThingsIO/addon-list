@@ -4,7 +4,7 @@
   "description": "Example adapter add-on for developers",
   "author": "Mozilla IoT",
   "homepage_url": "https://github.com/mozilla-iot/example-adapter",
-  "license_url": "https://github.com/mozilla-iot/example-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/mozilla-iot/example-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
