@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.2.2",
-      "url": "https://github.com/tim-hellhake/pushbullet-adapter/releases/download/0.2.2/pushbullet-adapter-0.2.2.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/pushbullet-adapter-0.2.2.tgz",
       "checksum": "e3c0a6b01a93acbaa969fb0c137e9cd2e1f661bba331a8f5e2ad95b4efe16b4c",
       "gateway": {
         "min": "0.10.0",
