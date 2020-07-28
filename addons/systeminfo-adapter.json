@@ -4,7 +4,7 @@
   "description": "Get stats of the system",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/systeminfo-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/systeminfo-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/systeminfo-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

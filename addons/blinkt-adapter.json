@@ -4,7 +4,7 @@
   "description": "Pimoroni Blinkt! support",
   "author": "Poul Christiansen",
   "homepage_url": "https://github.com/pchri/blinkt-adapter",
-  "license_url": "https://github.com/pchri/blinkt-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/pchri/blinkt-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

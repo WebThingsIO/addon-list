@@ -4,7 +4,7 @@
   "description": "Generic Sensors devices support",
   "author": "Philippe Coval",
   "homepage_url": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter",
-  "license_url": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/rzr/mozilla-iot-generic-sensors-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

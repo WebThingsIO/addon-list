@@ -4,7 +4,7 @@
   "description": "Logitech Harmony Hub support",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/logitech-harmony-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/logitech-harmony-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/logitech-harmony-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

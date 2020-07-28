@@ -4,7 +4,7 @@
   "description": "Send tweets",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/twitter-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/twitter-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/twitter-adapter/master/LICENSE",
   "primary_type": "notifier",
   "packages": [
     {

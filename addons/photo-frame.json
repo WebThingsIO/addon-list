@@ -4,7 +4,7 @@
   "description": "Show your favourite photos. Great if you use a tablet to control your home.",
   "author": "Flatsiedatsie",
   "homepage_url": "https://github.com/flatsiedatsie/photo-frame",
-  "license_url": "https://github.com/flatsiedatsie/photo-frame/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/flatsiedatsie/photo-frame/master/LICENSE",
   "primary_type": "extension",
   "packages": [
     {

@@ -4,7 +4,7 @@
   "description": "Generate a pulse. This is basically an On/Off switch which turns itself off after some configured amount of time.",
   "author": "Mozilla IoT",
   "homepage_url": "https://github.com/mozilla-iot/pulse-adapter",
-  "license_url": "https://github.com/mozilla-iot/pulse-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/mozilla-iot/pulse-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

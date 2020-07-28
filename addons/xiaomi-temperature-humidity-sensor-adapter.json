@@ -4,7 +4,7 @@
   "description": "Connect your Xiaomi Bluetooth Temperature and Humidity Sensor",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

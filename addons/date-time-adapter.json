@@ -4,7 +4,7 @@
   "description": "A Date & Time adapter to create more advanced rules using sunrise, sunset, weekends, etc.",
   "author": "tomasy",
   "homepage_url": "https://github.com/tomasy/date-time-adapter",
-  "license_url": "https://github.com/tomasy/date-time-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tomasy/date-time-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

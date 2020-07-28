@@ -4,7 +4,7 @@
   "description": "Expose your devices as topics on a kafka broker",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/kafka-bridge#readme",
-  "license_url": "https://github.com/tim-hellhake/kafka-bridge/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/kafka-bridge/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

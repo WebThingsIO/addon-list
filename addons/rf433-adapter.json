@@ -4,7 +4,7 @@
   "description": "Connect 433MHz devices to your Raspberry Pi using an rf433 board",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/rf433-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/rf433-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/rf433-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

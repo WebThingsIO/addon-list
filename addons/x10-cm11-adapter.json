@@ -4,7 +4,7 @@
   "description": "X10 device support through the CM11 interface.",
   "author": "Alan Thiessen",
   "homepage_url": "https://github.com/AlanDThiessen/x10-cm11-adapter",
-  "license_url": "https://github.com/AlanDThiessen/x10-cm11-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/AlanDThiessen/x10-cm11-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
