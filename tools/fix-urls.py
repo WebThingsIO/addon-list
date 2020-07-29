@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import functools
 import glob
 import json
 import os
@@ -11,6 +12,8 @@ import urllib.request
 _ROOT = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
 _ADDONS_DIR = os.path.join(_ROOT, 'addons')
 _S3_URL = 'https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/'
+
+print = functools.partial(print, flush=True)
 
 
 def copy_to_s3(url):
