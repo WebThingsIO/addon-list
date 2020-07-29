@@ -4,23 +4,320 @@
   "description": "Build your own smart home with this Arduino library",
   "author": "CreateCandle",
   "homepage_url": "https://github.com/createcandle/Webthings-mysensors-adapter",
-  "license_url": "https://github.com/createcandle/Webthings-mysensors-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/createcandle/Webthings-mysensors-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
-      "architecture": "any",
+      "architecture": "linux-arm",
       "language": {
         "name": "python",
         "versions": [
-          "3.5",
-          "3.6",
-          "3.7",
+          "3.5"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mysensors-adapter-1.1.0-linux-arm-v3.5.tgz",
+      "checksum": "337665b69b6638a811aeef5ec5a0610b7c85902bef3292217d232414e9289673",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mysensors-adapter-1.1.0-linux-arm64-v3.5.tgz",
+      "checksum": "d10dbbe289afe668394700aeb8f9d06fbc7dff19d4a22728a021f0c6b4f0b2e6",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mysensors-adapter-1.1.0-linux-x64-v3.5.tgz",
+      "checksum": "e931dfcf0ddeb577c0bb8584d7580903822082a9f7759eaaa6ba3c4491d9fc7b",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mysensors-adapter-1.1.0-darwin-x64-v3.5.tgz",
+      "checksum": "943a59361b58a2872e805370a280481700c05f01cd7783312cd65e6c67ec3544",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mysensors-adapter-1.1.0-linux-arm-v3.6.tgz",
+      "checksum": "9a0de26a0427782950a75b673e01059f91ad4eaefaed9ebc062c9ab78a97b47e",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mysensors-adapter-1.1.0-linux-arm64-v3.6.tgz",
+      "checksum": "f96eeea58d49499644e0205c7aa52afd1c3a5f45f99a4a9f7fe267bcfc356cd2",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mysensors-adapter-1.1.0-linux-x64-v3.6.tgz",
+      "checksum": "1123822103f66b4e8d752bccc25340cbe70cbdacfafe507ae3d645bac77336c2",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mysensors-adapter-1.1.0-darwin-x64-v3.6.tgz",
+      "checksum": "2349bde9716b61decc809cd615f5566aa6de39090f2eaf3f4c52a0d9439bb1ea",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mysensors-adapter-1.1.0-linux-arm-v3.7.tgz",
+      "checksum": "ee99733301e686289e5a7c6ed9feb144c0597c538e1038d9f343a40df19fad6a",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mysensors-adapter-1.1.0-linux-arm64-v3.7.tgz",
+      "checksum": "181e42520817c10aaa37afda54c8608384852aa486d23d79915b06ae900e7557",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mysensors-adapter-1.1.0-linux-x64-v3.7.tgz",
+      "checksum": "9c9e8f8ce714391cf680e7654e5ec4c8411b385f60441c2a9d073d075f837536",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mysensors-adapter-1.1.0-darwin-x64-v3.7.tgz",
+      "checksum": "b8f3c9912c9e21fa984cd719ca0b9eb613ed69034397255e71af121c1703e6b3",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
           "3.8"
         ]
       },
-      "version": "1.0.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mysensors-adapter-1.0.3.tgz",
-      "checksum": "da846fbf25e43c9a98e61025ac6747e9926c47360001d4e2a17e5651c7682afb",
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mysensors-adapter-1.1.0-linux-arm-v3.8.tgz",
+      "checksum": "4cc48fb3d088bb05a23c969b4837623cd444ebe31e801c18737d867bf1b87a14",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mysensors-adapter-1.1.0-linux-arm64-v3.8.tgz",
+      "checksum": "e5e8133ed3586617f776970fb76f68f08c4441d99da3a1384f1c1c62b099bb29",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mysensors-adapter-1.1.0-linux-x64-v3.8.tgz",
+      "checksum": "e7173428f8129a8b9593621ac322cb97fa94e8376f4906e47f1f65addbd75690",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mysensors-adapter-1.1.0-darwin-x64-v3.8.tgz",
+      "checksum": "80922f47343142bcab984e3a143879c6bdc3f3cc529f9224ae7e075eed3bacd7",
       "api": {
         "min": 2,
         "max": 2

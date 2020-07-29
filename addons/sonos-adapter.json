@@ -4,7 +4,7 @@
   "description": "Sonos player support",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/sonos-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/sonos-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/sonos-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,13 +15,9 @@
           "any"
         ]
       },
-      "version": "0.7.4",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sonos-adapter-0.7.4.tgz",
-      "checksum": "22ba488df820bd3d4cea390e7ea5325e0cb7d50f2393ff2aae2550f4bdffd8fc",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.9.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sonos-adapter-0.9.1.tgz",
+      "checksum": "0131ac6415f1a22f7d217bbf5f043df077d538535dfd2475690b0ec490dabca7",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

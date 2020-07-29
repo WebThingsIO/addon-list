@@ -1,0 +1,267 @@
+{
+  "id": "p1-adapter",
+  "name": "P1",
+  "description": "Connect to home energy meters that use the P1 standard",
+  "author": "CandleSmartHome.com",
+  "homepage_url": "https://github.com/createcandle/p1-adapter",
+  "license_url": "https://raw.githubusercontent.com/createcandle/p1-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-arm-v3.5.tgz",
+      "checksum": "fbb62e94048813c645844595e030fe288c6728b92df6704828b3882163a5d1f3",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-arm64-v3.5.tgz",
+      "checksum": "b565f6d02ed79491ecef93eedd604bb7492baf87b14c66c490e89bf678deecba",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-x64-v3.5.tgz",
+      "checksum": "c7c08d064e540d420b0e3ab67876e847da434a4c4d7313e5b983a4e2dd2143be",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-darwin-x64-v3.5.tgz",
+      "checksum": "22aa933c7a5c8a82cabd424ad3e77497fd603f9831e1f0e40dbe8e1e2b032b11",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-arm-v3.6.tgz",
+      "checksum": "63eb917a8a13616976fb2dc74ca5b3ffc769632fff21b5441fd063d8bb08d3c4",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-arm64-v3.6.tgz",
+      "checksum": "b338cba0180c501905dd86fa65df6f1d25d1577d97f5f4da3cc2fce7e20f3583",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-x64-v3.6.tgz",
+      "checksum": "1407f2c661df66d3a9f02f9c2348803a0eda204803e4d42bc2a3e4d8e29dade1",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-darwin-x64-v3.6.tgz",
+      "checksum": "0e87da5a34d277f5beecf614e1369970cd9291d2033a88e8b6eb665c805354ba",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-arm-v3.7.tgz",
+      "checksum": "74e24ee4af18cd71ac6316be21797981233a30f1696d8bc39a9c77211ec3866e",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-arm64-v3.7.tgz",
+      "checksum": "1fea2b81ac70c31676bab892902375c5005bb3a53ba5ab8fc072e0e792857760",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-x64-v3.7.tgz",
+      "checksum": "d62522065a892e75246da6fa0d1569f22fcd53a2037d1672ddba70ea4b186da0",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-darwin-x64-v3.7.tgz",
+      "checksum": "3acb3787adf4ee1aa45621b40f5a06d96bac752e3cd308655baea58ee12a4b1c",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-arm-v3.8.tgz",
+      "checksum": "615b7f1e55d72bb2985dec2eeac7a4c500981540b1a95001ad8a1e12c143c776",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-arm64-v3.8.tgz",
+      "checksum": "59c366c0ffb9aa43efb1191102dfd0564eaea15358119979f1df4b33889af6d5",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-x64-v3.8.tgz",
+      "checksum": "22d8faa00895e2933336730f0b9365260091102018f33ea76f4396536f1242cb",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-darwin-x64-v3.8.tgz",
+      "checksum": "7ea239239186b63ecf248c4372c5b75f211de2f38104ff1a94f0497bfe516d13",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

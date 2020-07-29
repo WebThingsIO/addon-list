@@ -4,7 +4,7 @@
   "description": "Runs for the specified number of seconds",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/timer-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/timer-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/timer-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,13 +15,9 @@
           "any"
         ]
       },
-      "version": "1.2.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/timer-adapter-1.2.1.tgz",
-      "checksum": "cceb5d165d261e2821829a9ee6a9abf73b470afef588e7dc28bd835690f6c4b3",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "1.6.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/timer-adapter-1.6.1.tgz",
+      "checksum": "b2724f9c7497b56686d3d65629bfa9442a4b1876928b3663cff97768a1c11a8e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

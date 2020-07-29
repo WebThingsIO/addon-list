@@ -4,7 +4,7 @@
   "description": "Pushes notifications to your device",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/prowl-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/prowl-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/prowl-adapter/master/LICENSE",
   "primary_type": "notifier",
   "packages": [
     {
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/prowl-adapter-0.2.0.tgz",
-      "checksum": "17ebe28cd6a777d37703185ecc6a735363c70f815cb7184e455807069a70d811",
+      "version": "0.2.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/prowl-adapter-0.2.4.tgz",
+      "checksum": "c61c9a0bb3f2f4bb256064a49b7b11ae3879df77489448b2d33697786f8e1233",
       "api": {
         "min": 2,
         "max": 2

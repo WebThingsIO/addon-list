@@ -4,7 +4,7 @@
   "description": "Meross smart plug device support",
   "author": "Mozilla IoT",
   "homepage_url": "https://github.com/mozilla-iot/meross-adapter",
-  "license_url": "https://github.com/mozilla-iot/meross-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/mozilla-iot/meross-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -18,13 +18,9 @@
           "3.8"
         ]
       },
-      "version": "0.3.1",
-      "url": "https://github.com/mozilla-iot/meross-adapter/releases/download/v0.3.1/meross-adapter-0.3.1.tgz",
-      "checksum": "035d8a374d58d44a6bc985adab4e4fa6209f51e5f52f1e3c1e2ed1f3ff8e605a",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.4.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/meross-adapter-0.4.1.tgz",
+      "checksum": "56b3d5059e6a030f7ae7ac137887d8166bc4815c54fa4d2ddc707fd886354470",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

@@ -3,10 +3,8 @@ discoverable from the **Settings -> Add-ons** page.
 
 # Building Add-ons
 
-The add-on API is described in [this document][adapter-api].
-
-You should also take a look at the [guidelines][guidelines] for building
-add-ons.
+See [here](https://github.com/mozilla-iot/wiki/wiki#general-1) for lots of
+resources.
 
 # Packaging Add-ons
 
@@ -26,12 +24,6 @@ distribute a package for each. The currently supported architectures are:
 * `linux-arm64`: Linux on 64-bit ARM
 * `linux-ia32`: Linux on 32-bit x86
 * `linux-x64`: Linux on 64-bit x86
-* `openwrt-linux-arm_cortex-a7_neon-vfpv4`: OpenWrt on Raspberry Pi (and
-  similar hardware)
-* `openwrt-linux-arm_cortex-a9_vfpv3`: OpenWrt on Turris Omnia (and
-  similar hardware)
-* `win32-ia32`: Windows on 32-bit x86
-* `win32-x64`: Windows on 64-bit x86
 
 Furthermore, your packages may have to be distributed separately if the runtime
 requires it. For instance, if you're distributing a Node.js package with
@@ -98,7 +90,8 @@ must include the following information:
   * `version`: The package version. This should be the same as in your
     `manifest.json`.
   * `checksum`: Checksum of the tarball
-  * `api`: The API levels supported by this package. This should be the same as
+  * `api`: The API levels supported by this package. This is only necessary if
+    your add-on supports gateway versions <= 0.9.X. This should be the same as
     in your `package.json`, so an object with the following 2 properties:
     * `min`: The minimum supported API level
     * `max`: The maximum supported API level

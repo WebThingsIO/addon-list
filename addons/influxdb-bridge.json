@@ -1,0 +1,203 @@
+{
+  "id": "influxdb-bridge",
+  "name": "InfluxDB",
+  "description": "Save your device states to an InfluxDB",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/influxdb-bridge#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/influxdb-bridge/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.3.0-linux-arm-v8.tgz",
+      "checksum": "425461d95354a335184911d8541651231de2a00dbeda4f01c909a528403ddb9d",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.3.0-linux-arm64-v8.tgz",
+      "checksum": "a6c3d6f38126f35a15755191132a56f22c563c5922b433b4da0073a0103a0411",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.3.0-linux-x64-v8.tgz",
+      "checksum": "0271da64d9d3f24fb6d2a75ced052c8e7411ab392ab5a1fff55a8e1d0d7b500a",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.3.0-darwin-x64-v8.tgz",
+      "checksum": "c71efd06d033a5a48798f3eecc89ee4f1acd175910adc5ff254885d239d8b944",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.3.0-linux-arm-v10.tgz",
+      "checksum": "b41dd88f70b8299a825ec90cad22e8b1bad712663e137b4331cb99b79a73c636",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.3.0-linux-arm64-v10.tgz",
+      "checksum": "77b74b6b56cf53d86a3ed66c6fcc1fa6f53c194d04bca4a168f1ccd252c4c80e",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.3.0-linux-x64-v10.tgz",
+      "checksum": "3704458bb0b2d1195fe4722a84fef4634730477e1636e787c576943dea16cc66",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.3.0-darwin-x64-v10.tgz",
+      "checksum": "03d4314554fdc8df574397d948205a6d24e997ea26d8417f686218568e2b24c4",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.3.0-linux-arm-v12.tgz",
+      "checksum": "31440050a1191e449a3115b173be8e54aaf9d40e5ae5864dde24008182655031",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.3.0-linux-arm64-v12.tgz",
+      "checksum": "e1500aebe098cdc577d57cadfe13f5432a252117075c661bed0e691d0a677193",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.3.0-linux-x64-v12.tgz",
+      "checksum": "7a9c5cc41b51f5dca9af10c838e115965b086662613744fa4cc17df2316d6606",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.3.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/influxdb-bridge-0.3.0-darwin-x64-v12.tgz",
+      "checksum": "5dbd68b90f1957d40bd58c7f3b0ff0bc9d51ace070ef2400b64cd00b813aa272",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

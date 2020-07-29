@@ -4,7 +4,7 @@
   "description": "Privacy friendly voice control. Say 'Hey Snips' to start a voice command.",
   "author": "CreateCandle",
   "homepage_url": "https://github.com/createcandle/voco",
-  "license_url": "https://github.com/createcandle/voco/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/createcandle/voco/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -18,13 +18,9 @@
           "3.8"
         ]
       },
-      "version": "1.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voco-1.0.2.tgz",
-      "checksum": "78b1e3fd9c39b53825c5e75275a1edb476f6c684aead8a3f6ee5960ff7f69e18",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "1.1.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voco-1.1.4.tgz",
+      "checksum": "73800480d6f5cbdd64360afdde1da3fc930129b7e68767126c781b071b84d188",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

@@ -4,7 +4,7 @@
   "description": "Show your favourite photos. Great if you use a tablet to control your home.",
   "author": "Flatsiedatsie",
   "homepage_url": "https://github.com/flatsiedatsie/photo-frame",
-  "license_url": "https://github.com/flatsiedatsie/photo-frame/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/flatsiedatsie/photo-frame/master/LICENSE",
   "primary_type": "extension",
   "packages": [
     {
@@ -18,13 +18,9 @@
           "3.8"
         ]
       },
-      "version": "0.0.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/photo-frame-0.0.1.tgz",
-      "checksum": "ec06e477bbcf57764df9ec25d138cff559e9dcf3677d2cba67c306274e7e611e",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.0.3",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/photo-frame-0.0.3.tgz",
+      "checksum": "fa4b9c9d76ed15572621018fe4655521d7bae648a53d0871e40c195d93827c1c",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

@@ -4,7 +4,7 @@
   "description": "Connect sensors from https://luftdaten.info",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/luftdaten-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/luftdaten-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/luftdaten-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/luftdaten-adapter-0.3.2.tgz",
-      "checksum": "e198dad9cfbe642900ced6dbcd71bcdbe13cff20fa0e7ae7f99581d709840be8",
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/luftdaten-adapter-1.1.0.tgz",
+      "checksum": "8d9d26f40dce74773e23b80ac24bfe9e1b9aabe8fc1d7821302b1d30098ff350",
       "api": {
         "min": 2,
         "max": 2

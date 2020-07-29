@@ -4,7 +4,7 @@
   "description": "Connect your SensorTags",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/sensor-tag-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/sensor-tag-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/sensor-tag-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -18,6 +18,26 @@
       "version": "0.1.4",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sensor-tag-adapter-0.1.4-linux-arm-v8.tgz",
       "checksum": "d53a104b9a5ed918d9cc887e026c6e02f29ef44dfc878059aabf60de9e38db4d",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sensor-tag-adapter-0.1.4-linux-arm64-v8.tgz",
+      "checksum": "6f4e07f57a7cc2faed4eb1e50bec0a8194fe2773bc51aaf0b08ad4418a494f51",
       "api": {
         "min": 2,
         "max": 2
@@ -88,6 +108,26 @@
       }
     },
     {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sensor-tag-adapter-0.1.4-linux-arm64-v10.tgz",
+      "checksum": "f66925644498521df1f65adcb42318d9ee67b3e277ef07f115c116251b5b6773",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
       "architecture": "linux-x64",
       "language": {
         "name": "nodejs",
@@ -138,6 +178,26 @@
       "version": "0.1.4",
       "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sensor-tag-adapter-0.1.4-linux-arm-v12.tgz",
       "checksum": "1ef22693aef3a313736c7bd4703e455f9c4fd620166a96298fb4aa8ffe7074b7",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sensor-tag-adapter-0.1.4-linux-arm64-v12.tgz",
+      "checksum": "676a27fa12cd177652263a086e0f8ef6114982da26a34914816f571f8dfd4d7c",
       "api": {
         "min": 2,
         "max": 2

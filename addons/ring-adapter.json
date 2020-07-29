@@ -4,7 +4,7 @@
   "description": "Ring device adapter for Ring Doorbells, Lights and Sirens.",
   "author": "damooooooooooh",
   "homepage_url": "https://github.com/damooooooooooh/ring-adapter",
-  "license_url": "https://github.com/damooooooooooh/ring-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/damooooooooooh/ring-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

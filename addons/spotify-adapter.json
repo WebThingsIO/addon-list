@@ -4,7 +4,7 @@
   "description": "Control your Spotify player",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/spotify-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/spotify-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/spotify-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.4",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/spotify-adapter-0.1.4.tgz",
-      "checksum": "781285f40a6fb0f3b6be7bb298ea9e0d1a77c5e816e601b9bd9e8ac5bc8e9cd5",
+      "version": "0.5.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/spotify-adapter-0.5.0.tgz",
+      "checksum": "48f77c9c595e3a2602d4319289264315517d114123fc31a31ed1bd7e91eee148",
       "api": {
         "min": 2,
         "max": 2
