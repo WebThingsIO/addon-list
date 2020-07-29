@@ -4,7 +4,7 @@
   "description": "Connect to home energy meters that use the P1 standard",
   "author": "CandleSmartHome.com",
   "homepage_url": "https://github.com/createcandle/p1-adapter",
-  "license_url": "https://github.com/createcandle/p1-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/createcandle/p1-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,9 +15,9 @@
           "3.5"
         ]
       },
-      "version": "0.0.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.1-linux-arm-v3.5.tgz",
-      "checksum": "515001692d0fd547cf2354913d0526eced60c6f219ab86be973b34162f5c2bdb",
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-arm-v3.5.tgz",
+      "checksum": "fbb62e94048813c645844595e030fe288c6728b92df6704828b3882163a5d1f3",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "3.5"
         ]
       },
-      "version": "0.0.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.1-linux-arm64-v3.5.tgz",
-      "checksum": "dd82373d9ce5935e67d06a7ddc3eec3b6cb6c5d6bd3f939cf0d50a2044333e07",
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-arm64-v3.5.tgz",
+      "checksum": "b565f6d02ed79491ecef93eedd604bb7492baf87b14c66c490e89bf678deecba",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -47,9 +47,9 @@
           "3.5"
         ]
       },
-      "version": "0.0.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.1-linux-x64-v3.5.tgz",
-      "checksum": "86ca1771c7ce1a861a519932e4e1eb549ef159e5ae92ce4764f9a0047fcc1f8c",
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-x64-v3.5.tgz",
+      "checksum": "c7c08d064e540d420b0e3ab67876e847da434a4c4d7313e5b983a4e2dd2143be",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -63,9 +63,9 @@
           "3.5"
         ]
       },
-      "version": "0.0.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.1-darwin-x64-v3.5.tgz",
-      "checksum": "b54970529c96a4966d7e94bfb549e38aae83553d4099971dd515224387deae77",
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-darwin-x64-v3.5.tgz",
+      "checksum": "22aa933c7a5c8a82cabd424ad3e77497fd603f9831e1f0e40dbe8e1e2b032b11",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -79,9 +79,9 @@
           "3.6"
         ]
       },
-      "version": "0.0.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.1-linux-arm-v3.6.tgz",
-      "checksum": "dd6315007379362b79b3a28eb7bc5a06e863720559669d974e240dbf763bfacd",
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-arm-v3.6.tgz",
+      "checksum": "63eb917a8a13616976fb2dc74ca5b3ffc769632fff21b5441fd063d8bb08d3c4",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,9 +95,9 @@
           "3.6"
         ]
       },
-      "version": "0.0.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.1-linux-arm64-v3.6.tgz",
-      "checksum": "9732cc8266fc683b629aeed1a1686b01cba8f09217eadb1f24ce32277aa42cc9",
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-arm64-v3.6.tgz",
+      "checksum": "b338cba0180c501905dd86fa65df6f1d25d1577d97f5f4da3cc2fce7e20f3583",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -111,9 +111,9 @@
           "3.6"
         ]
       },
-      "version": "0.0.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.1-linux-x64-v3.6.tgz",
-      "checksum": "2db96dcf8eaff858c2874e6de754a124c65361f3e87269a8b6c85273bdc6e9d4",
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-x64-v3.6.tgz",
+      "checksum": "1407f2c661df66d3a9f02f9c2348803a0eda204803e4d42bc2a3e4d8e29dade1",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,9 +127,9 @@
           "3.6"
         ]
       },
-      "version": "0.0.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.1-darwin-x64-v3.6.tgz",
-      "checksum": "8785adbccd9d5a0dbe2d4dcee31a550c42c8bc089ec76d1c3775cae6762e7279",
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-darwin-x64-v3.6.tgz",
+      "checksum": "0e87da5a34d277f5beecf614e1369970cd9291d2033a88e8b6eb665c805354ba",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -143,9 +143,9 @@
           "3.7"
         ]
       },
-      "version": "0.0.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.1-linux-arm-v3.7.tgz",
-      "checksum": "0beae005e54e008f6f141034fbb88ee1399a266709bd5e5c257f4167f702a379",
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-arm-v3.7.tgz",
+      "checksum": "74e24ee4af18cd71ac6316be21797981233a30f1696d8bc39a9c77211ec3866e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -159,9 +159,9 @@
           "3.7"
         ]
       },
-      "version": "0.0.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.1-linux-arm64-v3.7.tgz",
-      "checksum": "6c345fbbbbe3c9480daeeae373392cf30162ee6ff914907013eb9aac46683b04",
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-arm64-v3.7.tgz",
+      "checksum": "1fea2b81ac70c31676bab892902375c5005bb3a53ba5ab8fc072e0e792857760",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,9 +175,9 @@
           "3.7"
         ]
       },
-      "version": "0.0.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.1-linux-x64-v3.7.tgz",
-      "checksum": "b54cd89ad15d54079efad5ff8cc53c5955232c86d013e5ec35af5c61a7485a66",
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-x64-v3.7.tgz",
+      "checksum": "d62522065a892e75246da6fa0d1569f22fcd53a2037d1672ddba70ea4b186da0",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,9 +191,9 @@
           "3.7"
         ]
       },
-      "version": "0.0.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.1-darwin-x64-v3.7.tgz",
-      "checksum": "cb62b1e8c593b0ef408828d5ff939f848f545b5aa6df318ae268083c9dc1f07c",
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-darwin-x64-v3.7.tgz",
+      "checksum": "3acb3787adf4ee1aa45621b40f5a06d96bac752e3cd308655baea58ee12a4b1c",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -207,9 +207,9 @@
           "3.8"
         ]
       },
-      "version": "0.0.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.1-linux-arm-v3.8.tgz",
-      "checksum": "f0535ad5ae049c776ed02829bded19da2abea3fed56c58ffbe3797785fe7a567",
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-arm-v3.8.tgz",
+      "checksum": "615b7f1e55d72bb2985dec2eeac7a4c500981540b1a95001ad8a1e12c143c776",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -223,9 +223,9 @@
           "3.8"
         ]
       },
-      "version": "0.0.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.1-linux-arm64-v3.8.tgz",
-      "checksum": "f10a39f0cc1b6b6c0ba09a72c5fe7ef9989d3cd9d96efa0c803bc9279dd2738e",
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-arm64-v3.8.tgz",
+      "checksum": "59c366c0ffb9aa43efb1191102dfd0564eaea15358119979f1df4b33889af6d5",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -239,9 +239,9 @@
           "3.8"
         ]
       },
-      "version": "0.0.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.1-linux-x64-v3.8.tgz",
-      "checksum": "bf22e65ff11742ce8698ba690b02d88e4f6209546ff5feae05cdd29c54e654f8",
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-x64-v3.8.tgz",
+      "checksum": "22d8faa00895e2933336730f0b9365260091102018f33ea76f4396536f1242cb",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -255,9 +255,9 @@
           "3.8"
         ]
       },
-      "version": "0.0.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.1-darwin-x64-v3.8.tgz",
-      "checksum": "f7babe951acf022741b9f13e5dd48438b1e67d6918066f57caa12834a5c7f5f7",
+      "version": "0.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-darwin-x64-v3.8.tgz",
+      "checksum": "7ea239239186b63ecf248c4372c5b75f211de2f38104ff1a94f0497bfe516d13",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
