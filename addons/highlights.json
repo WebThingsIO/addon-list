@@ -1,0 +1,30 @@
+{
+  "id": "highlights",
+  "name": "HIghlights",
+  "description": "Highlight any property on the things overview page",
+  "author": "Flatsiedatsie",
+  "homepage_url": "https://github.com/flatsiedatsie/highlights",
+  "license_url": "https://raw.githubusercontent.com/flatsiedatsie/highlights/master/LICENSE",
+  "primary_type": "extension",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5",
+          "3.6",
+          "3.7",
+          "3.8"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/flatsiedatsie/highlights/releases/download/0.0.1/highlights-0.0.1.tgz",
+      "checksum": "ee07a268b7a74d1b4cabb18be055728e29f02b7c08c228c32980bf269eebf455",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
