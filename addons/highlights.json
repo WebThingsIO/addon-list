@@ -20,7 +20,7 @@
       },
       "version": "0.0.1",
       "url": "https://github.com/flatsiedatsie/highlights/releases/download/0.0.1/highlights-0.0.1.tgz",
-      "checksum": "c3ec68b4bcbc7fb6f191266b024dc371ef4e47fc48c60daa8499ee1167ec0e7e",
+      "checksum": "e09d07b9fa906f630c56900adafd0c0afd22ef324db1aca90ced7dbe0c5e7adf",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
