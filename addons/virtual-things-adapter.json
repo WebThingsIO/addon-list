@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.8.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/virtual-things-adapter-0.8.2.tgz",
-      "checksum": "40fe99dfcae553222f8138c0e8b9a2efbe0f9dc6bc32373651485d47eaf3d422",
+      "version": "0.9.0",
+      "url": "https://github.com/mozilla-iot/virtual-things-adapter/releases/download/v0.9.0/virtual-things-adapter-0.9.0.tgz",
+      "checksum": "f2e530e00a46f0cb7a259b1a308775cc308a15f31183a5164f349f79a3383757",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
