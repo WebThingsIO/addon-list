@@ -19,7 +19,7 @@
         ]
       },
       "version": "0.0.1",
-      "url": "https://github.com/flatsiedatsie/highlights/releases/download/0.0.1/highlights-0.0.1.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/highlights-0.0.1.tgz",
       "checksum": "e09d07b9fa906f630c56900adafd0c0afd22ef324db1aca90ced7dbe0c5e7adf",
       "gateway": {
         "min": "0.10.0",
