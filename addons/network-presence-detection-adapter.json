@@ -18,9 +18,9 @@
           "3.8"
         ]
       },
-      "version": "1.0.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/network-presence-detection-adapter-1.0.0.tgz",
-      "checksum": "e20af03b2ed4254c7760da79844ef9f36c690c88dccd08c7c7b34fe280476812",
+      "version": "1.0.1",
+      "url": "https://github.com/flatsiedatsie/webthings-network-presence-detection/releases/download/1.0.1/network-presence-detection-adapter-1.0.1.tgz",
+      "checksum": "39cacbdc5e5ad615c33b2e73fb36f69cba0968e1f84b583096c9c04966a8b4de",
       "api": {
         "min": 2,
         "max": 2
