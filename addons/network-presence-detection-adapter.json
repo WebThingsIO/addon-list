@@ -20,7 +20,7 @@
       },
       "version": "1.0.1",
       "url": "https://github.com/flatsiedatsie/webthings-network-presence-detection/releases/download/1.0.1/network-presence-detection-adapter-1.0.1.tgz",
-      "checksum": "39cacbdc5e5ad615c33b2e73fb36f69cba0968e1f84b583096c9c04966a8b4de",
+      "checksum": "8ce2080dcf05047b16b8347077eb6d19d1a14eb8cc98429479945ab1ba5bfcc1",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
