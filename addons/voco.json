@@ -2,7 +2,7 @@
   "id": "voco",
   "name": "Voco",
   "description": "Privacy friendly voice control. Say 'Hey Snips' to start a voice command.",
-  "author": "CreateCandle",
+  "author": "CandleSmartHome.com",
   "homepage_url": "https://github.com/createcandle/voco",
   "license_url": "https://raw.githubusercontent.com/createcandle/voco/master/LICENSE",
   "primary_type": "adapter",
@@ -20,7 +20,7 @@
       },
       "version": "1.2.0",
       "url": "https://www.candlesmarthome.com/assistant/voco-1.2.0.tgz",
-      "checksum": "5728fd797ba96a2a13253b328f456ebd806a49b809ca97af7c7aaec01488cff4",
+      "checksum": "c29b8c7e66507b56329cd053dba50fa01cfac15870916be94835ccd8e28c1b75",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
