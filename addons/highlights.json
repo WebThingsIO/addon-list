@@ -18,9 +18,9 @@
           "3.8"
         ]
       },
-      "version": "0.0.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/highlights-0.0.1.tgz",
-      "checksum": "e09d07b9fa906f630c56900adafd0c0afd22ef324db1aca90ced7dbe0c5e7adf",
+      "version": "0.0.2",
+      "url": "https://github.com/flatsiedatsie/highlights/releases/download/0.0.2/highlights-0.0.2.tgz",
+      "checksum": "b2d8805fdce5e37071bbde5c3b11027506225c8dc799be3e43bc6afbf6219105",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
