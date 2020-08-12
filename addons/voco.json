@@ -18,9 +18,9 @@
           "3.8"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voco-1.2.0.tgz",
-      "checksum": "8f7cc4c7488154c40d4ff38098cb63bc733e1096aafa29e7fcf303683f55290a",
+      "version": "2.0.0",
+      "url": "https://www.candlesmarthome.com/assistant/voco-2.0.0.tgz",
+      "checksum": "64eb1c9257890686ffe4a4fd1adfb04873fcb3e60751c7d37d0a3dbcfb5e84a0",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
