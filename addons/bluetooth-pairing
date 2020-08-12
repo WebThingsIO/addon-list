@@ -1,0 +1,30 @@
+{
+  "id": "bluetoothpairing",
+  "name": "Bluetooth Pairing",
+  "description": "Pair with and connect to bluetooth devices",
+  "author": "CandleSmartHome.com",
+  "homepage_url": "https://github.com/flatsiedatsie/highlights",
+  "license_url": "https://raw.githubusercontent.com/flatsiedatsie/highlights/master/LICENSE",
+  "primary_type": "extension",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5",
+          "3.6",
+          "3.7",
+          "3.8"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/flatsiedatsie/bluetoothpairing/releases/download/0.0.1/bluetoothpairing-0.0.1.tgz",
+      "checksum": "ab26ed6c16fc3f8b0195a976d4bfe08d789c3a1d1ac776b3fc60cb62e37b7440",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
