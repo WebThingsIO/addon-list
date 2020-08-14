@@ -18,9 +18,9 @@
           "3.8"
         ]
       },
-      "version": "0.3.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/followers-0.3.1.tgz",
-      "checksum": "e55ed9bb2d302e330827675659ea22562127bfd68973495b218780205a37d8cc",
+      "version": "0.4.0",
+      "url": "https://github.com/flatsiedatsie/followers-addon/releases/download/0.4.0/followers-0.4.0.tgz",
+      "checksum": "ec0b87ba8fb3e6111a6f7c192f422d2329cb26f9a2fcb5cdff67b3e5a69a977e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
