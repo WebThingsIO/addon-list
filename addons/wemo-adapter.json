@@ -18,9 +18,9 @@
           "3.8"
         ]
       },
-      "version": "0.3.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/wemo-adapter-0.3.1.tgz",
-      "checksum": "091913671b44322e2ed3c481c42b123cdff8256a0b2e3712b6c476c954fd08a9",
+      "version": "0.3.2",
+      "url": "https://github.com/mozilla-iot/wemo-adapter/releases/download/v0.3.2/wemo-adapter-0.3.2.tgz",
+      "checksum": "b12c4c4441c72893740597c6280c68ef1eb8d0074d7b18b2aa69eb93d6a76d6a",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
