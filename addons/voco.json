@@ -1,7 +1,7 @@
 {
   "id": "voco",
   "name": "Voco",
-  "description": "Privacy friendly voice control. Say 'Hey Snips' to start a voice command.",
+  "description": "Privacy friendly voice control. Control devices, set timers, reminders and alarms, and more. Supports satelites in multiple rooms.",
   "author": "CandleSmartHome.com",
   "homepage_url": "https://www.candlesmarthome.com/voco-privacy-friendly-voice-control",
   "license_url": "https://raw.githubusercontent.com/createcandle/voco/master/LICENSE",
@@ -18,9 +18,9 @@
           "3.8"
         ]
       },
-      "version": "2.2.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voco-2.2.1.tgz",
-      "checksum": "a5a3f8c61e209ccc8936d41ad7b9aae7ef2ef44e477963767162d50c144fbb65",
+      "version": "2.2.2",
+      "url": "https://www.candlesmarthome.com/assistant/voco-2.2.2.tgz",
+      "checksum": "cca108c4f455d375713a5173ddebac6f5d81ebe4dadb1d91b90e7fd86be86795",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
