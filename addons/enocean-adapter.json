@@ -15,13 +15,9 @@
           "57"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/enocean-adapter-0.1.7-linux-arm-v8.tgz",
-      "checksum": "f565e837c9dcbf5925261a23ab5511a8f2f13bee0eb377286f23a074c172e53e",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.8",
+      "url": "https://github.com/tim-hellhake/enocean-adapter/releases/download/0.1.8/enocean-adapter-0.1.8-linux-arm-v8.tgz",
+      "checksum": "e9c68a42998b39cf8f89f5c412e3674b96985857d903d31c01167f84b2f61b64",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -35,13 +31,9 @@
           "57"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/enocean-adapter-0.1.7-linux-arm64-v8.tgz",
-      "checksum": "55071abef7538012c3bed16d37e13bd40b0145aea12679a5ca5315456378a1f1",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.8",
+      "url": "https://github.com/tim-hellhake/enocean-adapter/releases/download/0.1.8/enocean-adapter-0.1.8-linux-arm64-v8.tgz",
+      "checksum": "96f449a14e45ea131da5f5706b178cce44903c9fdd68bb1f4b5644dd269d23bd",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -55,13 +47,9 @@
           "57"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/enocean-adapter-0.1.7-linux-x64-v8.tgz",
-      "checksum": "ca1bcacc0fb29577638696cad78f6941fa0e9e5bbcf39e6b619030e31289faa1",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.8",
+      "url": "https://github.com/tim-hellhake/enocean-adapter/releases/download/0.1.8/enocean-adapter-0.1.8-linux-x64-v8.tgz",
+      "checksum": "f62816d694d8fadd31e5bd2d647ef259af9cc3e56862a92a49b2d0d0889e86d9",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -75,13 +63,9 @@
           "57"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/enocean-adapter-0.1.7-darwin-x64-v8.tgz",
-      "checksum": "3da7498c0fa9a4337ed9756d256b1528a52df2f669cadd7a9077fb7ff3d4449c",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.8",
+      "url": "https://github.com/tim-hellhake/enocean-adapter/releases/download/0.1.8/enocean-adapter-0.1.8-darwin-x64-v8.tgz",
+      "checksum": "dd56e8d761ab09661f7422d8ef96f7ea6605adecf8bdb24983e78cba6da11f4d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,13 +79,9 @@
           "64"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/enocean-adapter-0.1.7-linux-arm-v10.tgz",
-      "checksum": "b0e536337b7291b3d1120d79289580c8d1d638f3fe550cc7662906d806d1f5bf",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.8",
+      "url": "https://github.com/tim-hellhake/enocean-adapter/releases/download/0.1.8/enocean-adapter-0.1.8-linux-arm-v10.tgz",
+      "checksum": "c134f62eced398af939a9f48571f32362d3d2d58d4afa20d79178a8db3feeabd",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -115,13 +95,9 @@
           "64"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/enocean-adapter-0.1.7-linux-arm64-v10.tgz",
-      "checksum": "514020e8b7a7417ae1c88b883535acd91efda413223392f1652f55fd03a109f9",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.8",
+      "url": "https://github.com/tim-hellhake/enocean-adapter/releases/download/0.1.8/enocean-adapter-0.1.8-linux-arm64-v10.tgz",
+      "checksum": "eda13297cef76d86734fbf9414d46c76cf6493212ec333fb267bab15068359d5",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -135,13 +111,9 @@
           "64"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/enocean-adapter-0.1.7-linux-x64-v10.tgz",
-      "checksum": "ab5f924d1dab631999c53ceda6d16d5f08dc55bc601f92f7a5cf3966dab70e90",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.8",
+      "url": "https://github.com/tim-hellhake/enocean-adapter/releases/download/0.1.8/enocean-adapter-0.1.8-linux-x64-v10.tgz",
+      "checksum": "fae67bc336a9b6793316bfa827de27ae0e1e2f5b40c6a1c1c01e4bf4b978c414",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -155,13 +127,9 @@
           "64"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/enocean-adapter-0.1.7-darwin-x64-v10.tgz",
-      "checksum": "800319f782e4dcb38a05eee606d66eaa9369acef9c1e873f4cc8ca5d41a5d3fe",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.8",
+      "url": "https://github.com/tim-hellhake/enocean-adapter/releases/download/0.1.8/enocean-adapter-0.1.8-darwin-x64-v10.tgz",
+      "checksum": "1dd3969e75ddc075d21ec1145942152c586d39605b4ae7423961c140f45dc82a",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,13 +143,9 @@
           "72"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/enocean-adapter-0.1.7-linux-arm-v12.tgz",
-      "checksum": "7abea9db997cd9ee7dbcbc4b39bd1d9f727a6c4f6a3b148a7ad38977a3b0661e",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.8",
+      "url": "https://github.com/tim-hellhake/enocean-adapter/releases/download/0.1.8/enocean-adapter-0.1.8-linux-arm-v12.tgz",
+      "checksum": "8017da5bb92ad08f2006508bc349f59068fefe6d133072808a5abffa4a8722c5",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -195,13 +159,9 @@
           "72"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/enocean-adapter-0.1.7-linux-arm64-v12.tgz",
-      "checksum": "c799928233bcf9b3f3f8515104ac2edf1f125ef8fa43e2deec7653215498d3e0",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.8",
+      "url": "https://github.com/tim-hellhake/enocean-adapter/releases/download/0.1.8/enocean-adapter-0.1.8-linux-arm64-v12.tgz",
+      "checksum": "724a2f3e755366038eacd7f7098d094b6ceb69b7535a345a9fac4f9e1f55d993",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -215,13 +175,9 @@
           "72"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/enocean-adapter-0.1.7-linux-x64-v12.tgz",
-      "checksum": "0c3ecdecc6052461971dda6e53bbf8bf8d81c81bb077d7c5d4b92eef668cf50b",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.8",
+      "url": "https://github.com/tim-hellhake/enocean-adapter/releases/download/0.1.8/enocean-adapter-0.1.8-linux-x64-v12.tgz",
+      "checksum": "0c0154c8edea66d52e8a93f02a80b04168f6ad6530b4be3c41e04e787d02dde3",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -235,13 +191,73 @@
           "72"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/enocean-adapter-0.1.7-darwin-x64-v12.tgz",
-      "checksum": "c6a925630b55bafa7abd5191acd13faf2d01c0feb6355b6501f58b172189ff6d",
-      "api": {
-        "min": 2,
-        "max": 2
+      "version": "0.1.8",
+      "url": "https://github.com/tim-hellhake/enocean-adapter/releases/download/0.1.8/enocean-adapter-0.1.8-darwin-x64-v12.tgz",
+      "checksum": "2491a96dab5d9fc85b068f09072efa1e1fc8716884ba1039df9e3bb99f8a5097",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
       },
+      "version": "0.1.8",
+      "url": "https://github.com/tim-hellhake/enocean-adapter/releases/download/0.1.8/enocean-adapter-0.1.8-linux-arm-v14.tgz",
+      "checksum": "5c11df20369f5ec33c9bfdd77f6b49c9fb6ec710ef44b1847ebf7ea7b69d9d56",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.8",
+      "url": "https://github.com/tim-hellhake/enocean-adapter/releases/download/0.1.8/enocean-adapter-0.1.8-linux-arm64-v14.tgz",
+      "checksum": "352a613f24cdd6201ece271c51f1675a61ae4b56328fd4e81fe32c1ff5af8b2c",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.8",
+      "url": "https://github.com/tim-hellhake/enocean-adapter/releases/download/0.1.8/enocean-adapter-0.1.8-linux-x64-v14.tgz",
+      "checksum": "7f6f0a84b20bcf3c4c392e8c545fbc1d14f6f1667eba4d3cf03c1e05f693fd99",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.8",
+      "url": "https://github.com/tim-hellhake/enocean-adapter/releases/download/0.1.8/enocean-adapter-0.1.8-darwin-x64-v14.tgz",
+      "checksum": "83f36d649d4b5b9c004c1ce0c021d7c3eb43c5124ce8a762a29b304ef4816099",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
