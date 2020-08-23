@@ -1,0 +1,27 @@
+{
+  "id": "cololight-adapter",
+  "name": "Cololight",
+  "description": "Connect your Cololight devices",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/cololight-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/cololight-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://github.com/tim-hellhake/cololight-adapter/releases/download/0.1.0/cololight-adapter-0.1.0.tgz",
+      "checksum": "a9b468a8e4eb62640459e5763762cec268262bee892fbc34b898d00c915bb9d6",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
