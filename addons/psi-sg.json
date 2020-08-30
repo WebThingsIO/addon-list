@@ -16,7 +16,7 @@
         ]
       },
       "version": "1.0.1",
-      "url": "https://github.com/chas-iot/psi-sg/releases/download/v1.0.1/psi-sg-1.0.1.tgz",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/psi-sg-1.0.1.tgz",
       "checksum": "2f61caa81cda2342e7280791567a5d1b4e9b1b87f08477888a56f79e3b5001ef",
       "gateway": {
         "min": "0.10.0",
