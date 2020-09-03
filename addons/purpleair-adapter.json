@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/purpleair-adapter-0.1.1.tgz",
-      "checksum": "d160e22a6afc46145981fa521b00f86f2ba9b00063300df70933cff86a554f01",
+      "version": "1.0.0",
+      "url": "https://github.com/tim-hellhake/purpleair-adapter/releases/download/1.0.0/purpleair-adapter-1.0.0.tgz",
+      "checksum": "38979a647faceba26910f79e2b6fc89ccc157a66eb323b84d79b04ca26ef8da9",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
