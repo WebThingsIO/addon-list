@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "1.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/calendar-1.0.2.tgz",
-      "checksum": "27f9fab159ba08d81d3d45b3dbb1eb63f3bce03eef0195767e09c6eee0b6a3e9",
+      "version": "1.1.0",
+      "url": "https://github.com/chas-iot/calendar/releases/download/v1.1.0/calendar-1.1.0.tgz",
+      "checksum": "dcc8a7f3aedf8286efeda0f6512512f82cdc166ffc3fd42cbc839bef50c9a38b",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
