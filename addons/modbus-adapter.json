@@ -1,0 +1,203 @@
+{
+  "id": "modbus-adapter",
+  "name": "Modbus",
+  "description": "Connect your Modbus devices",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/modbus-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/modbus-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/modbus-adapter-0.1.1-linux-arm-v10.tgz",
+      "checksum": "aaae7d3334416261636a56c8ba78af52a17a531a34d277a73c41ae78f72357af",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/modbus-adapter-0.1.1-linux-arm64-v10.tgz",
+      "checksum": "61959336ed728877b3200a3a515c567619a4c00442b30b0cc8e9f8264536cbe0",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/modbus-adapter-0.1.1-linux-x64-v10.tgz",
+      "checksum": "9bcff411f734a0deeee9ff8c8300a9fa5b33c674471278bda44322209ee901b6",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/modbus-adapter-0.1.1-darwin-x64-v10.tgz",
+      "checksum": "bc85a3191106445afd4f1be9ec8b119b2554de740213904e9a0caa1372f55b30",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/modbus-adapter-0.1.1-linux-arm-v12.tgz",
+      "checksum": "08aa2a7cf359335a6334abf3340e01b4bedb8f3d7961e0b6bd6671f54bb10a90",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/modbus-adapter-0.1.1-linux-arm64-v12.tgz",
+      "checksum": "487f222cf02bdf28748021b636ddf0d54bd6f46dad01c3918e040d227cb28d5d",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/modbus-adapter-0.1.1-linux-x64-v12.tgz",
+      "checksum": "51be871061cc61609059df9d386c9b2e1c15f16a4c3a157a3df64bf60baa681d",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/modbus-adapter-0.1.1-darwin-x64-v12.tgz",
+      "checksum": "90fa22c3188cbc9c2bfa1705a51ea3d5027d5d2013fe30c4e88e0d9cef33f2b2",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/modbus-adapter-0.1.1-linux-arm-v14.tgz",
+      "checksum": "a25b9235d53114332e527be18e795f073870c0f6f11e2a3ed20315b9fdab541a",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/modbus-adapter-0.1.1-linux-arm64-v14.tgz",
+      "checksum": "9d96db48d38238df86d982d38d77da9e3f09ad7451d7aca69491c58b1386be3b",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/modbus-adapter-0.1.1-linux-x64-v14.tgz",
+      "checksum": "0244fbe05ed7910d26537b7093360715d44e34bb3cc40d097f989ff10f6958ce",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/modbus-adapter-0.1.1-darwin-x64-v14.tgz",
+      "checksum": "3c500758a1e9891db1d16d8349019c5a7f8543c3e1832695dc0f9159aa6585a5",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

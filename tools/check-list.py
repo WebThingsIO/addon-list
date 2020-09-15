@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import functools
 import glob
 import hashlib
 import json
@@ -23,6 +24,8 @@ _MAGIC = magic.Magic(mime=True)
 
 MAX_DOWNLOAD_ATTEMPTS = 5
 DOWNLOAD_ATTEMPT_DELAY = 3  # seconds
+
+print = functools.partial(print, flush=True)
 
 
 def cleanup(exit=True):
@@ -59,21 +62,21 @@ def check_warn_binary(fname, package_entry):
 
     ignore_compressed = [
         # Node stuff
-        os.path.join(cwd, 'package/node_modules/bytebuffer/dist/ByteBufferAB.min.js.gz'),
+        os.path.join(cwd, 'package/node_modules/bytebuffer/dist/ByteBufferAB.min.js.gz'),  # noqa
         os.path.join(cwd, 'package/node_modules/long/dist/Long.min.js.gz'),
-        os.path.join(cwd, 'package/node_modules/napi-build-utils/napi-build-utils-1.0.0.tgz'),
-        os.path.join(cwd, 'package/node_modules/protobufjs/dist/ProtoBuf.min.js.gz'),
-        os.path.join(cwd, 'package/node_modules/protobufjs/dist/ProtoBuf.noparse.min.js.gz'),
-        os.path.join(cwd, 'package/node_modules/tar-fs/test/fixtures/invalid.tar'),
+        os.path.join(cwd, 'package/node_modules/napi-build-utils/napi-build-utils-1.0.0.tgz'),  # noqa
+        os.path.join(cwd, 'package/node_modules/protobufjs/dist/ProtoBuf.min.js.gz'),  # noqa
+        os.path.join(cwd, 'package/node_modules/protobufjs/dist/ProtoBuf.noparse.min.js.gz'),  # noqa
+        os.path.join(cwd, 'package/node_modules/tar-fs/test/fixtures/invalid.tar'),  # noqa
 
         # Python stuff
         os.path.join(cwd, 'package/lib/bluepy/bluez-src.tgz'),
-        os.path.join(cwd, 'package/lib/dateutil/zoneinfo/dateutil-zoneinfo.tar.gz'),
+        os.path.join(cwd, 'package/lib/dateutil/zoneinfo/dateutil-zoneinfo.tar.gz'),  # noqa
         os.path.join(cwd, 'package/lib/numpy/lib/tests/data/py2-objarr.npz'),
         os.path.join(cwd, 'package/lib/numpy/lib/tests/data/py3-objarr.npz'),
 
         # Adapter-specific stuff
-        os.path.join(cwd, 'package/openzwave/config.orig/cooper/RF9505-T.xml.zip'),
+        os.path.join(cwd, 'package/openzwave/config.orig/cooper/RF9505-T.xml.zip'),  # noqa
     ]
     warn_compressed = [
         'application/gzip',
@@ -102,60 +105,60 @@ def check_warn_binary(fname, package_entry):
 
     ignore_binary = [
         # Node stuff
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm/node.napi.armv7.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm/node.napi.armv7.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm64/node.napi.armv8.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm64/node.napi.armv8.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.musl.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm64/node.napi.armv8.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm64/node.napi.armv8.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm/node.napi.armv7.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm/node.napi.armv7.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.musl.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm/node.napi.armv7.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm/node.napi.armv7.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm64/node.napi.armv8.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm64/node.napi.armv8.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.musl.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm64/node.napi.armv8.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm64/node.napi.armv8.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm/node.napi.armv7.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm/node.napi.armv7.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.musl.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm/node.napi.armv7.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm/node.napi.armv7.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm64/node.napi.armv8.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm64/node.napi.armv8.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.musl.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm64/node.napi.armv8.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm64/node.napi.armv8.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm/node.napi.armv7.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm/node.napi.armv7.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.musl.node'),
-        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm/node.napi.armv7.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm/node.napi.armv7.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm64/node.napi.armv8.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm64/node.napi.armv8.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.musl.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm64/node.napi.armv8.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm64/node.napi.armv8.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm/node.napi.armv7.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm/node.napi.armv7.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.musl.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm/node.napi.armv7.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm/node.napi.armv7.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm64/node.napi.armv8.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm64/node.napi.armv8.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.musl.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm64/node.napi.armv8.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm64/node.napi.armv8.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm/node.napi.armv7.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm/node.napi.armv7.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.musl.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm/node.napi.armv7.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm/node.napi.armv7.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm64/node.napi.armv8.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm64/node.napi.armv8.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.musl.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm64/node.napi.armv8.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm64/node.napi.armv8.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm/node.napi.armv7.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm/node.napi.armv7.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.musl.node'),  # noqa
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.node'),  # noqa
 
         # Python stuff
 
@@ -163,9 +166,9 @@ def check_warn_binary(fname, package_entry):
     ]
 
     platform = package_entry['architecture'].split('-')[0]
-    if ((platform == 'linux' and mime == 'application/x-mach-binary') or \
+    if ((platform == 'linux' and mime == 'application/x-mach-binary') or
             (platform == 'darwin' and mime in ['application/x-executable',
-                                               'application/x-sharedlib']) or \
+                                               'application/x-sharedlib']) or
             (platform == 'any' and mime in ['application/x-executable',
                                             'application/x-mach-binary',
                                             'application/x-sharedlib'])) and \

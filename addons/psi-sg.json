@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.5",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/psi-sg-0.1.5.tgz",
-      "checksum": "ff43377a6ad5a1bfa2879b9c36e18d3cdef67198ac57c45af70d5a8ed1f34978",
+      "version": "1.0.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/psi-sg-1.0.2.tgz",
+      "checksum": "4065bcf5754b643ed0923b805b21099d4d4a56fb572f96fe940f0c19ae10d797",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

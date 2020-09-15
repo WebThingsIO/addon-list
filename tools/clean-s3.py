@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import functools
 import glob
 import json
 import os
@@ -8,6 +9,8 @@ import sys
 
 _ROOT = os.path.realpath(os.path.join(os.path.dirname(__file__), '..'))
 _ADDONS_DIR = os.path.join(_ROOT, 'addons')
+
+print = functools.partial(print, flush=True)
 
 
 def main():

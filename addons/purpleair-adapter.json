@@ -1,0 +1,27 @@
+{
+  "id": "purpleair-adapter",
+  "name": "Purpleair",
+  "description": "Add purpleair sensor nodes to your gateway",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/purpleair-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/purpleair-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "1.1.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/purpleair-adapter-1.1.1.tgz",
+      "checksum": "84212605617375f22345a7b3711dd71f0c14e043d2e31135b5b6b387d3b9355d",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

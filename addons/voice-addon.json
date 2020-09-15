@@ -15,9 +15,9 @@
           "57"
         ]
       },
-      "version": "2.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.0.2-linux-arm-v8.tgz",
-      "checksum": "a7330a9aaee977ff17388cf3ab55d371f75ee5ecb30eea72467a1b27420ddb2f",
+      "version": "2.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-linux-arm-v8.tgz",
+      "checksum": "c35946d6f3a4092c8cb989cf5bd5463f8bf786f1ef9b5095fa5b604c78894bdc",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "57"
         ]
       },
-      "version": "2.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.0.2-linux-arm64-v8.tgz",
-      "checksum": "2625631064a4d4a610f0679cced9cd6597dd9cf7ae7f6ff6ffdd62b0b08b6217",
+      "version": "2.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-linux-arm64-v8.tgz",
+      "checksum": "ec6890d03512e6929cd2171f4cf65b79e93d9b7b3bef786d13556b6869d4323d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -47,9 +47,9 @@
           "57"
         ]
       },
-      "version": "2.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.0.2-linux-x64-v8.tgz",
-      "checksum": "2c6cd63fc09588dc1a3320c9ab9318c0b42065d9152b61a65b3ba49367e11cbd",
+      "version": "2.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-linux-x64-v8.tgz",
+      "checksum": "0e2a2d3dc7b03e96893c921d5982a8ea19fef290f1d42cb63416f7c94533a907",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -63,9 +63,9 @@
           "57"
         ]
       },
-      "version": "2.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.0.2-darwin-x64-v8.tgz",
-      "checksum": "1965b72d868c2be6fadf914117fc3a7a9633a60cac4215bc9eb627813e52fc29",
+      "version": "2.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-darwin-x64-v8.tgz",
+      "checksum": "9eff89de94262cfd9659336d9a2531bbebb57d7b0d6cc8847a66eeb003cdd054",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -79,9 +79,9 @@
           "64"
         ]
       },
-      "version": "2.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.0.2-linux-arm-v10.tgz",
-      "checksum": "bd4312a7a6074fd531a37126c5d041d46514367cb310fff177b3d861b9eeac45",
+      "version": "2.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-linux-arm-v10.tgz",
+      "checksum": "c94a7baad5d4eec34166f33a65cdc2d72a96e8ce3556583e2a1d83a6463ad4df",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,9 +95,9 @@
           "64"
         ]
       },
-      "version": "2.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.0.2-linux-arm64-v10.tgz",
-      "checksum": "9334650ea97c0b3be53f1cb37c435c75829d3631fcb0e2b596c8449b89bf23ad",
+      "version": "2.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-linux-arm64-v10.tgz",
+      "checksum": "f89c0796f26feaa87fc99c60ef3aa11ffc4ea91c1fe7316b45aceb0f1b6f4381",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -111,9 +111,9 @@
           "64"
         ]
       },
-      "version": "2.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.0.2-linux-x64-v10.tgz",
-      "checksum": "df938e0a2c6b5fb46a248f6003ffc8be5da6b57fb7eafbf3d0df75e4463b3bee",
+      "version": "2.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-linux-x64-v10.tgz",
+      "checksum": "cf22a7e2fa1c386357b1ac437900d5232dbda5af610ba5d7545ec21b807f612e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,9 +127,9 @@
           "64"
         ]
       },
-      "version": "2.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.0.2-darwin-x64-v10.tgz",
-      "checksum": "4dacb055df64b1c37682cdf6d50086463f9e1f092f389df8038c15a7da759be6",
+      "version": "2.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-darwin-x64-v10.tgz",
+      "checksum": "365fd909933d2b8a568a9d4b108a8b18622ecda7c8c1666863db483a14efca73",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -143,9 +143,9 @@
           "72"
         ]
       },
-      "version": "2.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.0.2-linux-arm-v12.tgz",
-      "checksum": "0b026c29564ad52af97b43cd277a078e04ef703b0cacdaedb19d013ac0d5ad80",
+      "version": "2.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-linux-arm-v12.tgz",
+      "checksum": "d876396588083ca983f29f415fb5a2ae46043cb331ab5afdf870c6f402a865d3",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -159,9 +159,9 @@
           "72"
         ]
       },
-      "version": "2.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.0.2-linux-arm64-v12.tgz",
-      "checksum": "ae4d933a9db67629984cd076ad3e00a233b5fa96172ee6c496cafa778a79f62a",
+      "version": "2.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-linux-arm64-v12.tgz",
+      "checksum": "c07f8c6926f236abef9b843c754dae6591953a64fc9184d2c36b35fb6695981b",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,9 +175,9 @@
           "72"
         ]
       },
-      "version": "2.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.0.2-linux-x64-v12.tgz",
-      "checksum": "cbeb064a43bcdcde0c0882db28614ac2e6f23acf29de034759b5b9037d91c179",
+      "version": "2.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-linux-x64-v12.tgz",
+      "checksum": "49ccfe3294c63bcbbe4987bcb8d0e160cd4e543f90412934b012f87086c40e6d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,9 +191,73 @@
           "72"
         ]
       },
-      "version": "2.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.0.2-darwin-x64-v12.tgz",
-      "checksum": "d367d618cd1f7ea9b79e038cfba2b4df0840d305e40dccc46b8b5dccff4ad62a",
+      "version": "2.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-darwin-x64-v12.tgz",
+      "checksum": "e2c07bd740532f4e5fb95b600cc07de53f8b08e309c82829f67468127beff724",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "2.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-linux-arm-v14.tgz",
+      "checksum": "5173b5cae6f1f636e331b54857e0e8da7c05e3c749e9b42c1446ca27921a51a9",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "2.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-linux-arm64-v14.tgz",
+      "checksum": "1e0c62e2419b4ba0d4c1d206ec71206cffa51a4c3976d5c9858a333c974b1fbe",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "2.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-linux-x64-v14.tgz",
+      "checksum": "ad769bdc9e8e830fa174cf9a262d24d3c12fdf1a3c5fd415d51c5a83a76f3b5c",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "2.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-darwin-x64-v14.tgz",
+      "checksum": "981db015c3c5c0e71c720bdaac16bdeeb3a6d95ec68d310ac7edfd81d3d619da",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

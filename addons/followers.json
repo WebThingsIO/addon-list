@@ -18,9 +18,9 @@
           "3.8"
         ]
       },
-      "version": "0.1.4",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/followers-0.1.4.tgz",
-      "checksum": "d5b5347006880058d80facdcaf3a69d90bb3502292fe61a24137b094b7c8ab19",
+      "version": "0.4.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/followers-0.4.0.tgz",
+      "checksum": "f02347497075422fc6cadca5d55d237eaf1e5ab78c32c8fcde7c733a43ef0bb0",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
