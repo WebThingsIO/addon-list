@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.0.6",
-      "url": "https://github.com/damooooooooooh/ring-adapter/releases/download/v0.0.6/ring-adapter-0.0.6.tgz",
-      "checksum": "e84043dc4fa4818d69cc9b4c67ec11a73d4532c1079a2c7208e4dc877799447f",
+      "version": "0.0.7",
+      "url": "https://github.com/damooooooooooh/ring-adapter/releases/download/v0.0.7/ring-adapter-0.0.7.tgz",
+      "checksum": "9864de69386c91abd8b74e6f27a4169e234c55ca2affe2acaba8ecbd3aad67c7",
       "api": {
         "min": 2,
         "max": 2
