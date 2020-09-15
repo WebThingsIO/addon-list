@@ -4,7 +4,7 @@
   "description": "Allows you to use a time schedule in your rules",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/scheduler-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/scheduler-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/scheduler-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

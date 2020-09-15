@@ -4,27 +4,260 @@
   "description": "Eufy device support",
   "author": "Mozilla IoT",
   "homepage_url": "https://github.com/mozilla-iot/eufy-adapter",
-  "license_url": "https://github.com/mozilla-iot/eufy-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/mozilla-iot/eufy-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
-      "architecture": "any",
+      "architecture": "linux-arm",
       "language": {
         "name": "python",
         "versions": [
-          "3.5",
-          "3.6",
-          "3.7",
+          "3.5"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-linux-arm-v3.5.tgz",
+      "checksum": "29b64513f7b170911882e7aca5f99783d5839df9103e8101f7600a2fe6674f82",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-linux-arm64-v3.5.tgz",
+      "checksum": "38a5f01ba1f8176e18c8c4823eab9466f0535589b11d76256c41780fc76b9501",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-linux-x64-v3.5.tgz",
+      "checksum": "38ee87f5c7f38e7bd743ab9ecc5828a6f54c6781f8e5526f4aaf2ece3f730156",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-darwin-x64-v3.5.tgz",
+      "checksum": "db323a8d7a9da4037b08333c746a50def94c339c599513c6aac4a545ee23cd3b",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-linux-arm-v3.6.tgz",
+      "checksum": "d43aec849ae81fbf09338797f1e0d4096368745b1e6a7f34bd9b814f1ffe4be7",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-linux-arm64-v3.6.tgz",
+      "checksum": "54e11eacca0d2e2e6358418a8c6cc1f00586897cf26ee73ffce8e2a65dbeb793",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-linux-x64-v3.6.tgz",
+      "checksum": "71989482de1678c41355c495d3806a94789a9d04006c1bef642f28f0c0a41c17",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-darwin-x64-v3.6.tgz",
+      "checksum": "6e3a51d8c10cd5992eab0512f36967f6012427383b1b110543db80e14a1dfad2",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-linux-arm-v3.7.tgz",
+      "checksum": "11fddb4c7cbc5a9d23224d7d3a69c92a6dd9e7e306bf6b93c6ebbada72cd14cd",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-linux-arm64-v3.7.tgz",
+      "checksum": "e4aeb2e7da7cc6d2e588a44aa8a32fe78c2acde718571f4c1f719b8cae10f9aa",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-linux-x64-v3.7.tgz",
+      "checksum": "01d0aa10e844558e207690d0cdb421606d9ef9dab8715e50aae5f55a525364ad",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-darwin-x64-v3.7.tgz",
+      "checksum": "bce626550b306bac74a5f96c5a6dbc6e32b91d866b523e61fc81022356c87716",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
           "3.8"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/mozilla-iot/eufy-adapter/releases/download/v0.2.0/eufy-adapter-0.2.0.tgz",
-      "checksum": "8391e09d7ccc65a79a869199d0537ad0d2ba5e9386da3edd1235f824253162e9",
-      "api": {
-        "min": 2,
-        "max": 2
+      "version": "0.3.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-linux-arm-v3.8.tgz",
+      "checksum": "ee3341406ced608329114f95e1818b26eb1815ae65d83ab72e1fc3fe1fd2f5ea",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
       },
+      "version": "0.3.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-linux-arm64-v3.8.tgz",
+      "checksum": "273b9dd57b3ce1e1a59d9bd0c53d7b500ae0bbad8748a0a28530c090e055c4fe",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-linux-x64-v3.8.tgz",
+      "checksum": "8ec948335fc52392238a64df018a59b6e6ab13e16b4b53329372dae42ed4606d",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-darwin-x64-v3.8.tgz",
+      "checksum": "5990ec1c993e446cf684cdb6365124bef41ce5fc1f54507970aa8174400c31d4",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

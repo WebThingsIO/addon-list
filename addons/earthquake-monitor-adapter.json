@@ -4,7 +4,7 @@
   "description": "Earthquake monitor using USGS data",
   "author": "Mozilla IoT",
   "homepage_url": "https://github.com/mozilla-iot/earthquake-monitor-adapter",
-  "license_url": "https://github.com/mozilla-iot/earthquake-monitor-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/mozilla-iot/earthquake-monitor-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -18,13 +18,9 @@
           "3.8"
         ]
       },
-      "version": "0.2.1",
-      "url": "https://github.com/mozilla-iot/earthquake-monitor-adapter/releases/download/v0.2.1/earthquake-monitor-adapter-0.2.1.tgz",
-      "checksum": "3b8985157a4fd719e630da6d4deb0e88054c893a9a4b1d7ddeb31d9cffbe4e4b",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.3.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/earthquake-monitor-adapter-0.3.1.tgz",
+      "checksum": "f15357bf0c956a0f7ed3daf4e83559faf20681326f5c6f34116902be79377545",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

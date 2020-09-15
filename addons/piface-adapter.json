@@ -1,0 +1,59 @@
+{
+  "id": "piface-adapter",
+  "name": "PiFace",
+  "description": "Connect your PiFace HAT",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/piface-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/piface-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/piface-adapter-0.1.0-linux-arm-v8.tgz",
+      "checksum": "e035c7ed217f7046758ee250d0147ab661e1fb9482c48cc83b48dd2fe763575d",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/piface-adapter-0.1.0-linux-arm-v10.tgz",
+      "checksum": "1e2ecf4c955c842802bed5205c1bf09e2f1816ebc1b360d590f4a5f2237cdc30",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/piface-adapter-0.1.0-linux-arm-v12.tgz",
+      "checksum": "c90fcd2f6745813c9cc1a32a3a0246d79981c096b13cd2d95c9ef4700c4a80f9",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "id": "sense-hat-adapter",
+  "name": "Sense Hat",
+  "description": "Sense hat device support",
+  "author": "Philippe Coval",
+  "homepage_url": "https://github.com/rzr/sense-hat-webthing",
+  "license_url": "https://raw.githubusercontent.com/rzr/sense-hat-webthing/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "0.0.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sense-hat-adapter-0.0.7-linux-arm-v3.5.tgz",
+      "checksum": "d414df893d0c9ac0b9f65cdb5fe69dc50f6182ebf3b6aa0449956e03ba00cc4c",
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "0.0.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sense-hat-adapter-0.0.7-linux-arm-v3.6.tgz",
+      "checksum": "aca5cf3a49b646beabe43601561792853cba85f311a2a8bcaeda8d8f56ca7735",
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.0.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sense-hat-adapter-0.0.7-linux-arm-v3.7.tgz",
+      "checksum": "437cbd6e29223271f249b9b3957a077f85b725f65a77a92fb0eefb50b13951e0",
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.0.7",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sense-hat-adapter-0.0.7-linux-arm-v3.8.tgz",
+      "checksum": "c21ccd2c39e7cbb401586adfedca552775f1d8aa18ef8dc96f24273ceb9fac0b",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    }
+  ]
+}

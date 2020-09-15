@@ -1,0 +1,30 @@
+{
+  "id": "followers",
+  "name": "Followers",
+  "description": "Lets the property of one thing change according to the value of another",
+  "author": "Flatsiedatsie",
+  "homepage_url": "https://github.com/flatsiedatsie/followers-addon",
+  "license_url": "https://raw.githubusercontent.com/flatsiedatsie/followers-addon/master/LICENSE",
+  "primary_type": "extension",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5",
+          "3.6",
+          "3.7",
+          "3.8"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/followers-0.1.4.tgz",
+      "checksum": "d5b5347006880058d80facdcaf3a69d90bb3502292fe61a24137b094b7c8ab19",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

@@ -4,11 +4,11 @@
   "description": "Play your favourite online radio stations",
   "author": "Flatsiedatsie",
   "homepage_url": "https://github.com/flatsiedatsie/internet-radio",
-  "license_url": "https://github.com/flatsiedatsie/internet-radio/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/flatsiedatsie/internet-radio/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
-      "architecture": "linux-arm",
+      "architecture": "any",
       "language": {
         "name": "python",
         "versions": [
@@ -18,9 +18,9 @@
           "3.8"
         ]
       },
-      "version": "0.0.5",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/internet-radio-0.0.5.tgz",
-      "checksum": "77d34405fe24a426a900b061bca8e01cd1b77b23639afa16352a6ffca679b098",
+      "version": "1.1.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/internet-radio-1.1.1.tgz",
+      "checksum": "ac12db3a23dfb53be142c584391f51ea74814e81d4f0a3ab9e4a1d614ed4bfa6",
       "api": {
         "min": 2,
         "max": 2

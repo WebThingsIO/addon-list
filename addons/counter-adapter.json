@@ -4,7 +4,7 @@
   "description": "Lets you count things by calling the increment action",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/counter-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/counter-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/counter-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/counter-adapter-0.3.2.tgz",
-      "checksum": "23fdc64ae1b70a93741a8570779c906d28881e352ef21fdf33cc5bdefd617309",
+      "version": "0.3.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/counter-adapter-0.3.4.tgz",
+      "checksum": "0a2175b5d429fbe0c72717c0d578ddfaed792bd988a0615f875438e7e3955f87",
       "api": {
         "min": 2,
         "max": 2

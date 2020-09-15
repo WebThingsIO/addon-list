@@ -4,7 +4,7 @@
   "description": "LIFX smart bulb support",
   "author": "Michael Stegeman",
   "homepage_url": "https://github.com/mrstegeman/lifx-adapter",
-  "license_url": "https://github.com/mrstegeman/lifx-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/mrstegeman/lifx-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -18,13 +18,9 @@
           "3.8"
         ]
       },
-      "version": "0.3.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lifx-adapter-0.3.0.tgz",
-      "checksum": "ac96ab3a84d74e56ce7892d9c18921999cce4b9d2de946c19a1a83ec8e713d66",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.4.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lifx-adapter-0.4.1.tgz",
+      "checksum": "78d7d81b9783c00b5582242601bf489450bc9de71739786cbe510328be1de9a0",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

@@ -4,7 +4,7 @@
   "description": "Connect your Medisana KS 250 (kitchen scale)",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/medisana-ks250-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/medisana-ks250-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/medisana-ks250-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,9 +15,29 @@
           "57"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.0-linux-arm-v8.tgz",
-      "checksum": "26b5a6a4ed8932e5825912d86b42c25b504a34cc60e21c36664a493ddf1ec102",
+      "version": "0.1.5",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.5-linux-arm-v8.tgz",
+      "checksum": "6425e050d3fd14c34a8a434b70c68c2122f960a130f5850a5452326d53ec56cc",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.1.5",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.5-linux-arm64-v8.tgz",
+      "checksum": "ca3263c8362d9de8fe0025f794a3de5b22b46aaa05c271094b65c8c7e31d161c",
       "api": {
         "min": 2,
         "max": 2
@@ -35,9 +55,9 @@
           "57"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.0-linux-x64-v8.tgz",
-      "checksum": "d7ef1db98185149f42db2253d79f63d79d657f05a778d3b44484bc07b0477764",
+      "version": "0.1.5",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.5-linux-x64-v8.tgz",
+      "checksum": "c64f496027a311cfcded23fe54ad1a43542bfb5f5e5431c51a1a2d3fc57ff0ad",
       "api": {
         "min": 2,
         "max": 2
@@ -55,9 +75,9 @@
           "57"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.0-darwin-x64-v8.tgz",
-      "checksum": "79f67e5cf7e7a2dba7c269e0b21628fcac6a99f9437aa575e0142db5490db4d5",
+      "version": "0.1.5",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.5-darwin-x64-v8.tgz",
+      "checksum": "baeb66a676c21603ebc2bbff5fb33d2617ec0b951bdde0e50dea701a90c402f9",
       "api": {
         "min": 2,
         "max": 2
@@ -75,9 +95,29 @@
           "64"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.0-linux-arm-v10.tgz",
-      "checksum": "a43d2bb8c8d3133e1806a192a0f4a55fd5f7d4cb72ee58f50e20aa79ec66c1c9",
+      "version": "0.1.5",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.5-linux-arm-v10.tgz",
+      "checksum": "9efe9138a16cc02b1e73d121e6128209f7a69eb507de50026c9bcc93e4285495",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.5",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.5-linux-arm64-v10.tgz",
+      "checksum": "d681505fbd2e08fbf49712e10045adb955f3499e078eaf391f05d30eb2dcfe1e",
       "api": {
         "min": 2,
         "max": 2
@@ -95,9 +135,9 @@
           "64"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.0-linux-x64-v10.tgz",
-      "checksum": "1c90a4394f3a12f118b09445d2bea0def5a190f3487873c93c959300191606d4",
+      "version": "0.1.5",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.5-linux-x64-v10.tgz",
+      "checksum": "ebf57802e329ba275c68d3d7ab6ea86f27bb6f865b55986db7c1e60f32c0dd35",
       "api": {
         "min": 2,
         "max": 2
@@ -115,9 +155,89 @@
           "64"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.0-darwin-x64-v10.tgz",
-      "checksum": "c6c4600aa86b87f7b090df3c8e605c4193ba09cf97a66e448b7c1f92927e0146",
+      "version": "0.1.5",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.5-darwin-x64-v10.tgz",
+      "checksum": "1c755ffc238d1fa25c869c1cf48e65b21ce5697551d617b2976c0e8a90090882",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.5",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.5-linux-arm-v12.tgz",
+      "checksum": "c134512c2b62ee938f2c55498295dab41fa6981d33d7241b101b2eab3a058fd2",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.5",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.5-linux-arm64-v12.tgz",
+      "checksum": "bdd36c6e3f16f7141ed06b3a74808034f7ad67e00bff33b177aa5b1e83419752",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.5",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.5-linux-x64-v12.tgz",
+      "checksum": "7783afc53f75ac7a9c07095ceab6f104485213c1537eae9cd6d39da4195f95f3",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.5",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/medisana-ks250-adapter-0.1.5-darwin-x64-v12.tgz",
+      "checksum": "0e9b857d2bc3090d27c32762369163b8ef07d989cd9f263f07a897c1bc1c35f4",
       "api": {
         "min": 2,
         "max": 2

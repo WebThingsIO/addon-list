@@ -1,0 +1,203 @@
+{
+  "id": "awox-mesh-light-adapter",
+  "name": "Awox Mesh Light",
+  "description": "Awox mesh light device support",
+  "author": "Philippe Coval",
+  "homepage_url": "https://github.com/rzr/awox-mesh-light-webthing",
+  "license_url": "https://raw.githubusercontent.com/rzr/awox-mesh-light-webthing/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "0.0.6",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-arm-v3.5.tgz",
+      "checksum": "4e5b65abba86d18f252babe86023f2114b96f45892d827d47495ec0246a7da4b",
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "0.0.6",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-arm-v3.6.tgz",
+      "checksum": "d1f044cbb28468160b12ebbbce0115094d1b1f68659f55981a37d0426d02dcbf",
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.0.6",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-arm-v3.7.tgz",
+      "checksum": "ff1b9b466ec18be4e7fddda0b821ec92941ce3810e4c354dc2fed3c33d87c3d1",
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.0.6",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-arm-v3.8.tgz",
+      "checksum": "1faa2f1bf22726da0b425dbd577b83338daa82160b8ea517c1f1157c561f83f7",
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "0.0.6",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-arm64-v3.5.tgz",
+      "checksum": "3349aa0ac74f528141148a3d2617f888c7949f1b23d66be0e2bf83275bae6b56",
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "0.0.6",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-arm64-v3.6.tgz",
+      "checksum": "5057e1dd95b7ecfb99466ee4ea2d2defcd1fcbc544a714edaecd382d380d54b0",
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.0.6",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-arm64-v3.7.tgz",
+      "checksum": "d8a35396c2a6a1b29e8b7ddfaa710289bb5c7465e9b27704a03c05f1ba585a77",
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.0.6",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-arm64-v3.8.tgz",
+      "checksum": "84deac2ae1f88a08ae392eeacb94ccb4e182fcff722c01557ecde86b378457cb",
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "0.0.6",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-x64-v3.5.tgz",
+      "checksum": "9d03e1a5bc162e4eb0bf6d974d3fd34f097459d7e015518514c3762a6a2c6ab0",
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "0.0.6",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-x64-v3.6.tgz",
+      "checksum": "3fd54e4fc2fafe485482048e59353d69549f8c8c5a202cee248b42ce16eedbcc",
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.0.6",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-x64-v3.7.tgz",
+      "checksum": "62382ace2efdcf0947b05ed74c2df6203ba2706f92ee135e2b29f315d608c4f9",
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.0.6",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-x64-v3.8.tgz",
+      "checksum": "708a458f35d7a0d15564afb09d43b592f77cc02769cb2c9425e16a59a77edbaf",
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    }
+  ]
+}

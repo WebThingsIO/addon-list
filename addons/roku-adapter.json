@@ -4,7 +4,7 @@
   "description": "Roku support",
   "author": "Mozilla IoT",
   "homepage_url": "https://github.com/mozilla-iot/roku-adapter#readme",
-  "license_url": "https://github.com/mozilla-iot/roku-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/mozilla-iot/roku-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,13 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/mozilla-iot/roku-adapter/releases/download/v0.2.0/roku-adapter-0.2.0.tgz",
-      "checksum": "58af3c765fae1205c8f873afa7984b87c49298dff4969da7ce695bb3a2d6b9ec",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.2.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/roku-adapter-0.2.1.tgz",
+      "checksum": "2530083b8d2abd4b16a1cda1c6afd1314f0bedd66b1b3556e8b45341fe4c88b6",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

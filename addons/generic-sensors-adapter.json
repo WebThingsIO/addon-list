@@ -4,7 +4,7 @@
   "description": "Generic Sensors devices support",
   "author": "Philippe Coval",
   "homepage_url": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter",
-  "license_url": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/rzr/mozilla-iot-generic-sensors-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,9 +15,9 @@
           "57"
         ]
       },
-      "version": "0.0.9",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.9-linux-arm-v8.tgz",
-      "checksum": "9447fae66139249d2c00e551d748d7a01e1f86cfefc406f7d4fa6ae460ab01d9",
+      "version": "0.0.13",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.13-linux-arm-v8.tgz",
+      "checksum": "c18ba58ae2b085ad037547fbc9a91333afbce9bca97077ac1a37a597765ea932",
       "api": {
         "min": 2,
         "max": 2
@@ -35,29 +35,9 @@
           "57"
         ]
       },
-      "version": "0.0.9",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.9-linux-arm64-v8.tgz",
-      "checksum": "32bf0f54ccbc6533fd0c3b8e4fb950468194a1e25601109ac4461c3f72976845",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-ia32",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.0.9",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.9-linux-ia32-v8.tgz",
-      "checksum": "cc3811cefbd65082b3277970ae3339b8df833c39b82a0ab98cb96a852c8be8e9",
+      "version": "0.0.13",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.13-linux-arm64-v8.tgz",
+      "checksum": "b2e273a65f13c91aee441f1e3efa4c5c2e84ba3458778564c188ac539697072e",
       "api": {
         "min": 2,
         "max": 2
@@ -75,9 +55,129 @@
           "57"
         ]
       },
-      "version": "0.0.9",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.9-linux-x64-v8.tgz",
-      "checksum": "d8eea39767395241f860c5760b759fd68df0e667853037c19ee119347fc6ac4e",
+      "version": "0.0.13",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.13-linux-x64-v8.tgz",
+      "checksum": "5c79af71e72f07216b94ea52334c6ad8d20b0e28492bbf12e8069f2489b682dd",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.0.13",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.13-linux-arm-v10.tgz",
+      "checksum": "4e36bed36af52b4beb823d936b9dffe6c4e0533884f9152ecdbeda356b061216",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.0.13",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.13-linux-arm64-v10.tgz",
+      "checksum": "3e920bbaf645f3f6bc9bbd9e1e0ec902c3819eff3bde39158c05f75ccaec941e",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.0.13",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.13-linux-x64-v10.tgz",
+      "checksum": "c1abffa73b21a98167d8ae4b9648838c447a413977ff790e21afc8bd90dc59a8",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.0.13",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.13-linux-arm-v12.tgz",
+      "checksum": "96ee57d3f243a2c416479b38849b5806c64b92a16ec68e3877bb10fc0c8ead7a",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.0.13",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.13-linux-arm64-v12.tgz",
+      "checksum": "fde702b210aad16834c01eb91db9eec4a6ea78803df5ad181fb46b9798f832ec",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.0.13",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.13-linux-x64-v12.tgz",
+      "checksum": "7e8384cb8d6a162a2a2bbc08bdda3454c4574abff7c2559466c536f5c20e905f",
       "api": {
         "min": 2,
         "max": 2

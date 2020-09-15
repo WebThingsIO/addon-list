@@ -4,7 +4,7 @@
   "description": "Connect your shelly devices",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/shelly-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/shelly-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/shelly-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/shelly-adapter-0.2.1.tgz",
-      "checksum": "5feeefa8cb41786c59bb2f773da36a2038bd06262f1d335cc0d001dc812bc6cd",
+      "version": "1.0.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/shelly-adapter-1.0.0.tgz",
+      "checksum": "43bb913fa59db420c4da99808d46185011674df71ec0950f2614d1cbe2eef9d1",
       "api": {
         "min": 2,
         "max": 2

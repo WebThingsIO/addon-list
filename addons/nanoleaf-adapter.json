@@ -4,7 +4,7 @@
   "description": "Control your Nanoleaf aurora",
   "author": "Roman Odermatt",
   "homepage_url": "https://github.com/roderm/nanoleaf-adapter",
-  "license_url": "https://github.com/roderm/nanoleaf-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/roderm/nanoleaf-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/nanoleaf-adapter-0.1.1.tgz",
-      "checksum": "869b43db533c92646c3ce5184542baa1ccfe83edb99fc30f1acaf11af0f5ba9a",
+      "version": "0.1.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/nanoleaf-adapter-0.1.2.tgz",
+      "checksum": "798cf4bbc064c1d978072fedc95c36812b6134c9795b7288dfde4b6dc48a3ba4",
       "api": {
         "min": 2,
         "max": 2

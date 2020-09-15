@@ -4,24 +4,36 @@
   "description": "React to Flic button presses via proprietary flic daemon (included for Linux)",
   "author": "Michael Stegeman",
   "homepage_url": "https://github.com/mrstegeman/flic-button-adapter#readme",
-  "license_url": "https://github.com/mrstegeman/flic-button-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/mrstegeman/flic-button-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
-      "architecture": "any",
+      "architecture": "linux-arm",
       "language": {
         "name": "nodejs",
         "versions": [
           "any"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/flic-button-adapter-0.2.0.tgz",
-      "checksum": "08ca520041196263cb6db457048c61ca390fea169e8b0683df257fa83ebea23e",
-      "api": {
-        "min": 2,
-        "max": 2
+      "version": "0.3.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/flic-button-adapter-0.3.2-linux-arm.tgz",
+      "checksum": "72393635e9e756546450818fe438fe1c092b27e10bf1e8040339649c9b323e29",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
       },
+      "version": "0.3.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/flic-button-adapter-0.3.2-linux-x64.tgz",
+      "checksum": "40214251a0e6e34c38ea8cc6262f36b28553ae879b8b816a09e73d204b228c19",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

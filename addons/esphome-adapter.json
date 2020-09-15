@@ -4,7 +4,7 @@
   "description": "Connect your ESPHome (https://esphome.io/) devices",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/esphome-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/esphome-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/esphome-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {

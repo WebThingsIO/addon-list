@@ -4,20 +4,20 @@
   "description": "Connect 433MHz devices to your Raspberry Pi using an rf433 board",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/rf433-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/rf433-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/rf433-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
-      "architecture": "any",
+      "architecture": "linux-arm",
       "language": {
         "name": "nodejs",
         "versions": [
           "any"
         ]
       },
-      "version": "0.1.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/rf433-adapter-0.1.2.tgz",
-      "checksum": "70a054ac7d1bbc1b94137e5a754d8e39c062aedb611d176a9713ddb2a88ca6e8",
+      "version": "0.1.4",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/rf433-adapter-0.1.4.tgz",
+      "checksum": "bca62a7ecbed0f65d0f73292864168e534b51603addc70a68161af0bd47d5caf",
       "api": {
         "min": 2,
         "max": 2

@@ -4,8 +4,8 @@
   "description": "Send notifications to your devices",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/pushbullet-adapter#readme",
-  "license_url": "https://github.com/tim-hellhake/pushbullet-adapter/blob/master/LICENSE",
-  "primary_type": "adapter",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/pushbullet-adapter/master/LICENSE",
+  "primary_type": "notifier",
   "packages": [
     {
       "architecture": "any",
@@ -15,13 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/pushbullet-adapter-0.2.1.tgz",
-      "checksum": "2b43e63e6eb3ff6ccb056e118fbf28d2db5e02b73fce708c80672ce67a819f2b",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.2.2",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/pushbullet-adapter-0.2.2.tgz",
+      "checksum": "e3c0a6b01a93acbaa969fb0c137e9cd2e1f661bba331a8f5e2ad95b4efe16b4c",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

@@ -4,7 +4,7 @@
   "description": "Candle manager allows you to easily upload sketches to an Arduino.",
   "author": "CreateCandle",
   "homepage_url": "https://github.com/createcandle/Candle-manager-addon",
-  "license_url": "https://github.com/createcandle/Candle-manager-addon/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/createcandle/Candle-manager-addon/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -12,15 +12,312 @@
       "language": {
         "name": "python",
         "versions": [
-          "3.5",
-          "3.6",
-          "3.7",
+          "3.5"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/Candle-manager-addon-1.1.0-linux-arm-v3.5.tgz",
+      "checksum": "25f66ffc2e701b2de174645589d118192ec30b11925947036ff28a467d7183eb",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/Candle-manager-addon-1.1.0-linux-arm64-v3.5.tgz",
+      "checksum": "e152a41d62e54581110f67a5b8cf4e30fc54fce6dad55e5eb00fadcd4eddfcb1",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/Candle-manager-addon-1.1.0-linux-x64-v3.5.tgz",
+      "checksum": "a958ded7b5c68448726f8a65733a347b8bd35b35727c8bccd9fbb9f68e265093",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/Candle-manager-addon-1.1.0-darwin-x64-v3.5.tgz",
+      "checksum": "8110f82fd3b8dcb3f516fcb66e487557d81330f21111bac467d5448ef1180902",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/Candle-manager-addon-1.1.0-linux-arm-v3.6.tgz",
+      "checksum": "e6c7a1b65412b0ca0db7e3f7609d198ca08aad8305806706637973ad06bed74a",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/Candle-manager-addon-1.1.0-linux-arm64-v3.6.tgz",
+      "checksum": "c4e360d7b91111d8ff8a4b72be92939c8d5fa0c71ebec418ed4fbb420b281f24",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/Candle-manager-addon-1.1.0-linux-x64-v3.6.tgz",
+      "checksum": "ce254f71919cd32c8e0234952bff0230d6f9c6662223112d3131fd967471f73e",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/Candle-manager-addon-1.1.0-darwin-x64-v3.6.tgz",
+      "checksum": "944e72e769d70cabcd34ed9316bc85f9f317fbfefa477c2370f7d4aaea73d27b",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/Candle-manager-addon-1.1.0-linux-arm-v3.7.tgz",
+      "checksum": "4a9dfa546b3f75522965e5351fd8b51c13e97ee9b46c3e66b95ab6fbb647dcc8",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/Candle-manager-addon-1.1.0-linux-arm64-v3.7.tgz",
+      "checksum": "881296802acd03fa654241fbdbb32935e694aeb7983c130c93d1bf119866120a",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/Candle-manager-addon-1.1.0-linux-x64-v3.7.tgz",
+      "checksum": "09e9a5e48ca1a3255c1392c41f878ad1c0f85b4a8633f7f107e604ec57646c67",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/Candle-manager-addon-1.1.0-darwin-x64-v3.7.tgz",
+      "checksum": "928421404010502ac7bb2ef73838aa650af1ccd9e294ea8fabd5bbb6494be821",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
           "3.8"
         ]
       },
-      "version": "1.0.4",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/Candle-manager-addon-1.0.4.tgz",
-      "checksum": "275d9ebe13c56578fd151fac3ced362fb7bc0d01fce5e6bcd0e76427379048f8",
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/Candle-manager-addon-1.1.0-linux-arm-v3.8.tgz",
+      "checksum": "221ef09c26e8f95516e066461da4449844a07a6c435f70ce137bfb59626f7e93",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/Candle-manager-addon-1.1.0-linux-arm64-v3.8.tgz",
+      "checksum": "da758a485a8cea4d5abd8424e030e5468c0121048e2bc5d0a7ae0c50207a932e",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/Candle-manager-addon-1.1.0-linux-x64-v3.8.tgz",
+      "checksum": "9d82e030b462af669f3f22d2648d00ca6e0aa2fc151b96700cdd5cc81ad54fd6",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "1.1.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/Candle-manager-addon-1.1.0-darwin-x64-v3.8.tgz",
+      "checksum": "68fbe2d8236a235754401c31656355a36301f7eee998505aee68f1eb426ccd2b",
       "api": {
         "min": 2,
         "max": 2

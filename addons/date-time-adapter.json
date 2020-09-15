@@ -1,10 +1,10 @@
 {
   "id": "date-time-adapter",
   "name": "DateTime Adapter",
-  "description": "A DateTime adapter to create more advanced rules using sunrise, sunset, weekends, etc.",
+  "description": "A Date & Time adapter to create more advanced rules using sunrise, sunset, weekends, etc.",
   "author": "tomasy",
   "homepage_url": "https://github.com/tomasy/date-time-adapter",
-  "license_url": "https://github.com/tomasy/date-time-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/tomasy/date-time-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -18,9 +18,9 @@
           "3.8"
         ]
       },
-      "version": "1.0.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/date-time-adapter-1.0.0.tgz",
-      "checksum": "419488f8709cdb3f0d46930b7a0df9b6eba981e69d1b08b09f3ebe696770c1e6",
+      "version": "1.0.1",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/date-time-adapter-1.0.1.tgz",
+      "checksum": "281ec4b3d43ff5c08790e453b52dc0868e9525a15d4c48cc0c0320f3dfb1225f",
       "api": {
         "min": 2,
         "max": 2

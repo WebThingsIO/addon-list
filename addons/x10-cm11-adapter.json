@@ -4,7 +4,7 @@
   "description": "X10 device support through the CM11 interface.",
   "author": "Alan Thiessen",
   "homepage_url": "https://github.com/AlanDThiessen/x10-cm11-adapter",
-  "license_url": "https://github.com/AlanDThiessen/x10-cm11-adapter/blob/master/LICENSE",
+  "license_url": "https://raw.githubusercontent.com/AlanDThiessen/x10-cm11-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,9 +15,29 @@
           "57"
         ]
       },
-      "version": "0.3.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/x10-cm11-adapter-0.3.1-linux-arm.tgz",
-      "checksum": "cfe3250e388f90c6051e5d05f7693daae295bcc956d28f5a4caa63ec3c3120da",
+      "version": "0.4.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/x10-cm11-adapter-0.4.0-linux-arm-v8.tgz",
+      "checksum": "d54a60711207c82ac8c052c2bacb69bc682ab733f0cd00c5cc4c4fa30968d52f",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.4.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/x10-cm11-adapter-0.4.0-linux-arm64-v8.tgz",
+      "checksum": "ede353ae1bb32ca783ba29fe5b415874859f6b113212be374a7ab2fd2e48e3ee",
       "api": {
         "min": 2,
         "max": 2
@@ -35,9 +55,9 @@
           "57"
         ]
       },
-      "version": "0.3.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/x10-cm11-adapter-0.3.1-linux-ia64.tgz",
-      "checksum": "18de4d41b551edab1721b81e2f5fa78a31078139f26dc5cc0cfa1fbbe39e60d4",
+      "version": "0.4.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/x10-cm11-adapter-0.4.0-linux-x64-v8.tgz",
+      "checksum": "bced19a93981fef42ecb3519159ee7adb77840f51b90cba19ba1e9f67fb8ccd3",
       "api": {
         "min": 2,
         "max": 2
@@ -55,9 +75,169 @@
           "57"
         ]
       },
-      "version": "0.3.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/x10-cm11-adapter-0.3.1-darwin-x64.tgz",
-      "checksum": "5017f8c253441acf5a77520e43b71077e1c88a94f1ac0239eb2bbbbd64519a27",
+      "version": "0.4.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/x10-cm11-adapter-0.4.0-darwin-x64-v8.tgz",
+      "checksum": "82780aa89bd5c0e323210d50c33d2100f61380576414e3477842fea58afa451d",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.4.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/x10-cm11-adapter-0.4.0-linux-arm-v10.tgz",
+      "checksum": "06e44940c7e284b856e4e816d97926c316db51d281e3bc6e33161e1adfffda65",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.4.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/x10-cm11-adapter-0.4.0-linux-arm64-v10.tgz",
+      "checksum": "91bce73998467d1988549978ef0fb453fc5e1adac59d8305b3d4873a86a69af4",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.4.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/x10-cm11-adapter-0.4.0-linux-x64-v10.tgz",
+      "checksum": "07d8000a1d2ecb386aa20aee0e212db2b7e05870605d1b2ac4d07588a890b6e4",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.4.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/x10-cm11-adapter-0.4.0-darwin-x64-v10.tgz",
+      "checksum": "8497a100ac77e325d0975c6069c55d00a2edeffbf7c2e2cd784fa0bcb44c4cdd",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.4.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/x10-cm11-adapter-0.4.0-linux-arm-v12.tgz",
+      "checksum": "c59d64dba65afb6a60566116eb8e2cea7654c1fad9d96cc9246e576f7f82865a",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.4.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/x10-cm11-adapter-0.4.0-linux-arm64-v12.tgz",
+      "checksum": "a6c10dd3d694fc0031963df0825f16236b37c93b459f58f1c22404d78b043537",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.4.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/x10-cm11-adapter-0.4.0-linux-x64-v12.tgz",
+      "checksum": "122985f9187d8ce2235f1352f5d1c49f1b29c99c7f820b36471583e8b5851b73",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.4.0",
+      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/x10-cm11-adapter-0.4.0-darwin-x64-v12.tgz",
+      "checksum": "c8d4d237aa2e4f8f660d8ae5812ba776a1f870825cb965fbbd28c808833f7ac7",
       "api": {
         "min": 2,
         "max": 2

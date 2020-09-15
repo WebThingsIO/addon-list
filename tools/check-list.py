@@ -4,6 +4,7 @@ import glob
 import hashlib
 import json
 import jsonschema
+import magic
 import os
 import re
 import shutil
@@ -18,6 +19,7 @@ _LIST_SCHEMA = os.path.join(_ROOT, 'schema', 'list.json')
 _PACKAGE_SCHEMA = os.path.join(_ROOT, 'schema', 'package.json')
 _MANIFEST_SCHEMA = os.path.join(_ROOT, 'schema', 'manifest.json')
 _ADDONS_DIR = os.path.join(_ROOT, 'addons')
+_MAGIC = magic.Magic(mime=True)
 
 MAX_DOWNLOAD_ATTEMPTS = 5
 DOWNLOAD_ATTEMPT_DELAY = 3  # seconds
@@ -50,6 +52,128 @@ def hash_file(fname):
         return None
 
 
+def check_warn_binary(fname, package_entry):
+    cwd = os.path.realpath(os.getcwd())
+    fname = os.path.realpath(fname)
+    mime = _MAGIC.from_file(fname)
+
+    ignore_compressed = [
+        # Node stuff
+        os.path.join(cwd, 'package/node_modules/bytebuffer/dist/ByteBufferAB.min.js.gz'),
+        os.path.join(cwd, 'package/node_modules/long/dist/Long.min.js.gz'),
+        os.path.join(cwd, 'package/node_modules/napi-build-utils/napi-build-utils-1.0.0.tgz'),
+        os.path.join(cwd, 'package/node_modules/protobufjs/dist/ProtoBuf.min.js.gz'),
+        os.path.join(cwd, 'package/node_modules/protobufjs/dist/ProtoBuf.noparse.min.js.gz'),
+        os.path.join(cwd, 'package/node_modules/tar-fs/test/fixtures/invalid.tar'),
+
+        # Python stuff
+        os.path.join(cwd, 'package/lib/bluepy/bluez-src.tgz'),
+        os.path.join(cwd, 'package/lib/dateutil/zoneinfo/dateutil-zoneinfo.tar.gz'),
+        os.path.join(cwd, 'package/lib/numpy/lib/tests/data/py2-objarr.npz'),
+        os.path.join(cwd, 'package/lib/numpy/lib/tests/data/py3-objarr.npz'),
+
+        # Adapter-specific stuff
+        os.path.join(cwd, 'package/openzwave/config.orig/cooper/RF9505-T.xml.zip'),
+    ]
+    warn_compressed = [
+        'application/gzip',
+        'application/x-7z-compressed',
+        'application/x-bzip',
+        'application/x-bzip2',
+        'application/x-compress',
+        'application/x-compressed-tar',
+        'application/x-cpio',
+        'application/x-gtar',
+        'application/x-gzip',
+        'application/x-java-archive',
+        'application/x-lrzip',
+        'application/x-lz4',
+        'application/x-lzip',
+        'application/x-lzma',
+        'application/x-rar',
+        'application/x-tar',
+        'application/x-xz',
+        'application/zip',
+        'application/zstd',
+    ]
+    if fname not in ignore_compressed and mime in warn_compressed:
+        print('Compressed file found: {}'.format(fname))
+        return
+
+    ignore_binary = [
+        # Node stuff
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm/node.napi.armv7.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm/node.napi.armv7.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm64/node.napi.armv8.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm64/node.napi.armv8.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.musl.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm64/node.napi.armv8.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm64/node.napi.armv8.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm/node.napi.armv7.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm/node.napi.armv7.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.musl.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm/node.napi.armv7.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm/node.napi.armv7.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm64/node.napi.armv8.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm64/node.napi.armv8.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.musl.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm64/node.napi.armv8.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm64/node.napi.armv8.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm/node.napi.armv7.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm/node.napi.armv7.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.musl.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/darwin-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm/node.napi.armv7.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm/node.napi.armv7.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm64/node.napi.armv8.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm64/node.napi.armv8.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.musl.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm64/node.napi.armv8.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm64/node.napi.armv8.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-arm/node.napi.armv7.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/android-arm/node.napi.armv7.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.musl.node'),
+        os.path.join(cwd, 'package/node_modules/leveldown/prebuilds/linux-x64/node.napi.node'),
+
+        # Python stuff
+
+        # Adapter-specific stuff
+    ]
+
+    platform = package_entry['architecture'].split('-')[0]
+    if ((platform == 'linux' and mime == 'application/x-mach-binary') or \
+            (platform == 'darwin' and mime in ['application/x-executable',
+                                               'application/x-sharedlib']) or \
+            (platform == 'any' and mime in ['application/x-executable',
+                                            'application/x-mach-binary',
+                                            'application/x-sharedlib'])) and \
+            fname not in ignore_binary:
+        print('Potentially unsupported binary file: {}'.format(fname))
+        return
+
+
 def verify_package_json(package_json, list_entry, package):
     _id = list_entry['id']
 
@@ -76,6 +200,8 @@ def verify_package_json(package_json, list_entry, package):
                         print('Checksum failed in package "{}": {}'
                               .format(_id, fname))
                         cleanup()
+
+                    check_warn_binary(fname, package)
         except (IOError, OSError, ValueError):
             print('Failed to read SHA256SUMS file for package "{}"'
                   .format(_id))
@@ -226,6 +352,8 @@ def verify_manifest_json(manifest_json, list_entry, package):
         if sums[fname] != hash_file(fname):
             print('Checksum failed in package "{}": {}'.format(_id, fname))
             cleanup()
+
+        check_warn_binary(fname, package)
 
     # Verify that the ID matches
     if manifest_json['id'] != _id:
@@ -439,18 +567,17 @@ def main():
                     cleanup()
             else:
                 print('manifest.json is missing for "{}"'.format(_id))
-                # TODO: enforce this once all add-ons have transitioned
-                # cleanup()
+                cleanup()
 
             package_json = None
             try:
                 with open('./package/package.json', 'rt') as f:
                     package_json = json.load(f)
             except (IOError, OSError, ValueError):
-                # Only allow package.json to be missing if this is an extension
-                # add-on, which is inherently only supported by Gateway 0.10+
-                if manifest_json is None or \
-                        manifest_json['gateway_specific_settings']['webthings']['primary_type'] != 'extension':  # noqa
+                # Only allow package.json to be missing if the api version is
+                # not specified in the entry, indicating that this package
+                # only supports newer gateway versions.
+                if 'api' in package:
                     print('Failed to read package.json for "{}"'.format(_id))
                     cleanup()
 
@@ -460,7 +587,7 @@ def main():
                 cleanup()
 
             # Verify required fields in package.json.
-            if package_json is not None:
+            if package_json is not None and 'api' in package:
                 jsonschema.validate(package_json, package_schema)
                 verify_package_json(package_json, entry, package)
 
