@@ -7,7 +7,6 @@ on:
 
 jobs:
   build:
-    if: ${{ startsWith(github.repository, 'mozilla-iot/') }}
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
@@ -20,28 +19,7 @@ jobs:
         sudo apt -qq update
         sudo apt install -y libmagic1
         python -m pip install --upgrade pip
-        python -m pip install --upgrade awscli
         python -m pip install jsonschema python-magic
-    - name: Set up awscli
-      env:
-        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-        AWS_REGION: 'us-west-2'
-      run: |
-        aws configure --profile s3-copy-action <<-EOF > /dev/null 2>&1
-        ${AWS_ACCESS_KEY_ID}
-        ${AWS_SECRET_ACCESS_KEY}
-        ${AWS_REGION}
-        text
-        EOF
-    - name: Move packages to S3
-      run: |
-        ./tools/fix-urls.py
     - name: Check full list
       run: |
         ./tools/check-list.py
-    - name: Commit changes
-      uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: Move packages to S3
-        file_pattern: addons/*.json
