@@ -1,0 +1,31 @@
+{
+  "id": "macrozilla",
+  "name": "Macros",
+  "description": "Use macros to create advanced rules",
+  "author": "Galveston01",
+  "homepage_url": "https://github.com/Galveston01/macrozilla",
+  "license_url": "https://raw.githubusercontent.com/Galveston01/macrozilla/master/LICENSE.md",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.0/macrozilla-0.1.0.tgz",
+      "checksum": "500fff990773e8a39cb3eac9d4a93a73534e73c20ff47fc185fa47253dc90237",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
