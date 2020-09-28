@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/ttn-adapter-0.2.0.tgz",
-      "checksum": "532681a5966b304c6a059ee172fc3b83934b14a13d17dc32b35d284154d8a390",
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/ttn-adapter/releases/download/0.2.1/ttn-adapter-0.2.1.tgz",
+      "checksum": "3e2aaa834c722c4ab2ad7373ef2b2bba586f7e76f4e90941fab582f04695b782",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
