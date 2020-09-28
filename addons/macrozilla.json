@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.1/macrozilla-0.1.1.tgz",
-      "checksum": "4a203ff271d609276aa91969ce4d0ae17354929b01e0832d2274152ee0e09339",
+      "version": "0.1.2",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.2/macrozilla-0.1.2.tgz",
+      "checksum": "35efd7898653ba3a6b86facc61af5df63ef186e290221b600df2530a975d03c0",
       "api": {
         "min": 2,
         "max": 2
