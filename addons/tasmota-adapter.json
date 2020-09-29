@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "2.0.2",
-      "url": "https://github.com/tim-hellhake/tasmota-adapter/releases/download/2.0.2/tasmota-adapter-2.0.2.tgz",
-      "checksum": "f2c6609c9a9c385e6572b296da35b6751d865b430e9ed858382249e348b9ba44",
+      "version": "2.0.3",
+      "url": "https://github.com/tim-hellhake/tasmota-adapter/releases/download/2.0.3/tasmota-adapter-2.0.3.tgz",
+      "checksum": "4d435db1fbb5a3318e3c5e20e149e9747dfa1f3b11cdd72748d7f3f8ad2854c7",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
