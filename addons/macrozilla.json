@@ -97,7 +97,7 @@
       },
       "version": "0.1.4",
       "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.4/macrozilla-0.1.4-linux-arm64-v10.tgz",
-      "checksum": "cf1437bf9fc43a55d0d520756fbbf1f12a62f026328952b1f12f49a7c91ae232",
+      "checksum": "22951e88df56ddf604aa86c674b18aa9bb6fd561a239321c35109c689a7d6e5e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
