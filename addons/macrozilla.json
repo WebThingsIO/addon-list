@@ -1,27 +1,263 @@
 {
   "id": "macrozilla",
-  "name": "Macrozilla",
+  "name": "Macros",
   "description": "Use macros to create advanced rules",
   "author": "Galveston01",
   "homepage_url": "https://github.com/Galveston01/macrozilla",
   "license_url": "https://raw.githubusercontent.com/Galveston01/macrozilla/master/LICENSE.md",
   "primary_type": "adapter",
   "packages": [
-    {
-      "architecture": "any",
+     {
+      "architecture": "linux-arm",
       "language": {
         "name": "nodejs",
         "versions": [
-          "any"
+          "57"
         ]
       },
-      "version": "0.1.3",
-      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.3/macrozilla-0.1.3.tgz",
-      "checksum": "170d0fa7ddac9105736a92a8e10a50e4dafa1bc2ecc4df5af869f3e72f598cf7",
-      "api": {
-        "min": 2,
-        "max": 2
+      "version": "0.1.4",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.4/macrozilla-0.1.4-linux-arm-v8.tgz",
+      "checksum": "16c2e5e6e9509598da2c9c2c3347e604558bb041e0b2f2ad435b9760c6935067",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
       },
+      "version": "0.1.4",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.4/macrozilla-0.1.4-linux-arm64-v8.tgz",
+      "checksum": "b3a184810241c9924fbd1d896a2d2b3aff95287b8b9d9d2bed62515231840213",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.4/macrozilla-0.1.4-linux-x64-v8.tgz",
+      "checksum": "03f7c7cc4bb4794bdc60bda860409a3b4c51156e364c62c547d323cb49041d7c",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.4/macrozilla-0.1.4-darwin-x64-v8.tgz",
+      "checksum": "356318c4ad7282f06dbc0c987e6bb667d7e48f43471b86b59384f80c5f85f3c8",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.4/macrozilla-0.1.4-linux-arm-v10.tgz",
+      "checksum": "22951e88df56ddf604aa86c674b18aa9bb6fd561a239321c35109c689a7d6e5e",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.4/macrozilla-0.1.4-linux-arm64-v10.tgz",
+      "checksum": "cf1437bf9fc43a55d0d520756fbbf1f12a62f026328952b1f12f49a7c91ae232",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.4/macrozilla-0.1.4-linux-x64-v10.tgz",
+      "checksum": "9ed476a3abaeb9e44df4cfc27d8598b3ddd112bb04eeb1977cf8cd4729e2ba4f",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.4/macrozilla-0.1.4-darwin-x64-v10.tgz",
+      "checksum": "91f572a50650db246e31e1e37780ae0b3abb5cf836b90f6a646cf8ce4c58df4c",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.4/macrozilla-0.1.4-linux-arm-v12.tgz",
+      "checksum": "5bf99ab5f84b28908eedb71c01addb3dd810db024ad1ba895e3ae846559d3c07",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.4/macrozilla-0.1.4-linux-arm64-v12.tgz",
+      "checksum": "b63b9a1f2d7888d653a50be1d0b6d8ffc50d4767d2fd8908a603cfc651b6ec84",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.4/macrozilla-0.1.4-linux-x64-v12.tgz",
+      "checksum": "a81c91d656e016ea87375130207c98932c6aaa2f88e16c0b7e2c0c1ec3486f4e",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.4/macrozilla-0.1.4-darwin-x64-v12.tgz",
+      "checksum": "0cf6c457a6efaa5c9903c0c80cca701566503228ea32d98cb426c6c539ca4b80",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.4/macrozilla-0.1.4-linux-arm-v14.tgz",
+      "checksum": "a4b3f3fb61034fa4ee64d3d9b75736d88a59f3526de3db51bcfd317cf17fc0f4",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.4/macrozilla-0.1.4-linux-arm64-v14.tgz",
+      "checksum": "d4e7b1d861777fa66262de77520f7777d82a48a9ea0eccfe6498c8b694ae162c",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.4/macrozilla-0.1.4-linux-x64-v14.tgz",
+      "checksum": "812b32869b2be5204df848c9f09db5692c2288502ed2ef4be37bfb43c73c3906",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.4",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.4/macrozilla-0.1.4-darwin-x64-v14.tgz",
+      "checksum": "d2a4e66e9b8ca7cdbe92c96969bd0c67dee99d0ebba2860aec309a4c7de1d446",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
