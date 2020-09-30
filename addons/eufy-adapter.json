@@ -2,9 +2,9 @@
   "id": "eufy-adapter",
   "name": "Eufy",
   "description": "Eufy device support",
-  "author": "Mozilla IoT",
-  "homepage_url": "https://github.com/mozilla-iot/eufy-adapter",
-  "license_url": "https://raw.githubusercontent.com/mozilla-iot/eufy-adapter/master/LICENSE",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/eufy-adapter",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/eufy-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,9 +15,9 @@
           "3.5"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-linux-arm-v3.5.tgz",
-      "checksum": "29b64513f7b170911882e7aca5f99783d5839df9103e8101f7600a2fe6674f82",
+      "version": "0.3.3",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.3/eufy-adapter-0.3.3-linux-arm-v3.5.tgz",
+      "checksum": "44d5744eed422db360838361afd834f3fe39911650fa8a4c7e911dfc94f17eb1",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "3.5"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-linux-arm64-v3.5.tgz",
-      "checksum": "38a5f01ba1f8176e18c8c4823eab9466f0535589b11d76256c41780fc76b9501",
+      "version": "0.3.3",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.3/eufy-adapter-0.3.3-linux-arm64-v3.5.tgz",
+      "checksum": "14aaeb8b4ab5cd887eaaa1e907b20c56da7b5da37cd098a6f6da2ba0e48693a5",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -47,9 +47,9 @@
           "3.5"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-linux-x64-v3.5.tgz",
-      "checksum": "38ee87f5c7f38e7bd743ab9ecc5828a6f54c6781f8e5526f4aaf2ece3f730156",
+      "version": "0.3.3",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.3/eufy-adapter-0.3.3-linux-x64-v3.5.tgz",
+      "checksum": "0bea35fc06c5f6d52a2b9b98cf0cf4e8cf12e0496b559f930d4f25a12aac762f",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -63,9 +63,9 @@
           "3.5"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-darwin-x64-v3.5.tgz",
-      "checksum": "db323a8d7a9da4037b08333c746a50def94c339c599513c6aac4a545ee23cd3b",
+      "version": "0.3.3",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.3/eufy-adapter-0.3.3-darwin-x64-v3.5.tgz",
+      "checksum": "cd3e64ddfa57374fa2a461fe8159d06ff42c63850bf314b10fc7091f62a5ea63",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -79,9 +79,9 @@
           "3.6"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-linux-arm-v3.6.tgz",
-      "checksum": "d43aec849ae81fbf09338797f1e0d4096368745b1e6a7f34bd9b814f1ffe4be7",
+      "version": "0.3.3",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.3/eufy-adapter-0.3.3-linux-arm-v3.6.tgz",
+      "checksum": "8c84f866f392812b66c6bb11f753e9689bf25ee97d8d0765317c8ac1b88e29e2",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,9 +95,9 @@
           "3.6"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-linux-arm64-v3.6.tgz",
-      "checksum": "54e11eacca0d2e2e6358418a8c6cc1f00586897cf26ee73ffce8e2a65dbeb793",
+      "version": "0.3.3",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.3/eufy-adapter-0.3.3-linux-arm64-v3.6.tgz",
+      "checksum": "639263099dd4e738d6495c6c7f63b050c1e90682dba91f1879927daf2b710ce5",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -111,9 +111,9 @@
           "3.6"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-linux-x64-v3.6.tgz",
-      "checksum": "71989482de1678c41355c495d3806a94789a9d04006c1bef642f28f0c0a41c17",
+      "version": "0.3.3",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.3/eufy-adapter-0.3.3-linux-x64-v3.6.tgz",
+      "checksum": "842cfddbf1657cc00497ab93707f99ed15fbe7fb26bc72af6418c1fd8736ab3b",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,9 +127,9 @@
           "3.6"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-darwin-x64-v3.6.tgz",
-      "checksum": "6e3a51d8c10cd5992eab0512f36967f6012427383b1b110543db80e14a1dfad2",
+      "version": "0.3.3",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.3/eufy-adapter-0.3.3-darwin-x64-v3.6.tgz",
+      "checksum": "d8cb79128d672a7611fa14ce83fa00af90737700c2d20d9cc88fe9897db46849",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -143,9 +143,9 @@
           "3.7"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-linux-arm-v3.7.tgz",
-      "checksum": "11fddb4c7cbc5a9d23224d7d3a69c92a6dd9e7e306bf6b93c6ebbada72cd14cd",
+      "version": "0.3.3",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.3/eufy-adapter-0.3.3-linux-arm-v3.7.tgz",
+      "checksum": "39a3aaa925fb9c6f9889a4c4652c3ba23d8e4b8ae8e56fbbd6c8e1ac847bdb9c",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -159,9 +159,9 @@
           "3.7"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-linux-arm64-v3.7.tgz",
-      "checksum": "e4aeb2e7da7cc6d2e588a44aa8a32fe78c2acde718571f4c1f719b8cae10f9aa",
+      "version": "0.3.3",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.3/eufy-adapter-0.3.3-linux-arm64-v3.7.tgz",
+      "checksum": "4e818387b796d7d8272fc9b3e320657dadcfd8ebfc40c45a64d4f605571c5d9d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,9 +175,9 @@
           "3.7"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-linux-x64-v3.7.tgz",
-      "checksum": "01d0aa10e844558e207690d0cdb421606d9ef9dab8715e50aae5f55a525364ad",
+      "version": "0.3.3",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.3/eufy-adapter-0.3.3-linux-x64-v3.7.tgz",
+      "checksum": "11ee5d55116b042ba0b01f09c76f38e221e370d75a5b42565526851b425da9b3",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,9 +191,9 @@
           "3.7"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-darwin-x64-v3.7.tgz",
-      "checksum": "bce626550b306bac74a5f96c5a6dbc6e32b91d866b523e61fc81022356c87716",
+      "version": "0.3.3",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.3/eufy-adapter-0.3.3-darwin-x64-v3.7.tgz",
+      "checksum": "8d137c66e815f1dcc5c1e58ea56bc037fc3a60bba5971d68ea185804905e389b",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -207,9 +207,9 @@
           "3.8"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-linux-arm-v3.8.tgz",
-      "checksum": "ee3341406ced608329114f95e1818b26eb1815ae65d83ab72e1fc3fe1fd2f5ea",
+      "version": "0.3.3",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.3/eufy-adapter-0.3.3-linux-arm-v3.8.tgz",
+      "checksum": "1dc27cd8348fd8ba0132b467d483f1c83be5135a22d4b35e68f6458af876fc61",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -223,9 +223,9 @@
           "3.8"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-linux-arm64-v3.8.tgz",
-      "checksum": "273b9dd57b3ce1e1a59d9bd0c53d7b500ae0bbad8748a0a28530c090e055c4fe",
+      "version": "0.3.3",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.3/eufy-adapter-0.3.3-linux-arm64-v3.8.tgz",
+      "checksum": "2418084ec9229ce9cb0873e99c7292469d2cb2a342aee887b68a507ce36fddc2",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -239,9 +239,9 @@
           "3.8"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-linux-x64-v3.8.tgz",
-      "checksum": "8ec948335fc52392238a64df018a59b6e6ab13e16b4b53329372dae42ed4606d",
+      "version": "0.3.3",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.3/eufy-adapter-0.3.3-linux-x64-v3.8.tgz",
+      "checksum": "4fda2a5790c07f641270ef6d89f87a9b0114ac0ae3f4fd7390492180bfc37738",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -255,9 +255,9 @@
           "3.8"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/eufy-adapter-0.3.2-darwin-x64-v3.8.tgz",
-      "checksum": "5990ec1c993e446cf684cdb6365124bef41ce5fc1f54507970aa8174400c31d4",
+      "version": "0.3.3",
+      "url": "https://github.com/WebThingsIO/eufy-adapter/releases/download/v0.3.3/eufy-adapter-0.3.3-darwin-x64-v3.8.tgz",
+      "checksum": "942048706343a1f685224ef756bfa77abae37a63ea432694ab01dc8941277cd3",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
