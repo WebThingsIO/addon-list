@@ -1,9 +1,9 @@
-List of installable add-ons for the Mozilla WebThings Gateway. These are
+List of installable add-ons for the WebThings Gateway. These are
 discoverable from the **Settings -> Add-ons** page.
 
 # Building Add-ons
 
-See [here](https://github.com/mozilla-iot/wiki/wiki#general-1) for lots of
+See [here](https://github.com/WebThingsIO/wiki/wiki#general-1) for lots of
 resources.
 
 # Packaging Add-ons
@@ -108,9 +108,9 @@ must include the following information:
   "id": "thing-url-adapter",
   "name": "Web Thing",
   "description": "Native web thing support",
-  "author": "Mozilla IoT",
-  "homepage_url": "https://github.com/mozilla-iot/thing-url-adapter",
-  "license_url": "https://github.com/mozilla-iot/thing-url-adapter/blob/master/LICENSE",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/thing-url-adapter",
+  "license_url": "https://github.com/WebThingsIO/thing-url-adapter/blob/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -122,7 +122,7 @@ must include the following information:
         ]
       },
       "version": "0.2.5",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/thing-url-adapter-0.2.5-linux-arm-v8.tgz",
+      "url": "https://github.com/WebThingsIO/thing-url-adapter/releases/download/v0.2.5/thing-url-adapter-0.2.5-linux-arm-v8.tgz",
       "checksum": "c58eb9c99294a9905fd00b5ca38c73e2337ea54d4db6daebb7c3b0eb64df5b92",
       "api": {
         "min": 2,
@@ -142,7 +142,7 @@ must include the following information:
         ]
       },
       "version": "0.2.5",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/thing-url-adapter-0.2.5-linux-x64-v8.tgz",
+      "url": "https://github.com/WebThingsIO/thing-url-adapter/releases/download/v0.2.5/thing-url-adapter-0.2.5-linux-x64-v8.tgz",
       "checksum": "2e778ad976cb469be1d41af13716a7d65a9cc4e371c452be2ff2da4ed932941c",
       "api": {
         "min": 2,
@@ -162,7 +162,7 @@ must include the following information:
         ]
       },
       "version": "0.2.5",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/thing-url-adapter-0.2.5-darwin-x64-v8.tgz",
+      "url": "https://github.com/WebThingsIO/thing-url-adapter/releases/download/v0.2.5/thing-url-adapter-0.2.5-darwin-x64-v8.tgz",
       "checksum": "e287c61d844fe832b9dca609546ec2454fe23e4a7753b3ce6f9ee53332fdf53f",
       "api": {
         "min": 2,
@@ -177,9 +177,9 @@ must include the following information:
 }
 ```
 
-[adapter-api]: https://github.com/mozilla-iot/wiki/wiki/Adapter-API
-[guidelines]: https://github.com/mozilla-iot/addon-list/blob/master/guidelines.md
-[manifest]: https://github.com/mozilla-iot/addon-list/blob/master/manifest.md
-[PR]: https://github.com/mozilla-iot/addon-list/pulls
-[issue]: https://github.com/mozilla-iot/addon-list/issues
+[adapter-api]: https://github.com/WebThingsIO/wiki/wiki/Adapter-API
+[guidelines]: https://github.com/WebThingsIO/addon-list/blob/master/guidelines.md
+[manifest]: https://github.com/WebThingsIO/addon-list/blob/master/manifest.md
+[PR]: https://github.com/WebThingsIO/addon-list/pulls
+[issue]: https://github.com/WebThingsIO/addon-list/issues
 [node-versions]: https://nodejs.org/en/download/releases/
