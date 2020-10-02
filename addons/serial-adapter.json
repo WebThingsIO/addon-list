@@ -2,9 +2,9 @@
   "id": "serial-adapter",
   "name": "Serial",
   "description": "Serial JSON interface to serial-mcu",
-  "author": "Mozilla IoT",
-  "homepage_url": "https://github.com/mozilla-iot/serial-adapter",
-  "license_url": "https://raw.githubusercontent.com/mozilla-iot/serial-adapter/master/LICENSE",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/serial-adapter",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/serial-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -12,76 +12,12 @@
       "language": {
         "name": "nodejs",
         "versions": [
-          "57"
-        ]
-      },
-      "version": "0.5.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-linux-arm-v8.tgz",
-      "checksum": "51f722f1e95671145c7f7e7c7485e5aea133531786968666f7eae3d2b4d8423b",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.5.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-linux-arm64-v8.tgz",
-      "checksum": "6078f19255d68bc057d3c6471a7ea77fbf936aaf259f4e22430674a8f5eebc8e",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-x64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.5.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-linux-x64-v8.tgz",
-      "checksum": "9dea0b06c3d6339421f33cc48cb820acf23d631a9953da1e1d7febb4ca2541a9",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "darwin-x64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.5.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-darwin-x64-v8.tgz",
-      "checksum": "c9eb3e0243636c4c7840601cad24ff89635d407a1d814cae489f7f487faf3027",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm",
-      "language": {
-        "name": "nodejs",
-        "versions": [
           "64"
         ]
       },
-      "version": "0.5.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-linux-arm-v10.tgz",
-      "checksum": "f82de7c343d8507393e07a01a00d03d845be9c209cf89abd761a30d707f0f601",
+      "version": "0.5.3",
+      "url": "https://github.com/WebThingsIO/serial-adapter/releases/download/v0.5.3/serial-adapter-0.5.3-linux-arm-v10.tgz",
+      "checksum": "84e9d7c874fdc92a08e5c7993fbee86cc60db4a5fdd434bbc440fc6abcb3ab08",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,9 +31,9 @@
           "64"
         ]
       },
-      "version": "0.5.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-linux-arm64-v10.tgz",
-      "checksum": "35ea2f52e493b0f87944b564011abfd054895e7ecc3820af4fbb2c666561a2de",
+      "version": "0.5.3",
+      "url": "https://github.com/WebThingsIO/serial-adapter/releases/download/v0.5.3/serial-adapter-0.5.3-linux-arm64-v10.tgz",
+      "checksum": "0ac6742e831753249de755fc95ca6f28e3131d3a545868942bc886d8596ea5b1",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -111,9 +47,9 @@
           "64"
         ]
       },
-      "version": "0.5.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-linux-x64-v10.tgz",
-      "checksum": "dc4aedddb52cb8ef7cefb6695066b81181ce8fd4d9c49ae27a002d162c4f4ba6",
+      "version": "0.5.3",
+      "url": "https://github.com/WebThingsIO/serial-adapter/releases/download/v0.5.3/serial-adapter-0.5.3-linux-x64-v10.tgz",
+      "checksum": "a3d821a9861c358b039b9613da40cc5716790288de58b709b6290ada633e4d73",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,9 +63,9 @@
           "64"
         ]
       },
-      "version": "0.5.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-darwin-x64-v10.tgz",
-      "checksum": "7b18b78bdefd5b4aafffb6056deb7d8575bf0f40644a6e46738bfc178c0c43f5",
+      "version": "0.5.3",
+      "url": "https://github.com/WebThingsIO/serial-adapter/releases/download/v0.5.3/serial-adapter-0.5.3-darwin-x64-v10.tgz",
+      "checksum": "bc776bb0cda8a77f6988eca963047534397242c521a62073c0f7bff40f10f8fb",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -143,9 +79,9 @@
           "72"
         ]
       },
-      "version": "0.5.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-linux-arm-v12.tgz",
-      "checksum": "35a5f1d8dea93937606737431828f586ad3986944363cf7e04f5aff6464e7f93",
+      "version": "0.5.3",
+      "url": "https://github.com/WebThingsIO/serial-adapter/releases/download/v0.5.3/serial-adapter-0.5.3-linux-arm-v12.tgz",
+      "checksum": "db99241a16e32a47b9aa1f9538613163262a6d6e62a77ab54a95f845e0c61c92",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -159,9 +95,9 @@
           "72"
         ]
       },
-      "version": "0.5.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-linux-arm64-v12.tgz",
-      "checksum": "b9e3fde2835bc05aa56ee61d0d0b51dd810a018f50cc1c1bbf2827df9091b7ea",
+      "version": "0.5.3",
+      "url": "https://github.com/WebThingsIO/serial-adapter/releases/download/v0.5.3/serial-adapter-0.5.3-linux-arm64-v12.tgz",
+      "checksum": "cce929c2a63dcb30d9889824e666e38d5beb6a9a85a6ae435aad74cd612b8bc2",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,9 +111,9 @@
           "72"
         ]
       },
-      "version": "0.5.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-linux-x64-v12.tgz",
-      "checksum": "ac27e3706ce6a25927932125cec1403bc8286892cf5d2a896cdb01b6a87e25a1",
+      "version": "0.5.3",
+      "url": "https://github.com/WebThingsIO/serial-adapter/releases/download/v0.5.3/serial-adapter-0.5.3-linux-x64-v12.tgz",
+      "checksum": "4c6788cc25101ae83f68cf68317490df37872ca0e602abb7f6131bd59ed12da2",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,9 +127,9 @@
           "72"
         ]
       },
-      "version": "0.5.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-darwin-x64-v12.tgz",
-      "checksum": "1f5f3ac10a9f5befd4f77f411e165bc4dc570bd57e5e44c10deb43c811358e5a",
+      "version": "0.5.3",
+      "url": "https://github.com/WebThingsIO/serial-adapter/releases/download/v0.5.3/serial-adapter-0.5.3-darwin-x64-v12.tgz",
+      "checksum": "73f5831cc9c863a52043acb74a1f4fd1448a29394e445cadb5db95ed26fb8d4a",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -207,9 +143,9 @@
           "83"
         ]
       },
-      "version": "0.5.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-linux-arm-v14.tgz",
-      "checksum": "8247af91c66ff3c30899a0d3c4330877ad4c7eecd4fdf7d4fd4455a6917bbb87",
+      "version": "0.5.3",
+      "url": "https://github.com/WebThingsIO/serial-adapter/releases/download/v0.5.3/serial-adapter-0.5.3-linux-arm-v14.tgz",
+      "checksum": "e9d29fe2926f376f522179ad2de4f92f326f67b3a658681e9f5678bb399c8112",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -223,9 +159,9 @@
           "83"
         ]
       },
-      "version": "0.5.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-linux-arm64-v14.tgz",
-      "checksum": "efb75e1031db40e63296ff122b7cb3ef7bb9258df285dbbf7b4c6acea5e145fa",
+      "version": "0.5.3",
+      "url": "https://github.com/WebThingsIO/serial-adapter/releases/download/v0.5.3/serial-adapter-0.5.3-linux-arm64-v14.tgz",
+      "checksum": "cc721e3507b42a5d0f2cd94ca09717dbba4d2db575089edbdd225c2f9c39751e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -239,9 +175,9 @@
           "83"
         ]
       },
-      "version": "0.5.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-linux-x64-v14.tgz",
-      "checksum": "3f36620c92218b02acce58066469e3f1c25ae04f3c0381ab588209dce994353f",
+      "version": "0.5.3",
+      "url": "https://github.com/WebThingsIO/serial-adapter/releases/download/v0.5.3/serial-adapter-0.5.3-linux-x64-v14.tgz",
+      "checksum": "9f65ea49f806e8ebccb58961771fd257f871bcd862b80796baae6305ae51663d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -255,9 +191,9 @@
           "83"
         ]
       },
-      "version": "0.5.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/serial-adapter-0.5.2-darwin-x64-v14.tgz",
-      "checksum": "038c4b7e50cdea1676a19fd961bdc88b91459134f8720bde3654502007365d49",
+      "version": "0.5.3",
+      "url": "https://github.com/WebThingsIO/serial-adapter/releases/download/v0.5.3/serial-adapter-0.5.3-darwin-x64-v14.tgz",
+      "checksum": "8d4afa71b62a55216372c4ef85ef28027488d9fdf4becd8847a329d7e4037117",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
