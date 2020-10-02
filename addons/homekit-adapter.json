@@ -2,9 +2,9 @@
   "id": "homekit-adapter",
   "name": "HomeKit",
   "description": "HomeKit device support",
-  "author": "Mozilla IoT",
-  "homepage_url": "https://github.com/mozilla-iot/homekit-adapter",
-  "license_url": "https://raw.githubusercontent.com/mozilla-iot/homekit-adapter/master/LICENSE",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/homekit-adapter",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/homekit-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,9 +15,9 @@
           "57"
         ]
       },
-      "version": "0.9.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-linux-arm-v8.tgz",
-      "checksum": "ce65167a1a1b11c4247dc188dca41e4eecd0f330fab13e41355c056f40c0b8c3",
+      "version": "0.9.3",
+      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.9.3/homekit-adapter-0.9.3-linux-arm-v8.tgz",
+      "checksum": "51624a97b998c73cb54429f250cf13adbce6f178488e37780c2c8aca2484a1cf",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "57"
         ]
       },
-      "version": "0.9.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-linux-arm64-v8.tgz",
-      "checksum": "7a76a1ca38298e8cca441fce18bbd37b31da2f1aecb434c7d40784dde8ce10f7",
+      "version": "0.9.3",
+      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.9.3/homekit-adapter-0.9.3-linux-arm64-v8.tgz",
+      "checksum": "a3f11a84adcc547b29db45543476099ff201f70ddabfc32932e43ba7fe2f7357",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -47,9 +47,9 @@
           "57"
         ]
       },
-      "version": "0.9.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-linux-x64-v8.tgz",
-      "checksum": "221d50d7465c11291adce88be2ef0f640308af36a10140ca3421cdc1f1b46dad",
+      "version": "0.9.3",
+      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.9.3/homekit-adapter-0.9.3-linux-x64-v8.tgz",
+      "checksum": "516d3d930c56df9ed77b4e62406385e56c49b9d166072cc88784a5e2850d6db8",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -63,9 +63,9 @@
           "57"
         ]
       },
-      "version": "0.9.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-darwin-x64-v8.tgz",
-      "checksum": "f3093df4416b4088d048814ead991aa2a02ebd20fc65956e01d2cff3a2680d72",
+      "version": "0.9.3",
+      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.9.3/homekit-adapter-0.9.3-darwin-x64-v8.tgz",
+      "checksum": "6419825a9c17b9b67658b7d94e7644c02863e24005cf76c41269060e2ae499c0",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -79,9 +79,9 @@
           "64"
         ]
       },
-      "version": "0.9.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-linux-arm-v10.tgz",
-      "checksum": "d0bdf8d4517754215a461fa14ba21b4c1d479910bfc5d8843ff5d5271aa01de5",
+      "version": "0.9.3",
+      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.9.3/homekit-adapter-0.9.3-linux-arm-v10.tgz",
+      "checksum": "20672ec0678f1d0dc935ded3069e152cb284bbfa5521d9b8c246005d78ddffcd",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,9 +95,9 @@
           "64"
         ]
       },
-      "version": "0.9.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-linux-arm64-v10.tgz",
-      "checksum": "ae4966f345fd24991ef5ab58567a12699287d9602ca71ef3f1d77edf99c85df0",
+      "version": "0.9.3",
+      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.9.3/homekit-adapter-0.9.3-linux-arm64-v10.tgz",
+      "checksum": "7167e2d263e7063dcda88ea13feddf98a18eac8745a1441682e68e979b4d5934",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -111,9 +111,9 @@
           "64"
         ]
       },
-      "version": "0.9.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-linux-x64-v10.tgz",
-      "checksum": "e90eb27a99412f762cca3a8d8c295a9ae2f0cbcecb2030ae4cf7e20a47b384b9",
+      "version": "0.9.3",
+      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.9.3/homekit-adapter-0.9.3-linux-x64-v10.tgz",
+      "checksum": "0e97ff1a64b53b6767768752891324b75e9387314f325a476e663a58a3e8d133",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,9 +127,9 @@
           "64"
         ]
       },
-      "version": "0.9.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-darwin-x64-v10.tgz",
-      "checksum": "f8dbbe425bef94dd070cc5f8df8d07736705b608bfa1d3889c60505b8ec17adc",
+      "version": "0.9.3",
+      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.9.3/homekit-adapter-0.9.3-darwin-x64-v10.tgz",
+      "checksum": "d68f2e24432e2da709d0c10af7addb934a57c07789df5ff827ac7caa54e84001",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -143,9 +143,9 @@
           "72"
         ]
       },
-      "version": "0.9.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-linux-arm-v12.tgz",
-      "checksum": "bbe8301b8e45750aa6111164dffc39d29f079c24fec40cf5ac38c9c8c04a7d8b",
+      "version": "0.9.3",
+      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.9.3/homekit-adapter-0.9.3-linux-arm-v12.tgz",
+      "checksum": "39d567c5ae4442d3d3ca928c37325832356f40e4f77bad64a44af90a47664291",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -159,9 +159,9 @@
           "72"
         ]
       },
-      "version": "0.9.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-linux-arm64-v12.tgz",
-      "checksum": "072f1656160a7aa79423c3a7fe6ea8ee53f4817b7484be77d9b835328d24d232",
+      "version": "0.9.3",
+      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.9.3/homekit-adapter-0.9.3-linux-arm64-v12.tgz",
+      "checksum": "c522266663e0eb7e9a2df197396dda5944d309dc2166ada06dfaee45291b293e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,9 +175,9 @@
           "72"
         ]
       },
-      "version": "0.9.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-linux-x64-v12.tgz",
-      "checksum": "46c2dbedf9110371a2fc258859acb85ac8a14311c4fd12366b06bafca504ea4f",
+      "version": "0.9.3",
+      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.9.3/homekit-adapter-0.9.3-linux-x64-v12.tgz",
+      "checksum": "ea8449c171d09c0650a152c2b42405b17d1f0b730c47d207b29804f37c04cc4f",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,9 +191,9 @@
           "72"
         ]
       },
-      "version": "0.9.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-darwin-x64-v12.tgz",
-      "checksum": "b078631de00521d799b690207836203e727d773163e183106e87179a0b0adaa3",
+      "version": "0.9.3",
+      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.9.3/homekit-adapter-0.9.3-darwin-x64-v12.tgz",
+      "checksum": "ee7d8ab55df0bb34e57def6e9487e744d7a1a4b44137ffb049ac9180ecdc657e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -207,9 +207,9 @@
           "83"
         ]
       },
-      "version": "0.9.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-linux-arm-v14.tgz",
-      "checksum": "a75de8ef54690d00e2e1b85f19f3c49187f453996384f54340c5f62cc6fdf9d2",
+      "version": "0.9.3",
+      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.9.3/homekit-adapter-0.9.3-linux-arm-v14.tgz",
+      "checksum": "d107e8b2887cc464a600f65457ca1bf4b0d8b57b1226462227313bc0cfd55fac",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -223,9 +223,9 @@
           "83"
         ]
       },
-      "version": "0.9.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-linux-arm64-v14.tgz",
-      "checksum": "7d6f52b2c0b0778c1746c6ff678be1d2bbf4e1c8d646904b18da22aa893d848d",
+      "version": "0.9.3",
+      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.9.3/homekit-adapter-0.9.3-linux-arm64-v14.tgz",
+      "checksum": "4f3dd9806f7c1db617e4023119aa55c460212eb662c08e218e357ede6935b130",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -239,9 +239,9 @@
           "83"
         ]
       },
-      "version": "0.9.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-linux-x64-v14.tgz",
-      "checksum": "6affe563172472a1edce8f4e13d5955339ee138e173a26e70b9298435d96f69b",
+      "version": "0.9.3",
+      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.9.3/homekit-adapter-0.9.3-linux-x64-v14.tgz",
+      "checksum": "89044bba56e9a3fd5c4ad3e415454df45273cecaadb5c7f329b866c98069aaf2",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -255,9 +255,9 @@
           "83"
         ]
       },
-      "version": "0.9.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homekit-adapter-0.9.2-darwin-x64-v14.tgz",
-      "checksum": "ce8d3b6b53fc0d0c843cd99c90b18b5dd1edb9fb73b77bad48b6dbf4dc45747e",
+      "version": "0.9.3",
+      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.9.3/homekit-adapter-0.9.3-darwin-x64-v14.tgz",
+      "checksum": "42dfc96e68b78c5b3117d2d2b02fcf0b1dc82616c1539f94593b46940c38eed6",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
