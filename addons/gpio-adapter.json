@@ -12,54 +12,6 @@
       "language": {
         "name": "nodejs",
         "versions": [
-          "57"
-        ]
-      },
-      "version": "0.7.5",
-      "url": "https://github.com/WebThingsIO/gpio-adapter/releases/download/v0.7.5/gpio-adapter-0.7.5-linux-arm-v8.tgz",
-      "checksum": "1f2b27eef6f4b9c6a72c4548df20f04e54b9ca78baf6406cd0cdab0fe6f54744",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.7.5",
-      "url": "https://github.com/WebThingsIO/gpio-adapter/releases/download/v0.7.5/gpio-adapter-0.7.5-linux-arm64-v8.tgz",
-      "checksum": "aa9793d2cee71d2f020e198d9fd46cf2a37c2955efebf99f797a3b156465bd17",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-x64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.7.5",
-      "url": "https://github.com/WebThingsIO/gpio-adapter/releases/download/v0.7.5/gpio-adapter-0.7.5-linux-x64-v8.tgz",
-      "checksum": "91e2911e2b5fc083adcb1c7ddecfcef0fee26766573c51534cebcb695286bc0f",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm",
-      "language": {
-        "name": "nodejs",
-        "versions": [
           "64"
         ]
       },
