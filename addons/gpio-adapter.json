@@ -2,9 +2,9 @@
   "id": "gpio-adapter",
   "name": "GPIO",
   "description": "GPIO device support",
-  "author": "Mozilla IoT",
-  "homepage_url": "https://github.com/mozilla-iot/gpio-adapter",
-  "license_url": "https://raw.githubusercontent.com/mozilla-iot/gpio-adapter/master/LICENSE",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/gpio-adapter",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/gpio-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,9 +15,9 @@
           "57"
         ]
       },
-      "version": "0.7.4",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.4-linux-arm-v8.tgz",
-      "checksum": "298257ae56c2567adafe9a7f1d2e012bd1d9dae86fed5c630cb70c0ad2317ced",
+      "version": "0.7.5",
+      "url": "https://github.com/WebThingsIO/gpio-adapter/releases/download/v0.7.5/gpio-adapter-0.7.5-linux-arm-v8.tgz",
+      "checksum": "1f2b27eef6f4b9c6a72c4548df20f04e54b9ca78baf6406cd0cdab0fe6f54744",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "57"
         ]
       },
-      "version": "0.7.4",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.4-linux-arm64-v8.tgz",
-      "checksum": "b19d1768abd469f0666b11b9bdc3ac53a9162a0272d782a930f3cf1f5df1ca6e",
+      "version": "0.7.5",
+      "url": "https://github.com/WebThingsIO/gpio-adapter/releases/download/v0.7.5/gpio-adapter-0.7.5-linux-arm64-v8.tgz",
+      "checksum": "aa9793d2cee71d2f020e198d9fd46cf2a37c2955efebf99f797a3b156465bd17",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -47,9 +47,9 @@
           "57"
         ]
       },
-      "version": "0.7.4",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.4-linux-x64-v8.tgz",
-      "checksum": "0b8869f814e298830c3c4aeb341b9bea2133cef57898951d48e9be245d1824d2",
+      "version": "0.7.5",
+      "url": "https://github.com/WebThingsIO/gpio-adapter/releases/download/v0.7.5/gpio-adapter-0.7.5-linux-x64-v8.tgz",
+      "checksum": "91e2911e2b5fc083adcb1c7ddecfcef0fee26766573c51534cebcb695286bc0f",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -63,9 +63,9 @@
           "64"
         ]
       },
-      "version": "0.7.4",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.4-linux-arm-v10.tgz",
-      "checksum": "7fb0508408153391e181f73a094bde5845d79ca6408f0144bbf56ed743c9765a",
+      "version": "0.7.5",
+      "url": "https://github.com/WebThingsIO/gpio-adapter/releases/download/v0.7.5/gpio-adapter-0.7.5-linux-arm-v10.tgz",
+      "checksum": "131c7076c065a312dd53e2458dacda0e0c0406e29f6d0b9569048378d14a89da",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -79,9 +79,9 @@
           "64"
         ]
       },
-      "version": "0.7.4",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.4-linux-arm64-v10.tgz",
-      "checksum": "09de2fa960d5edc71d384baff8db19c328374de34261d7ff79b448d0a7d34c8f",
+      "version": "0.7.5",
+      "url": "https://github.com/WebThingsIO/gpio-adapter/releases/download/v0.7.5/gpio-adapter-0.7.5-linux-arm64-v10.tgz",
+      "checksum": "a9d9b393e18d93ce4535d60f02ade2ffb7a8a3bf0189019b9f8a39edbef22262",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,9 +95,9 @@
           "64"
         ]
       },
-      "version": "0.7.4",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.4-linux-x64-v10.tgz",
-      "checksum": "dc010b59e527bc73309f0e119126e108beaabdacb7f1255cc3723d319afdca99",
+      "version": "0.7.5",
+      "url": "https://github.com/WebThingsIO/gpio-adapter/releases/download/v0.7.5/gpio-adapter-0.7.5-linux-x64-v10.tgz",
+      "checksum": "643109c9cd151eb603dc6e87f15143dee8a7fc6c0355cfeb1a40ccb04e20fedb",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -111,9 +111,9 @@
           "72"
         ]
       },
-      "version": "0.7.4",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.4-linux-arm-v12.tgz",
-      "checksum": "2574e11c51d9b1dae38d16354c0b98ce9906e0f097f7cf3cc223e7e92ec8c5af",
+      "version": "0.7.5",
+      "url": "https://github.com/WebThingsIO/gpio-adapter/releases/download/v0.7.5/gpio-adapter-0.7.5-linux-arm-v12.tgz",
+      "checksum": "e1466dd6d7ac92f9ea603eaf5e980204a2c408b2e90e0e646296afbecf203043",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,9 +127,9 @@
           "72"
         ]
       },
-      "version": "0.7.4",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.4-linux-arm64-v12.tgz",
-      "checksum": "2d67577ff02bccc742c46903ad1794fce4abdc01665d1be4aa2f051cc3ed3ab2",
+      "version": "0.7.5",
+      "url": "https://github.com/WebThingsIO/gpio-adapter/releases/download/v0.7.5/gpio-adapter-0.7.5-linux-arm64-v12.tgz",
+      "checksum": "638e5bd1e5e8d98c950e325f073be034b9aac61d0274ab188e905c653425fcbf",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -143,9 +143,9 @@
           "72"
         ]
       },
-      "version": "0.7.4",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.4-linux-x64-v12.tgz",
-      "checksum": "63ab2b1e581b289ce6c254bdfe35b4bccdfac203053324c9a54e673e649d5710",
+      "version": "0.7.5",
+      "url": "https://github.com/WebThingsIO/gpio-adapter/releases/download/v0.7.5/gpio-adapter-0.7.5-linux-x64-v12.tgz",
+      "checksum": "6b57e9782b975cc485bf3280efdc5871d590d012e747becb8cf90a69af4a343f",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -159,9 +159,9 @@
           "83"
         ]
       },
-      "version": "0.7.4",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.4-linux-arm-v14.tgz",
-      "checksum": "e4f37805c31bcc9a6ca7d859ab2b4b004c75fec59c3b71027640fb0cdf31a727",
+      "version": "0.7.5",
+      "url": "https://github.com/WebThingsIO/gpio-adapter/releases/download/v0.7.5/gpio-adapter-0.7.5-linux-arm-v14.tgz",
+      "checksum": "30dd6e270a5cfb35eac159f239f90d994996e97ab6297fa4821f17eb57a0b00e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,9 +175,9 @@
           "83"
         ]
       },
-      "version": "0.7.4",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.4-linux-arm64-v14.tgz",
-      "checksum": "fc7e2da08b6b9df4829bcaa07024ff6a54ab2b55e49d0382ea7179d08da9bd73",
+      "version": "0.7.5",
+      "url": "https://github.com/WebThingsIO/gpio-adapter/releases/download/v0.7.5/gpio-adapter-0.7.5-linux-arm64-v14.tgz",
+      "checksum": "f771773537344dad1d9abff2556f04f537a20b811dca48997ad26d681a456063",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,9 +191,9 @@
           "83"
         ]
       },
-      "version": "0.7.4",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gpio-adapter-0.7.4-linux-x64-v14.tgz",
-      "checksum": "2e33576dd15cb64e422339afea838c40d517f53b8d2b7b5d1680eadddbfb9a97",
+      "version": "0.7.5",
+      "url": "https://github.com/WebThingsIO/gpio-adapter/releases/download/v0.7.5/gpio-adapter-0.7.5-linux-x64-v14.tgz",
+      "checksum": "5825a7a8baacf78b857aa9a0073b7aeb9c43c3a3ef6ac82fce56db056008247e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
