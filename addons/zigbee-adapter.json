@@ -2,9 +2,9 @@
   "id": "zigbee-adapter",
   "name": "Zigbee",
   "description": "Zigbee device support",
-  "author": "Mozilla IoT",
-  "homepage_url": "https://github.com/mozilla-iot/zigbee-adapter",
-  "license_url": "https://raw.githubusercontent.com/mozilla-iot/zigbee-adapter/master/LICENSE",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/zigbee-adapter",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/zigbee-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -12,76 +12,12 @@
       "language": {
         "name": "nodejs",
         "versions": [
-          "57"
-        ]
-      },
-      "version": "0.11.11",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.11.11-linux-arm-v8.tgz",
-      "checksum": "14e53ca693f69280df0b0e633920d0e85e346d22e7a4e9bd39f4219369b76128",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.11.11",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.11.11-linux-arm64-v8.tgz",
-      "checksum": "cbd452dd645472df69d102b18ef91c19e985dd210eba0491d194c1312f9c11f8",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-x64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.11.11",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.11.11-linux-x64-v8.tgz",
-      "checksum": "3a08175eac465002c703112bbe699c4c1ef82f062b27ec036614b7cfb3845e0b",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "darwin-x64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.11.11",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.11.11-darwin-x64-v8.tgz",
-      "checksum": "cf0170c66333434292bc64ebce3ca7e841db25dd48801a2f0a4750b63f76ec0a",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm",
-      "language": {
-        "name": "nodejs",
-        "versions": [
           "64"
         ]
       },
-      "version": "0.11.11",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.11.11-linux-arm-v10.tgz",
-      "checksum": "a7761e094d34ed4507bc2af46f396150778ccf4774d3eb91785e109d4487defc",
+      "version": "0.11.12",
+      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.11.12/zigbee-adapter-0.11.12-linux-arm-v10.tgz",
+      "checksum": "c4fef4304eeb8fd5e242b82653a805ef5bf6280dbd0d1027ced45cb404480ff6",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,9 +31,9 @@
           "64"
         ]
       },
-      "version": "0.11.11",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.11.11-linux-arm64-v10.tgz",
-      "checksum": "f1cee0e269801e2e69d4353ed4654cc4498dd35f441938e0e20511c4a355714b",
+      "version": "0.11.12",
+      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.11.12/zigbee-adapter-0.11.12-linux-arm64-v10.tgz",
+      "checksum": "67c455782bb2cd6da8076b1af88535368a9359acfa704c92932a1149726fb0cd",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -111,9 +47,9 @@
           "64"
         ]
       },
-      "version": "0.11.11",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.11.11-linux-x64-v10.tgz",
-      "checksum": "ab7f15d451396ef36cedf921f98638378501036965be99d5f28b33806e2b4eef",
+      "version": "0.11.12",
+      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.11.12/zigbee-adapter-0.11.12-linux-x64-v10.tgz",
+      "checksum": "5c88dcfadc6d7ebe95cfd152c9bb05d23e7ff97faff496a51932c4923f6bdfeb",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,9 +63,9 @@
           "64"
         ]
       },
-      "version": "0.11.11",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.11.11-darwin-x64-v10.tgz",
-      "checksum": "a6fdf8b5976cfcd987ea068ba993fba448a67b2fb1bf65b22f131197a60ab08d",
+      "version": "0.11.12",
+      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.11.12/zigbee-adapter-0.11.12-darwin-x64-v10.tgz",
+      "checksum": "cd7d30f9cc35694500c5bad053cd79c6e15240135dc12451bf7ec3eb213a6974",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -143,9 +79,9 @@
           "72"
         ]
       },
-      "version": "0.11.11",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.11.11-linux-arm-v12.tgz",
-      "checksum": "dd5929670d74ff153be350195b83265b3ccbfbea1bfeae5b685546001c7b75d2",
+      "version": "0.11.12",
+      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.11.12/zigbee-adapter-0.11.12-linux-arm-v12.tgz",
+      "checksum": "5709dd308e2426fe24cfcd646d94e679f09b59e03a58f268f88ab448488b0a92",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -159,9 +95,9 @@
           "72"
         ]
       },
-      "version": "0.11.11",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.11.11-linux-arm64-v12.tgz",
-      "checksum": "b20e48a72b63b9edf802635f1901cce29bcb8f010241477535e61f7fd55a6377",
+      "version": "0.11.12",
+      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.11.12/zigbee-adapter-0.11.12-linux-arm64-v12.tgz",
+      "checksum": "b20d3e69eb2e55c98e2e44de452c7df6a121712ae550efdabd2942392c81239d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,9 +111,9 @@
           "72"
         ]
       },
-      "version": "0.11.11",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.11.11-linux-x64-v12.tgz",
-      "checksum": "b4dbe7bd9ff9bd22fd401d050f93de0886a57bd228a9699a250bbc81c25eac24",
+      "version": "0.11.12",
+      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.11.12/zigbee-adapter-0.11.12-linux-x64-v12.tgz",
+      "checksum": "adc36ff68694c42ab179daa8c050f58ac5ab7185fb8957c24932bebba4561709",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,9 +127,9 @@
           "72"
         ]
       },
-      "version": "0.11.11",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.11.11-darwin-x64-v12.tgz",
-      "checksum": "55e9038471bd8fc9a3cda943164d64e97f2edf7b73ca6272728e5eed504b9a49",
+      "version": "0.11.12",
+      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.11.12/zigbee-adapter-0.11.12-darwin-x64-v12.tgz",
+      "checksum": "7c86e4940bd5b3f3a7cd13e6fbf5c389df654c613f3864ef7ca3e4d7c34aac44",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -207,9 +143,9 @@
           "83"
         ]
       },
-      "version": "0.11.11",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.11.11-linux-arm-v14.tgz",
-      "checksum": "20aecd63c4b547e6d3ae8b1dbee151ac2fa758bc1acda811b791df5d960a6b54",
+      "version": "0.11.12",
+      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.11.12/zigbee-adapter-0.11.12-linux-arm-v14.tgz",
+      "checksum": "9cd8a8725b18fd85356bf6a9fec304fafa0f8f2df9569dbaebea44e8c139436f",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -223,9 +159,9 @@
           "83"
         ]
       },
-      "version": "0.11.11",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.11.11-linux-arm64-v14.tgz",
-      "checksum": "e53b370d8e1670d337c5bc4e879105836a42733308a69a3396be62a808facb26",
+      "version": "0.11.12",
+      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.11.12/zigbee-adapter-0.11.12-linux-arm64-v14.tgz",
+      "checksum": "249720a5bbfc6a63c7b795ac20e6374c5cd06aa82dcb797bde9fd662e9465c31",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -239,9 +175,9 @@
           "83"
         ]
       },
-      "version": "0.11.11",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.11.11-linux-x64-v14.tgz",
-      "checksum": "d70c23b6c066c76efa63cc687f92a0fb9bbb182682781e833c595c8f7d3461db",
+      "version": "0.11.12",
+      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.11.12/zigbee-adapter-0.11.12-linux-x64-v14.tgz",
+      "checksum": "4c11452c461caa3003f5cbdc24858b280a057b0a5bfa921b74412ca6ec73e159",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -255,9 +191,9 @@
           "83"
         ]
       },
-      "version": "0.11.11",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zigbee-adapter-0.11.11-darwin-x64-v14.tgz",
-      "checksum": "7e1be1e190d8f3cff775aa34112e9ec30a9e033cda6f46ead19b55fc2ba254db",
+      "version": "0.11.12",
+      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.11.12/zigbee-adapter-0.11.12-darwin-x64-v14.tgz",
+      "checksum": "aa7718dd6bcbcf5ac8eb7c3d936fe302caf3fa94c87495bac3a83aef3ea00280",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
