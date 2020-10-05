@@ -2,9 +2,9 @@
   "id": "tplink-adapter",
   "name": "TP-Link Kasa",
   "description": "TP-Link Kasa smart plug/bulb device support",
-  "author": "Mozilla IoT",
-  "homepage_url": "https://github.com/mozilla-iot/tplink-adapter",
-  "license_url": "https://raw.githubusercontent.com/mozilla-iot/tplink-adapter/master/LICENSE",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/tplink-adapter",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/tplink-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -18,9 +18,9 @@
           "3.8"
         ]
       },
-      "version": "0.6.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tplink-adapter-0.6.1.tgz",
-      "checksum": "e99c10c90cfa8d9833463244f7b975d6bdcc9b55be4013441e3e341644502d4f",
+      "version": "0.6.2",
+      "url": "https://github.com/WebThingsIO/tplink-adapter/releases/download/v0.6.2/tplink-adapter-0.6.2.tgz",
+      "checksum": "3143e1866673bb838297c821a253a4bf4e5fc7de2f732a10cbe7fe458fabe719",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
