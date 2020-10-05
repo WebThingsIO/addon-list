@@ -2,9 +2,9 @@
   "id": "weather-adapter",
   "name": "Weather",
   "description": "Current weather conditions",
-  "author": "Mozilla IoT",
-  "homepage_url": "https://github.com/mozilla-iot/weather-adapter#readme",
-  "license_url": "https://raw.githubusercontent.com/mozilla-iot/weather-adapter/master/LICENSE",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/weather-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/weather-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.5.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/weather-adapter-0.5.1.tgz",
-      "checksum": "28dc424b1eb669dba7add60159d00cb3c42974406b9e0485e00731024de35343",
+      "version": "0.5.2",
+      "url": "https://github.com/WebThingsIO/weather-adapter/releases/download/v0.5.2/weather-adapter-0.5.2.tgz",
+      "checksum": "874c0250096544911d35b49d929327e5ea96c0e2b01bb093933900542aac5ee0",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
