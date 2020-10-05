@@ -2,9 +2,9 @@
   "id": "thing-url-adapter",
   "name": "Web Thing",
   "description": "Native web thing support",
-  "author": "Mozilla IoT",
-  "homepage_url": "https://github.com/mozilla-iot/thing-url-adapter",
-  "license_url": "https://raw.githubusercontent.com/mozilla-iot/thing-url-adapter/master/LICENSE",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/thing-url-adapter",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/thing-url-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.4.8",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/thing-url-adapter-0.4.8.tgz",
-      "checksum": "7e6216288ab47a6c5cbd0ed16c6c7ed4c8bfb18a7322dd81307c68f82b6c4c35",
+      "version": "0.5.0",
+      "url": "https://github.com/WebThingsIO/thing-url-adapter/releases/download/v0.5.0/thing-url-adapter-0.5.0.tgz",
+      "checksum": "7341d5cb829f68e14c8849f6a2deec3445e9d34f9dbe8208db9b65d212b43c0c",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
