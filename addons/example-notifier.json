@@ -2,9 +2,9 @@
   "id": "example-notifier",
   "name": "Example Notifier",
   "description": "Example notifier add-on for developers",
-  "author": "Mozilla IoT",
-  "homepage_url": "https://github.com/mozilla-iot/example-notifier",
-  "license_url": "https://raw.githubusercontent.com/mozilla-iot/example-notifier/master/LICENSE",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/example-notifier",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/example-notifier/master/LICENSE",
   "primary_type": "notifier",
   "packages": [
     {
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/example-notifier-0.1.2.tgz",
-      "checksum": "c29c79a43f889f6c4fc5a4abfbfb19333f526f3a6d92f65c2a975d810c42671a",
+      "version": "0.1.3",
+      "url": "https://github.com/WebThingsIO/example-notifier/releases/download/v0.1.3/example-notifier-0.1.3.tgz",
+      "checksum": "ba076230365c3c2308ce7ff4f09133cf6e9085e207bf94b143c390373f2c4b4d",
       "test_only": true,
       "gateway": {
         "min": "0.10.0",
