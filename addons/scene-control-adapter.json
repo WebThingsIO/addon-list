@@ -2,9 +2,9 @@
   "id": "scene-control-adapter",
   "name": "Scene Control",
   "description": "Emulate scenes through rules.",
-  "author": "Mozilla IoT",
-  "homepage_url": "https://github.com/mozilla-iot/scene-control-adapter",
-  "license_url": "https://raw.githubusercontent.com/mozilla-iot/scene-control-adapter/master/LICENSE",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/scene-control-adapter",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/scene-control-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/scene-control-adapter-0.1.1.tgz",
-      "checksum": "268b8749e77794af542f9fa70ef069d30449bc3e0fbd3e7e44392b73e2450228",
+      "version": "0.1.2",
+      "url": "https://github.com/WebThingsIO/scene-control-adapter/releases/download/v0.1.2/scene-control-adapter-0.1.2.tgz",
+      "checksum": "49b0c1abcd678f99999a5be41c0f56ab7a46b786af696fa87c5e174fe61ad3bd",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
