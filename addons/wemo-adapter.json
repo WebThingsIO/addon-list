@@ -2,9 +2,9 @@
   "id": "wemo-adapter",
   "name": "Wemo",
   "description": "Wemo smart device support",
-  "author": "Mozilla IoT",
-  "homepage_url": "https://github.com/mozilla-iot/wemo-adapter",
-  "license_url": "https://raw.githubusercontent.com/mozilla-iot/wemo-adapter/master/LICENSE",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/wemo-adapter",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/wemo-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -18,9 +18,9 @@
           "3.8"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/wemo-adapter-0.3.2.tgz",
-      "checksum": "b12c4c4441c72893740597c6280c68ef1eb8d0074d7b18b2aa69eb93d6a76d6a",
+      "version": "0.3.3",
+      "url": "https://github.com/WebThingsIO/wemo-adapter/releases/download/v0.3.3/wemo-adapter-0.3.3.tgz",
+      "checksum": "ce205589e04777cd34880f21631b767907471874a4c6e8d72311953ef6c18f79",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
