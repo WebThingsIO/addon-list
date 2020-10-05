@@ -2,9 +2,9 @@
   "id": "wake-on-lan-adapter",
   "name": "Wake-on-LAN",
   "description": "Wake-on-LAN support",
-  "author": "Mozilla IoT",
-  "homepage_url": "https://github.com/mozilla-iot/wake-on-lan-adapter#readme",
-  "license_url": "https://raw.githubusercontent.com/mozilla-iot/wake-on-lan-adapter/master/LICENSE",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/wake-on-lan-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/wake-on-lan-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/wake-on-lan-adapter-0.2.1.tgz",
-      "checksum": "a8f66f88682db837c34fe5dc8187f5ff0824d5cb176bbb391475087167e1d63f",
+      "version": "0.2.2",
+      "url": "https://github.com/WebThingsIO/wake-on-lan-adapter/releases/download/v0.2.2/wake-on-lan-adapter-0.2.2.tgz",
+      "checksum": "5c0f6ba901c5c34d3803676f0e07244547ff7e38a9d878bb9d70b5f13ba31542",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
