@@ -182,7 +182,7 @@ def verify_package_json(package_json, list_entry, package):
 
     if 'enabled' in package_json['moziot'] and \
             package_json['moziot']['enabled'] and \
-            list_entry['author'].lower() not in ['mozilla iot', 'webthingsio']:
+            list_entry['author'] != 'WebThingsIO':
         print('Add-on is enabled by default: {}'.format(_id))
         cleanup()
 
@@ -309,7 +309,7 @@ def verify_manifest_json(manifest_json, list_entry, package):
 
     if 'enabled' in webthings and \
             webthings['enabled'] and \
-            list_entry['author'].lower() not in ['mozilla iot', 'webthingsio']:
+            list_entry['author'] != 'WebThingsIO':
         print('Add-on is enabled by default: {}'.format(_id))
         cleanup()
 
