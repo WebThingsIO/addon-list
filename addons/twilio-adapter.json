@@ -2,9 +2,9 @@
   "id": "twilio-adapter",
   "name": "Twilio",
   "description": "Simple Twilio API actions. Needs to be configured with an account SID, auth token, and Twilio-given number.",
-  "author": "Mozilla IoT",
-  "homepage_url": "https://github.com/mozilla-iot/twilio-adapter",
-  "license_url": "https://raw.githubusercontent.com/mozilla-iot/twilio-adapter/master/LICENSE",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/twilio-adapter",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/twilio-adapter/master/LICENSE",
   "primary_type": "notifier",
   "packages": [
     {
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/twilio-adapter-0.2.1.tgz",
-      "checksum": "5b7a449bd77c822c59a5be42bfe67af8c4f3f940c93368d7925d28b69831c040",
+      "version": "0.2.2",
+      "url": "https://github.com/WebThingsIO/twilio-adapter/releases/download/v0.2.2/twilio-adapter-0.2.2.tgz",
+      "checksum": "b4ff98125d9ce3e18d213ad3b04aaf67968a34619da91430fd569d77aa75a2f8",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
