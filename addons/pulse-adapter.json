@@ -2,9 +2,9 @@
   "id": "pulse-adapter",
   "name": "Pulse",
   "description": "Generate a pulse. This is basically an On/Off switch which turns itself off after some configured amount of time.",
-  "author": "Mozilla IoT",
-  "homepage_url": "https://github.com/mozilla-iot/pulse-adapter",
-  "license_url": "https://raw.githubusercontent.com/mozilla-iot/pulse-adapter/master/LICENSE",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/pulse-adapter",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/pulse-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.4.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/pulse-adapter-0.4.1.tgz",
-      "checksum": "d5701b0bc5c9522e001c187c6932f45c93bbd4af95a6f0b6c0e22f15ff988813",
+      "version": "0.4.2",
+      "url": "https://github.com/WebThingsIO/pulse-adapter/releases/download/v0.4.2/pulse-adapter-0.4.2.tgz",
+      "checksum": "1cce69064f8a09bb6042fcd32fb43fb59162296d55ec18eef079bb6bb3999da5",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
