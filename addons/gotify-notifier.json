@@ -2,9 +2,9 @@
   "id": "gotify-notifier",
   "name": "Gotify",
   "description": "Send notifications through a self-hosted Gotify server. Needs to be configured with server and app token.",
-  "author": "Mozilla IoT",
-  "homepage_url": "https://github.com/mozilla-iot/gotify-notifier",
-  "license_url": "https://raw.githubusercontent.com/mozilla-iot/gotify-notifier/master/LICENSE",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/gotify-notifier",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/gotify-notifier/master/LICENSE",
   "primary_type": "notifier",
   "packages": [
     {
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/gotify-notifier-0.1.2.tgz",
-      "checksum": "789e2f4d685d1d60a7a2d6dc98ad7578ff3d94655622e362cb5de7e5ac9f2d68",
+      "version": "0.1.3",
+      "url": "https://github.com/WebThingsIO/gotify-notifier/releases/download/v0.1.3/gotify-notifier-0.1.3.tgz",
+      "checksum": "08eba78c8af0c93a014086b7917f4dc96bd225bf445467fb092b8dd315a9de2d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
