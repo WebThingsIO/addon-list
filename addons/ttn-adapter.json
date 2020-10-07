@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.1",
-      "url": "https://github.com/tim-hellhake/ttn-adapter/releases/download/0.2.1/ttn-adapter-0.2.1.tgz",
-      "checksum": "3e2aaa834c722c4ab2ad7373ef2b2bba586f7e76f4e90941fab582f04695b782",
+      "version": "0.2.2",
+      "url": "https://github.com/tim-hellhake/ttn-adapter/releases/download/0.2.2/ttn-adapter-0.2.2.tgz",
+      "checksum": "2b338fb93e9ea6daf4deb203ed26e0a9f9e841fd61a7f8f91610813fc8ec03ba",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
