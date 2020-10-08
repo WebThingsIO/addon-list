@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://github.com/WebThingsIO/thing-url-adapter/releases/download/v0.5.0/thing-url-adapter-0.5.0.tgz",
-      "checksum": "7341d5cb829f68e14c8849f6a2deec3445e9d34f9dbe8208db9b65d212b43c0c",
+      "version": "0.5.1",
+      "url": "https://github.com/WebThingsIO/thing-url-adapter/releases/download/v0.5.1/thing-url-adapter-0.5.1.tgz",
+      "checksum": "15f16d4ab6aa6bec56719ec1632b5c2c7ba5f414ca2348ea56fdcaf20ea46af0",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
