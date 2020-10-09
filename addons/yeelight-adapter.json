@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.4.2",
-      "url": "https://github.com/WebThingsIO/yeelight-adapter/releases/download/v0.4.2/yeelight-adapter-0.4.2.tgz",
-      "checksum": "d7865da2e35b1c2f885132151883207ed1dd02eb61f34b1f32b710e80f95fd54",
+      "version": "0.4.3",
+      "url": "https://github.com/WebThingsIO/yeelight-adapter/releases/download/v0.4.3/yeelight-adapter-0.4.3.tgz",
+      "checksum": "13d4efa94878e0951cae8e1d560692dfa615570718132cf04b258bb0267d4328",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
