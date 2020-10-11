@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/input-event-adapter-0.2.2.tgz",
-      "checksum": "88ac993ed9cf2d7d961cd9c480c883fbe9472ce7363017b5e356ed539a9bfe15",
+      "version": "0.2.3",
+      "url": "https://github.com/Galveston01/input-event-adapter/releases/download/v0.2.3/input-event-adapter-0.2.3.tgz",
+      "checksum": "fedbda63f8276f7c3c28c7448365d1bf145943c5064d0ea94e34b7f02bdfb113",
       "api": {
         "min": 2,
         "max": 2
