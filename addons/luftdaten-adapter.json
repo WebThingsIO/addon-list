@@ -15,13 +15,9 @@
           "any"
         ]
       },
-      "version": "1.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/luftdaten-adapter-1.1.0.tgz",
-      "checksum": "8d9d26f40dce74773e23b80ac24bfe9e1b9aabe8fc1d7821302b1d30098ff350",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "1.1.1",
+      "url": "https://github.com/tim-hellhake/luftdaten-adapter/releases/download/1.1.1/luftdaten-adapter-1.1.1.tgz",
+      "checksum": "6b17a5b91ed1edf29595d22f0dfd8ac7cedc09ce92e5f089f2b7edda139e1c7e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
