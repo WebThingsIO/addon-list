@@ -217,16 +217,16 @@ def verify_package_json(package_json, list_entry, package):
     if package_json['name'] != _id:
         print('ID mismatch for package "{}"'
               'name from package.json "{}" doesn\'t match '
-              'id from list.json'
-              .format(_id, package_json['name']))
+              'id from {}.json'
+              .format(_id, package_json['name'], _id))
         cleanup()
 
     # Verify that the version matches
     if package_json['version'] != package['version']:
         print('Version mismatch for package "{}": '
               'version from package.json "{}" doesn\'t match '
-              'version from list.json "{}"'
-              .format(_id, package_json['version'], package['version']))
+              'version from {}.json "{}"'
+              .format(_id, package_json['version'], _id, package['version']))
         cleanup()
 
     # Verify that the author matches
@@ -234,23 +234,23 @@ def verify_package_json(package_json, list_entry, package):
             package_json['author']['name'] != list_entry['author']:
         print('Author mismatch for package "{}": '
               'author from package.json "{}" doesn\'t match '
-              'author from list.json "{}"'
-              .format(_id, package_json['author']['name'],
+              'author from {}.json "{}"'
+              .format(_id, package_json['author']['name'], _id,
                       list_entry['author']))
         cleanup()
     elif package_json['author'].split('<')[0].strip() != list_entry['author']:
         print('Author mismatch for package "{}": '
               'author from package.json "{}" doesn\'t match '
-              'author from list.json "{}"'
-              .format(_id, package_json['author'], list_entry['author']))
+              'author from {}.json "{}"'
+              .format(_id, package_json['author'], _id, list_entry['author']))
         cleanup()
 
     # Verify that the display name matches
     if package_json['display_name'] != list_entry['name']:
         print('Name mismatch for package "{}": '
               'display_name from package.json "{}" doesn\'t '
-              'match name from list.json "{}"'
-              .format(_id, package_json['display_name'],
+              'match name from {}.json "{}"'
+              .format(_id, package_json['display_name'], _id,
                       list_entry['name']))
         cleanup()
 
@@ -258,8 +258,8 @@ def verify_package_json(package_json, list_entry, package):
     if package_json['homepage'] != list_entry['homepage_url']:
         print('Homepage mismatch for package "{}": '
               'homepage from package.json "{}" doesn\'t match '
-              'homepage_url from list.json "{}"'
-              .format(_id, package_json['homepage'],
+              'homepage_url from {}.json "{}"'
+              .format(_id, package_json['homepage'], _id,
                       list_entry['homepage_url']))
         cleanup()
 
@@ -271,24 +271,24 @@ def verify_package_json(package_json, list_entry, package):
     if t != list_entry['primary_type']:
         print('type mismatch for package "{}": '
               'type from package.json "{}" doesn\'t match primary_type '
-              'from list.json "{}"'
-              .format(_id, t, list_entry['primary_type']))
+              'from {}.json "{}"'
+              .format(_id, t, _id, list_entry['primary_type']))
         cleanup()
 
     # Verify that the API version matches
     if package_json['moziot']['api']['min'] != package['api']['min']:
         print('api.min Version mismatch for package "{}": '
               'api.min version from package.json "{}" doesn\'t '
-              'match api.min version from list.json "{}"'
-              .format(_id, package_json['moziot']['api']['min'],
+              'match api.min version from {}.json "{}"'
+              .format(_id, package_json['moziot']['api']['min'], _id,
                       package['api']['min']))
         cleanup()
 
     if package_json['moziot']['api']['max'] != package['api']['max']:
         print('api.max version mismatch for package "{}": '
               'api.max version from package.json "{}" doesn\'t '
-              'match api.max version from list.json "{}"'
-              .format(_id, package_json['moziot']['api']['max'],
+              'match api.max version from {}.json "{}"'
+              .format(_id, package_json['moziot']['api']['max'], _id,
                       package['api']['max']))
         cleanup()
 
@@ -362,40 +362,40 @@ def verify_manifest_json(manifest_json, list_entry, package):
     if manifest_json['id'] != _id:
         print('ID mismatch for package "{}"'
               'ID from manifest.json "{}" doesn\'t match '
-              'ID from list.json'
-              .format(_id, manifest_json['id']))
+              'ID from {}.json'
+              .format(_id, manifest_json['id'], _id))
         cleanup()
 
     # Verify that the version matches
     if manifest_json['version'] != package['version']:
         print('Version mismatch for package "{}": '
               'version from manifest.json "{}" doesn\'t match '
-              'version from list.json "{}"'
-              .format(_id, manifest_json['version'], package['version']))
+              'version from {}.json "{}"'
+              .format(_id, manifest_json['version'], _id, package['version']))
         cleanup()
 
     # Verify that the author matches
     if manifest_json['author'].split('<')[0].strip() != list_entry['author']:
         print('Author mismatch for package "{}": '
               'author from manifest.json "{}" doesn\'t match '
-              'author from list.json "{}"'
-              .format(_id, manifest_json['author'], list_entry['author']))
+              'author from {}.json "{}"'
+              .format(_id, manifest_json['author'], _id, list_entry['author']))
         cleanup()
 
     # Verify that the name matches
     if manifest_json['name'] != list_entry['name']:
         print('Name mismatch for package "{}": '
               'name from manifest.json "{}" doesn\'t '
-              'match name from list.json "{}"'
-              .format(_id, manifest_json['name'], list_entry['name']))
+              'match name from {}.json "{}"'
+              .format(_id, manifest_json['name'], _id, list_entry['name']))
         cleanup()
 
     # Verify that the homepage matches
     if manifest_json['homepage_url'] != list_entry['homepage_url']:
         print('Homepage mismatch for package "{}": '
               'homepage_url from manifest.json "{}" doesn\'t match '
-              'homepage_url from list.json "{}"'
-              .format(_id, manifest_json['homepage_url'],
+              'homepage_url from {}.json "{}"'
+              .format(_id, manifest_json['homepage_url'], _id,
                       list_entry['homepage_url']))
         cleanup()
 
@@ -404,8 +404,8 @@ def verify_manifest_json(manifest_json, list_entry, package):
     if t != list_entry['primary_type']:
         print('type mismatch for package "{}": '
               'primary_type from manifest.json "{}" doesn\'t match '
-              'primary_type from list.json "{}"'
-              .format(_id, t, list_entry['primary_type']))
+              'primary_type from {}.json "{}"'
+              .format(_id, t, _id, list_entry['primary_type']))
         cleanup()
 
     # Verify that exec is present if primary_type is not extension
@@ -421,8 +421,8 @@ def verify_manifest_json(manifest_json, list_entry, package):
     if package['gateway']['min'] != gw_min:
         print('Minimum gateway version mismatch for package "{}": '
               'strict_min_version from manifest.json "{}" doesn\'t match '
-              'min from list.json "{}"'
-              .format(_id, gw_min, package['gateway']['min']))
+              'min from {}.json "{}"'
+              .format(_id, gw_min, _id, package['gateway']['min']))
         cleanup()
 
     # Verify max gateway version matches
@@ -433,8 +433,8 @@ def verify_manifest_json(manifest_json, list_entry, package):
     if package['gateway']['max'] != gw_max:
         print('Maximum gateway version mismatch for package "{}": '
               'strict_max_version from manifest.json "{}" doesn\'t match '
-              'max from list.json "{}"'
-              .format(_id, gw_max, package['gateway']['max']))
+              'max from {}.json "{}"'
+              .format(_id, gw_max, _id, package['gateway']['max']))
         cleanup()
 
     # Validate the config schema, if present
