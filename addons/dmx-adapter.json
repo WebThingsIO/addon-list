@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.1.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/dmx-adapter-0.1.2-linux-arm.tgz",
+      "url": "https://github.com/tim-hellhake/dmx-adapter/releases/download/0.1.2/dmx-adapter-0.1.2-linux-arm.tgz",
       "checksum": "11186215d9fa78fde76594eae83d07b659d2a5a86e289b2b8b4af45fb9032ddd",
       "gateway": {
         "min": "0.10.0",
@@ -32,7 +32,7 @@
         ]
       },
       "version": "0.1.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/dmx-adapter-0.1.2-linux-arm64.tgz",
+      "url": "https://github.com/tim-hellhake/dmx-adapter/releases/download/0.1.2/dmx-adapter-0.1.2-linux-arm64.tgz",
       "checksum": "7b1eb227ebd57b5f20742c1de4155c4f0da76120e40bd952be4beb8e267f8483",
       "gateway": {
         "min": "0.10.0",
@@ -48,7 +48,7 @@
         ]
       },
       "version": "0.1.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/dmx-adapter-0.1.2-linux-x64.tgz",
+      "url": "https://github.com/tim-hellhake/dmx-adapter/releases/download/0.1.2/dmx-adapter-0.1.2-linux-x64.tgz",
       "checksum": "f3aa8ee880ca93aa6c90e582a86dadd07c97e39d9eb38437c2d91f4792cf7a35",
       "gateway": {
         "min": "0.10.0",
@@ -64,7 +64,7 @@
         ]
       },
       "version": "0.1.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/dmx-adapter-0.1.2-darwin-x64.tgz",
+      "url": "https://github.com/tim-hellhake/dmx-adapter/releases/download/0.1.2/dmx-adapter-0.1.2-darwin-x64.tgz",
       "checksum": "a98397ae896e2b8ee2b77cf47b81df24279e44da5e6930e9171896d52c37c525",
       "gateway": {
         "min": "0.10.0",

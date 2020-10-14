@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.1.4",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/rf433-adapter-0.1.4.tgz",
+      "url": "https://github.com/tim-hellhake/rf433-adapter/releases/download/0.1.4/rf433-adapter-0.1.4.tgz",
       "checksum": "bca62a7ecbed0f65d0f73292864168e534b51603addc70a68161af0bd47d5caf",
       "api": {
         "min": 2,

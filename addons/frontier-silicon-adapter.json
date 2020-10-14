@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.8.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/frontier-silicon-adapter-0.8.2.tgz",
+      "url": "https://github.com/Galveston01/frontier-silicon-adapter/releases/download/v0.8.2/frontier-silicon-adapter-0.8.2.tgz",
       "checksum": "b6eaae3474c070472aa25dd4ac988a29fee6e4913f0c580fe25f661b4b251e6c",
       "api": {
         "min": 2,
