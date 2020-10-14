@@ -20,7 +20,7 @@
         ]
       },
       "version": "0.0.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/display-toggle-0.0.1.tgz",
+      "url": "https://github.com/flatsiedatsie/display-toggle/releases/download/0.0.1/display-toggle-0.0.1.tgz",
       "checksum": "6057f45229821be5a654902db6525c0e4fdffcd903cad0333e6fb4bff6aafbf2",
       "gateway": {
         "min": "0.10.0",

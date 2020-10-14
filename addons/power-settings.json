@@ -20,7 +20,7 @@
         ]
       },
       "version": "0.0.4",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/power-settings-0.0.4.tgz",
+      "url": "https://github.com/flatsiedatsie/power-settings/releases/download/0.0.4/power-settings-0.0.4.tgz",
       "checksum": "d246f7d70acbd25fad302a0c73b1fb16549a78819313b979fe989f8431b79dff",
       "gateway": {
         "min": "0.10.0",
