@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/foobot-adapter-0.0.2.tgz",
+      "url": "https://github.com/bvmensvoort/mozillaiot-foobot/releases/download/v0.0.2/foobot-adapter-0.0.2.tgz",
       "checksum": "a36256981e43209ca4f8c3ed5a03d17d9a80ec699620b7415e68b433f2eb5359",
       "api": {
         "min": 2,

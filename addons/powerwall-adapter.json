@@ -20,7 +20,7 @@
         ]
       },
       "version": "0.1.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/powerwall-adapter-0.1.3.tgz",
+      "url": "https://github.com/Astiolo/powerwall-adapter/releases/download/v0.1.3/powerwall-adapter-0.1.3.tgz",
       "checksum": "96ef4bd59d81395d08fbd5e135b6b130eeac736bae8b759a3eef90ef289d7348",
       "gateway": {
         "min": "0.10.0",
