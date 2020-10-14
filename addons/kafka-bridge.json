@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.1-linux-arm-v8.tgz",
+      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.1.1/kafka-bridge-0.1.1-linux-arm-v8.tgz",
       "checksum": "aef5cfe89b63d6d423172e754a6c1407fbac98ef80c737c936e5253ea36586ca",
       "gateway": {
         "min": "0.10.0",
@@ -32,7 +32,7 @@
         ]
       },
       "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.1-linux-arm64-v8.tgz",
+      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.1.1/kafka-bridge-0.1.1-linux-arm64-v8.tgz",
       "checksum": "982816482f179007b927e0b45966e56e0890c44b6b8864939d3845eee4e45dfa",
       "gateway": {
         "min": "0.10.0",
@@ -48,7 +48,7 @@
         ]
       },
       "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.1-linux-x64-v8.tgz",
+      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.1.1/kafka-bridge-0.1.1-linux-x64-v8.tgz",
       "checksum": "f68bbd13d84b32f494d92ad02fb2dba705ad6c45435783ab2c1cf756d160f9b2",
       "gateway": {
         "min": "0.10.0",
@@ -64,7 +64,7 @@
         ]
       },
       "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.1-darwin-x64-v8.tgz",
+      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.1.1/kafka-bridge-0.1.1-darwin-x64-v8.tgz",
       "checksum": "b4d81737b25394d9f42ae247237774a78cdf9368b9d997dc35c612f8959cf62d",
       "gateway": {
         "min": "0.10.0",
@@ -80,7 +80,7 @@
         ]
       },
       "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.1-linux-arm-v10.tgz",
+      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.1.1/kafka-bridge-0.1.1-linux-arm-v10.tgz",
       "checksum": "f56e5e6c2614b7c3ba90f29fd94ed610dc818f6afa8a5707580090b978d3b6bd",
       "gateway": {
         "min": "0.10.0",
@@ -96,7 +96,7 @@
         ]
       },
       "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.1-linux-arm64-v10.tgz",
+      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.1.1/kafka-bridge-0.1.1-linux-arm64-v10.tgz",
       "checksum": "8ca78aac0b41454228753c6a9f2c03ce4b41f94b1baa4df0576065c1f65da5d8",
       "gateway": {
         "min": "0.10.0",
@@ -112,7 +112,7 @@
         ]
       },
       "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.1-linux-x64-v10.tgz",
+      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.1.1/kafka-bridge-0.1.1-linux-x64-v10.tgz",
       "checksum": "9f315c86b11eca143a3b45b91c636c4006f7483deadd0a3f0b76fceb69e5a92a",
       "gateway": {
         "min": "0.10.0",
@@ -128,7 +128,7 @@
         ]
       },
       "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.1-darwin-x64-v10.tgz",
+      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.1.1/kafka-bridge-0.1.1-darwin-x64-v10.tgz",
       "checksum": "d7018a5855b159edbaf73f7941ce9bd720111dec9b10bdc2385337874548e4c2",
       "gateway": {
         "min": "0.10.0",
@@ -144,7 +144,7 @@
         ]
       },
       "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.1-linux-arm-v12.tgz",
+      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.1.1/kafka-bridge-0.1.1-linux-arm-v12.tgz",
       "checksum": "6644985a386dc3fc033d62cb1310e51d21bd8af5cfbcf0a91951e7e82f7452d0",
       "gateway": {
         "min": "0.10.0",
@@ -160,7 +160,7 @@
         ]
       },
       "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.1-linux-arm64-v12.tgz",
+      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.1.1/kafka-bridge-0.1.1-linux-arm64-v12.tgz",
       "checksum": "9cdfee50158c3a85083f966d88cde1cefbc2f42b930ada8fe9813c3af39b88d5",
       "gateway": {
         "min": "0.10.0",
@@ -176,7 +176,7 @@
         ]
       },
       "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.1-linux-x64-v12.tgz",
+      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.1.1/kafka-bridge-0.1.1-linux-x64-v12.tgz",
       "checksum": "c1b4a4901ee0a6a0e2a28fa034ca0e29a75207daaff2f4140123f8c85f8caf38",
       "gateway": {
         "min": "0.10.0",
@@ -192,7 +192,7 @@
         ]
       },
       "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.1-darwin-x64-v12.tgz",
+      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.1.1/kafka-bridge-0.1.1-darwin-x64-v12.tgz",
       "checksum": "11daf996267ece729b37422d5bc428638c90220527ae8482b7fa85763cfea39e",
       "gateway": {
         "min": "0.10.0",
@@ -208,7 +208,7 @@
         ]
       },
       "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.1-linux-arm-v14.tgz",
+      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.1.1/kafka-bridge-0.1.1-linux-arm-v14.tgz",
       "checksum": "db5faac9d5b44904b5ac1a9a6f79284f6afece853924c3a576925ca028e7323d",
       "gateway": {
         "min": "0.10.0",
@@ -224,7 +224,7 @@
         ]
       },
       "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.1-linux-arm64-v14.tgz",
+      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.1.1/kafka-bridge-0.1.1-linux-arm64-v14.tgz",
       "checksum": "3baf7a7fdba425caff6780d74b9502e9d81675f31070d0891be93c115394a4fe",
       "gateway": {
         "min": "0.10.0",
@@ -240,7 +240,7 @@
         ]
       },
       "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.1-linux-x64-v14.tgz",
+      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.1.1/kafka-bridge-0.1.1-linux-x64-v14.tgz",
       "checksum": "b9d4676c450f196d46d64a68099ed63274cfcc48edf7c4108ad95aee43958926",
       "gateway": {
         "min": "0.10.0",
@@ -256,7 +256,7 @@
         ]
       },
       "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/kafka-bridge-0.1.1-darwin-x64-v14.tgz",
+      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.1.1/kafka-bridge-0.1.1-darwin-x64-v14.tgz",
       "checksum": "824570ed59aaa8e7ce1736bf3329d069c93676fae00c3e5004e66c60647a0367",
       "gateway": {
         "min": "0.10.0",
