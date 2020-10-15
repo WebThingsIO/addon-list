@@ -16,8 +16,8 @@
         ]
       },
       "version": "0.0.5",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/miLight-adapter-0.0.5.tgz",
-      "checksum": "2f249291c465714cb40ee10fbe05a27c2fe3a76e2dc9fe81633a0e90eec5c22b",
+      "url": "https://github.com/atirage/miLight-adapter/releases/download/v0.0.5/miLight-adapter-0.0.5.tgz",
+      "checksum": "8ffc18df00baa1803271464aa46113352b770764f7334ead184790b19541f6fd",
       "api": {
         "min": 2,
         "max": 2
