@@ -15,9 +15,25 @@
           "3.5"
         ]
       },
-      "version": "0.0.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sense-hat-adapter-0.0.7-linux-arm-v3.5.tgz",
-      "checksum": "d414df893d0c9ac0b9f65cdb5fe69dc50f6182ebf3b6aa0449956e03ba00cc4c",
+      "version": "0.0.9",
+      "url": "https://github.com/rzr/sense-hat-webthing/releases/download/v0.0.9/sense-hat-adapter-0.0.9-linux-arm-v3.5.tgz",
+      "checksum": "cfa3477a61adebebfcfff3eec5d7f305cd1cb433f007d0a9a0b7266031eefa6b",
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "0.0.9",
+      "url": "https://github.com/rzr/sense-hat-webthing/releases/download/v0.0.9/sense-hat-adapter-0.0.9-linux-arm64-v3.5.tgz",
+      "checksum": "61ac2bcb6e2fb087784ab9cdf3c3515488c014e7c9531142e0cdd101d222cadb",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
@@ -31,9 +47,25 @@
           "3.6"
         ]
       },
-      "version": "0.0.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sense-hat-adapter-0.0.7-linux-arm-v3.6.tgz",
-      "checksum": "aca5cf3a49b646beabe43601561792853cba85f311a2a8bcaeda8d8f56ca7735",
+      "version": "0.0.9",
+      "url": "https://github.com/rzr/sense-hat-webthing/releases/download/v0.0.9/sense-hat-adapter-0.0.9-linux-arm-v3.6.tgz",
+      "checksum": "cceaba1030afc22dcf7ee50bb935e110ac934d40e7f4e7f5dec4de0dc495beb2",
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "0.0.9",
+      "url": "https://github.com/rzr/sense-hat-webthing/releases/download/v0.0.9/sense-hat-adapter-0.0.9-linux-arm64-v3.6.tgz",
+      "checksum": "841ad90c8eb24cd2cdf02e616f34c15bcb66245b971429380b0ff9019f6a00ee",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
@@ -47,9 +79,25 @@
           "3.7"
         ]
       },
-      "version": "0.0.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sense-hat-adapter-0.0.7-linux-arm-v3.7.tgz",
-      "checksum": "437cbd6e29223271f249b9b3957a077f85b725f65a77a92fb0eefb50b13951e0",
+      "version": "0.0.9",
+      "url": "https://github.com/rzr/sense-hat-webthing/releases/download/v0.0.9/sense-hat-adapter-0.0.9-linux-arm-v3.7.tgz",
+      "checksum": "7b1a1c036563e2b5e82a53d96ec263c96cb66bd4d75634e66f89c86a4d10fdaf",
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.0.9",
+      "url": "https://github.com/rzr/sense-hat-webthing/releases/download/v0.0.9/sense-hat-adapter-0.0.9-linux-arm64-v3.7.tgz",
+      "checksum": "6cc49586b25d792971bcda5a1be4f658953237a6ecebeb0c1917dd4d9bd4799f",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
@@ -63,13 +111,57 @@
           "3.8"
         ]
       },
-      "version": "0.0.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sense-hat-adapter-0.0.7-linux-arm-v3.8.tgz",
-      "checksum": "c21ccd2c39e7cbb401586adfedca552775f1d8aa18ef8dc96f24273ceb9fac0b",
-      "api": {
-        "min": 2,
-        "max": 2
+      "version": "0.0.9",
+      "url": "https://github.com/rzr/sense-hat-webthing/releases/download/v0.0.9/sense-hat-adapter-0.0.9-linux-arm-v3.8.tgz",
+      "checksum": "eb258608b404af517670b7073eba8afbd46ac3800fb7a2a3cf4e0c91bb8d83d5",
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
       },
+      "version": "0.0.9",
+      "url": "https://github.com/rzr/sense-hat-webthing/releases/download/v0.0.9/sense-hat-adapter-0.0.9-linux-arm64-v3.8.tgz",
+      "checksum": "ed1dbf38e864f9e1eec8fabd71c845f353f70c7efc4830d2c5af2aa91ac0fe94",
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.0.9",
+      "url": "https://github.com/rzr/sense-hat-webthing/releases/download/v0.0.9/sense-hat-adapter-0.0.9-linux-arm-v3.9.tgz",
+      "checksum": "e6196cf44c0258fd1d607cfd86683dc9708a8ff77298c755a36e4d2e7a2ddacd",
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.0.9",
+      "url": "https://github.com/rzr/sense-hat-webthing/releases/download/v0.0.9/sense-hat-adapter-0.0.9-linux-arm64-v3.9.tgz",
+      "checksum": "261b7c45fadbb63cd7477cbf1dfb66959c2962519820b07fc2bf7d46a0da3cd3",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
