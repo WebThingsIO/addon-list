@@ -3,8 +3,8 @@
   "name": "Generic Sensors",
   "description": "Generic Sensors devices support",
   "author": "Philippe Coval",
-  "homepage_url": "https://github.com/rzr/mozilla-iot-generic-sensors-adapter",
-  "license_url": "https://raw.githubusercontent.com/rzr/mozilla-iot-generic-sensors-adapter/master/LICENSE",
+  "homepage_url": "https://github.com/rzr/generic-sensors-webthings",
+  "license_url": "https://raw.githubusercontent.com/rzr/generic-sensors-webthings/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -12,76 +12,12 @@
       "language": {
         "name": "nodejs",
         "versions": [
-          "57"
-        ]
-      },
-      "version": "0.0.13",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.13-linux-arm-v8.tgz",
-      "checksum": "c18ba58ae2b085ad037547fbc9a91333afbce9bca97077ac1a37a597765ea932",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.0.13",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.13-linux-arm64-v8.tgz",
-      "checksum": "b2e273a65f13c91aee441f1e3efa4c5c2e84ba3458778564c188ac539697072e",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-x64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.0.13",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.13-linux-x64-v8.tgz",
-      "checksum": "5c79af71e72f07216b94ea52334c6ad8d20b0e28492bbf12e8069f2489b682dd",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm",
-      "language": {
-        "name": "nodejs",
-        "versions": [
           "64"
         ]
       },
-      "version": "0.0.13",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.13-linux-arm-v10.tgz",
-      "checksum": "4e36bed36af52b4beb823d936b9dffe6c4e0533884f9152ecdbeda356b061216",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.0.15",
+      "url": "https://github.com/rzr/generic-sensors-webthings/releases/download/v0.0.15/generic-sensors-adapter-0.0.15-linux-arm-v10.tgz",
+      "checksum": "c76f866a397b9b07dcd6d901033ce9e44bc43ec18aa604d2bface0e350dd7f50",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,13 +31,9 @@
           "64"
         ]
       },
-      "version": "0.0.13",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.13-linux-arm64-v10.tgz",
-      "checksum": "3e920bbaf645f3f6bc9bbd9e1e0ec902c3819eff3bde39158c05f75ccaec941e",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.0.15",
+      "url": "https://github.com/rzr/generic-sensors-webthings/releases/download/v0.0.15/generic-sensors-adapter-0.0.15-linux-arm64-v10.tgz",
+      "checksum": "a393a6ca4d1b335e0057c91037967e6f6d71dc65f29bb2abdb29015e5e3be3a7",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -115,13 +47,9 @@
           "64"
         ]
       },
-      "version": "0.0.13",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.13-linux-x64-v10.tgz",
-      "checksum": "c1abffa73b21a98167d8ae4b9648838c447a413977ff790e21afc8bd90dc59a8",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.0.15",
+      "url": "https://github.com/rzr/generic-sensors-webthings/releases/download/v0.0.15/generic-sensors-adapter-0.0.15-linux-x64-v10.tgz",
+      "checksum": "0bfd0e700a9a928e7b85666387667369fabbd36bd5d3727f40b1df759b828b50",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -135,13 +63,9 @@
           "72"
         ]
       },
-      "version": "0.0.13",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.13-linux-arm-v12.tgz",
-      "checksum": "96ee57d3f243a2c416479b38849b5806c64b92a16ec68e3877bb10fc0c8ead7a",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.0.15",
+      "url": "https://github.com/rzr/generic-sensors-webthings/releases/download/v0.0.15/generic-sensors-adapter-0.0.15-linux-arm-v12.tgz",
+      "checksum": "28e677f8892ff88a68b7e4a061722e6b98b9ff6dd7bb0e872d62f9d009fc4779",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -155,13 +79,9 @@
           "72"
         ]
       },
-      "version": "0.0.13",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.13-linux-arm64-v12.tgz",
-      "checksum": "fde702b210aad16834c01eb91db9eec4a6ea78803df5ad181fb46b9798f832ec",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.0.15",
+      "url": "https://github.com/rzr/generic-sensors-webthings/releases/download/v0.0.15/generic-sensors-adapter-0.0.15-linux-arm64-v12.tgz",
+      "checksum": "50b1edc736a6e5a21fbc0d2b93265467ad397aa9aa872c6aa10027a3ec3e0bf7",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,13 +95,57 @@
           "72"
         ]
       },
-      "version": "0.0.13",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/generic-sensors-adapter-0.0.13-linux-x64-v12.tgz",
-      "checksum": "7e8384cb8d6a162a2a2bbc08bdda3454c4574abff7c2559466c536f5c20e905f",
-      "api": {
-        "min": 2,
-        "max": 2
+      "version": "0.0.15",
+      "url": "https://github.com/rzr/generic-sensors-webthings/releases/download/v0.0.15/generic-sensors-adapter-0.0.15-linux-x64-v12.tgz",
+      "checksum": "a5778ffbf7787c98344310c8009236c2ad1093568f3247849cb51c874a606a0c",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
       },
+      "version": "0.0.15",
+      "url": "https://github.com/rzr/generic-sensors-webthings/releases/download/v0.0.15/generic-sensors-adapter-0.0.15-linux-arm-v14.tgz",
+      "checksum": "60e287120b31c2d151f34cc0a88651af05e54f92427c1578606fd5d7c3907f56",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.0.15",
+      "url": "https://github.com/rzr/generic-sensors-webthings/releases/download/v0.0.15/generic-sensors-adapter-0.0.15-linux-arm64-v14.tgz",
+      "checksum": "60e287120b31c2d151f34cc0a88651af05e54f92427c1578606fd5d7c3907f56",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.0.15",
+      "url": "https://github.com/rzr/generic-sensors-webthings/releases/download/v0.0.15/generic-sensors-adapter-0.0.15-linux-x64-v14.tgz",
+      "checksum": "60e287120b31c2d151f34cc0a88651af05e54f92427c1578606fd5d7c3907f56",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
