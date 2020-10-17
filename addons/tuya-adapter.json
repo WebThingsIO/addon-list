@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.2",
-      "url": "https://github.com/Galveston01/tuya-adapter/releases/download/v0.2.2/tuya-adapter-0.2.2.tgz",
-      "checksum": "b5fbae9727aebc00ef80f2568f5683e23060901846b1ec09f95692d2f6147539",
+      "version": "0.2.3",
+      "url": "https://github.com/Galveston01/tuya-adapter/releases/download/v0.2.2/tuya-adapter-0.2.3.tgz",
+      "checksum": "69a68b27d33ca8119d5c106456564a7f308db4057496a314bf1f7f3a43c68f09",
       "api": {
         "min": 2,
         "max": 2
