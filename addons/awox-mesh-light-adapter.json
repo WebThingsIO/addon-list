@@ -15,9 +15,9 @@
           "3.5"
         ]
       },
-      "version": "0.0.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-arm-v3.5.tgz",
-      "checksum": "4e5b65abba86d18f252babe86023f2114b96f45892d827d47495ec0246a7da4b",
+      "version": "0.0.8",
+      "url": "https://github.com/rzr/awox-mesh-light-webthing/releases/download/v0.0.8/awox-mesh-light-adapter-0.0.8-linux-arm-v3.5.tgz",
+      "checksum": "2c5d170364236035dd36f33e1f9dbc26dc7a323d5f70076f66125910530726a3",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "3.6"
         ]
       },
-      "version": "0.0.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-arm-v3.6.tgz",
-      "checksum": "d1f044cbb28468160b12ebbbce0115094d1b1f68659f55981a37d0426d02dcbf",
+      "version": "0.0.8",
+      "url": "https://github.com/rzr/awox-mesh-light-webthing/releases/download/v0.0.8/awox-mesh-light-adapter-0.0.8-linux-arm-v3.6.tgz",
+      "checksum": "e0b04b25db483f907f6e44f949c39a39be3d486eda37b7d098dca1bf14cc13de",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
@@ -47,9 +47,9 @@
           "3.7"
         ]
       },
-      "version": "0.0.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-arm-v3.7.tgz",
-      "checksum": "ff1b9b466ec18be4e7fddda0b821ec92941ce3810e4c354dc2fed3c33d87c3d1",
+      "version": "0.0.8",
+      "url": "https://github.com/rzr/awox-mesh-light-webthing/releases/download/v0.0.8/awox-mesh-light-adapter-0.0.8-linux-arm-v3.7.tgz",
+      "checksum": "7773bb5c874bac95fec488f365d85b0ffa840190ceeca6b880817a0caaa5d9a8",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
@@ -63,9 +63,25 @@
           "3.8"
         ]
       },
-      "version": "0.0.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-arm-v3.8.tgz",
-      "checksum": "1faa2f1bf22726da0b425dbd577b83338daa82160b8ea517c1f1157c561f83f7",
+      "version": "0.0.8",
+      "url": "https://github.com/rzr/awox-mesh-light-webthing/releases/download/v0.0.8/awox-mesh-light-adapter-0.0.8-linux-arm-v3.8.tgz",
+      "checksum": "4bf18286e3aea4e492a3cb364ba446376e0beb47c90f1a2432cec42808016be9",
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.0.8",
+      "url": "https://github.com/rzr/awox-mesh-light-webthing/releases/download/v0.0.8/awox-mesh-light-adapter-0.0.8-linux-arm-v3.9.tgz",
+      "checksum": "e0997f67289a4e4c77ac41e6869c3eeb31a8c6969635902ad7944397106e59de",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
@@ -79,9 +95,9 @@
           "3.5"
         ]
       },
-      "version": "0.0.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-arm64-v3.5.tgz",
-      "checksum": "3349aa0ac74f528141148a3d2617f888c7949f1b23d66be0e2bf83275bae6b56",
+      "version": "0.0.8",
+      "url": "https://github.com/rzr/awox-mesh-light-webthing/releases/download/v0.0.8/awox-mesh-light-adapter-0.0.8-linux-arm64-v3.5.tgz",
+      "checksum": "2bcb764e7a59a3e3246e7a846f1bddd758906346836b7e69ee53fadef14e408c",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
@@ -95,9 +111,9 @@
           "3.6"
         ]
       },
-      "version": "0.0.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-arm64-v3.6.tgz",
-      "checksum": "5057e1dd95b7ecfb99466ee4ea2d2defcd1fcbc544a714edaecd382d380d54b0",
+      "version": "0.0.8",
+      "url": "https://github.com/rzr/awox-mesh-light-webthing/releases/download/v0.0.8/awox-mesh-light-adapter-0.0.8-linux-arm64-v3.6.tgz",
+      "checksum": "b2aca37aa5cb90abf015e7f79855e39b4174e6829a5b04df8404d7facfb72f1e",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
@@ -111,9 +127,9 @@
           "3.7"
         ]
       },
-      "version": "0.0.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-arm64-v3.7.tgz",
-      "checksum": "d8a35396c2a6a1b29e8b7ddfaa710289bb5c7465e9b27704a03c05f1ba585a77",
+      "version": "0.0.8",
+      "url": "https://github.com/rzr/awox-mesh-light-webthing/releases/download/v0.0.8/awox-mesh-light-adapter-0.0.8-linux-arm64-v3.7.tgz",
+      "checksum": "e60f03e848d0bf9f25e9a288d66760a5f35bac7c8845c309895d9b5390e623b8",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
@@ -127,9 +143,25 @@
           "3.8"
         ]
       },
-      "version": "0.0.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-arm64-v3.8.tgz",
-      "checksum": "84deac2ae1f88a08ae392eeacb94ccb4e182fcff722c01557ecde86b378457cb",
+      "version": "0.0.8",
+      "url": "https://github.com/rzr/awox-mesh-light-webthing/releases/download/v0.0.8/awox-mesh-light-adapter-0.0.8-linux-arm64-v3.8.tgz",
+      "checksum": "a58237b21ecb772643cc3b18996c6759598b8ad15cbc79fcbd1f8405924eafc9",
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.0.8",
+      "url": "https://github.com/rzr/awox-mesh-light-webthing/releases/download/v0.0.8/awox-mesh-light-adapter-0.0.8-linux-arm64-v3.9.tgz",
+      "checksum": "8758137d1721f916978e258ad9973dcdd4f89745088ed49ad1f0ebd7332ba29e",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
@@ -143,9 +175,9 @@
           "3.5"
         ]
       },
-      "version": "0.0.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-x64-v3.5.tgz",
-      "checksum": "9d03e1a5bc162e4eb0bf6d974d3fd34f097459d7e015518514c3762a6a2c6ab0",
+      "version": "0.0.8",
+      "url": "https://github.com/rzr/awox-mesh-light-webthing/releases/download/v0.0.8/awox-mesh-light-adapter-0.0.8-linux-x64-v3.5.tgz",
+      "checksum": "5b74c0699114afbd20779e0b27f572cf74a764a75a1837f614f3e621c3a2ce4c",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
@@ -159,9 +191,9 @@
           "3.6"
         ]
       },
-      "version": "0.0.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-x64-v3.6.tgz",
-      "checksum": "3fd54e4fc2fafe485482048e59353d69549f8c8c5a202cee248b42ce16eedbcc",
+      "version": "0.0.8",
+      "url": "https://github.com/rzr/awox-mesh-light-webthing/releases/download/v0.0.8/awox-mesh-light-adapter-0.0.8-linux-x64-v3.6.tgz",
+      "checksum": "b028f20033f19755b6b20e77151ce0cd38c5edefa054bf3b5b255b26059427d9",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
@@ -175,9 +207,9 @@
           "3.7"
         ]
       },
-      "version": "0.0.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-x64-v3.7.tgz",
-      "checksum": "62382ace2efdcf0947b05ed74c2df6203ba2706f92ee135e2b29f315d608c4f9",
+      "version": "0.0.8",
+      "url": "https://github.com/rzr/awox-mesh-light-webthing/releases/download/v0.0.8/awox-mesh-light-adapter-0.0.8-linux-x64-v3.7.tgz",
+      "checksum": "a50694106a145959c758c9f74c2343c799ac72c8de4d0f22eceff89f9126ec08",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
@@ -191,9 +223,25 @@
           "3.8"
         ]
       },
-      "version": "0.0.6",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/awox-mesh-light-adapter-0.0.6-linux-x64-v3.8.tgz",
-      "checksum": "708a458f35d7a0d15564afb09d43b592f77cc02769cb2c9425e16a59a77edbaf",
+      "version": "0.0.8",
+      "url": "https://github.com/rzr/awox-mesh-light-webthing/releases/download/v0.0.8/awox-mesh-light-adapter-0.0.8-linux-x64-v3.8.tgz",
+      "checksum": "c1bffae477f71af7b9e1c466637a81119d456c78fdc213388312449a68e589f6",
+      "gateway": {
+        "min": "0.12.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.0.8",
+      "url": "https://github.com/rzr/awox-mesh-light-webthing/releases/download/v0.0.8/awox-mesh-light-adapter-0.0.8-linux-x64-v3.9.tgz",
+      "checksum": "e99daab49adb4d0de886a24c2c8f87029dc6d9c3b6234476d0fb233b2c4c4a9c",
       "gateway": {
         "min": "0.12.0",
         "max": "*"
