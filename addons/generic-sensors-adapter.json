@@ -15,9 +15,9 @@
           "64"
         ]
       },
-      "version": "0.0.15",
-      "url": "https://github.com/rzr/generic-sensors-webthings/releases/download/v0.0.15/generic-sensors-adapter-0.0.15-linux-arm-v10.tgz",
-      "checksum": "c76f866a397b9b07dcd6d901033ce9e44bc43ec18aa604d2bface0e350dd7f50",
+      "version": "0.0.17",
+      "url": "https://github.com/rzr/generic-sensors-webthings/releases/download/v0.0.17/generic-sensors-adapter-0.0.17-linux-arm-v10.tgz",
+      "checksum": "8161b98b024c169d838aaf5344d9f7b608f5da5e60609133c04aaf8f8023c07f",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "64"
         ]
       },
-      "version": "0.0.15",
-      "url": "https://github.com/rzr/generic-sensors-webthings/releases/download/v0.0.15/generic-sensors-adapter-0.0.15-linux-arm64-v10.tgz",
-      "checksum": "a393a6ca4d1b335e0057c91037967e6f6d71dc65f29bb2abdb29015e5e3be3a7",
+      "version": "0.0.17",
+      "url": "https://github.com/rzr/generic-sensors-webthings/releases/download/v0.0.17/generic-sensors-adapter-0.0.17-linux-arm64-v10.tgz",
+      "checksum": "3c884e64bbb551c44d5c29daccf63f7e823179e57508810f37959d802b0d3057",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -47,9 +47,9 @@
           "64"
         ]
       },
-      "version": "0.0.15",
-      "url": "https://github.com/rzr/generic-sensors-webthings/releases/download/v0.0.15/generic-sensors-adapter-0.0.15-linux-x64-v10.tgz",
-      "checksum": "0bfd0e700a9a928e7b85666387667369fabbd36bd5d3727f40b1df759b828b50",
+      "version": "0.0.17",
+      "url": "https://github.com/rzr/generic-sensors-webthings/releases/download/v0.0.17/generic-sensors-adapter-0.0.17-linux-x64-v10.tgz",
+      "checksum": "33a8692aadf7a9dcb4ad900a360e0ac221882397d74662b84c49848bdc0fc8d9",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -63,9 +63,9 @@
           "72"
         ]
       },
-      "version": "0.0.15",
-      "url": "https://github.com/rzr/generic-sensors-webthings/releases/download/v0.0.15/generic-sensors-adapter-0.0.15-linux-arm-v12.tgz",
-      "checksum": "28e677f8892ff88a68b7e4a061722e6b98b9ff6dd7bb0e872d62f9d009fc4779",
+      "version": "0.0.17",
+      "url": "https://github.com/rzr/generic-sensors-webthings/releases/download/v0.0.17/generic-sensors-adapter-0.0.17-linux-arm-v12.tgz",
+      "checksum": "3abb83e2092e6c1391941b146840762b274a08a2cfdcdd3af7b8d873f9aca4e7",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -79,9 +79,9 @@
           "72"
         ]
       },
-      "version": "0.0.15",
-      "url": "https://github.com/rzr/generic-sensors-webthings/releases/download/v0.0.15/generic-sensors-adapter-0.0.15-linux-arm64-v12.tgz",
-      "checksum": "50b1edc736a6e5a21fbc0d2b93265467ad397aa9aa872c6aa10027a3ec3e0bf7",
+      "version": "0.0.17",
+      "url": "https://github.com/rzr/generic-sensors-webthings/releases/download/v0.0.17/generic-sensors-adapter-0.0.17-linux-arm64-v12.tgz",
+      "checksum": "2610238671e87c130e77e50df33067318d2d0c9250e0a9abd23318890987fc8e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,9 +95,9 @@
           "72"
         ]
       },
-      "version": "0.0.15",
-      "url": "https://github.com/rzr/generic-sensors-webthings/releases/download/v0.0.15/generic-sensors-adapter-0.0.15-linux-x64-v12.tgz",
-      "checksum": "a5778ffbf7787c98344310c8009236c2ad1093568f3247849cb51c874a606a0c",
+      "version": "0.0.17",
+      "url": "https://github.com/rzr/generic-sensors-webthings/releases/download/v0.0.17/generic-sensors-adapter-0.0.17-linux-x64-v12.tgz",
+      "checksum": "38e34f16c6a25600851ef8805099932b33b65a2eb285658f9541bb57c78c47cd",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
