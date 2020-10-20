@@ -102,6 +102,54 @@
         "min": "0.10.0",
         "max": "*"
       }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.0.17",
+      "url": "https://github.com/rzr/generic-sensors-webthings/releases/download/v0.0.17/generic-sensors-adapter-0.0.17-linux-arm-v14.tgz",
+      "checksum": "1e78f3d1abef367aca7433fb86c9733f7435aea5c3679df8defa9e129aeef756",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.0.17",
+      "url": "https://github.com/rzr/generic-sensors-webthings/releases/download/v0.0.17/generic-sensors-adapter-0.0.17-linux-arm64-v14.tgz",
+      "checksum": "bff1022aea6abbe7bb2bc25adadd392ef4a9a5e2cc2e92697f6e907e0798df6e",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.0.17",
+      "url": "https://github.com/rzr/generic-sensors-webthings/releases/download/v0.0.17/generic-sensors-adapter-0.0.17-linux-x64-v14.tgz",
+      "checksum": "07c6fb19aa8c38733a236dca108caeaadd96ce40ee8b579b136b2c78d8495ac6",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
     }
   ]
 }
