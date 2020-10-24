@@ -15,13 +15,9 @@
           "any"
         ]
       },
-      "version": "0.0.5",
-      "url": "https://github.com/atirage/miLight-adapter/releases/download/v0.0.5/miLight-adapter-0.0.5.tgz",
-      "checksum": "8ffc18df00baa1803271464aa46113352b770764f7334ead184790b19541f6fd",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.0.6",
+      "url": "https://github.com/atirage/miLight-adapter/releases/download/v0.0.6/miLight-adapter-0.0.6.tgz",
+      "checksum": "9086d87b4b0b69d043b9ffcfe7b244c469724a400e9ff6a9c1bc3eb22a48aec0",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
