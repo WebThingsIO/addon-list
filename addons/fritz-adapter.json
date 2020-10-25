@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "1.4.0",
-      "url": "https://github.com/tim-hellhake/fritz-adapter/releases/download/1.4.0/fritz-adapter-1.4.0.tgz",
-      "checksum": "90b70e1d6edd6b8fcdc2b86c1f5e95eee5c38cb78bd20573ace95c4964124caa",
+      "version": "2.0.0",
+      "url": "https://github.com/tim-hellhake/fritz-adapter/releases/download/2.0.0/fritz-adapter-2.0.0.tgz",
+      "checksum": "d4c7fe5ea2ef2215ef43c64cac5df1126219dc05c8ea994d61a30cf21e56a84c",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
