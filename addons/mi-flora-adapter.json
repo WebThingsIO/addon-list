@@ -12,96 +12,12 @@
       "language": {
         "name": "nodejs",
         "versions": [
-          "57"
-        ]
-      },
-      "version": "1.0.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-1.0.0-linux-arm-v8.tgz",
-      "checksum": "1822b72e77ae956d8082e8726f012f57b6575bbb1a69449af12fc67975e6c668",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "1.0.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-1.0.0-linux-arm64-v8.tgz",
-      "checksum": "9415e72b150180d5e16ee130c7af976fd6cb217f794a9403c825b6a7ff7b7700",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-x64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "1.0.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-1.0.0-linux-x64-v8.tgz",
-      "checksum": "e4843b43d1c973ee3f09e72a5d7f4156f29591e3157f104c9473efc32e1ae650",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "darwin-x64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "1.0.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-1.0.0-darwin-x64-v8.tgz",
-      "checksum": "dca4e10b12f40b29a7001775569a4bdc1d946deaeb06d9a530093da907546a92",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm",
-      "language": {
-        "name": "nodejs",
-        "versions": [
           "64"
         ]
       },
-      "version": "1.0.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-1.0.0-linux-arm-v10.tgz",
-      "checksum": "4fdfcb1c885d79d25e2a4adb17757ae8f3d2a747d6e4ae9ae927c21b570a3a2e",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "1.0.1",
+      "url": "https://github.com/tim-hellhake/mi-flora-adapter/releases/download/1.0.1/mi-flora-adapter-1.0.1-linux-arm-v10.tgz",
+      "checksum": "78677134c473442285ea19c09e8f995226388d2fa49aa8894dde2351b952765f",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -115,13 +31,9 @@
           "64"
         ]
       },
-      "version": "1.0.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-1.0.0-linux-arm64-v10.tgz",
-      "checksum": "94292bf01c99789d1826e2689bcda1087ebfaf0304020a19f0878d43a05438a7",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "1.0.1",
+      "url": "https://github.com/tim-hellhake/mi-flora-adapter/releases/download/1.0.1/mi-flora-adapter-1.0.1-linux-arm64-v10.tgz",
+      "checksum": "b1f24b7ccadae0cf57286c419a5fecb61694b413acc1edd419416d241ef3e678",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -135,13 +47,9 @@
           "64"
         ]
       },
-      "version": "1.0.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-1.0.0-linux-x64-v10.tgz",
-      "checksum": "c75cf30e9c87e87625500eab14b1d1fd1b23f2919d16f74c313e43cef7c9b530",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "1.0.1",
+      "url": "https://github.com/tim-hellhake/mi-flora-adapter/releases/download/1.0.1/mi-flora-adapter-1.0.1-linux-x64-v10.tgz",
+      "checksum": "838383871215f8b44a999d06f5a3bee9006d21193066f8a24290fcba2367f1d3",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -155,13 +63,9 @@
           "64"
         ]
       },
-      "version": "1.0.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-1.0.0-darwin-x64-v10.tgz",
-      "checksum": "fc9cb8e5a14445cc02007f4a94050a457c689bb67f106b18241b331c4dde9afe",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "1.0.1",
+      "url": "https://github.com/tim-hellhake/mi-flora-adapter/releases/download/1.0.1/mi-flora-adapter-1.0.1-darwin-x64-v10.tgz",
+      "checksum": "9899991313cdc6d603188e40ae53dd8d5a9ac19c2d7d1ec6f52c7ff7290ecd74",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,13 +79,9 @@
           "72"
         ]
       },
-      "version": "1.0.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-1.0.0-linux-arm-v12.tgz",
-      "checksum": "94a9fe7c7df63f97e6365b966c00145aed5b9f1c43afe3e209ec6bbb98fbef9a",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "1.0.1",
+      "url": "https://github.com/tim-hellhake/mi-flora-adapter/releases/download/1.0.1/mi-flora-adapter-1.0.1-linux-arm-v12.tgz",
+      "checksum": "75ee64a5d34b4c5f47403b7f90c9a9b03b4700c33e0e065b727feceea8761af6",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -195,13 +95,9 @@
           "72"
         ]
       },
-      "version": "1.0.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-1.0.0-linux-arm64-v12.tgz",
-      "checksum": "d715caead35af0415f27ea46119cbeb3fdad9d3e322fab27492f21006a64e27f",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "1.0.1",
+      "url": "https://github.com/tim-hellhake/mi-flora-adapter/releases/download/1.0.1/mi-flora-adapter-1.0.1-linux-arm64-v12.tgz",
+      "checksum": "f77cd3a6060322bc3dc489aee0bf80e306c13299db2130ad16b7d5923dac0401",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -215,13 +111,9 @@
           "72"
         ]
       },
-      "version": "1.0.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-1.0.0-linux-x64-v12.tgz",
-      "checksum": "4f9f29cee102f7eb353ecb845f0fee119c405c1f21043f7a2f2c82ee110d7adf",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "1.0.1",
+      "url": "https://github.com/tim-hellhake/mi-flora-adapter/releases/download/1.0.1/mi-flora-adapter-1.0.1-linux-x64-v12.tgz",
+      "checksum": "1c86596deba7f1a8b855d8b73e3144e8f22ba36e61c7e4588a7f454144da1e34",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -235,13 +127,73 @@
           "72"
         ]
       },
-      "version": "1.0.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/mi-flora-adapter-1.0.0-darwin-x64-v12.tgz",
-      "checksum": "22f099181eef918c78fc883ea5133f4cafb1d9708c19fee86170b6d494f34cc6",
-      "api": {
-        "min": 2,
-        "max": 2
+      "version": "1.0.1",
+      "url": "https://github.com/tim-hellhake/mi-flora-adapter/releases/download/1.0.1/mi-flora-adapter-1.0.1-darwin-x64-v12.tgz",
+      "checksum": "66e88ea8a4bae90686d2f43d6efe36c9ade0a2d8c00aa95ba5f5235bc0474192",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
       },
+      "version": "1.0.1",
+      "url": "https://github.com/tim-hellhake/mi-flora-adapter/releases/download/1.0.1/mi-flora-adapter-1.0.1-linux-arm-v14.tgz",
+      "checksum": "6a91c59e25faa4164da067b751fdcf0d187a4fc97897d42cdadc7d5bfe861490",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "1.0.1",
+      "url": "https://github.com/tim-hellhake/mi-flora-adapter/releases/download/1.0.1/mi-flora-adapter-1.0.1-linux-arm64-v14.tgz",
+      "checksum": "2336663ee776abebf08a8c37e628ecd8f2811a1ed05a4beb97b2c099a4863b3c",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "1.0.1",
+      "url": "https://github.com/tim-hellhake/mi-flora-adapter/releases/download/1.0.1/mi-flora-adapter-1.0.1-linux-x64-v14.tgz",
+      "checksum": "7427ea846814c6d889f3f086e96982ad79487d4c59554e4ab680501f2895e78b",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "1.0.1",
+      "url": "https://github.com/tim-hellhake/mi-flora-adapter/releases/download/1.0.1/mi-flora-adapter-1.0.1-darwin-x64-v14.tgz",
+      "checksum": "411411b274b132b734d021a821568185b6709215d598db53cfd3fd1310bd9ffb",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
