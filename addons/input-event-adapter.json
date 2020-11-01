@@ -2,9 +2,9 @@
   "id": "input-event-adapter",
   "name": "Input Event",
   "description": "React to input events, e.g. from a USB keyboard or remote",
-  "author": "Galveston01",
-  "homepage_url": "https://github.com/Galveston01/input-event-adapter",
-  "license_url": "https://raw.githubusercontent.com/Galveston01/input-event-adapter/master/LICENSE.md",
+  "author": "bewee",
+  "homepage_url": "https://github.com/bewee/input-event-adapter",
+  "license_url": "https://raw.githubusercontent.com/bewee/input-event-adapter/master/LICENSE.md",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.3",
-      "url": "https://github.com/Galveston01/input-event-adapter/releases/download/v0.2.3/input-event-adapter-0.2.3.tgz",
-      "checksum": "fedbda63f8276f7c3c28c7448365d1bf145943c5064d0ea94e34b7f02bdfb113",
+      "version": "0.2.4",
+      "url": "https://github.com/bewee/input-event-adapter/releases/download/v0.2.4/input-event-adapter-0.2.4.tgz",
+      "checksum": "3f71b87b6424517393d149fd9ed02032af64f0ef07fa37bf9f37b2456f9ed120",
       "api": {
         "min": 2,
         "max": 2
