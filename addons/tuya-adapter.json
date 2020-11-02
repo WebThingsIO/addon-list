@@ -2,9 +2,9 @@
   "id": "tuya-adapter",
   "name": "Tuya Smart Life",
   "description": "Tuya Smart Life IoT devices support",
-  "author": "Galveston01",
-  "homepage_url": "https://github.com/Galveston01/tuya-adapter",
-  "license_url": "https://raw.githubusercontent.com/Galveston01/tuya-adapter/master/LICENSE.md",
+  "author": "bewee",
+  "homepage_url": "https://github.com/bewee/tuya-adapter",
+  "license_url": "https://raw.githubusercontent.com/bewee/tuya-adapter/master/LICENSE.md",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.3",
-      "url": "https://github.com/Galveston01/tuya-adapter/releases/download/v0.2.3/tuya-adapter-0.2.3.tgz",
-      "checksum": "69a68b27d33ca8119d5c106456564a7f308db4057496a314bf1f7f3a43c68f09",
+      "version": "0.2.4",
+      "url": "https://github.com/bewee/tuya-adapter/releases/download/v0.2.4/tuya-adapter-0.2.4.tgz",
+      "checksum": "2905594a1893443385c4f1cd5ed254bbdd4022b5e87520212e5a7cd8c9d0ab25",
       "api": {
         "min": 2,
         "max": 2
