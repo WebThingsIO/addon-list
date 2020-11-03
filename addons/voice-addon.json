@@ -15,9 +15,9 @@
           "64"
         ]
       },
-      "version": "2.1.1",
-      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.1.1/voice-addon-2.1.1-linux-arm-v10.tgz",
-      "checksum": "4fb82b61fff2d41518ebba6e0a5ad42aa06f69fa2a46c1681e2f5922104eb46d",
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-linux-arm-v10.tgz",
+      "checksum": "6654066a692f9b2975d1ddb0801564e175123767aa7160efb687aa3c67692c6d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "64"
         ]
       },
-      "version": "2.1.1",
-      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.1.1/voice-addon-2.1.1-linux-arm64-v10.tgz",
-      "checksum": "8d209e1485c79ccc221e0077eac4ec2ccfa95b688e548407164175435cebe9ad",
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-linux-arm64-v10.tgz",
+      "checksum": "893316b3710b864301cb2a319948f27ff5c0e26f4e4f8b2c87ab08ba0ea1e5ec",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -47,9 +47,9 @@
           "64"
         ]
       },
-      "version": "2.1.1",
-      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.1.1/voice-addon-2.1.1-linux-x64-v10.tgz",
-      "checksum": "008a9df5ec7c20c98704f56ed68279cef754573827bc78d8d5d707a82080ed15",
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-linux-x64-v10.tgz",
+      "checksum": "5793a4db13af488757fb9ba425475dc4503217ae57585d2d5c5d8e2a23f17d77",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -63,9 +63,9 @@
           "64"
         ]
       },
-      "version": "2.1.1",
-      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.1.1/voice-addon-2.1.1-darwin-x64-v10.tgz",
-      "checksum": "5ff340890635f776aff430368fd2638e10c70b6a87696442c92b0a2fa0725ee7",
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-darwin-x64-v10.tgz",
+      "checksum": "4cc0ca80187a9bea60f47115846afd83aa5e4da2bf02c6427953ca921e0aefb2",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -79,9 +79,9 @@
           "72"
         ]
       },
-      "version": "2.1.1",
-      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.1.1/voice-addon-2.1.1-linux-arm-v12.tgz",
-      "checksum": "6ccf190a50ba8afba7984a3b0dda828e8c9976eb4aa2fa801c73e6c1970a9155",
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-linux-arm-v12.tgz",
+      "checksum": "5bd4b2eda473ebe5059a363214bbed0ae2d90c5213dc6f865f42c5460346369d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,9 +95,9 @@
           "72"
         ]
       },
-      "version": "2.1.1",
-      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.1.1/voice-addon-2.1.1-linux-arm64-v12.tgz",
-      "checksum": "b84a1ae9c4454e6353035846c6b15c5f2c1e27c9763c84d8194f14f84ae65ca5",
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-linux-arm64-v12.tgz",
+      "checksum": "195a8c1597577d8e47ceced49f1ad2d87da9a1527b9c4df3b856a480e47b03a0",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -111,9 +111,9 @@
           "72"
         ]
       },
-      "version": "2.1.1",
-      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.1.1/voice-addon-2.1.1-linux-x64-v12.tgz",
-      "checksum": "4e040a5329198ceb96e3d833e9f6e27b2ac8c03eb737bbf2001b79a80718f572",
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-linux-x64-v12.tgz",
+      "checksum": "1125e8d2c9b3159f12202e9acde8f0cebc4bb1ef28cc3c87d66b147521d6f3bd",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,9 +127,9 @@
           "72"
         ]
       },
-      "version": "2.1.1",
-      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.1.1/voice-addon-2.1.1-darwin-x64-v12.tgz",
-      "checksum": "4b340257d9ea8208561598ad63686c454877a752706fc33a5822647ca2034e15",
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-darwin-x64-v12.tgz",
+      "checksum": "7a6b27ee2ed274c9625492f94b6db3ae3e2b7c52ca8b8881c4ddc69e0ef69df2",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -143,9 +143,9 @@
           "83"
         ]
       },
-      "version": "2.1.1",
-      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.1.1/voice-addon-2.1.1-linux-arm-v14.tgz",
-      "checksum": "296558e5ce097a0d18bd86e22a59328acd3da6fbbd63ea0fc929abffd26b4d32",
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-linux-arm-v14.tgz",
+      "checksum": "9cd1396bec6122d2372f05733c91e9aca84f1042ab31f48a9a84026ff6074cd7",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -159,9 +159,9 @@
           "83"
         ]
       },
-      "version": "2.1.1",
-      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.1.1/voice-addon-2.1.1-linux-arm64-v14.tgz",
-      "checksum": "30a55a5fc03341b5ef4a8cc66cf97a6ed6a5a2c64c1c42f7d9bbe26c7f46e463",
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-linux-arm64-v14.tgz",
+      "checksum": "d811df17dd7a26db556371fad66a3a2dbfe5c9686fe34f532d955ddeb332f0b3",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,9 +175,9 @@
           "83"
         ]
       },
-      "version": "2.1.1",
-      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.1.1/voice-addon-2.1.1-linux-x64-v14.tgz",
-      "checksum": "239c2131163f90073e6ebb591ed30bdd3f2e3b780491f4e8dab779976af3c856",
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-linux-x64-v14.tgz",
+      "checksum": "55b6323002eef6591c3f6042e4cadeba89d1b0401a960472ee7457b0ccb7b143",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,9 +191,9 @@
           "83"
         ]
       },
-      "version": "2.1.1",
-      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.1.1/voice-addon-2.1.1-darwin-x64-v14.tgz",
-      "checksum": "26f00c5ec5a8b36fd6658bbacc189ef187b6e5f56d7d6364448bef4043e9ba16",
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-darwin-x64-v14.tgz",
+      "checksum": "87e485827191ab3d261822292ba2cb248976d4cc5e27b1a359201adc5c060687",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
