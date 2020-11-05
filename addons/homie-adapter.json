@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.2",
-      "url": "https://github.com/tim-hellhake/homie-adapter/releases/download/0.2.2/homie-adapter-0.2.2.tgz",
-      "checksum": "ae68e890655dec11878e34bdbbde87cccfe449520ba09d03ecadd11e4b13124b",
+      "version": "0.2.3",
+      "url": "https://github.com/tim-hellhake/homie-adapter/releases/download/0.2.3/homie-adapter-0.2.3.tgz",
+      "checksum": "61c0d925bcd9f6d417654e2b422a853b330c98e758585da4e220f9ac3a4ba4bf",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
