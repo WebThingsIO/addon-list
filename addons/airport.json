@@ -19,9 +19,9 @@
           "3.9"
         ]
       },
-      "version": "0.0.4",
-      "url": "https://github.com/flatsiedatsie/airport/releases/download/0.0.4/airport-0.0.4.tgz",
-      "checksum": "d67149bd178f0d3ac31618709bce3c5fc85c6b19eeaeeeb71ab2af1b7ceca3f6",
+      "version": "0.0.5",
+      "url": "https://github.com/flatsiedatsie/airport/releases/download/0.0.5/airport-0.0.5.tgz",
+      "checksum": "3af3a65649e02f86434fc252a93b1df9a4db03f06f14385b14c5933fb0c7eddd",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
