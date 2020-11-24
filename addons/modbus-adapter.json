@@ -15,9 +15,9 @@
           "64"
         ]
       },
-      "version": "0.3.0",
-      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.3.0/modbus-adapter-0.3.0-linux-arm-v10.tgz",
-      "checksum": "c0aa1c62f831f995eebfdb1a0466e1a49227ae2a70b7379cf871bb13a63ebb3a",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.4.0/modbus-adapter-0.4.0-linux-arm-v10.tgz",
+      "checksum": "a5dbc5501ee483d278bd1bd67211bfcc6fb560904e6855b7764bee1d6739280c",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "64"
         ]
       },
-      "version": "0.3.0",
-      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.3.0/modbus-adapter-0.3.0-linux-arm64-v10.tgz",
-      "checksum": "f96db263e86bf3b785ac46976a1bfdda65dc1f0a7944e8334d463821e3bce048",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.4.0/modbus-adapter-0.4.0-linux-arm64-v10.tgz",
+      "checksum": "dd2532796d68df25ce5ea8fac7f4a545a401dbfb4e2467067d17ad13d258488b",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -47,9 +47,9 @@
           "64"
         ]
       },
-      "version": "0.3.0",
-      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.3.0/modbus-adapter-0.3.0-linux-x64-v10.tgz",
-      "checksum": "ae6769a5f0e5e4185cecb52a8bc5a03f6fbc29dbfeac8b340ae8f809b71a8893",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.4.0/modbus-adapter-0.4.0-linux-x64-v10.tgz",
+      "checksum": "9066319acc9958ffc3024d1298412149fccd7122205fb545e80fd94a0c8e9e42",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -63,9 +63,9 @@
           "64"
         ]
       },
-      "version": "0.3.0",
-      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.3.0/modbus-adapter-0.3.0-darwin-x64-v10.tgz",
-      "checksum": "5e24fad6e810fcbe5ba3d4b7b80e2318e9a435da4b916913cb6e27e6b820c7d9",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.4.0/modbus-adapter-0.4.0-darwin-x64-v10.tgz",
+      "checksum": "1362d2fcb3d14cb5fd88bad12ae7629052690951a88e65ef4fd01eed4b1291fa",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -79,9 +79,9 @@
           "72"
         ]
       },
-      "version": "0.3.0",
-      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.3.0/modbus-adapter-0.3.0-linux-arm-v12.tgz",
-      "checksum": "74b66166b9f9f12c119712b80fbf6abfb823047558f61632a6fd522c026c9850",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.4.0/modbus-adapter-0.4.0-linux-arm-v12.tgz",
+      "checksum": "6702950742a9e42ff4557dc3a4213629a5d73977bf6ec67e7e3afa6b863ac4fe",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,9 +95,9 @@
           "72"
         ]
       },
-      "version": "0.3.0",
-      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.3.0/modbus-adapter-0.3.0-linux-arm64-v12.tgz",
-      "checksum": "5b81c5a3d36651cf4468fe1bb3471dcf77a9b28fdf0d48d0c7958fc5b110d816",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.4.0/modbus-adapter-0.4.0-linux-arm64-v12.tgz",
+      "checksum": "e4120acf27f8a14c8743d0ef6b2474d701bf333445c453e862999d6dc42e2249",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -111,9 +111,9 @@
           "72"
         ]
       },
-      "version": "0.3.0",
-      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.3.0/modbus-adapter-0.3.0-linux-x64-v12.tgz",
-      "checksum": "00ac4d8221455c13a29b63574bd5efbe53390f80c20e686d52cdea5945422a14",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.4.0/modbus-adapter-0.4.0-linux-x64-v12.tgz",
+      "checksum": "7c8e9c13fbf08a5338727f333b4f9495d717e4633cd56c356483f4a8f579179d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,9 +127,9 @@
           "72"
         ]
       },
-      "version": "0.3.0",
-      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.3.0/modbus-adapter-0.3.0-darwin-x64-v12.tgz",
-      "checksum": "9455bcda495ae97ee1431a99ec2392ee76f598b4dcf4dd5e43f642089d9807a0",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.4.0/modbus-adapter-0.4.0-darwin-x64-v12.tgz",
+      "checksum": "019f4d31f1d6d5770793c146cbca2277526867b1ac5027b4e12113be46273fe4",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -143,9 +143,9 @@
           "83"
         ]
       },
-      "version": "0.3.0",
-      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.3.0/modbus-adapter-0.3.0-linux-arm-v14.tgz",
-      "checksum": "16ff9a938542a6edd6ba1a1ba7cd1b6602b0ba25be3d4ee4ea30a1614dd6d0ac",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.4.0/modbus-adapter-0.4.0-linux-arm-v14.tgz",
+      "checksum": "fbcf5326103d2549f206c6e6ddbe64abcb63af100487fb32246df75c01046d66",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -159,9 +159,9 @@
           "83"
         ]
       },
-      "version": "0.3.0",
-      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.3.0/modbus-adapter-0.3.0-linux-arm64-v14.tgz",
-      "checksum": "2124d5e64732cece081cbe5d62b87e4f40bdb4f3b08f133706789dd7671b1cca",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.4.0/modbus-adapter-0.4.0-linux-arm64-v14.tgz",
+      "checksum": "5d8db855a662e3749a18230391da3f21024c267ceacc501e0fa1a3bd0b6c0cd0",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,9 +175,9 @@
           "83"
         ]
       },
-      "version": "0.3.0",
-      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.3.0/modbus-adapter-0.3.0-linux-x64-v14.tgz",
-      "checksum": "040e86f53df5c2f03eb6fe7087921eac64072a8392707b7b9152666c07f91b4f",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.4.0/modbus-adapter-0.4.0-linux-x64-v14.tgz",
+      "checksum": "c423dbb9c22bbbc599913ecc083a79c9ff4fa44aba913ae3a26524d728e0a680",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,9 +191,9 @@
           "83"
         ]
       },
-      "version": "0.3.0",
-      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.3.0/modbus-adapter-0.3.0-darwin-x64-v14.tgz",
-      "checksum": "3acc2ecdd240a1e4a03c68783e869c8b6afeb26ebd8be3c64e308701d58453eb",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.4.0/modbus-adapter-0.4.0-darwin-x64-v14.tgz",
+      "checksum": "083ab5f182c27fd169e6b5b0e5c5bcd858b44b85f012b22f37b950614adc0e1c",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
