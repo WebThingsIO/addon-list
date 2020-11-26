@@ -2,8 +2,8 @@
   "id": "macrozilla",
   "name": "Macros",
   "description": "Use macros to create advanced rules",
-  "author": "Galveston01",
-  "homepage_url": "https://github.com/Galveston01/macrozilla",
+  "author": "bewee",
+  "homepage_url": "https://github.com/bewee/macrozilla",
   "license_url": "https://raw.githubusercontent.com/Galveston01/macrozilla/master/LICENSE.md",
   "primary_type": "adapter",
   "packages": [
@@ -15,9 +15,9 @@
           "57"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.7/macrozilla-0.1.7-linux-arm-v8.tgz",
-      "checksum": "62e74de529f62965f1b1e9ae658e38141296ef2a13ce1f8b1a14a17fc7f435f7",
+      "version": "0.1.8",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-linux-arm-v8.tgz",
+      "checksum": "5616fec99be793a9cd568fc0b409b0ea013271f921317065f4efd861603a71e9",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "57"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.7/macrozilla-0.1.7-linux-arm64-v8.tgz",
-      "checksum": "dffd1f7049423c557f732e3c226c512e5c38287c23230063a9cb54d0468e730c",
+      "version": "0.1.8",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-linux-arm64-v8.tgz",
+      "checksum": "6d770daa92d916e1c8f0edc5f8f941c9a442d6d019149df7f68ac56872be440e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -47,9 +47,9 @@
           "57"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.7/macrozilla-0.1.7-linux-x64-v8.tgz",
-      "checksum": "813351d4b2cd2f6f6a2fe2e1abdfc5ad5b90ecaf1056a7c99335a1464591d3ca",
+      "version": "0.1.8",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-linux-x64-v8.tgz",
+      "checksum": "aeb94005c57b89f5388b69c271757b159562536e0b065abe67fdb6b22bcdbea2",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -63,9 +63,9 @@
           "57"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.7/macrozilla-0.1.7-darwin-x64-v8.tgz",
-      "checksum": "1f13067167b7200248f8777bba5279d4072461c0400a6f94f05d4065fd9bb473",
+      "version": "0.1.8",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-darwin-x64-v8.tgz",
+      "checksum": "d1f7df45b9fda32f8662d4240fc87396c08304fdf898fc8ec556bf8bb176e77b",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -79,9 +79,9 @@
           "64"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.7/macrozilla-0.1.7-linux-arm-v10.tgz",
-      "checksum": "3989601981c08496531668fa351cf0384ee10333329e1d988495ee997421ab78",
+      "version": "0.1.8",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-linux-arm-v10.tgz",
+      "checksum": "ad21da8b1021e0da943a4be3f639b23f4e16b159a71330f6814a5f7c96454c82",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,9 +95,9 @@
           "64"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.7/macrozilla-0.1.7-linux-arm64-v10.tgz",
-      "checksum": "628286a4d89bcca4d93e11079fd9631498923c517906cfc70ca15b680f9b459a",
+      "version": "0.1.8",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-linux-arm64-v10.tgz",
+      "checksum": "acc2a5fac5fe3d49792209d26c6986d2267f651e9cece36bb5c746b8870290bb",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -111,9 +111,9 @@
           "64"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.7/macrozilla-0.1.7-linux-x64-v10.tgz",
-      "checksum": "bd2bfc7b978cbb7efcad21eaed707a489413256403dedb53916048f719640353",
+      "version": "0.1.8",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-linux-x64-v10.tgz",
+      "checksum": "3e872eb7faa8564ebd8a63519f3fdaf5f760221e46f59f2c344bd209bebbb5b4",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,9 +127,9 @@
           "64"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.7/macrozilla-0.1.7-darwin-x64-v10.tgz",
-      "checksum": "9b7951479f670a6f56288f04c52bc3737e46919f874480fb132b95552fd477b6",
+      "version": "0.1.8",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-darwin-x64-v10.tgz",
+      "checksum": "1458a05e327bdc94e169aaf8505e13c73ed8a78fd896a175c8f0c21476f94f2e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -143,9 +143,9 @@
           "72"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.7/macrozilla-0.1.7-linux-arm-v12.tgz",
-      "checksum": "94ba1b09334ba6684383aa3134c5ede2a818eb09823c926a1e557ee0dc6a63bd",
+      "version": "0.1.8",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-linux-arm-v12.tgz",
+      "checksum": "d9a3a85eb3c6026a730e3b5c11e57e11fcafbd51f0818e0ac1b9cb1ec67c91e4",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -159,9 +159,9 @@
           "72"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.7/macrozilla-0.1.7-linux-arm64-v12.tgz",
-      "checksum": "00fe8554b8fbd20ee51ae69733ea3de179708054001ae872258c0a9c9738264a",
+      "version": "0.1.8",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-linux-arm64-v12.tgz",
+      "checksum": "528be617225bbd4f2a4be53df182705d0e4e79605e2099a9aa58d56c9cd113ff",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,9 +175,9 @@
           "72"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.7/macrozilla-0.1.7-linux-x64-v12.tgz",
-      "checksum": "f8154cf0f66a7213f2dc4295640de328bb2959e64a613bc0d88ae676103ea2b1",
+      "version": "0.1.8",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-linux-x64-v12.tgz",
+      "checksum": "d05876e424d8d0216d07bfd92444be2b23568eee4b24ff6682bfdd994352a17d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,9 +191,9 @@
           "72"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.7/macrozilla-0.1.7-darwin-x64-v12.tgz",
-      "checksum": "4ef44cae338dca428a68d807ac2b677790abf6877215a2dbee0bd8b423c8d974",
+      "version": "0.1.8",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-darwin-x64-v12.tgz",
+      "checksum": "4b15161660ea3d873a693a57a796479805813c17dcb5474e3f395af975814f53",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -207,9 +207,9 @@
           "83"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.7/macrozilla-0.1.7-linux-arm-v14.tgz",
-      "checksum": "4752bfd29b0d58f20d1f55778afff8c863cc75e826cf8df5c7b3e71975fa4bee",
+      "version": "0.1.8",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-linux-arm-v14.tgz",
+      "checksum": "157893805670c0fa8fc4bbe36bc71cc6917841e4366f99e34cd91abb701b38cc",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -223,9 +223,9 @@
           "83"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.7/macrozilla-0.1.7-linux-arm64-v14.tgz",
-      "checksum": "9ca11a5b66509f62eb9857606b15d779eaa3b4f663a8382fd4f47f62d33e7b11",
+      "version": "0.1.8",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-linux-arm64-v14.tgz",
+      "checksum": "c362053c61bc1ac55674d3f1eaa4e40682352d340b52a00085543315d0f74cc6",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -239,9 +239,9 @@
           "83"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.7/macrozilla-0.1.7-linux-x64-v14.tgz",
-      "checksum": "deff519e70f6a5fc634995a9ca44c7f9a1659d69e43d145c26f31317851b0d96",
+      "version": "0.1.8",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-linux-x64-v14.tgz",
+      "checksum": "8957d02694d95deb41e683f8cbea9edd386a8868e2fd60427d5d36cc558c68f8",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -255,9 +255,9 @@
           "83"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.7/macrozilla-0.1.7-darwin-x64-v14.tgz",
-      "checksum": "a695595e12720943e6c21b5bba0db06c46abc7175ec0c40aa0053087f0c8ba14",
+      "version": "0.1.8",
+      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-darwin-x64-v14.tgz",
+      "checksum": "520b33bd835c334d4bc7f743ccccfe8f313febe09f8edfcb465de11891cf053c",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
