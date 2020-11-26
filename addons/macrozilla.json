@@ -4,7 +4,7 @@
   "description": "Use macros to create advanced rules",
   "author": "bewee",
   "homepage_url": "https://github.com/bewee/macrozilla",
-  "license_url": "https://raw.githubusercontent.com/Galveston01/macrozilla/master/LICENSE.md",
+  "license_url": "https://raw.githubusercontent.com/bewee/macrozilla/master/LICENSE.md",
   "primary_type": "adapter",
   "packages": [
     {
@@ -16,7 +16,7 @@
         ]
       },
       "version": "0.1.8",
-      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-linux-arm-v8.tgz",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-linux-arm-v8.tgz",
       "checksum": "5616fec99be793a9cd568fc0b409b0ea013271f921317065f4efd861603a71e9",
       "gateway": {
         "min": "0.10.0",
@@ -32,7 +32,7 @@
         ]
       },
       "version": "0.1.8",
-      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-linux-arm64-v8.tgz",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-linux-arm64-v8.tgz",
       "checksum": "6d770daa92d916e1c8f0edc5f8f941c9a442d6d019149df7f68ac56872be440e",
       "gateway": {
         "min": "0.10.0",
@@ -96,7 +96,7 @@
         ]
       },
       "version": "0.1.8",
-      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-linux-arm64-v10.tgz",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-linux-arm64-v10.tgz",
       "checksum": "acc2a5fac5fe3d49792209d26c6986d2267f651e9cece36bb5c746b8870290bb",
       "gateway": {
         "min": "0.10.0",
@@ -112,7 +112,7 @@
         ]
       },
       "version": "0.1.8",
-      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-linux-x64-v10.tgz",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-linux-x64-v10.tgz",
       "checksum": "3e872eb7faa8564ebd8a63519f3fdaf5f760221e46f59f2c344bd209bebbb5b4",
       "gateway": {
         "min": "0.10.0",
@@ -128,7 +128,7 @@
         ]
       },
       "version": "0.1.8",
-      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-darwin-x64-v10.tgz",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-darwin-x64-v10.tgz",
       "checksum": "1458a05e327bdc94e169aaf8505e13c73ed8a78fd896a175c8f0c21476f94f2e",
       "gateway": {
         "min": "0.10.0",
@@ -208,7 +208,7 @@
         ]
       },
       "version": "0.1.8",
-      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-linux-arm-v14.tgz",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-linux-arm-v14.tgz",
       "checksum": "157893805670c0fa8fc4bbe36bc71cc6917841e4366f99e34cd91abb701b38cc",
       "gateway": {
         "min": "0.10.0",
@@ -224,7 +224,7 @@
         ]
       },
       "version": "0.1.8",
-      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-linux-arm64-v14.tgz",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-linux-arm64-v14.tgz",
       "checksum": "c362053c61bc1ac55674d3f1eaa4e40682352d340b52a00085543315d0f74cc6",
       "gateway": {
         "min": "0.10.0",
@@ -240,7 +240,7 @@
         ]
       },
       "version": "0.1.8",
-      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-linux-x64-v14.tgz",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-linux-x64-v14.tgz",
       "checksum": "8957d02694d95deb41e683f8cbea9edd386a8868e2fd60427d5d36cc558c68f8",
       "gateway": {
         "min": "0.10.0",
@@ -256,7 +256,7 @@
         ]
       },
       "version": "0.1.8",
-      "url": "https://github.com/Galveston01/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-darwin-x64-v14.tgz",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.8/macrozilla-0.1.8-darwin-x64-v14.tgz",
       "checksum": "520b33bd835c334d4bc7f743ccccfe8f313febe09f8edfcb465de11891cf053c",
       "gateway": {
         "min": "0.10.0",
