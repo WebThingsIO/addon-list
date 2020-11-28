@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.3",
-      "url": "https://github.com/tim-hellhake/opensensemap-adapter/releases/download/0.1.3/opensensemap-adapter-0.1.3.tgz",
-      "checksum": "3f5efe637be4fe9530906276d9565fc1b5a27f589f8feb4df61c250512238ec4",
+      "version": "0.1.4",
+      "url": "https://github.com/tim-hellhake/opensensemap-adapter/releases/download/0.1.4/opensensemap-adapter-0.1.4.tgz",
+      "checksum": "ea661acb2d0818e064edf12a349a506264dddd427d29dcf561697ee0bec62014",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
