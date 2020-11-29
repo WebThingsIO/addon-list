@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/homematic-adapter/releases/download/0.2.0/homematic-adapter-0.2.0.tgz",
-      "checksum": "b8b823afc40fa92cc60f7d74c6a454aa71ae5a5945944f00ab1f4fc17716dedf",
+      "version": "0.3.0",
+      "url": "https://github.com/tim-hellhake/homematic-adapter/releases/download/0.3.0/homematic-adapter-0.3.0.tgz",
+      "checksum": "535d0ac6c7ec2091554e2b1ebbb8462aae090518f917f76a831820befd5860b6",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
