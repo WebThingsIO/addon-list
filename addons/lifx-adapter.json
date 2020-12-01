@@ -19,9 +19,9 @@
           "3.9"
         ]
       },
-      "version": "0.4.2",
-      "url": "https://github.com/mrstegeman/lifx-adapter/releases/download/v0.4.2/lifx-adapter-0.4.2.tgz",
-      "checksum": "ccc79156432927d30bb2c15d70c1286a4f6f405a7b63da4a7fdb2eb0b881002b",
+      "version": "0.5.0",
+      "url": "https://github.com/mrstegeman/lifx-adapter/releases/download/v0.5.0/lifx-adapter-0.5.0.tgz",
+      "checksum": "5d1199ffa9e62831323e79e94d8d3572128042a7678088139e5d5912efa62900",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
