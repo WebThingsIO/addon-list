@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.9.6",
-      "url": "https://github.com/WebThingsIO/philips-hue-adapter/releases/download/v0.9.6/philips-hue-adapter-0.9.6.tgz",
-      "checksum": "3d992dbc0b3613da7bb10b9ad869bda46a13a163d6cc7e3570688cea0f94d1e8",
+      "version": "0.9.7",
+      "url": "https://github.com/WebThingsIO/philips-hue-adapter/releases/download/v0.9.7/philips-hue-adapter-0.9.7.tgz",
+      "checksum": "4444ac4001de3f84ed780dca7bc401da2fabb99b27609fd9f9ce71b3a1a896ad",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
