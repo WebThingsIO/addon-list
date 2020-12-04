@@ -15,9 +15,9 @@
           "64"
         ]
       },
-      "version": "0.10.2",
-      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.10.2/homekit-adapter-0.10.2-linux-arm-v10.tgz",
-      "checksum": "800dc66bc3f522b6c4f62b92676d5217dd2f7cc2147649e52e6e103fcdec29e1",
+      "version": "0.10.3",
+      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.10.3/homekit-adapter-0.10.3-linux-arm-v10.tgz",
+      "checksum": "64193b76193aa73d27371d8a6c4e7fe4177f9ce665be4f6e1ff1d08e31bd496a",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "64"
         ]
       },
-      "version": "0.10.2",
-      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.10.2/homekit-adapter-0.10.2-linux-arm64-v10.tgz",
-      "checksum": "a6e8bb407e11ac16ef124f61ffbaeb5c6299296fd3afa4a2519fc40a7adb9a75",
+      "version": "0.10.3",
+      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.10.3/homekit-adapter-0.10.3-linux-arm64-v10.tgz",
+      "checksum": "92a9dc9d626dd167a28c8e7760da65fdc295c840bfa5e50ebe05b6f3cd20724a",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -47,9 +47,9 @@
           "64"
         ]
       },
-      "version": "0.10.2",
-      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.10.2/homekit-adapter-0.10.2-linux-x64-v10.tgz",
-      "checksum": "1b9c251e343f97e1de1a9be6495f1d2a3b479d85e6f4574e32bbe648583486bf",
+      "version": "0.10.3",
+      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.10.3/homekit-adapter-0.10.3-linux-x64-v10.tgz",
+      "checksum": "18e098a44abde0ee07365bb83ef80bec8023424c1df20194838f9b5358100c56",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -63,9 +63,9 @@
           "64"
         ]
       },
-      "version": "0.10.2",
-      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.10.2/homekit-adapter-0.10.2-darwin-x64-v10.tgz",
-      "checksum": "884b1886e2e3dadd88e991d39b65432b844ae67280841f85290a339220985611",
+      "version": "0.10.3",
+      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.10.3/homekit-adapter-0.10.3-darwin-x64-v10.tgz",
+      "checksum": "f21287c27cb7e4ea531da586c29cfe19c22f06a8e0794022cc81a28e2432d40e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -79,9 +79,9 @@
           "72"
         ]
       },
-      "version": "0.10.2",
-      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.10.2/homekit-adapter-0.10.2-linux-arm-v12.tgz",
-      "checksum": "b72450cee6cb89742917b7bd5050fca993a7f3e29b5e3a1c165aa7b2cddcddea",
+      "version": "0.10.3",
+      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.10.3/homekit-adapter-0.10.3-linux-arm-v12.tgz",
+      "checksum": "e2c8be1e7138f4297053f4b13bcd0b983faeda901f4b83b3eabca25ab22729a1",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,9 +95,9 @@
           "72"
         ]
       },
-      "version": "0.10.2",
-      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.10.2/homekit-adapter-0.10.2-linux-arm64-v12.tgz",
-      "checksum": "a3904fc0c20f9b6ea06a0ec704154aced33b7c0d1618992290302b1288d5b86f",
+      "version": "0.10.3",
+      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.10.3/homekit-adapter-0.10.3-linux-arm64-v12.tgz",
+      "checksum": "8614915b7577a60a1ef942d0d86f248c35cfcb2786201c8fea68a663aa50d100",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -111,9 +111,9 @@
           "72"
         ]
       },
-      "version": "0.10.2",
-      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.10.2/homekit-adapter-0.10.2-linux-x64-v12.tgz",
-      "checksum": "1da5d28d7aa4226b1f15c936cef2f181bfa994ed4119e3acbe04b9470cade383",
+      "version": "0.10.3",
+      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.10.3/homekit-adapter-0.10.3-linux-x64-v12.tgz",
+      "checksum": "d4eefb959753b7f80f4deed04188721952f8bd40fd506f35cf07a9f5fab25714",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,9 +127,9 @@
           "72"
         ]
       },
-      "version": "0.10.2",
-      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.10.2/homekit-adapter-0.10.2-darwin-x64-v12.tgz",
-      "checksum": "60b7b45bb00de1489004a70376028304bae3d49aa46c4151fc21bf0a9c443c1d",
+      "version": "0.10.3",
+      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.10.3/homekit-adapter-0.10.3-darwin-x64-v12.tgz",
+      "checksum": "de44e465e3b7226720876a8031f3799b92b21a4f7b6158631630faa4194b4ac1",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -143,9 +143,9 @@
           "83"
         ]
       },
-      "version": "0.10.2",
-      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.10.2/homekit-adapter-0.10.2-linux-arm-v14.tgz",
-      "checksum": "737093475d7d2f719f0b80a1093ff9b2e2ea853f80d52fca8bacdeffb96e0c97",
+      "version": "0.10.3",
+      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.10.3/homekit-adapter-0.10.3-linux-arm-v14.tgz",
+      "checksum": "ca1472245de005adb964fc7bef8fd00a9a0364ca6e58ef2d150043f8b13e071e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -159,9 +159,9 @@
           "83"
         ]
       },
-      "version": "0.10.2",
-      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.10.2/homekit-adapter-0.10.2-linux-arm64-v14.tgz",
-      "checksum": "4704adfa946079afca96f8b1eeee83869b66cc84e4c370cac12addd85007289d",
+      "version": "0.10.3",
+      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.10.3/homekit-adapter-0.10.3-linux-arm64-v14.tgz",
+      "checksum": "79b8db4aaeac46d13ea86de822923e59f7ac0324544237152c9db2eec9e2f22c",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,9 +175,9 @@
           "83"
         ]
       },
-      "version": "0.10.2",
-      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.10.2/homekit-adapter-0.10.2-linux-x64-v14.tgz",
-      "checksum": "fec79020713f341e48d1c7b50336d77987ff6bbc55318121e30ab28eb8402b5d",
+      "version": "0.10.3",
+      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.10.3/homekit-adapter-0.10.3-linux-x64-v14.tgz",
+      "checksum": "231efecceca76aaca560de16a814f35b7e9fba1e5fc00f026aa08a29c9901b27",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,9 +191,9 @@
           "83"
         ]
       },
-      "version": "0.10.2",
-      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.10.2/homekit-adapter-0.10.2-darwin-x64-v14.tgz",
-      "checksum": "2aa446a80ec560c6976414709206dd17aeb36810d745b4dd690af34e0ec6b92b",
+      "version": "0.10.3",
+      "url": "https://github.com/WebThingsIO/homekit-adapter/releases/download/v0.10.3/homekit-adapter-0.10.3-darwin-x64-v14.tgz",
+      "checksum": "a3c84c47d31fdd269143acab034c1afe99f9c15455f729d7b22ea472edc9e0da",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
