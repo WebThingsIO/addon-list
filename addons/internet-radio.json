@@ -19,9 +19,9 @@
           "3.9"
         ]
       },
-      "version": "1.1.2",
-      "url": "https://github.com/flatsiedatsie/internet-radio/releases/download/1.1.2/internet-radio-1.1.2.tgz",
-      "checksum": "cd436debee08fc1f7b3ca3fda125b60316dcfb36dd107989f369c030edf93437",
+      "version": "1.1.4",
+      "url": "https://github.com/flatsiedatsie/internet-radio/releases/download/1.1.4/internet-radio-1.1.4.tgz",
+      "checksum": "0bbe74ff1bb1bcc32ab82c4b1bda972d21ea8eb7d4342ee0043c7aa204178ff2",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
