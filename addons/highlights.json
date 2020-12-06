@@ -18,9 +18,9 @@
           "3.8"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://github.com/flatsiedatsie/highlights/releases/download/0.1.0/highlights-0.1.0.tgz",
-      "checksum": "573d243ea4d177d3739e7fa6275fed595997411140a37a5e9f5a93817c27ef76",
+      "version": "0.5.1",
+      "url": "https://github.com/flatsiedatsie/highlights/releases/download/0.5.1/highlights-0.5.1.tgz",
+      "checksum": "d3e77173ba9d783971ccebfa18e05a71f757c2a0180581af6454c6d5c57c3066",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
