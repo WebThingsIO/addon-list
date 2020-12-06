@@ -19,9 +19,9 @@
           "3.9"
         ]
       },
-      "version": "0.4.0",
-      "url": "https://github.com/flatsiedatsie/followers-addon/releases/download/0.4.0/followers-0.4.0.tgz",
-      "checksum": "f02347497075422fc6cadca5d55d237eaf1e5ab78c32c8fcde7c733a43ef0bb0",
+      "version": "0.5.1",
+      "url": "https://github.com/flatsiedatsie/followers-addon/releases/download/0.5.1/followers-0.5.1.tgz",
+      "checksum": "93d469d606bd5ca2e43adc7ce7aa3b951a32310481f716b39bd5520fe06d5bfa",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
