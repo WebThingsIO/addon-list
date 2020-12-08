@@ -19,9 +19,9 @@
           "3.9"
         ]
       },
-      "version": "0.0.1",
-      "url": "https://github.com/flatsiedatsie/seashell/releases/download/0.0.1/seashell-0.0.1.tgz",
-      "checksum": "040746498d2a148527d5d860121cc5983bf8ed7c48497137af5ef71b26c63eb0",
+      "version": "1.0.0",
+      "url": "https://github.com/flatsiedatsie/seashell/releases/download/1.0.0/seashell-1.0.0.tgz",
+      "checksum": "7a75175dc69fc18f1a28bdfcce6c5b9158e4149e782bf75b05ba0ad71067a3b9",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
