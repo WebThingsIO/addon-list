@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/tim-hellhake/purpleair-adapter/releases/download/1.2.0/purpleair-adapter-1.2.0.tgz",
-      "checksum": "d8e6dcaf69344ea693d553f54bcebb300599898dfe823f49469ac0912c818cfd",
+      "version": "1.2.1",
+      "url": "https://github.com/tim-hellhake/purpleair-adapter/releases/download/1.2.1/purpleair-adapter-1.2.1.tgz",
+      "checksum": "2b3c62cf605db17d589886aece3a6d52ecee918251ee988f232a1f2c18fdfa95",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
