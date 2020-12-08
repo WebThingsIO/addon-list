@@ -15,9 +15,9 @@
           "64"
         ]
       },
-      "version": "0.15.3",
-      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.15.3/zigbee-adapter-0.15.3-linux-arm-v10.tgz",
-      "checksum": "1bb894db191a7712c6414dd6375e19c07f22eef9e87af356cb6e8482d8c7a3d2",
+      "version": "0.15.4",
+      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.15.4/zigbee-adapter-0.15.4-linux-arm-v10.tgz",
+      "checksum": "f40c2e4ea097a15c519667dc01cd92fdb8c27d03a83683bf3b6e28f57ade9dbc",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "64"
         ]
       },
-      "version": "0.15.3",
-      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.15.3/zigbee-adapter-0.15.3-linux-arm64-v10.tgz",
-      "checksum": "3983e5e3daae69044c70f3cc590b9965e803fcb44753059d2c8542eab37d2f15",
+      "version": "0.15.4",
+      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.15.4/zigbee-adapter-0.15.4-linux-arm64-v10.tgz",
+      "checksum": "5ff69aa87c49748305f869b27f9aebd6907608d3a04af2a49745f4dcec5adc22",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -47,9 +47,9 @@
           "64"
         ]
       },
-      "version": "0.15.3",
-      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.15.3/zigbee-adapter-0.15.3-linux-x64-v10.tgz",
-      "checksum": "040783fbc437c6537de798e97495dbdd0e8015338bc38a41742786a701271252",
+      "version": "0.15.4",
+      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.15.4/zigbee-adapter-0.15.4-linux-x64-v10.tgz",
+      "checksum": "f283f41ab764277990257a4e3d236273159523fb8819c492d9f11d7d60165843",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -63,9 +63,9 @@
           "64"
         ]
       },
-      "version": "0.15.3",
-      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.15.3/zigbee-adapter-0.15.3-darwin-x64-v10.tgz",
-      "checksum": "2f669b36b0aeb2ad5beb8a4eadd322912460bed82bc2b826f55351a3122f7572",
+      "version": "0.15.4",
+      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.15.4/zigbee-adapter-0.15.4-darwin-x64-v10.tgz",
+      "checksum": "221a1fbd43ee0d15e45e42ea0a4eb04070a9b89f6632ec876e14cd127c18630b",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -79,9 +79,9 @@
           "72"
         ]
       },
-      "version": "0.15.3",
-      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.15.3/zigbee-adapter-0.15.3-linux-arm-v12.tgz",
-      "checksum": "101adf43075cba81f9ddfe26e63efca962f5fd47d87ea0785cad078f49933923",
+      "version": "0.15.4",
+      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.15.4/zigbee-adapter-0.15.4-linux-arm-v12.tgz",
+      "checksum": "ab08c7e4560b17efa05d0f77f7a1a5291bd328f3b751bc539ddd2eb06f0871d8",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,9 +95,9 @@
           "72"
         ]
       },
-      "version": "0.15.3",
-      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.15.3/zigbee-adapter-0.15.3-linux-arm64-v12.tgz",
-      "checksum": "e6010682e15333347acb772bf710518b04d5c16f5a274ae06699a6334a8f789b",
+      "version": "0.15.4",
+      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.15.4/zigbee-adapter-0.15.4-linux-arm64-v12.tgz",
+      "checksum": "ab04a99b55679506639991c41cf0a8779458295fffbad8474544754fa9f6d604",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -111,9 +111,9 @@
           "72"
         ]
       },
-      "version": "0.15.3",
-      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.15.3/zigbee-adapter-0.15.3-linux-x64-v12.tgz",
-      "checksum": "9451c541cd3e809f3bbdc41e64b8b01c95a19f15cdec6cd798c2e1125e00ec3d",
+      "version": "0.15.4",
+      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.15.4/zigbee-adapter-0.15.4-linux-x64-v12.tgz",
+      "checksum": "cadd0439d63a350d4101446211a21189521a3c0eda06c2065d548e91e6d84617",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,9 +127,9 @@
           "72"
         ]
       },
-      "version": "0.15.3",
-      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.15.3/zigbee-adapter-0.15.3-darwin-x64-v12.tgz",
-      "checksum": "51b7dd1b87ebe3549c313412b16b8b00c91227d314608f9d9d86362917ca9c3a",
+      "version": "0.15.4",
+      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.15.4/zigbee-adapter-0.15.4-darwin-x64-v12.tgz",
+      "checksum": "ea379f87e248a112dbdbaa17bdba2541a81760e88a02f75e47303202bdd2b7eb",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -143,9 +143,9 @@
           "83"
         ]
       },
-      "version": "0.15.3",
-      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.15.3/zigbee-adapter-0.15.3-linux-arm-v14.tgz",
-      "checksum": "ca7e3e1dc89cf511d7fbdd1a665c384c5e7e173f095df89d6a59c1e8689bfdf5",
+      "version": "0.15.4",
+      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.15.4/zigbee-adapter-0.15.4-linux-arm-v14.tgz",
+      "checksum": "640a7c918193906582c495f05fda03ef150abd07216e67e7af49436d0ff883d7",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -159,9 +159,9 @@
           "83"
         ]
       },
-      "version": "0.15.3",
-      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.15.3/zigbee-adapter-0.15.3-linux-arm64-v14.tgz",
-      "checksum": "cc7246f75c9045066a3dbf72cff38e78cc7a14ca2654eeffa1afdd5b53c46375",
+      "version": "0.15.4",
+      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.15.4/zigbee-adapter-0.15.4-linux-arm64-v14.tgz",
+      "checksum": "67c4c977b6423af172bd03223b46350e700d4013a3397cb6e07640b0df0e5fb0",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,9 +175,9 @@
           "83"
         ]
       },
-      "version": "0.15.3",
-      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.15.3/zigbee-adapter-0.15.3-linux-x64-v14.tgz",
-      "checksum": "fae56b81166c6e512ca5aa7e33a4b4aa61ec4562a7a2d93a51b2c39eed0f84f9",
+      "version": "0.15.4",
+      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.15.4/zigbee-adapter-0.15.4-linux-x64-v14.tgz",
+      "checksum": "febf858b509659052b3b822babf41971085f27c86b9472addc1e6b2b63d7152a",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,9 +191,9 @@
           "83"
         ]
       },
-      "version": "0.15.3",
-      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.15.3/zigbee-adapter-0.15.3-darwin-x64-v14.tgz",
-      "checksum": "b5f8864a996be1ac3eff93aa333281dfe739cf1beddb59964df5401e516376e0",
+      "version": "0.15.4",
+      "url": "https://github.com/WebThingsIO/zigbee-adapter/releases/download/v0.15.4/zigbee-adapter-0.15.4-darwin-x64-v14.tgz",
+      "checksum": "8515d6504af6273f6a462ed2a094a3b8f4f82c6de6a789b2d90688e008cd101e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
