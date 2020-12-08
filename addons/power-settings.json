@@ -19,9 +19,9 @@
           "3.9"
         ]
       },
-      "version": "0.0.4",
-      "url": "https://github.com/flatsiedatsie/power-settings/releases/download/0.0.4/power-settings-0.0.4.tgz",
-      "checksum": "d246f7d70acbd25fad302a0c73b1fb16549a78819313b979fe989f8431b79dff",
+      "version": "1.0.0",
+      "url": "https://github.com/flatsiedatsie/power-settings/releases/download/1.0.0/power-settings-1.0.0.tgz",
+      "checksum": "ede9d13c85fcd12763135ac2dbd177a1d26f15dd7685104efadd6835deaab021",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
