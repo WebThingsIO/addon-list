@@ -19,9 +19,9 @@
           "3.9"
         ]
       },
-      "version": "1.0.1",
-      "url": "https://github.com/flatsiedatsie/photo-frame/releases/download/1.0.1/photo-frame-1.0.1.tgz",
-      "checksum": "ab6fb7e25fabd15a67d83369c97d49a24b8ddfc4d95965154777dfcdade534ae",
+      "version": "1.0.3",
+      "url": "https://github.com/flatsiedatsie/photo-frame/releases/download/1.0.3/photo-frame-1.0.3.tgz",
+      "checksum": "3240fffcfbf8599dfd9c1c761a6211c42bca3e0f2d31b19390d8cfe05340c102",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
