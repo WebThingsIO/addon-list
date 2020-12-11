@@ -15,13 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.1",
-      "url": "https://github.com/tim-hellhake/esphome-adapter/releases/download/0.2.1/esphome-adapter-0.2.1.tgz",
-      "checksum": "298b1ff07556e26aac5ed380692a4d29c71a6087f96bb84e6eaeea9f70e014ba",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.2.2",
+      "url": "https://github.com/tim-hellhake/esphome-adapter/releases/download/0.2.2/esphome-adapter-0.2.2.tgz",
+      "checksum": "46fcb841989471b88f3317eb8b6757dc4dbe9009c2aa8584e561b7a6d5d878be",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
