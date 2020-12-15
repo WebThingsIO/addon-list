@@ -19,9 +19,9 @@
           "3.9"
         ]
       },
-      "version": "2.2.6",
-      "url": "https://www.candlesmarthome.com/assistant/voco-2.2.6.tgz",
-      "checksum": "59940dde39c3fc89e6a43c8775c743ddca9e75dcf962dae36a35917b768ded81",
+      "version": "2.3.1",
+      "url": "https://github.com/createcandle/voco/releases/download/2.3.1/voco-2.3.1.tgz",
+      "checksum": "3bd7679d6452de6db6d42ff0a37c8148d5e7859f4ce83472e09f278e8eaf9aac",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
