@@ -19,9 +19,9 @@
           "3.9"
         ]
       },
-      "version": "0.6.2",
-      "url": "https://github.com/WebThingsIO/tplink-adapter/releases/download/v0.6.2/tplink-adapter-0.6.2.tgz",
-      "checksum": "3143e1866673bb838297c821a253a4bf4e5fc7de2f732a10cbe7fe458fabe719",
+      "version": "0.6.3",
+      "url": "https://github.com/WebThingsIO/tplink-adapter/releases/download/v0.6.3/tplink-adapter-0.6.3.tgz",
+      "checksum": "0e7aeffebc0e46f112635c2c7576667f0dd68534527d725af099dd646b81020c",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
