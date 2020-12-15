@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/WebThingsIO/webhook-events/releases/download/v0.2.0/webhook-events-0.2.0.tgz",
-      "checksum": "1cd4516c80813a94f81b12af8b6b6dcddee6abd880a4cd87944a9873172cd078",
+      "version": "0.3.0",
+      "url": "https://github.com/WebThingsIO/webhook-events/releases/download/v0.3.0/webhook-events-0.3.0.tgz",
+      "checksum": "bc55ffa313861cd90232286bcd191940d31ee5f503ccc6028d8d83f703f1203b",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
