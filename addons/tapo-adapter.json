@@ -1,0 +1,331 @@
+{
+  "id": "tapo-adapter",
+  "name": "TP-Link Tapo",
+  "description": "TP-Link Tapo smart plug device support",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/tapo-adapter",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/tapo-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/WebThingsIO/tapo-adapter/releases/download/v0.0.1/tapo-adapter-0.0.1-linux-arm-v3.5.tgz",
+      "checksum": "afb1609c4ade53a331011e840e7f11f321fe1df968c992042cb7027d17afcffb",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/WebThingsIO/tapo-adapter/releases/download/v0.0.1/tapo-adapter-0.0.1-linux-arm64-v3.5.tgz",
+      "checksum": "0967c67202aac9ac1e5f71e927610e701ff14f4ed6eb96f40e1fc8876013048c",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/WebThingsIO/tapo-adapter/releases/download/v0.0.1/tapo-adapter-0.0.1-linux-x64-v3.5.tgz",
+      "checksum": "d95053b9ea4099658ea87638f2506924360913a5070f962a1e867ec50b7fc81d",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/WebThingsIO/tapo-adapter/releases/download/v0.0.1/tapo-adapter-0.0.1-darwin-x64-v3.5.tgz",
+      "checksum": "5038f0213a5ba27e38e7691a5d38314c9e79e80aae7d0e9f764936d86326ad13",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/WebThingsIO/tapo-adapter/releases/download/v0.0.1/tapo-adapter-0.0.1-linux-arm-v3.6.tgz",
+      "checksum": "c7b2db364a50c7fe8ceb8aaef25e2ea0467b35dd1b7a64b0cf7c903d102e3490",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/WebThingsIO/tapo-adapter/releases/download/v0.0.1/tapo-adapter-0.0.1-linux-arm64-v3.6.tgz",
+      "checksum": "f98a3803f4d947a94de5f6fb8b3aa5fff76e4a62baec644ddff01bb3ad764fdf",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/WebThingsIO/tapo-adapter/releases/download/v0.0.1/tapo-adapter-0.0.1-linux-x64-v3.6.tgz",
+      "checksum": "2fe31636c9495aad8a24f5d11c2444050a035317009794e8d75b857f999b239e",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/WebThingsIO/tapo-adapter/releases/download/v0.0.1/tapo-adapter-0.0.1-darwin-x64-v3.6.tgz",
+      "checksum": "a521527af07f95899dd79b7de9e405fb2ab2640561a44add57461fdb24fbab8f",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/WebThingsIO/tapo-adapter/releases/download/v0.0.1/tapo-adapter-0.0.1-linux-arm-v3.7.tgz",
+      "checksum": "3436f61e7b1ca5acf276e6847d5dccce963a944b7712199d401cf24dac2f3f9d",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/WebThingsIO/tapo-adapter/releases/download/v0.0.1/tapo-adapter-0.0.1-linux-arm64-v3.7.tgz",
+      "checksum": "86bca8c953172b4cafc657fc1a8917233f8630f58c8de3bb0bca7bf90bc5fc82",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/WebThingsIO/tapo-adapter/releases/download/v0.0.1/tapo-adapter-0.0.1-linux-x64-v3.7.tgz",
+      "checksum": "102590dfa797dca32f7e71215224eeca5f547d2d05dabbbbc89863e495c1285e",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/WebThingsIO/tapo-adapter/releases/download/v0.0.1/tapo-adapter-0.0.1-darwin-x64-v3.7.tgz",
+      "checksum": "5aab3f48fd46f59450d8b0da71c071d1340e8f4fc0090a665e78c92ef217c2d0",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/WebThingsIO/tapo-adapter/releases/download/v0.0.1/tapo-adapter-0.0.1-linux-arm-v3.8.tgz",
+      "checksum": "5b94ca98204d5da4cb39c2026a9f6de7ddfcb750052a19939b3c2e8f2e51ebc4",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/WebThingsIO/tapo-adapter/releases/download/v0.0.1/tapo-adapter-0.0.1-linux-arm64-v3.8.tgz",
+      "checksum": "254e4168e9637190fd3189d9eb13547578cd9588e32c090093f084a938e42547",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/WebThingsIO/tapo-adapter/releases/download/v0.0.1/tapo-adapter-0.0.1-linux-x64-v3.8.tgz",
+      "checksum": "08fc76abb0e7707816e6dcde7297de959e8ce3051958665751c694cbf73eeb9d",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/WebThingsIO/tapo-adapter/releases/download/v0.0.1/tapo-adapter-0.0.1-darwin-x64-v3.8.tgz",
+      "checksum": "ec857fae69d235b906bd82ab98af5827e825b49a6a29aff6c0444af509d581ca",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/WebThingsIO/tapo-adapter/releases/download/v0.0.1/tapo-adapter-0.0.1-linux-arm-v3.9.tgz",
+      "checksum": "328789b99fa2e07bbd24632bd3562eedf1fc62e4d56f2e8508f8309695aa33ab",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/WebThingsIO/tapo-adapter/releases/download/v0.0.1/tapo-adapter-0.0.1-linux-arm64-v3.9.tgz",
+      "checksum": "61d951cf9d9458044b6aabebbd89aa1cffc77c329a7e4264606c392ad7ebf707",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/WebThingsIO/tapo-adapter/releases/download/v0.0.1/tapo-adapter-0.0.1-linux-x64-v3.9.tgz",
+      "checksum": "798befef113d27b59bb332b3a18fea534c1b8c2b4aae194e76660d9fc2276ec9",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/WebThingsIO/tapo-adapter/releases/download/v0.0.1/tapo-adapter-0.0.1-darwin-x64-v3.9.tgz",
+      "checksum": "e1a9764800fbbf38d56bc074cf0d3f24450a08f10099195d3a6e4fbb2e81f5ec",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
