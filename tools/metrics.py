@@ -18,11 +18,11 @@ def main():
     contributors = set([a['author'] for a in addons])
 
     print('Total contributors: {}'.format(len(contributors)))
-    for c in contributors:
+    for c in sorted(contributors, key=lambda x: x.lower()):
         print('    {}'.format(c))
 
     print('\nTotal add-ons: {}'.format(len(addons)))
-    for a in addons:
+    for a in sorted(addons, key=lambda x: x['name'].lower()):
         print('    {}'.format(a['name']))
 
 
