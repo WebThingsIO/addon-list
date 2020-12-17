@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.4",
-      "url": "https://github.com/bewee/input-event-adapter/releases/download/v0.2.4/input-event-adapter-0.2.4.tgz",
-      "checksum": "3f71b87b6424517393d149fd9ed02032af64f0ef07fa37bf9f37b2456f9ed120",
+      "version": "0.2.5",
+      "url": "https://github.com/bewee/input-event-adapter/releases/download/v0.2.5/input-event-adapter-0.2.5.tgz",
+      "checksum": "5e342db1543d590c644bcd63872afbefba9b05121834eda45be68d9b352ba969",
       "api": {
         "min": 2,
         "max": 2
