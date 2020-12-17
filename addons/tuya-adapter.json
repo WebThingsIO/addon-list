@@ -15,13 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.4",
-      "url": "https://github.com/bewee/tuya-adapter/releases/download/v0.2.4/tuya-adapter-0.2.4.tgz",
-      "checksum": "2905594a1893443385c4f1cd5ed254bbdd4022b5e87520212e5a7cd8c9d0ab25",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.2.5",
+      "url": "https://github.com/bewee/tuya-adapter/releases/download/v0.2.5/tuya-adapter-0.2.5.tgz",
+      "checksum": "7dbb61bb2b83ec2e306ab586fe7837b70e7e64f270edb29744584d651e6fe476",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
