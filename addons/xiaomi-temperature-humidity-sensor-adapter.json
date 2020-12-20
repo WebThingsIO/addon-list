@@ -12,76 +12,12 @@
       "language": {
         "name": "nodejs",
         "versions": [
-          "57"
-        ]
-      },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.2.0/xiaomi-temperature-humidity-sensor-adapter-0.2.0-linux-arm-v8.tgz",
-      "checksum": "f90d8525c75d54e3883e3b8c6b67efc123d3d95726c4ef8f7bdf00c2b1b482a7",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.2.0/xiaomi-temperature-humidity-sensor-adapter-0.2.0-linux-arm64-v8.tgz",
-      "checksum": "ab53fac6d64a168cb6c596a2b6c5181a057309be66a554488e4615610121bb49",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-x64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.2.0/xiaomi-temperature-humidity-sensor-adapter-0.2.0-linux-x64-v8.tgz",
-      "checksum": "18179224a0f92ea256bffea5aa2da5f9b640b2ab721ead61ff85a27480f68d5c",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "darwin-x64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.2.0/xiaomi-temperature-humidity-sensor-adapter-0.2.0-darwin-x64-v8.tgz",
-      "checksum": "91dda76c2e96f3b6b7144341baaa221798c291aa27462d047da01238895391c9",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm",
-      "language": {
-        "name": "nodejs",
-        "versions": [
           "64"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.2.0/xiaomi-temperature-humidity-sensor-adapter-0.2.0-linux-arm-v10.tgz",
-      "checksum": "7f2575be974b62c9008f251265969cdc07fbbb43135bd4e91fd24fcb72e13e93",
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.2.1/xiaomi-temperature-humidity-sensor-adapter-0.2.1-linux-arm-v10.tgz",
+      "checksum": "7a9d3a370902f5958df8ff80df614136cdd7ed421f969e3b4b41e37dfaa8bc45",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,9 +31,9 @@
           "64"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.2.0/xiaomi-temperature-humidity-sensor-adapter-0.2.0-linux-arm64-v10.tgz",
-      "checksum": "35de732b6e39130a61d1584c1932ebb3278f7890c49b9fb9301d40f0ed3bb598",
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.2.1/xiaomi-temperature-humidity-sensor-adapter-0.2.1-linux-arm64-v10.tgz",
+      "checksum": "5b2c61589061205bade738cdf287411099d1fbef56af58a48906c4c7b9bab34b",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -111,9 +47,9 @@
           "64"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.2.0/xiaomi-temperature-humidity-sensor-adapter-0.2.0-linux-x64-v10.tgz",
-      "checksum": "125bc643d7b8fa17041c3706be5e57ff38a02004995615aeabcf4f697da2886c",
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.2.1/xiaomi-temperature-humidity-sensor-adapter-0.2.1-linux-x64-v10.tgz",
+      "checksum": "d242b920f06008da047398ccbd064a52f5ec80696ceda0b10712e79ba381d868",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,9 +63,9 @@
           "64"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.2.0/xiaomi-temperature-humidity-sensor-adapter-0.2.0-darwin-x64-v10.tgz",
-      "checksum": "b887379f933b8deeb68bd5b5e937a680ca6a707776e1769f4d895ab4c0c93a99",
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.2.1/xiaomi-temperature-humidity-sensor-adapter-0.2.1-darwin-x64-v10.tgz",
+      "checksum": "12cd5af63cff1214938f946c8e6a7a7a45b5eff9977165d28dd4cd5da3489997",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -143,9 +79,9 @@
           "72"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.2.0/xiaomi-temperature-humidity-sensor-adapter-0.2.0-linux-arm-v12.tgz",
-      "checksum": "7520d592b9b1c9bd3747ea1f17e822975319e85ce3c7dd7d8a69f4c03abe5933",
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.2.1/xiaomi-temperature-humidity-sensor-adapter-0.2.1-linux-arm-v12.tgz",
+      "checksum": "6348bad81103f5b634726b3b8852fdfcfc286d37b00593d9d368b844961ada9e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -159,9 +95,9 @@
           "72"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.2.0/xiaomi-temperature-humidity-sensor-adapter-0.2.0-linux-arm64-v12.tgz",
-      "checksum": "598998db897300d3c62346ddb813078f969f7b8e4ef383612aafab242f04bbfd",
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.2.1/xiaomi-temperature-humidity-sensor-adapter-0.2.1-linux-arm64-v12.tgz",
+      "checksum": "f4ad49b6e32aa90a9fdd5b738dff5bc0f69e209ef8e1b365aa55fe8a5c858def",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,9 +111,9 @@
           "72"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.2.0/xiaomi-temperature-humidity-sensor-adapter-0.2.0-linux-x64-v12.tgz",
-      "checksum": "b0bf4602f0de18af5679dcd3e2e0082661b07346245614912f539f1cc524cda0",
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.2.1/xiaomi-temperature-humidity-sensor-adapter-0.2.1-linux-x64-v12.tgz",
+      "checksum": "7010b8269dc06a74b3902e7be3f8d54d8beffa2f85de30fbda8418624392b120",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,9 +127,9 @@
           "72"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.2.0/xiaomi-temperature-humidity-sensor-adapter-0.2.0-darwin-x64-v12.tgz",
-      "checksum": "c83526867a1cbceb5f7e474d7d41dea8940fa509f9d9942970e804ee36601a39",
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.2.1/xiaomi-temperature-humidity-sensor-adapter-0.2.1-darwin-x64-v12.tgz",
+      "checksum": "9c5d8683cc6e25a8e981df8105946774ba9843bf0ea0f8536a99c022cca714da",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -207,9 +143,9 @@
           "83"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.2.0/xiaomi-temperature-humidity-sensor-adapter-0.2.0-linux-arm-v14.tgz",
-      "checksum": "e0ab1977ba281f27dbb28ea816b94cf286a7dce52c68c1e8c31366f787060fb4",
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.2.1/xiaomi-temperature-humidity-sensor-adapter-0.2.1-linux-arm-v14.tgz",
+      "checksum": "04d67a35fa69517cfc92054985e7a0b9602539e4ceb697248987c2fdc257b738",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -223,9 +159,9 @@
           "83"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.2.0/xiaomi-temperature-humidity-sensor-adapter-0.2.0-linux-arm64-v14.tgz",
-      "checksum": "e7a3e2377d58e87842884ecf4cac20cd07130f68227463793d294268888bc082",
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.2.1/xiaomi-temperature-humidity-sensor-adapter-0.2.1-linux-arm64-v14.tgz",
+      "checksum": "03a7fc3acedbe721c9e667ff82b03625b23940045e931657ea62d21454879b00",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -239,9 +175,9 @@
           "83"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.2.0/xiaomi-temperature-humidity-sensor-adapter-0.2.0-linux-x64-v14.tgz",
-      "checksum": "06c9f35cb880025b9cd92543696d1233d7834a25f55f12e0db2eed4056b59502",
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.2.1/xiaomi-temperature-humidity-sensor-adapter-0.2.1-linux-x64-v14.tgz",
+      "checksum": "8d2c4a3c486bd89b55a1fe629d278104f63871deb54c41c33af5b89a69e9a331",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -255,9 +191,9 @@
           "83"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.2.0/xiaomi-temperature-humidity-sensor-adapter-0.2.0-darwin-x64-v14.tgz",
-      "checksum": "e84fcd3560b0cc803241db4b43bce808e3ef465ccb6216101dc7dc0b25c0c8a6",
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/xiaomi-temperature-humidity-sensor-adapter/releases/download/0.2.1/xiaomi-temperature-humidity-sensor-adapter-0.2.1-darwin-x64-v14.tgz",
+      "checksum": "6bcdca447a6da69714517b7b6880a50bb49c5832d6071c587f2ffba83aaab890",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
