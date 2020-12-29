@@ -15,11 +15,11 @@
           "any"
         ]
       },
-      "version": "1.3.0",
-      "url": "https://github.com/tim-hellhake/shelly-adapter/releases/download/1.3.0/shelly-adapter-1.3.0.tgz",
-      "checksum": "9a0c21ea5ad80e6671595fcf69dfb8f07888dc6225a49de1cb9d4344a1865ad1",
+      "version": "1.3.1",
+      "url": "https://github.com/tim-hellhake/shelly-adapter/releases/download/1.3.1/shelly-adapter-1.3.1.tgz",
+      "checksum": "e51ea3a57eb463a25d99afdb3e426f257e71c7a236447d8ffae31bcfac86efc2",
       "gateway": {
-        "min": "0.10.0",
+        "min": "1.0.0",
         "max": "*"
       }
     }
