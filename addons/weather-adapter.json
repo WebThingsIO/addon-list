@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.6.0",
-      "url": "https://github.com/WebThingsIO/weather-adapter/releases/download/v0.6.0/weather-adapter-0.6.0.tgz",
-      "checksum": "ad33f00925ec667f0abdd2484450756c46bb4757f369b56d69bd5f62646edd12",
+      "version": "0.6.1",
+      "url": "https://github.com/WebThingsIO/weather-adapter/releases/download/v0.6.1/weather-adapter-0.6.1.tgz",
+      "checksum": "74c97a923de41c8f9856cca94ac43ca8536c5c01daf25e661675349f81fff032",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
