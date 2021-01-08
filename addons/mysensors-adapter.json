@@ -15,9 +15,9 @@
           "3.5"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.0/mysensors-adapter-1.2.0-linux-arm-v3.5.tgz",
-      "checksum": "ffb0ee441ccdf0b0543afdd101e3c3f985c2cc4b008dda5a9e0728195b2da543",
+      "version": "1.2.2",
+      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.2/mysensors-adapter-1.2.2-linux-arm-v3.5.tgz",
+      "checksum": "cea56d9f49eba74da047d5d67d076b900f2eb48b30294b52cbf0de1e7a283d87",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "3.5"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.0/mysensors-adapter-1.2.0-linux-arm64-v3.5.tgz",
-      "checksum": "31d960c44d03167ccdacfb4be0e4801459bf5e1738c29b75a7394cc393cd8e00",
+      "version": "1.2.2",
+      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.2/mysensors-adapter-1.2.2-linux-arm64-v3.5.tgz",
+      "checksum": "a5d03f94b5b6d7c8d093119ac7bd727635749dc0a57a06ccd792b136e046901e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -47,9 +47,9 @@
           "3.5"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.0/mysensors-adapter-1.2.0-linux-x64-v3.5.tgz",
-      "checksum": "02d28d508ff29c19ee004689be0870f4432be58b6eae81a68783067ec374f3fd",
+      "version": "1.2.2",
+      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.2/mysensors-adapter-1.2.2-linux-x64-v3.5.tgz",
+      "checksum": "06650f644e42a2e1d2213c608bedb91ac269c5c592995b13ba2a3ef4671e8ae0",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -63,9 +63,9 @@
           "3.5"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.0/mysensors-adapter-1.2.0-darwin-x64-v3.5.tgz",
-      "checksum": "97d6b37e83080bd174796bf857193b48e271f4ad3a70eac6f88f5913f8855042",
+      "version": "1.2.2",
+      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.2/mysensors-adapter-1.2.2-darwin-x64-v3.5.tgz",
+      "checksum": "239a15bdcaf90f07be3d4dd113c9da4d4beb634d34ac35e666bf365a6be3c33e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -79,9 +79,9 @@
           "3.6"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.0/mysensors-adapter-1.2.0-linux-arm-v3.6.tgz",
-      "checksum": "3a1435295d75c036aefb7c3dcbb838553e587d332ccf172710e9dabac091c824",
+      "version": "1.2.2",
+      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.2/mysensors-adapter-1.2.2-linux-arm-v3.6.tgz",
+      "checksum": "f4fae7ac034f08674af651a4f302568af8f2eda7e9e48abe2d2abbb6a9deae46",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,9 +95,9 @@
           "3.6"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.0/mysensors-adapter-1.2.0-linux-arm64-v3.6.tgz",
-      "checksum": "5046cd0c27fb01706d2ae5508d0b4bea25c21976a94b120d4b3d225a022e9be8",
+      "version": "1.2.2",
+      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.2/mysensors-adapter-1.2.2-linux-arm64-v3.6.tgz",
+      "checksum": "9d9ff77912a52c19eb8d716fcaf85e3124b06a532209dbcfafaaa9c9a6c41b8a",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -111,9 +111,9 @@
           "3.6"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.0/mysensors-adapter-1.2.0-linux-x64-v3.6.tgz",
-      "checksum": "f9c5a2a504e1c9d29c0b341e3d83ee3424c22e289ce2a8745d4c32f1b32022a4",
+      "version": "1.2.2",
+      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.2/mysensors-adapter-1.2.2-linux-x64-v3.6.tgz",
+      "checksum": "01ddcc2e54ad1afa1a4e1272e475b375844d533762711f3d86568e295467525f",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,9 +127,9 @@
           "3.6"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.0/mysensors-adapter-1.2.0-darwin-x64-v3.6.tgz",
-      "checksum": "bfe6242d2b3173b7fc8eb885007c1d936052ff428bfd2953677526f262fcaa65",
+      "version": "1.2.2",
+      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.2/mysensors-adapter-1.2.2-darwin-x64-v3.6.tgz",
+      "checksum": "997e4611ebe23350706e2692195d34320068a8c6645d3097a3b7a84e228a03ac",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -143,9 +143,9 @@
           "3.7"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.0/mysensors-adapter-1.2.0-linux-arm-v3.7.tgz",
-      "checksum": "237c59f52e076efb3ed66ca8c563bb6c33c5e6ca93bf7045bb7262cdcb01ae67",
+      "version": "1.2.2",
+      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.2/mysensors-adapter-1.2.2-linux-arm-v3.7.tgz",
+      "checksum": "08e297620be6d5ab177af1192520d243af0bc382f1fc31dc5727e0e44a2f5242",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -159,9 +159,9 @@
           "3.7"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.0/mysensors-adapter-1.2.0-linux-arm64-v3.7.tgz",
-      "checksum": "cfaa34110cef80c82b2760b8aa396a186444db6a5d55a953c4c165db8c2d7f11",
+      "version": "1.2.2",
+      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.2/mysensors-adapter-1.2.2-linux-arm64-v3.7.tgz",
+      "checksum": "2d2fd7b8405f01b6feadbdc0774bc0c198c81ef627dd22ccc547e4ac60b34d98",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,9 +175,9 @@
           "3.7"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.0/mysensors-adapter-1.2.0-linux-x64-v3.7.tgz",
-      "checksum": "fd716e8a0ea37aea54e4f81c9baf3c1cb5c78c912cccbabd84fc5a9f52e3fc90",
+      "version": "1.2.2",
+      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.2/mysensors-adapter-1.2.2-linux-x64-v3.7.tgz",
+      "checksum": "c66a8dcb1f45fb59918e46301a606910b40e16e272f9509a57e25be5562881bd",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,9 +191,9 @@
           "3.7"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.0/mysensors-adapter-1.2.0-darwin-x64-v3.7.tgz",
-      "checksum": "c12bbc804056aa7e5d1bcaecb64ff39f499d47f5bc6a84b1a5681b296e44697f",
+      "version": "1.2.2",
+      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.2/mysensors-adapter-1.2.2-darwin-x64-v3.7.tgz",
+      "checksum": "cdee6181e450f13643fb107a3195828671668528d7f8c49b4365bb1e2705ec66",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -207,9 +207,9 @@
           "3.8"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.0/mysensors-adapter-1.2.0-linux-arm-v3.8.tgz",
-      "checksum": "81930aa0d110ad049f9abbe25064a7064f76b19fea0d965f985e1e64d93b6162",
+      "version": "1.2.2",
+      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.2/mysensors-adapter-1.2.2-linux-arm-v3.8.tgz",
+      "checksum": "00d438911806f090e57b3c3918e7c571cb9699a24215ec2b5a69887db48361c3",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -223,9 +223,9 @@
           "3.8"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.0/mysensors-adapter-1.2.0-linux-arm64-v3.8.tgz",
-      "checksum": "b40d9c421cb021aa7811ca3133e48cea997566f3d1647d8755a9e418ddaa39c8",
+      "version": "1.2.2",
+      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.2/mysensors-adapter-1.2.2-linux-arm64-v3.8.tgz",
+      "checksum": "a1b81ffd20340d66c751f008bd6cb328b4cabb23ef2b7960b852ebc6301b9d95",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -239,9 +239,9 @@
           "3.8"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.0/mysensors-adapter-1.2.0-linux-x64-v3.8.tgz",
-      "checksum": "8af8ed1fe0e9d036b65375ba88519b8c1966f4893230769cb6dec9956390851b",
+      "version": "1.2.2",
+      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.2/mysensors-adapter-1.2.2-linux-x64-v3.8.tgz",
+      "checksum": "fc1731813d964adfb1a1d546d634fdb4a841953604ea6e412a30f5aaccbf76c2",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -255,9 +255,9 @@
           "3.8"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.0/mysensors-adapter-1.2.0-darwin-x64-v3.8.tgz",
-      "checksum": "824c9c79a0a50791e245dba6645a24b00a572ac68db79aba0ef5768f7f21e28e",
+      "version": "1.2.2",
+      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.2/mysensors-adapter-1.2.2-darwin-x64-v3.8.tgz",
+      "checksum": "82c13a56fcf415ce293d47c5fef8f57e8dc1963badfd3e102f176b548c5f1fd3",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -271,9 +271,9 @@
           "3.9"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.0/mysensors-adapter-1.2.0-linux-arm-v3.9.tgz",
-      "checksum": "00e11ad5a6c17aac173fd3abd79264a721078905e41edd73a5cbca0fe519c3ff",
+      "version": "1.2.2",
+      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.2/mysensors-adapter-1.2.2-linux-arm-v3.9.tgz",
+      "checksum": "de3e85bfa250d616cb95a1dd22a9d4d5467685a4e50c9212649a2a249e76fad3",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -287,9 +287,9 @@
           "3.9"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.0/mysensors-adapter-1.2.0-linux-arm64-v3.9.tgz",
-      "checksum": "2c1fa8644dec0651e15aeb61c5eea76a1c72472a32bf526d18069a1ca8045019",
+      "version": "1.2.2",
+      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.2/mysensors-adapter-1.2.2-linux-arm64-v3.9.tgz",
+      "checksum": "31aaa4f21536f3815962e568076f34aa7384a2126263dfee348fde4b65bc72c1",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -303,9 +303,9 @@
           "3.9"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.0/mysensors-adapter-1.2.0-linux-x64-v3.9.tgz",
-      "checksum": "c33d85ab0d9930007adc91a82c32f374c68aec2080c79ac0700904142f4e8e4a",
+      "version": "1.2.2",
+      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.2/mysensors-adapter-1.2.2-linux-x64-v3.9.tgz",
+      "checksum": "022c85bd1fa7b05c1ad22b439d0f8aa2f06c37e5b957ff5a37ce9c7d19b98f98",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -319,9 +319,9 @@
           "3.9"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.0/mysensors-adapter-1.2.0-darwin-x64-v3.9.tgz",
-      "checksum": "ba8d939e112a3a8141b209692461b8d0247ebf13af13453689c9cfb10d6ed748",
+      "version": "1.2.2",
+      "url": "https://github.com/createcandle/Webthings-mysensors-adapter/releases/download/1.2.2/mysensors-adapter-1.2.2-darwin-x64-v3.9.tgz",
+      "checksum": "9d065c01edf8f46274ba03c69f2cbb1f0f4d37ffda6a90a77c96c2db3c47cb74",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
