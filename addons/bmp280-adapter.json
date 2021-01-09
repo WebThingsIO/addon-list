@@ -15,13 +15,9 @@
           "64"
         ]
       },
-      "version": "0.1.2",
-      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.2/bmp280-adapter-0.1.2-linux-arm-v10.tgz",
-      "checksum": "99c47e332eb88a94632ce75ebc45f7276b673b5002686ee10bf91a6584851836",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.3",
+      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.3/bmp280-adapter-0.1.3-linux-arm-v10.tgz",
+      "checksum": "4de9fa95bdbdfc00905cb9af4a6e0afe01552b9c2d0674b6f5c461a0671151ed",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -35,13 +31,9 @@
           "64"
         ]
       },
-      "version": "0.1.2",
-      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.2/bmp280-adapter-0.1.2-linux-arm64-v10.tgz",
-      "checksum": "02b8605581baecbd155c4e21d6253d62fabbc484db9a0ec3560244405e544211",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.3",
+      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.3/bmp280-adapter-0.1.3-linux-arm64-v10.tgz",
+      "checksum": "2e30c1b09cacc803bc2752c3465b41b3bfc23f87d50abd1d8da80898086471e4",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -55,13 +47,9 @@
           "64"
         ]
       },
-      "version": "0.1.2",
-      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.2/bmp280-adapter-0.1.2-linux-x64-v10.tgz",
-      "checksum": "8c376c94c40899250e5dae671fc0bf5c6f3db440ccf8dda10ab52fa316583c2f",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.3",
+      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.3/bmp280-adapter-0.1.3-linux-x64-v10.tgz",
+      "checksum": "ac194909503de88f51c2aa4018bff03d1aaeb28a5762661744e8c69d9438a4c4",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -75,13 +63,9 @@
           "72"
         ]
       },
-      "version": "0.1.2",
-      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.2/bmp280-adapter-0.1.2-linux-arm-v12.tgz",
-      "checksum": "f4853df6851d002c67007e62d71947d5a2f740178f3c99bfb1b16a8f220ba3bb",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.3",
+      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.3/bmp280-adapter-0.1.3-linux-arm-v12.tgz",
+      "checksum": "4b0941d04fa612b6bb30a40fbb89306edcc004f7ba8d04bfea380aa975587714",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,13 +79,9 @@
           "72"
         ]
       },
-      "version": "0.1.2",
-      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.2/bmp280-adapter-0.1.2-linux-arm64-v12.tgz",
-      "checksum": "d7455f50a73610504355c5f54e400b6c83a1e4a563159cc306edad1e801d37ab",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.3",
+      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.3/bmp280-adapter-0.1.3-linux-arm64-v12.tgz",
+      "checksum": "db506dea60ded904035c5c4c8b3a4eb64449cf865d94fc6804df255c0b285289",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -115,13 +95,9 @@
           "72"
         ]
       },
-      "version": "0.1.2",
-      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.2/bmp280-adapter-0.1.2-linux-x64-v12.tgz",
-      "checksum": "ec7c99ce18b0d5e7adfa4fc1ce6b797fb3610acdf41e5e8697afcf72ae3826c4",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.3",
+      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.3/bmp280-adapter-0.1.3-linux-x64-v12.tgz",
+      "checksum": "21353f14c765bb78c204e4439594d3a447bed910a42ad166e96de4288a4173b8",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -135,13 +111,9 @@
           "83"
         ]
       },
-      "version": "0.1.2",
-      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.2/bmp280-adapter-0.1.2-linux-arm-v14.tgz",
-      "checksum": "22b1ccdc8f60a11dbe9414d49d5359276b49bb15f2a135d592a26889bc951bbd",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.3",
+      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.3/bmp280-adapter-0.1.3-linux-arm-v14.tgz",
+      "checksum": "6304bec91c86437b6b478e0dca54158e80357aa7aae1b021cd6a07f511fe9cd1",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -155,13 +127,9 @@
           "83"
         ]
       },
-      "version": "0.1.2",
-      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.2/bmp280-adapter-0.1.2-linux-arm64-v14.tgz",
-      "checksum": "4a9ae01e57c75dc6c3bbab29e6481d5b974b3821976a3bf459c46a66ce70f73a",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.3",
+      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.3/bmp280-adapter-0.1.3-linux-arm64-v14.tgz",
+      "checksum": "991b20b0b7a4b2542ad50f4cfba2437f78d0c6e95c4a2ecf367583c6494d2c79",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,13 +143,9 @@
           "83"
         ]
       },
-      "version": "0.1.2",
-      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.2/bmp280-adapter-0.1.2-linux-x64-v14.tgz",
-      "checksum": "f1525af9dbacdbcd4e0fef88c7a09886b69d23630995dfebb0b6b0d6d924ed41",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.3",
+      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.3/bmp280-adapter-0.1.3-linux-x64-v14.tgz",
+      "checksum": "9fdd226b61c858a0479db2612eb87c41249aed97f6a371a23eeb17538ebda9f7",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
