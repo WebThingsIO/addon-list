@@ -19,9 +19,9 @@
           "3.9"
         ]
       },
-      "version": "0.5.2",
-      "url": "https://github.com/WebThingsIO/etekcity-adapter/releases/download/v0.5.2/etekcity-adapter-0.5.2.tgz",
-      "checksum": "b4c4ac90e779e4dd19c358920aa19f0f6a9017e353e1c8dfc1e7da5abadf9b3c",
+      "version": "0.5.3",
+      "url": "https://github.com/WebThingsIO/etekcity-adapter/releases/download/v0.5.3/etekcity-adapter-0.5.3.tgz",
+      "checksum": "aa80bac4ad9e24d394704b4fcf69d3cafae32598d14fad83ed920252f6d33098",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
