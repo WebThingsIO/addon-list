@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.6.0",
-      "url": "https://github.com/tim-hellhake/spotify-adapter/releases/download/0.6.0/spotify-adapter-0.6.0.tgz",
-      "checksum": "a7e1ff0be3850f634e6847215bc275d377e2fb3c337b633572c33b8afbe96a81",
+      "version": "0.6.1",
+      "url": "https://github.com/tim-hellhake/spotify-adapter/releases/download/0.6.1/spotify-adapter-0.6.1.tgz",
+      "checksum": "2d8e1f77a4e85a4e98afa29fc9b97f119d6cd78950e47141b94c9ecf68721745",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
