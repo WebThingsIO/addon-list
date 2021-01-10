@@ -15,13 +15,9 @@
           "any"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://github.com/bvmensvoort/mozillaiot-foobot/releases/download/v0.0.2/foobot-adapter-0.0.2.tgz",
-      "checksum": "a36256981e43209ca4f8c3ed5a03d17d9a80ec699620b7415e68b433f2eb5359",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.0.4",
+      "url": "https://github.com/bvmensvoort/mozillaiot-foobot/releases/download/v0.0.4/foobot-adapter-0.0.4.tgz",
+      "checksum": "97dd3f22db1cf4345d9141d5f6c6ed5581747fb7fcefb65ed17508edd4a075e6",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
