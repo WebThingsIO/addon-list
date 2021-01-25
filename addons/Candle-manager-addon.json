@@ -6,55 +6,7 @@
   "homepage_url": "https://github.com/createcandle/Candle-manager-addon",
   "license_url": "https://raw.githubusercontent.com/createcandle/Candle-manager-addon/master/LICENSE",
   "primary_type": "adapter",
-  "packages": [
-    {
-      "architecture": "linux-arm",
-      "language": {
-        "name": "python",
-        "versions": [
-          "3.5"
-        ]
-      },
-      "version": "1.1.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.4/Candle-manager-addon-1.1.4-linux-arm-v3.5.tgz",
-      "checksum": "27542869d68e49d7a128084706b2ba1bdcad874cb3e152e02cbf34b6cc1b252e",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm64",
-      "language": {
-        "name": "python",
-        "versions": [
-          "3.5"
-        ]
-      },
-      "version": "1.1.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.4/Candle-manager-addon-1.1.4-linux-arm64-v3.5.tgz",
-      "checksum": "98cf4c29582b6462cd2b9dc4b0ab4c27fa3fa8becfccd9b39df7a602cd6db1d4",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-x64",
-      "language": {
-        "name": "python",
-        "versions": [
-          "3.5"
-        ]
-      },
-      "version": "1.1.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.4/Candle-manager-addon-1.1.4-linux-x64-v3.5.tgz",
-      "checksum": "143d7de554249044ffea46ef5640f601c90d2974adb22d077e7fc9b8e912e94a",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
+    "packages": [
     {
       "architecture": "darwin-x64",
       "language": {
@@ -63,57 +15,9 @@
           "3.5"
         ]
       },
-      "version": "1.1.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.4/Candle-manager-addon-1.1.4-darwin-x64-v3.5.tgz",
-      "checksum": "1f8642872466a57182b34e9ef9eac285713cfdba633c103ce9fbbbfc3741ec56",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm",
-      "language": {
-        "name": "python",
-        "versions": [
-          "3.6"
-        ]
-      },
-      "version": "1.1.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.4/Candle-manager-addon-1.1.4-linux-arm-v3.6.tgz",
-      "checksum": "72d8f1a6e8d10d22c39b5b6e5a829b59a29963137ca51f2e2bdd8d4821625336",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm64",
-      "language": {
-        "name": "python",
-        "versions": [
-          "3.6"
-        ]
-      },
-      "version": "1.1.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.4/Candle-manager-addon-1.1.4-linux-arm64-v3.6.tgz",
-      "checksum": "bca07da141e317d6145974b01948bef881ee11b439549318dcdfa32b8b861ded",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-x64",
-      "language": {
-        "name": "python",
-        "versions": [
-          "3.6"
-        ]
-      },
-      "version": "1.1.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.4/Candle-manager-addon-1.1.4-linux-x64-v3.6.tgz",
-      "checksum": "b87265620685ed064fc5983959780ff62cb7e326982347cf40cf7d3e740d8533",
+      "version": "1.1.7",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.7/Candle-manager-addon-1.1.7-darwin-x64-v3.5.tgz",
+      "checksum": "ae0ad04bc13be0b404ec326a3a3bff3aa730e14393cc061e9df5283df1b9f35e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,57 +31,9 @@
           "3.6"
         ]
       },
-      "version": "1.1.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.4/Candle-manager-addon-1.1.4-darwin-x64-v3.6.tgz",
-      "checksum": "9e87c9df069f67dc7d707172060a976ccd95df02cc8500dd03beb4af9fb95d20",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm",
-      "language": {
-        "name": "python",
-        "versions": [
-          "3.7"
-        ]
-      },
-      "version": "1.1.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.4/Candle-manager-addon-1.1.4-linux-arm-v3.7.tgz",
-      "checksum": "79a0dce546c0cf261fabf7497fc369679ca935bc188476169cf5843cdebf3a6a",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm64",
-      "language": {
-        "name": "python",
-        "versions": [
-          "3.7"
-        ]
-      },
-      "version": "1.1.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.4/Candle-manager-addon-1.1.4-linux-arm64-v3.7.tgz",
-      "checksum": "4ebed448dcd1234c465405a61963292ac9be2cf1bbb8a9f2a6a0b3daac217020",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-x64",
-      "language": {
-        "name": "python",
-        "versions": [
-          "3.7"
-        ]
-      },
-      "version": "1.1.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.4/Candle-manager-addon-1.1.4-linux-x64-v3.7.tgz",
-      "checksum": "acdaa12473ab01669458ab03906c600f15332a537d0937d4bc055a99abf2ef45",
+      "version": "1.1.7",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.7/Candle-manager-addon-1.1.7-darwin-x64-v3.6.tgz",
+      "checksum": "ee52ceb7b915ffa7ea17730decd69c21c1df6ef9dcfd215290713c902e1b403d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,57 +47,9 @@
           "3.7"
         ]
       },
-      "version": "1.1.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.4/Candle-manager-addon-1.1.4-darwin-x64-v3.7.tgz",
-      "checksum": "af2dd8acaaa54492941a303cad545fd7f3ea682106326a8cc7698a195d731a29",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm",
-      "language": {
-        "name": "python",
-        "versions": [
-          "3.8"
-        ]
-      },
-      "version": "1.1.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.4/Candle-manager-addon-1.1.4-linux-arm-v3.8.tgz",
-      "checksum": "4822e6b6e2a1dd643e65c7c9e610d45a562e5710e9f262c43cd80dd48e9391d3",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm64",
-      "language": {
-        "name": "python",
-        "versions": [
-          "3.8"
-        ]
-      },
-      "version": "1.1.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.4/Candle-manager-addon-1.1.4-linux-arm64-v3.8.tgz",
-      "checksum": "bae21466a75de25d6394ed4c8b29c9165201146a3cb0e16927d651e2c3ea97bc",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-x64",
-      "language": {
-        "name": "python",
-        "versions": [
-          "3.8"
-        ]
-      },
-      "version": "1.1.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.4/Candle-manager-addon-1.1.4-linux-x64-v3.8.tgz",
-      "checksum": "582767146651da77b6bb12bc08ff3c9903deacebe48fdf2f11943ce5ae7947cb",
+      "version": "1.1.7",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.7/Candle-manager-addon-1.1.7-darwin-x64-v3.7.tgz",
+      "checksum": "74069e6366b676bed0494038a5d86648d47c93e93f8f6f4d561219df2e2df3fa",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -255,57 +63,9 @@
           "3.8"
         ]
       },
-      "version": "1.1.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.4/Candle-manager-addon-1.1.4-darwin-x64-v3.8.tgz",
-      "checksum": "d6c6ff2c9f974a2d5ac321af66a4497def21e6ab82e4c4e68381d63f42ec1ece",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm",
-      "language": {
-        "name": "python",
-        "versions": [
-          "3.9"
-        ]
-      },
-      "version": "1.1.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.4/Candle-manager-addon-1.1.4-linux-arm-v3.9.tgz",
-      "checksum": "fb4b1141c95aef225008691c8bebee6a81e1bfc41b88230579828ff15a145dd6",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm64",
-      "language": {
-        "name": "python",
-        "versions": [
-          "3.9"
-        ]
-      },
-      "version": "1.1.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.4/Candle-manager-addon-1.1.4-linux-arm64-v3.9.tgz",
-      "checksum": "c0591b91976a8ee4f3cc451828d197cc5c59adf471ce94cff4d0ba20606eb30e",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-x64",
-      "language": {
-        "name": "python",
-        "versions": [
-          "3.9"
-        ]
-      },
-      "version": "1.1.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.4/Candle-manager-addon-1.1.4-linux-x64-v3.9.tgz",
-      "checksum": "0287b1bb54307260a962643dbbd9f310d035fc8a067bc1d36b1632c3ed0925d1",
+      "version": "1.1.7",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.7/Candle-manager-addon-1.1.7-darwin-x64-v3.8.tgz",
+      "checksum": "1de118f08df6ba0dd82a31d9b3f309a74f23066891bcbfd658618dc53081e352",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -319,9 +79,249 @@
           "3.9"
         ]
       },
-      "version": "1.1.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.4/Candle-manager-addon-1.1.4-darwin-x64-v3.9.tgz",
-      "checksum": "23b226e3fc6acda3c00931d98ee3cec97e613f587b0736212cd7e38813add5e4",
+      "version": "1.1.7",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.7/Candle-manager-addon-1.1.7-darwin-x64-v3.9.tgz",
+      "checksum": "2fea45093070dc5d17376146c3608d9573e5817aca69191c59a645795f62a333",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "1.1.7",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.7/Candle-manager-addon-1.1.7-linux-arm-v3.5.tgz",
+      "checksum": "4689b33a8a4034c50a9711867fc76730e74113d27edb9af460633faa2d0cf801",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "1.1.7",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.7/Candle-manager-addon-1.1.7-linux-arm-v3.6.tgz",
+      "checksum": "965525d107ea1f0f3d077331a6231c37eab768fb5c2e9e1fa1c6e75f146c63d2",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "1.1.7",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.7/Candle-manager-addon-1.1.7-linux-arm-v3.7.tgz",
+      "checksum": "5e4968e5542670b0438373ffb90446aee74959817e556c15ebd005d229c1bcd6",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "1.1.7",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.7/Candle-manager-addon-1.1.7-linux-arm-v3.8.tgz",
+      "checksum": "5a3cb5da8438d46c07c594acbbe6014a7a08b2ae70e4352d003dc86fdaf11891",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "1.1.7",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.7/Candle-manager-addon-1.1.7-linux-arm-v3.9.tgz",
+      "checksum": "e0686c013202abba9c685598536ab8d1783bbd97203cbbc10dec7f591d8606bf",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "1.1.7",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.7/Candle-manager-addon-1.1.7-linux-arm64-v3.5.tgz",
+      "checksum": "3ade23f34f47d84d5c9879897116cd6b4f68f1b91cb10341dfdb366cf488b1cd",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "1.1.7",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.7/Candle-manager-addon-1.1.7-linux-arm64-v3.6.tgz",
+      "checksum": "a0dab3bc29d50e483256ee2db47099d5fec643a9f612243b2dcbc5c384108477",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "1.1.7",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.7/Candle-manager-addon-1.1.7-linux-arm64-v3.7.tgz",
+      "checksum": "2b9f2b26ad95358d03826e6d5743598151de342c84242f4d23b64becddbb9088",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "1.1.7",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.7/Candle-manager-addon-1.1.7-linux-arm64-v3.8.tgz",
+      "checksum": "e7fd3cf2429ab2fcd3c05000188eb9379f2189a6be28073db76473f6bd1ec3b2",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "1.1.7",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.7/Candle-manager-addon-1.1.7-linux-arm64-v3.9.tgz",
+      "checksum": "4eeac22e6b0ace6ee36b6ad3c970154c68bbcef276f03b8a664061f0449b6240",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5"
+        ]
+      },
+      "version": "1.1.7",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.7/Candle-manager-addon-1.1.7-linux-x64-v3.5.tgz",
+      "checksum": "1614177ea95bf1899e34c10e504ca78d5220824134a2d526fcea8a93ddf32b9b",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.6"
+        ]
+      },
+      "version": "1.1.7",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.7/Candle-manager-addon-1.1.7-linux-x64-v3.6.tgz",
+      "checksum": "37e946f133deaef723221749a171d913f3a1b0a7e1b60a86ef15900d16ded0bc",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "1.1.7",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.7/Candle-manager-addon-1.1.7-linux-x64-v3.7.tgz",
+      "checksum": "6a612c0a763bcd14360721ba862a25d256d2d32c3cf64c438283316c4d8d3c1c",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "1.1.7",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.7/Candle-manager-addon-1.1.7-linux-x64-v3.8.tgz",
+      "checksum": "900b1dfafc55cea0f07dd9ebde1ea4c0a9c02ff7f84434c04184847f710345bb",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "1.1.7",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.1.7/Candle-manager-addon-1.1.7-linux-x64-v3.9.tgz",
+      "checksum": "f17023ab83a26df30d47dad29ab7e9a2c2786c3a9d6304bbf502556d2a0a1ac1",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
