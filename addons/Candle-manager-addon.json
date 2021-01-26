@@ -6,7 +6,7 @@
   "homepage_url": "https://github.com/createcandle/Candle-manager-addon",
   "license_url": "https://raw.githubusercontent.com/createcandle/Candle-manager-addon/master/LICENSE",
   "primary_type": "adapter",
-    "packages": [
+  "packages": [
     {
       "architecture": "darwin-x64",
       "language": {
