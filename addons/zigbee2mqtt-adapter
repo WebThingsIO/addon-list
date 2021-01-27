@@ -1,0 +1,27 @@
+{
+  "id": "zigbee2mqtt-adapter",
+  "name": "Zigbee2MQTT",
+  "description": "Zigbee device support. Can connect to devices that are supported by the Zigbee2MQTT project.",
+  "author": "Kabbi",
+  "homepage_url": "https://github.com/kabbi/zigbee2mqtt-adapter",
+  "license_url": "https://github.com/kabbi/zigbee2mqtt-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.3.0",
+      "url": "https://github.com/kabbi/zigbee2mqtt-adapter/releases/download/0.3.0/zigbee2mqtt-adapter-0.3.0.tgz",
+      "checksum": "670c8f928088be1c26a5e644c6893bc49c77c8480dc050d50ec6915da9cd0e8b",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
