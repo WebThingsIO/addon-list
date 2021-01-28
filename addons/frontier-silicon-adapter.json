@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.8.4",
-      "url": "https://github.com/bewee/frontier-silicon-adapter/releases/download/v0.8.4/frontier-silicon-adapter-0.8.4.tgz",
-      "checksum": "4a4abd9f2380838ce9e1bbfca4996af3e3c90aac78603694e0d35e85617a593f",
+      "version": "0.8.5",
+      "url": "https://github.com/bewee/frontier-silicon-adapter/releases/download/v0.8.5/frontier-silicon-adapter-0.8.5.tgz",
+      "checksum": "b82d21a2e4976507ed11ab1fe8a8b233aba331d0858b04bdb577ad9c87f7eb0a",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
