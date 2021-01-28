@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.3.0",
-      "url": "https://github.com/kabbi/zigbee2mqtt-adapter/releases/download/0.3.0/zigbee2mqtt-adapter-0.3.0.tgz",
-      "checksum": "670c8f928088be1c26a5e644c6893bc49c77c8480dc050d50ec6915da9cd0e8b",
+      "version": "0.3.2",
+      "url": "https://github.com/kabbi/zigbee2mqtt-adapter/releases/download/0.3.2/zigbee2mqtt-adapter-0.3.2.tgz",
+      "checksum": "29201352c777f6be99d883ad7254d618ee5601b398bc9d95ebfe1c6664302b49",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
