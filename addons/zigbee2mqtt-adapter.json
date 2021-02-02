@@ -1,6 +1,6 @@
 {
   "id": "zigbee2mqtt-adapter",
-  "name": "Zigbee2MQTT",
+  "name": "zigbee2mqtt-adapter",
   "description": "Zigbee device support. Can connect to devices that are supported by the Zigbee2MQTT project.",
   "author": "Kabbi",
   "homepage_url": "https://github.com/kabbi/zigbee2mqtt-adapter",
