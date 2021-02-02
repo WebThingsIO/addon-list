@@ -12,9 +12,9 @@
       "language": {
         "name": "none"
       },
-      "version": "1.0.2",
-      "url": "https://github.com/flatsiedatsie/square-theme/releases/download/1.0.2/square-theme-1.0.2.tgz",
-      "checksum": "6cc7d5c3b43e4989085e9b383e53927aebb5cde31090de86b047b8eeaea191a9",
+      "version": "1.0.3",
+      "url": "https://github.com/flatsiedatsie/square-theme/releases/download/1.0.3/square-theme-1.0.3.tgz",
+      "checksum": "59e66996833783500a8a4a8418165b972e53710ecbdc2139d59d1d1e2d44cb9e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
