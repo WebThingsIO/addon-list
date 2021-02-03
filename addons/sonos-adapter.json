@@ -15,11 +15,11 @@
           "any"
         ]
       },
-      "version": "0.10.0",
-      "url": "https://github.com/tim-hellhake/sonos-adapter/releases/download/0.10.0/sonos-adapter-0.10.0.tgz",
-      "checksum": "6c952357c959bb388c87ff64f6ae71872cabbd55b768060a64f1b292935b4eaf",
+      "version": "0.10.1",
+      "url": "https://github.com/tim-hellhake/sonos-adapter/releases/download/0.10.1/sonos-adapter-0.10.1.tgz",
+      "checksum": "453615315e4ce4545ece8f6c655e42495958b82f054a959696677c2080c50a88",
       "gateway": {
-        "min": "0.10.0",
+        "min": "1.0.0",
         "max": "*"
       }
     }
