@@ -15,9 +15,9 @@
             "any"
           ]
         },
-        "version": "0.2.0",
-        "url": "https://github.com/freaktechnik/dingz-adapter/releases/download/v0.2.0/dingz-adapter-0.2.0.tgz",
-        "checksum": "40b3903679e4f1f83a97523a25def9d5aafec7f565c35cf2217a18b7b796e418",
+        "version": "0.2.1",
+        "url": "https://github.com/freaktechnik/dingz-adapter/releases/download/v0.2.1/dingz-adapter-0.2.1.tgz",
+        "checksum": "b1aae92c8acddc436ed4af9a69365b3094ceabea1a97f93095a169a4ba38cb1e",
         "gateway": {
           "min": "0.10.0",
           "max": "*"
