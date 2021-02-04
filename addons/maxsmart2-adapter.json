@@ -1,0 +1,27 @@
+{
+    "id": "maxsmart2-adapter",
+    "name": "Max Hauri maxSMART 2.0",
+    "description": "maxSMART 2.0 support",
+    "author": "Martin Giger",
+    "homepage_url": "https://github.com/freaktechnik/maxsmart2-adapter#readme",
+    "license_url": "https://raw.githubusercontent.com/freaktechnik/maxsmart2-adapter/main/LICENSE",
+    "primary_type": "adapter",
+    "packages": [
+      {
+        "architecture": "any",
+        "language": {
+          "name": "nodejs",
+          "versions": [
+            "any"
+          ]
+        },
+        "version": "0.1.0",
+        "url": "https://github.com/freaktechnik/maxsmart2-adapter/releases/download/v0.1.0/maxsmart2-adapter-0.1.0.tgz",
+        "checksum": "7e69cce4628a22acec71c48570fe39cb0a87e14d0c406fe022f5798f69367484",
+        "gateway": {
+          "min": "0.10.0",
+          "max": "*"
+        }
+      }
+    ]
+  }
