@@ -3,7 +3,7 @@
   "name": "Simple MQTT",
   "description": "Creates a virtual device with configurable actions/events connected to a MQTT broker.",
   "author": "Michael Kohler",
-  "homepage_url": "https://github.com/MichaelKohler/simple-mqtt-adapter#readme",
+  "homepage_url": "https://github.com/MichaelKohler/simple-mqtt-adapter",
   "license_url": "https://raw.githubusercontent.com/MichaelKohler/simple-mqtt-adapter/main/LICENSE",
   "primary_type": "adapter",
   "packages": [
