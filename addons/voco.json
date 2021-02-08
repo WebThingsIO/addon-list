@@ -19,9 +19,9 @@
           "3.9"
         ]
       },
-      "version": "2.5.6",
-      "url": "https://github.com/createcandle/voco/releases/download/2.5.6/voco-2.5.6.tgz",
-      "checksum": "aa0ef022b2de1476df08e5795ea7a9cff066bea93d2c4dfa2618891489dd6b67",
+      "version": "2.5.8",
+      "url": "https://github.com/createcandle/voco/releases/download/2.5.8/voco-2.5.8.tgz",
+      "checksum": "915f95e1554a64ecab2d4fb7229dd50a79f48f63d498fcf23034cd9b9c41b7b6",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
