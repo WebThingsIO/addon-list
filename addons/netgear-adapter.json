@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.0.3",
-      "url": "https://github.com/mrstegeman/netgear-adapter/releases/download/v0.0.3/netgear-adapter-0.0.3.tgz",
-      "checksum": "9318ca18088ba6358efeb665046c0697791d5ba79a606e70382f39ab8ee83d5b",
+      "version": "0.0.4",
+      "url": "https://github.com/mrstegeman/netgear-adapter/releases/download/v0.0.4/netgear-adapter-0.0.4.tgz",
+      "checksum": "1467d1b55fcff0bc85847583ff7220b4b4431fb37c879b1d013276d31a437a40",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
