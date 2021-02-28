@@ -15,9 +15,9 @@
           "64"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.0/influxdb-bridge-0.5.0-linux-arm-v10.tgz",
-      "checksum": "b1936ea0fc6f439a179ae447c36b3f4f4cf47c070cc64d896b10274df1b1380a",
+      "version": "0.5.1",
+      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.1/influxdb-bridge-0.5.1-linux-arm-v10.tgz",
+      "checksum": "7ee9cff634bc384dcce0e414d0dad60a2b75a00c0e2a6a48bce7bda0e869bfc3",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "64"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.0/influxdb-bridge-0.5.0-linux-arm64-v10.tgz",
-      "checksum": "e08cbff5492388f93ba6d38265f1f5bc19b543762f63c715dbbffecaee6ca558",
+      "version": "0.5.1",
+      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.1/influxdb-bridge-0.5.1-linux-arm64-v10.tgz",
+      "checksum": "2a646e4dca242e9ea18b34f803ad1fe39ab7599a3262e96d4b1bc43363992a49",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -47,9 +47,9 @@
           "64"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.0/influxdb-bridge-0.5.0-linux-x64-v10.tgz",
-      "checksum": "d07db4e78226a9ad9addb29c44f835938f2b205f3ab0bb91f0e5557cd2db0a1d",
+      "version": "0.5.1",
+      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.1/influxdb-bridge-0.5.1-linux-x64-v10.tgz",
+      "checksum": "5cdcb3cd54f76dcb8aeb5fbfbcfb496faff660c39d738ba2c89686f6f3f31e10",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -63,9 +63,9 @@
           "64"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.0/influxdb-bridge-0.5.0-darwin-x64-v10.tgz",
-      "checksum": "2ad50c0eb0723dfe06e7967d13e00f896c395153bf4b9eff6449e999d6816fa5",
+      "version": "0.5.1",
+      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.1/influxdb-bridge-0.5.1-darwin-x64-v10.tgz",
+      "checksum": "5eabc52166747b36c662cdac4aff28fd65149eec8dd558e2caf6fab25de0516e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -79,9 +79,9 @@
           "72"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.0/influxdb-bridge-0.5.0-linux-arm-v12.tgz",
-      "checksum": "4451646745229f936938d2ed38634df75ecf47e486b3a79d7431b10c41abce20",
+      "version": "0.5.1",
+      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.1/influxdb-bridge-0.5.1-linux-arm-v12.tgz",
+      "checksum": "8550c025faf5b74ab85828d99d6f642fd6a72f4f10b0622170c7fbe9d4aca6b3",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,9 +95,9 @@
           "72"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.0/influxdb-bridge-0.5.0-linux-arm64-v12.tgz",
-      "checksum": "eccdc4b6b40fb272a1466a489aba45831834af9059d71e3b1ad8c9094ff8a99b",
+      "version": "0.5.1",
+      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.1/influxdb-bridge-0.5.1-linux-arm64-v12.tgz",
+      "checksum": "7b0c5642e8b51f4140763c2d3cf63bde5679229820f07a3b520cf23c73be47fc",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -111,9 +111,9 @@
           "72"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.0/influxdb-bridge-0.5.0-linux-x64-v12.tgz",
-      "checksum": "c4b14fe60ad2c836a64c407becbf7a55c8041462edd27fe42b1d958a7607d522",
+      "version": "0.5.1",
+      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.1/influxdb-bridge-0.5.1-linux-x64-v12.tgz",
+      "checksum": "1c63b96f654aeb9829160e0752fddd077094d7be7b1a023c30aec492a5e876e3",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,9 +127,9 @@
           "72"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.0/influxdb-bridge-0.5.0-darwin-x64-v12.tgz",
-      "checksum": "454c351ee03227be894750d7befc3b5e3220c06822174eea0e3386225dac57d4",
+      "version": "0.5.1",
+      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.1/influxdb-bridge-0.5.1-darwin-x64-v12.tgz",
+      "checksum": "c6a87c15aad557800468545321cb0b03c3278e6c200432a603a20023477dba3d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -143,9 +143,9 @@
           "83"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.0/influxdb-bridge-0.5.0-linux-arm-v14.tgz",
-      "checksum": "fab1004610ca038cbb33e09109415250fbbd9a0062e6240ffb819b003290020c",
+      "version": "0.5.1",
+      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.1/influxdb-bridge-0.5.1-linux-arm-v14.tgz",
+      "checksum": "dd8fac3f7762a0c47ad61780d04ce4d38f642484a798c9d2a0b6693e32902169",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -159,9 +159,9 @@
           "83"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.0/influxdb-bridge-0.5.0-linux-arm64-v14.tgz",
-      "checksum": "afe58c224c32ac50b3411de0cbd0b0d7e5828cff0f353a52e6984d45e1fc2fe8",
+      "version": "0.5.1",
+      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.1/influxdb-bridge-0.5.1-linux-arm64-v14.tgz",
+      "checksum": "6d548a3ee142284c8e84a02199873109c11ba5e5990f58145ca322760aafd7cb",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,9 +175,9 @@
           "83"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.0/influxdb-bridge-0.5.0-linux-x64-v14.tgz",
-      "checksum": "6a374695885ea2edcac85cecb2be41d3981a03a80573e76c93f8344472eedbac",
+      "version": "0.5.1",
+      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.1/influxdb-bridge-0.5.1-linux-x64-v14.tgz",
+      "checksum": "c31070669fe3941cdc384fa1fdf4bdb040b82b905c3da65ba465b089444480d9",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,9 +191,9 @@
           "83"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.0/influxdb-bridge-0.5.0-darwin-x64-v14.tgz",
-      "checksum": "2d8a09a62eeadb818832a44072ee0db4d18d38d84671a2595b0494fe0dfaa073",
+      "version": "0.5.1",
+      "url": "https://github.com/tim-hellhake/influxdb-bridge/releases/download/0.5.1/influxdb-bridge-0.5.1-darwin-x64-v14.tgz",
+      "checksum": "e61130bcd92fcd3aacdf094318d4690dd0c6c394a309484d863d51614dd8f9c8",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
