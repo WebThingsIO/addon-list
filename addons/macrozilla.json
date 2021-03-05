@@ -15,9 +15,9 @@
           "57"
         ]
       },
-      "version": "0.1.9",
-      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.9/macrozilla-0.1.9-linux-arm-v8.tgz",
-      "checksum": "5561c587cadd4512e62c3f51b9d33c94c77b030d8180353714b443058fc54ca3",
+      "version": "0.1.10",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.10/macrozilla-0.1.10-linux-arm-v8.tgz",
+      "checksum": "2b521f04f82e7daf76b842075621a99af8970552eb7272e7d7137abc9840b7c6",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "57"
         ]
       },
-      "version": "0.1.9",
-      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.9/macrozilla-0.1.9-linux-arm64-v8.tgz",
-      "checksum": "fa11c0ffe398673418ffa5830c14c2ee587820de5d23a6ede02f0470e6093ee8",
+      "version": "0.1.10",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.10/macrozilla-0.1.10-linux-arm64-v8.tgz",
+      "checksum": "b680ea769153750dbc91539006c5372318e294e940ed60c45a1d1dd0df9ef8a0",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -47,9 +47,9 @@
           "57"
         ]
       },
-      "version": "0.1.9",
-      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.9/macrozilla-0.1.9-linux-x64-v8.tgz",
-      "checksum": "bf78526964fb1917fe6a7958df52d3d6c3ec161dc1815ff107e1ed64acf2a058",
+      "version": "0.1.10",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.10/macrozilla-0.1.10-linux-x64-v8.tgz",
+      "checksum": "2955d58189f1666e7a60e875ab84aaa42baceaa9dd6bb918af6f555c5e4acbfe",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -63,9 +63,9 @@
           "57"
         ]
       },
-      "version": "0.1.9",
-      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.9/macrozilla-0.1.9-darwin-x64-v8.tgz",
-      "checksum": "930aabf0df83265c7ce6280c8afd678adec7a813555b0da6742bd4affb359302",
+      "version": "0.1.10",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.10/macrozilla-0.1.10-darwin-x64-v8.tgz",
+      "checksum": "729b80f1f88032b46ec3e0975dcbb54853ff6012f3f42104fed4a9d7129760a5",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -79,9 +79,9 @@
           "64"
         ]
       },
-      "version": "0.1.9",
-      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.9/macrozilla-0.1.9-linux-arm-v10.tgz",
-      "checksum": "34bbde5026d886a0b8c37a41bf494d593e37546b816b66c79094e69dd705c4ce",
+      "version": "0.1.10",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.10/macrozilla-0.1.10-linux-arm-v10.tgz",
+      "checksum": "2c01f14a7920bf4f9202a2036fe359206baa0756a189ac8b665cca040afeef60",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,9 +95,9 @@
           "64"
         ]
       },
-      "version": "0.1.9",
-      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.9/macrozilla-0.1.9-linux-arm64-v10.tgz",
-      "checksum": "2000265909dadc7b7fb6e612ba8730e5ad1c8b183e03143da5096301bb7e0154",
+      "version": "0.1.10",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.10/macrozilla-0.1.10-linux-arm64-v10.tgz",
+      "checksum": "aa1b0d4e673f6d42d44b61507da7a7c7bf621622ff803689dab1ff12f7f50329",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -111,9 +111,9 @@
           "64"
         ]
       },
-      "version": "0.1.9",
-      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.9/macrozilla-0.1.9-linux-x64-v10.tgz",
-      "checksum": "811dac596bdf4e5de2353764ae64d825698b763a32de701684065330a3f42104",
+      "version": "0.1.10",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.10/macrozilla-0.1.10-linux-x64-v10.tgz",
+      "checksum": "c8f3ca39f11785ef6a77dc10025c7559e8483e690e2e6907603c8339a457befa",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,9 +127,9 @@
           "64"
         ]
       },
-      "version": "0.1.9",
-      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.9/macrozilla-0.1.9-darwin-x64-v10.tgz",
-      "checksum": "984f143df8969f75cbab27df5032c26cc2731fddabe72fb90356420f86f63d4e",
+      "version": "0.1.10",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.10/macrozilla-0.1.10-darwin-x64-v10.tgz",
+      "checksum": "c2851f42ef5afa2903a0be494942a85b455efc2f8c56193a98312161e99a207d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -143,9 +143,9 @@
           "72"
         ]
       },
-      "version": "0.1.9",
-      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.9/macrozilla-0.1.9-linux-arm-v12.tgz",
-      "checksum": "2b3b7a3ba4a8e69df6492c1b02cf0b07950d2eb7c13dafce9979003459e832ff",
+      "version": "0.1.10",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.10/macrozilla-0.1.10-linux-arm-v12.tgz",
+      "checksum": "28d896f8cc76e794de8b995cea3a0cff9abcebf257ee052521984837a354488f",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -159,9 +159,9 @@
           "72"
         ]
       },
-      "version": "0.1.9",
-      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.9/macrozilla-0.1.9-linux-arm64-v12.tgz",
-      "checksum": "ab995463f74de4bcb28f4efffad0c60fb52776d46f4f7ed2d725be870d1b8e2a",
+      "version": "0.1.10",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.10/macrozilla-0.1.10-linux-arm64-v12.tgz",
+      "checksum": "94f6cf91c7adf9fb2f19fe553aa946aade9016b2a6c300f0dad4710c484bf088",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,9 +175,9 @@
           "72"
         ]
       },
-      "version": "0.1.9",
-      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.9/macrozilla-0.1.9-linux-x64-v12.tgz",
-      "checksum": "c46a5ac5bf008c116ce1ba095cae6516b8d3a945e804bffaf2c979fa618e65a0",
+      "version": "0.1.10",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.10/macrozilla-0.1.10-linux-x64-v12.tgz",
+      "checksum": "185953af271b1cee03c25062ada920cd022b2901a70b0c0e915cf74f31a2cb91",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,9 +191,9 @@
           "72"
         ]
       },
-      "version": "0.1.9",
-      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.9/macrozilla-0.1.9-darwin-x64-v12.tgz",
-      "checksum": "39b3b0b002762a258eed7c113680093645fd3ae962baec9288472dbbc1a03dea",
+      "version": "0.1.10",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.10/macrozilla-0.1.10-darwin-x64-v12.tgz",
+      "checksum": "3376753a63348674eb36b0291f86fa1f7b92d6c5c9bab852744be2192683c993",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -207,9 +207,9 @@
           "83"
         ]
       },
-      "version": "0.1.9",
-      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.9/macrozilla-0.1.9-linux-arm-v14.tgz",
-      "checksum": "b2a43a422b9fb54cf1dc1c93d67a51069f22b00fe8a05cc73e0e78aceedca4ce",
+      "version": "0.1.10",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.10/macrozilla-0.1.10-linux-arm-v14.tgz",
+      "checksum": "939d801725d9e70a1d9072320437afc7ff9ada3e13c224800a39d0897482a2e7",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -223,9 +223,9 @@
           "83"
         ]
       },
-      "version": "0.1.9",
-      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.9/macrozilla-0.1.9-linux-arm64-v14.tgz",
-      "checksum": "37bbbead9b30078e2d13a68b3d1fff0ce6fe54b9f623f29c00213f4edf3dd366",
+      "version": "0.1.10",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.10/macrozilla-0.1.10-linux-arm64-v14.tgz",
+      "checksum": "6553b171c7dfcb48dd2ebdf31f0bd69d535f7bb3c616a6dbd7b00ea60784ff91",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -239,9 +239,9 @@
           "83"
         ]
       },
-      "version": "0.1.9",
-      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.9/macrozilla-0.1.9-linux-x64-v14.tgz",
-      "checksum": "5e9e3f018ac8d2ec692ae5b45cbca03c297f6f7b6c262348e1854b36943842e0",
+      "version": "0.1.10",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.10/macrozilla-0.1.10-linux-x64-v14.tgz",
+      "checksum": "b1ec733c3b1d3ec15d6a8effe2a617efea16716f4fca382f92f0b436dd219682",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -255,9 +255,9 @@
           "83"
         ]
       },
-      "version": "0.1.9",
-      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.9/macrozilla-0.1.9-darwin-x64-v14.tgz",
-      "checksum": "bbc4635820302158c223995e5808b14920eebe219c23b0d01c1bc6a296b759fc",
+      "version": "0.1.10",
+      "url": "https://github.com/bewee/macrozilla/releases/download/v0.1.10/macrozilla-0.1.10-darwin-x64-v14.tgz",
+      "checksum": "51165cf9ac23793a7fb85b19dc25fbeeb559f36421c89abeb1cbd3c3c7207b83",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
