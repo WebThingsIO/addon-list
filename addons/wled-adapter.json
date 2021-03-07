@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/wled-adapter/releases/download/0.2.0/wled-adapter-0.2.0.tgz",
-      "checksum": "296ce830c66f54ede0942c1f441c63dc33c6421dd7229f1b8ff968725316ede8",
+      "version": "0.3.0",
+      "url": "https://github.com/tim-hellhake/wled-adapter/releases/download/0.3.0/wled-adapter-0.3.0.tgz",
+      "checksum": "9fdda4567c5b237dadf069eeceb9f68466442eda2852831cd6ff75fbe9a30d31",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
