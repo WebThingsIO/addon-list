@@ -21,7 +21,7 @@
       },
       "version": "1.0.2",
       "url": "https://github.com/wfahle/date-time-adapter/releases/download/1.0.2/date-time-adapter-1.0.2.tgz",
-      "checksum": "71979a545571d07ee60ec658eeae5c2bd1c69897a0831b15fc870ed9b5ff45cfl",
+      "checksum": "71979a545571d07ee60ec658eeae5c2bd1c69897a0831b15fc870ed9b5ff45cf",
       "api": {
         "min": 2,
         "max": 2
