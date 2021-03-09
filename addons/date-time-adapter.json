@@ -3,8 +3,8 @@
   "name": "DateTime Adapter",
   "description": "A Date & Time adapter to create more advanced rules using sunrise, sunset, weekends, etc.",
   "author": "tomasy",
-  "homepage_url": "https://github.com/tomasy/date-time-adapter",
-  "license_url": "https://raw.githubusercontent.com/tomasy/date-time-adapter/master/LICENSE",
+  "homepage_url": "https://github.com/wfahle/date-time-adapter",
+  "license_url": "https://raw.githubusercontent.com/wfahle/date-time-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -19,9 +19,9 @@
           "3.9"
         ]
       },
-      "version": "1.0.1",
-      "url": "https://github.com/tomasy/date-time-adapter/releases/download/1.0.1/date-time-adapter-1.0.1.tgz",
-      "checksum": "281ec4b3d43ff5c08790e453b52dc0868e9525a15d4c48cc0c0320f3dfb1225f",
+      "version": "1.0.2",
+      "url": "https://github.com/wfahle/date-time-adapter/releases/download/1.0.2/date-time-adapter-1.0.2.tgz",
+      "checksum": "ccefe3e5589903d6a71e3c961e4a8bcca6d425d80571d96282b1fb6a9f346a1b",
       "api": {
         "min": 2,
         "max": 2
