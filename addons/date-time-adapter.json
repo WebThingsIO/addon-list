@@ -17,7 +17,7 @@
       },
       "version": "1.0.8",
       "url": "https://github.com/wfahle/date-time-adapter/releases/download/v1.0.8/date-time-adapter-1.0.8-linux-arm64-v3.7.tgz",
-      "checksum": "54a5445201116685e37076ef791ebf9d6306b179d8a8ca2e7b5559e3219e1cc7",
+      "checksum": "63b2916d7fc2bed1e2fbc4059531d2b6756ebec4a6a04d0c282e32fa5e497a9c",
       "api": {
         "min": 2,
         "max": 2
@@ -38,7 +38,7 @@
       },
       "version": "1.0.8",
       "url": "https://github.com/wfahle/date-time-adapter/releases/download/v1.0.8/date-time-adapter-1.0.8-linux-arm64-v3.8.tgz",
-      "checksum": "faa6e1d237284ed0fd9c233f304a524cea1a5f041af10e2e341e9e6c5672dce0",
+      "checksum": "f350e3443ebe2be63d56d73b565c74fa045edc4982ad86dcc540f36926c1b53d",
       "api": {
         "min": 2,
         "max": 2
@@ -58,7 +58,7 @@
       },
       "version": "1.0.8",
       "url": "https://github.com/wfahle/date-time-adapter/releases/download/v1.0.8/date-time-adapter-1.0.8-linux-arm64-v3.9.tgz",
-      "checksum": "49789a2f6b7c50b024814fa603faf1d13a14c499fa20cbc1d796cdaf79e11f4e",
+      "checksum": "1980bf16e74d8845c8bf3926e96106156fef9ae5d0da2fd63f5436174e847c28",
       "api": {
         "min": 2,
         "max": 2
@@ -78,7 +78,7 @@
       },
       "version": "1.0.8",
       "url": "https://github.com/wfahle/date-time-adapter/releases/download/v1.0.8/date-time-adapter-1.0.8-linux-arm-v3.7.tgz",
-      "checksum": "4a8e519e523f7157d178828224d40e124b56345ba17fe59ee8382ed0967f2657",
+      "checksum": "9b14e1802dca75826ac5b4c027ce7ae4be309fe179a81f4459fe20f1222a18b9",
       "api": {
         "min": 2,
         "max": 2
@@ -98,7 +98,7 @@
       },
       "version": "1.0.8",
       "url": "https://github.com/wfahle/date-time-adapter/releases/download/v1.0.8/date-time-adapter-1.0.8-linux-arm-v3.8.tgz",
-      "checksum": "94c40702f1b9a34b0a44f08235e319cee7140ad88b2e6da15b88da4c94ceda42",
+      "checksum": "ce16d4618cd30f7197898e9197f8d147aafd32ff29e335c050af3eed62686041",
       "api": {
         "min": 2,
         "max": 2
@@ -118,7 +118,7 @@
       },
       "version": "1.0.8",
       "url": "https://github.com/wfahle/date-time-adapter/releases/download/v1.0.8/date-time-adapter-1.0.8-linux-arm-v3.9.tgz",
-      "checksum": "8fb34a21e91e2de0d15a44d055b3d9171f7427304013c39e2bffe85037b71308",
+      "checksum": "6f0c0409be82106dd24993450b66d16f20095b059d7b65f82efdbdb2f23ed078",
       "api": {
         "min": 2,
         "max": 2
@@ -138,7 +138,7 @@
       },
       "version": "1.0.8",
       "url": "https://github.com/wfahle/date-time-adapter/releases/download/v1.0.8/date-time-adapter-1.0.8-linux-x64-v3.7.tgz",
-      "checksum": "f9a56c1cb0d873b1ff45417a13842376ac08107f0b79620fd87cf4103eef7dcd",
+      "checksum": "bf644ec78e6c0f49477f5ba8dc2c2735768e1cbdd511359d5bc3ce2b794f247d",
       "api": {
         "min": 2,
         "max": 2
@@ -158,7 +158,7 @@
       },
       "version": "1.0.8",
       "url": "https://github.com/wfahle/date-time-adapter/releases/download/v1.0.8/date-time-adapter-1.0.8-linux-x64-v3.8.tgz",
-      "checksum": "394948efbfa726a37ceceb2ddbc8949da5246ad25f3dd504b12d5b44bd656a9d",
+      "checksum": "914d5bb01379a1882eea62c5cc904fdc301336a6dddfa48e386d6a943ac1a82a",
       "api": {
         "min": 2,
         "max": 2
@@ -178,7 +178,7 @@
       },
       "version": "1.0.8",
       "url": "https://github.com/wfahle/date-time-adapter/releases/download/v1.0.8/date-time-adapter-1.0.8-linux-x64-v3.9.tgz",
-      "checksum": "6aed507380c20a406d61369ce0c2f26076e61ec674e20c6f4ddae5b3fa81a138",
+      "checksum": "bdb753730352f698e689c92f459f487f253857627910e3c322c2bfba77c24d5d",
       "api": {
         "min": 2,
         "max": 2
@@ -198,7 +198,7 @@
       },
       "version": "1.0.8",
       "url": "https://github.com/wfahle/date-time-adapter/releases/download/v1.0.8/date-time-adapter-1.0.8-darwin-x64-v3.7.tgz",
-      "checksum": "16d09bbf72a3764f27dabeffe0850348bc59bce2f2ce8a2c75ee25f155c90cf5",
+      "checksum": "a180688b6bb300793ccec8da57d7f2dc721e6d7ae9628833821de3ddd97da652",
       "api": {
         "min": 2,
         "max": 2
@@ -218,7 +218,27 @@
       },
       "version": "1.0.8",
       "url": "https://github.com/wfahle/date-time-adapter/releases/download/v1.0.8/date-time-adapter-1.0.8-darwin-x64-v3.8.tgz",
-      "checksum": "ec1604f2d29803b8bcc7bef1f0b7183cbdca36bcbf6aa493fc14df3fbd3da8c8",
+      "checksum": "e3ce1fe63a98f3a68ab499dc665fbe8b6eaa9e62ed7bf44bd196ac2f86159a7f",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "1.0.8",
+      "url": "https://github.com/wfahle/date-time-adapter/releases/download/v1.0.8/date-time-adapter-1.0.8-darwin-x64-v3.9.tgz",
+      "checksum": "b1de1af9bca906227dd6e3de6307413eea4ec8c8bade79c78d1cec95911a9eff",
       "api": {
         "min": 2,
         "max": 2
