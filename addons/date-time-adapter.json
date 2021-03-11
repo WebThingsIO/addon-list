@@ -8,27 +8,196 @@
   "primary_type": "adapter",
   "packages": [
     {
-      "architecture": "any",
+      "architecture": "linux-arm64",
       "language": {
         "name": "python",
         "versions": [
-          "3.5",
-          "3.6",
-          "3.7",
-          "3.8",
+          "3.7"
+        ]
+      },
+      "version": "1.0.7",
+      "url": "https://github.com/wfahle/date-time-adapter/releases/download/v1.0.7/date-time-adapter-1.0.7-linux-arm64-v3.7.tgz",
+      "checksum": "8f6bad2c3dfb607eab1d160c9f6cc9c147a2b4be31ac4e5db05e6dda0cdc9d48",
+      "gateway": {
+        "min": "2",
+        "max": "2"
+      }
+    },
+      
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "1.0.7",
+      "url": "https://github.com/wfahle/date-time-adapter/releases/download/v1.0.7/date-time-adapter-1.0.7-linux-arm64-v3.8.tgz",
+      "checksum": "c008b8978d68f1d162f9faf30ad2e5381c97dadfdd3786f3094e375056495459",
+      "gateway": {
+        "min": "2",
+        "max": "2"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
           "3.9"
         ]
       },
-      "version": "1.0.2",
-      "url": "https://github.com/wfahle/date-time-adapter/releases/download/1.0.2/date-time-adapter-1.0.2.tgz",
-      "checksum": "cfd7c6e3b4bdacc37985707eb75e18da0c6cd8f4abe8fa719009a9950410cd44",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "1.0.7",
+      "url": "https://github.com/wfahle/date-time-adapter/releases/download/v1.0.7/date-time-adapter-1.0.7-linux-arm64-v3.9.tgz",
+      "checksum": "b2278fc0821c40f1dda56208e8ca672f1e6b52672c8b892261bb1c671d342221",
       "gateway": {
-        "min": "0.10.0",
-        "max": "*"
+        "min": "2",
+        "max": "2"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "1.0.7",
+      "url": "https://github.com/wfahle/date-time-adapter/releases/download/v1.0.7/date-time-adapter-1.0.7-linux-arm-v3.7.tgz",
+      "checksum": "de9c4529b7c776f5339671c1acc3d0efb44bda89a48432608c288c9f99476c36",
+      "gateway": {
+        "min": "2",
+        "max": "2"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "1.0.7",
+      "url": "https://github.com/wfahle/date-time-adapter/releases/download/v1.0.7/date-time-adapter-1.0.7-linux-arm-v3.8.tgz",
+      "checksum": "eede2756716df4093d64da963ecbc7225cd33a9b4bcedafe8c7d34da37a2fea5",
+      "gateway": {
+        "min": "2",
+        "max": "2"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "1.0.7",
+      "url": "https://github.com/wfahle/date-time-adapter/releases/download/v1.0.7/date-time-adapter-1.0.7-linux-arm-v3.9.tgz",
+      "checksum": "d5d17ebf0b18db3f86fcb693fdcdac986713588b1af3353a5d59fbe44d6a5aa1",
+      "gateway": {
+        "min": "2",
+        "max": "2"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "1.0.7",
+      "url": "https://github.com/wfahle/date-time-adapter/releases/download/v1.0.7/date-time-adapter-1.0.7-linux-x64-v3.7.tgz",
+      "checksum": "6f4efe658c088afa62038f56cc7b3da8458d0be1fd505e741099e585e0e6aceb",
+      "gateway": {
+        "min": "2",
+        "max": "2"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "1.0.7",
+      "url": "https://github.com/wfahle/date-time-adapter/releases/download/v1.0.7/date-time-adapter-1.0.7-linux-x64-v3.8.tgz",
+      "checksum": "e5abb29bc70ad7df2801f6914f59de104930f427ac43e8e39cc2bca5ca3d8ada",
+      "gateway": {
+        "min": "2",
+        "max": "2"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "1.0.7",
+      "url": "https://github.com/wfahle/date-time-adapter/releases/download/v1.0.7/date-time-adapter-1.0.7-linux-x64-v3.9.tgz",
+      "checksum": "bdacc15d0f069d6eadc2aec6565f226d6673158b5df6a3ef62daeb9c6751364b",
+      "gateway": {
+        "min": "2",
+        "max": "2"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "1.0.7",
+      "url": "https://github.com/wfahle/date-time-adapter/releases/download/v1.0.7/date-time-adapter-1.0.7-darwin-x64-v3.7.tgz",
+      "checksum": "6a135d042ec65a7d68085a0b4cac170acc928b3c5c52266e0d28a6587981301f",
+      "gateway": {
+        "min": "2",
+        "max": "2"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "1.0.7",
+      "url": "https://github.com/wfahle/date-time-adapter/releases/download/v1.0.7/date-time-adapter-1.0.7-darwin-x64-v3.8.tgz",
+      "checksum": "e91fbb999f81fe676adb4970fdc335376acacf8ffdeaa76329eb1830297c78c9",
+      "gateway": {
+        "min": "2",
+        "max": "2"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "1.0.7",
+      "url": "https://github.com/wfahle/date-time-adapter/releases/download/v1.0.7/date-time-adapter-1.0.7-darwin-x64-v3.9.tgz",
+      "checksum": "16d09bbf72a3764f27dabeffe0850348bc59bce2f2ce8a2c75ee25f155c90cf5",
+      "gateway": {
+        "min": "2",
+        "max": "2"
       }
     }
   ]
