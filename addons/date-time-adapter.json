@@ -3,8 +3,8 @@
   "name": "DateTime Adapter",
   "description": "A Date & Time adapter to create more advanced rules using sunrise, sunset, weekends, etc.",
   "author": "tomasy",
-  "homepage_url": "https://github.com/WTIOAddons/date-time-adapter",
-  "license_url": "https://raw.githubusercontent.com/WTIOAddons/date-time-adapter/main/LICENSE",
+  "homepage_url": "https://github.com/wfahle/date-time-adapter",
+  "license_url": "https://raw.githubusercontent.com/wfahle/date-time-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,9 +15,9 @@
           "3.7"
         ]
       },
-      "version": "1.1.0",
-      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.1.0/date-time-adapter-1.1.0-linux-arm64-v3.7.tgz",
-      "checksum": "d0e6386d60e0ac4b9c0a795f94f1028e4dfc3045684e80fca39a53b88d282997",
+      "version": "1.1.2",
+      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.1.2/date-time-adapter-1.1.2-linux-arm64-v3.7.tgz",
+      "checksum": "78e5a89addd025e70fb2867f47e9e13e10018f64bf05089ccb45a28f757adb03",
       "api": {
         "min": 2,
         "max": 2
@@ -35,9 +35,9 @@
           "3.8"
         ]
       },
-      "version": "1.1.0",
-      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.1.0/date-time-adapter-1.1.0-linux-arm64-v3.8.tgz",
-      "checksum": "265b38f406809d709fe21f28a155c155f5114a98b30809e74d1eb17c73bf66ed",
+      "version": "1.1.2",
+      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.1.2/date-time-adapter-1.1.2-linux-arm64-v3.8.tgz",
+      "checksum": "fb42ad433515f8ae86fa814c4c6f9530ec2ee5edcc110218f04f66a46ce99227",
       "api": {
         "min": 2,
         "max": 2
@@ -55,9 +55,9 @@
           "3.9"
         ]
       },
-      "version": "1.1.0",
-      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.1.0/date-time-adapter-1.1.0-linux-arm64-v3.9.tgz",
-      "checksum": "7a58b2867c2f793c86641c4c1146c1e5b26def9de8d93ee8e5625fd43bf20018",
+      "version": "1.1.2",
+      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.1.2/date-time-adapter-1.1.2-linux-arm64-v3.9.tgz",
+      "checksum": "afe1483d6b209ee58bbf59ddedefce8e42a4f8cb808e8c1c6a47788a3bb35b2a",
       "api": {
         "min": 2,
         "max": 2
@@ -75,9 +75,9 @@
           "3.7"
         ]
       },
-      "version": "1.1.0",
-      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.1.0/date-time-adapter-1.1.0-linux-arm-v3.7.tgz",
-      "checksum": "af1be04dead3f401ba704bf49016569a1b74bd6162c1f84fea1780e2a9ad0322",
+      "version": "1.1.2",
+      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.1.2/date-time-adapter-1.1.2-linux-arm-v3.7.tgz",
+      "checksum": "96f2f6dd72ba9e1b5c7b435827363983948584c9c108939faedc5c35071cbb3f",
       "api": {
         "min": 2,
         "max": 2
@@ -95,9 +95,9 @@
           "3.8"
         ]
       },
-      "version": "1.1.0",
-      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.1.0/date-time-adapter-1.1.0-linux-arm-v3.8.tgz",
-      "checksum": "1c2baafecf445f4ad77531a65d503971be3c4b7e1ebbffc509a1edb94bd3a0f2",
+      "version": "1.1.2",
+      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.1.2/date-time-adapter-1.1.2-linux-arm-v3.8.tgz",
+      "checksum": "f073bfb1ac15c0c5b99ecb1d085ec06ea902b48b5a8135845a56ab4c13aa74eb",
       "api": {
         "min": 2,
         "max": 2
@@ -115,9 +115,9 @@
           "3.9"
         ]
       },
-      "version": "1.1.0",
-      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.1.0/date-time-adapter-1.1.0-linux-arm-v3.9.tgz",
-      "checksum": "9290330e20384f00df12c12e54d7a812aa2bd0227a5b9a20922676ec4a53a5f4",
+      "version": "1.1.2",
+      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.1.2/date-time-adapter-1.1.2-linux-arm-v3.9.tgz",
+      "checksum": "e126f293851deb4535df46d77d0d003c6c6365ebe0a0e214aae1ebec866043fc",
       "api": {
         "min": 2,
         "max": 2
@@ -135,9 +135,9 @@
           "3.7"
         ]
       },
-      "version": "1.1.0",
-      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.1.0/date-time-adapter-1.1.0-linux-x64-v3.7.tgz",
-      "checksum": "1d47f0f1fd83dda0506cb8e5956169aa6f9b368572eb09c6f8136343d422e2f4",
+      "version": "1.1.2",
+      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.1.2/date-time-adapter-1.1.2-linux-x64-v3.7.tgz",
+      "checksum": "8aced2afef8282359743409003a5464ac57b3c20ff135a74473e8d252682215d",
       "api": {
         "min": 2,
         "max": 2
@@ -155,9 +155,9 @@
           "3.8"
         ]
       },
-      "version": "1.1.0",
-      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.1.0/date-time-adapter-1.1.0-linux-x64-v3.8.tgz",
-      "checksum": "f605123b4351c4cf1acf10afe5c7fb8a4978f1f9ece99f75abb8292af505677e",
+      "version": "1.1.2",
+      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.1.2/date-time-adapter-1.1.2-linux-x64-v3.8.tgz",
+      "checksum": "34502297ba064f60faaa7ce2bab48602dc532ed201d425959006af80d63f7c0f",
       "api": {
         "min": 2,
         "max": 2
@@ -175,9 +175,9 @@
           "3.9"
         ]
       },
-      "version": "1.1.0",
-      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.1.0/date-time-adapter-1.1.0-linux-x64-v3.9.tgz",
-      "checksum": "c01411100cd1c528462fc47fa13c97bf314c5564230d9439677e5da7018c6bbc",
+      "version": "1.1.2",
+      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.1.2/date-time-adapter-1.1.2-linux-x64-v3.9.tgz",
+      "checksum": "9503f76d8b4ea2d8153eebbea58866919acba4190090712c6d1312deadace5f3",
       "api": {
         "min": 2,
         "max": 2
@@ -195,9 +195,9 @@
           "3.7"
         ]
       },
-      "version": "1.1.0",
-      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.1.0/date-time-adapter-1.1.0-darwin-x64-v3.7.tgz",
-      "checksum": "5c3f7fa521918e838925a8c668113ed117d82c9887fedd5c772b2e889f8e5e98",
+      "version": "1.1.2",
+      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.1.2/date-time-adapter-1.1.2-darwin-x64-v3.7.tgz",
+      "checksum": "fd840010fc406d465545392d5701a166b729cc234e8edf1321ce8ea5aba4a7dc",
       "api": {
         "min": 2,
         "max": 2
@@ -215,9 +215,9 @@
           "3.8"
         ]
       },
-      "version": "1.1.0",
-      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.1.0/date-time-adapter-1.1.0-darwin-x64-v3.8.tgz",
-      "checksum": "0a159d34c8d44c2cd38957574845e5a48a3901e220670453a0869eab55246d3b",
+      "version": "1.1.2",
+      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.1.2/date-time-adapter-1.1.2-darwin-x64-v3.8.tgz",
+      "checksum": "8987fec8454c2dd6f031b02cf2376615b51f36738c1d74c840d55fcaaed4e594",
       "api": {
         "min": 2,
         "max": 2
@@ -235,9 +235,9 @@
           "3.9"
         ]
       },
-      "version": "1.1.0",
-      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.1.0/date-time-adapter-1.1.0-darwin-x64-v3.9.tgz",
-      "checksum": "702d4ee3fe2c9a229bb21de3c2cf121ad503c7103ac24af5de86709a6ec257ac",
+      "version": "1.1.2",
+      "url": "https://github.com/WTIOAddons/date-time-adapter/releases/download/v1.1.2/date-time-adapter-1.1.2-darwin-x64-v3.9.tgz",
+      "checksum": "4d28ec9f6fd709d65d52b054b2bc474043017bfc6c48f6816715a7b8551f53a3",
       "api": {
         "min": 2,
         "max": 2
