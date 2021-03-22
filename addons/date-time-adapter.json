@@ -3,8 +3,8 @@
   "name": "DateTime Adapter",
   "description": "A Date & Time adapter to create more advanced rules using sunrise, sunset, weekends, etc.",
   "author": "tomasy",
-  "homepage_url": "https://github.com/wfahle/date-time-adapter",
-  "license_url": "https://raw.githubusercontent.com/wfahle/date-time-adapter/master/LICENSE",
+  "homepage_url": "https://github.com/WTIOAddons/date-time-adapter",
+  "license_url": "https://raw.githubusercontent.com/WTIOAddons/date-time-adapter/main/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
