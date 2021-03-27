@@ -15,9 +15,9 @@
           "64"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.2.0/azure-iot-bridge-1.2.0-linux-arm-v10.tgz",
-      "checksum": "9efdb8de9e981a7d223e14a27c2f62b76909804407673dd0dba67be2edfd4f78",
+      "version": "1.2.1",
+      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.2.1/azure-iot-bridge-1.2.1-linux-arm-v10.tgz",
+      "checksum": "34c3f39222372324232b8108767fb5d66b4f1dcd2ebba544162cf7ed11eace5a",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "64"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.2.0/azure-iot-bridge-1.2.0-linux-arm64-v10.tgz",
-      "checksum": "b90c2c1463ac3a4d107147fe25442ec4a5d17d729b100a2e51de4507c3ad4693",
+      "version": "1.2.1",
+      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.2.1/azure-iot-bridge-1.2.1-linux-arm64-v10.tgz",
+      "checksum": "28263cd0f84cf7cc6c76ee846208a6dcd2224500859d16adea4b6d9627615538",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -47,9 +47,9 @@
           "64"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.2.0/azure-iot-bridge-1.2.0-linux-x64-v10.tgz",
-      "checksum": "69e5ff7b5229e589494d3f56033c3132f36b3542f04de056c133d9872824d041",
+      "version": "1.2.1",
+      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.2.1/azure-iot-bridge-1.2.1-linux-x64-v10.tgz",
+      "checksum": "46e64d37aa7f5a80459aced84b1016562dcde80d202d81f13ed9993d9b19ef09",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -63,9 +63,9 @@
           "64"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.2.0/azure-iot-bridge-1.2.0-darwin-x64-v10.tgz",
-      "checksum": "e79f7b1a3b9cc10f5da1b061bdcbf4b4289f621b6959486b8bd0f2fe19aa0d7a",
+      "version": "1.2.1",
+      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.2.1/azure-iot-bridge-1.2.1-darwin-x64-v10.tgz",
+      "checksum": "ae02010809291618c49fed59b0c862eca20431469d7c5bf8d6f67e5e63f18481",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -79,9 +79,9 @@
           "72"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.2.0/azure-iot-bridge-1.2.0-linux-arm-v12.tgz",
-      "checksum": "f77d83c71ab263af6601ce819521378c5a3867de8edf44bdb8da24bc7d9d9503",
+      "version": "1.2.1",
+      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.2.1/azure-iot-bridge-1.2.1-linux-arm-v12.tgz",
+      "checksum": "bd9cd73431d4a86446119e6152048dbd3199739223af00892062e690a95adbc1",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,9 +95,9 @@
           "72"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.2.0/azure-iot-bridge-1.2.0-linux-arm64-v12.tgz",
-      "checksum": "adb6b402d6bb80434b4248c8e26d2791b7db0f0644c514abc98652db2908ffc3",
+      "version": "1.2.1",
+      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.2.1/azure-iot-bridge-1.2.1-linux-arm64-v12.tgz",
+      "checksum": "0d01c0ae866d7311819a4157a0f26cb112543bfbfa2cb7e65dd75b297f2fe05f",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -111,9 +111,9 @@
           "72"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.2.0/azure-iot-bridge-1.2.0-linux-x64-v12.tgz",
-      "checksum": "6d00a90156981222bccbef0ea95d8d92dbfb894818454aea7d0ad2fc92d9989a",
+      "version": "1.2.1",
+      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.2.1/azure-iot-bridge-1.2.1-linux-x64-v12.tgz",
+      "checksum": "4038ef52752eaf90fb2a248801113aeb6857133d567e1b1f3f2007e74b072f39",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,9 +127,9 @@
           "72"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.2.0/azure-iot-bridge-1.2.0-darwin-x64-v12.tgz",
-      "checksum": "9c7189fdea20be2413a62a81f1a286a6fbc6ad8867631c3e681b03fa6ae85e34",
+      "version": "1.2.1",
+      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.2.1/azure-iot-bridge-1.2.1-darwin-x64-v12.tgz",
+      "checksum": "a5bafa30155bcb99ff9db31b373e6b68b96945db85ab7272ef27c4b8d3c59c42",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -143,9 +143,9 @@
           "83"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.2.0/azure-iot-bridge-1.2.0-linux-arm-v14.tgz",
-      "checksum": "fade93067576acdb136e7b6cb959086b32e1a817e7e5541c46415cd6d03e9b0c",
+      "version": "1.2.1",
+      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.2.1/azure-iot-bridge-1.2.1-linux-arm-v14.tgz",
+      "checksum": "445ce9347cb7207b21cd062530dec6b740123d6b48c79833ad37150a1e9de2b2",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -159,9 +159,9 @@
           "83"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.2.0/azure-iot-bridge-1.2.0-linux-arm64-v14.tgz",
-      "checksum": "003eea1d0119f88ed899d02b707edd32766aa94e549cf7623e476d548701b069",
+      "version": "1.2.1",
+      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.2.1/azure-iot-bridge-1.2.1-linux-arm64-v14.tgz",
+      "checksum": "6f1741e2bde712027fa0c7f1b0f6f41f496d73ff801c0813dfdebcee32787e75",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,9 +175,9 @@
           "83"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.2.0/azure-iot-bridge-1.2.0-linux-x64-v14.tgz",
-      "checksum": "7497ae82ca813df7407cf1ff7b1f934169ddfc3bfa8f31d0dc013ace887df913",
+      "version": "1.2.1",
+      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.2.1/azure-iot-bridge-1.2.1-linux-x64-v14.tgz",
+      "checksum": "59f3564f30040baf605228b6312aacf745b313b436ee6010f8913a116bf6990a",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,9 +191,9 @@
           "83"
         ]
       },
-      "version": "1.2.0",
-      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.2.0/azure-iot-bridge-1.2.0-darwin-x64-v14.tgz",
-      "checksum": "8d3c7da6dcb86345b43a0c250a61c8e1e0bd242179a36cb2cdbfd71f7dd2b2ad",
+      "version": "1.2.1",
+      "url": "https://github.com/tim-hellhake/azure-iot-bridge/releases/download/1.2.1/azure-iot-bridge-1.2.1-darwin-x64-v14.tgz",
+      "checksum": "b7fea71ed100f482d2d1947c2e486b886e247a71b797731fa0918b6aac74949e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
