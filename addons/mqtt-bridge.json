@@ -3,7 +3,7 @@
   "name": "MQTT Bridge",
   "description": "Bridge your webthings to MQTT",
   "author": "bewee",
-  "homepage_url": "https://github.com/bewee/mqtt-bridge",
+  "homepage_url": "https://github.com/bewee/mqtt-bridge#readme",
   "license_url": "https://raw.githubusercontent.com/bewee/mqtt-bridge/master/LICENSE.md",
   "primary_type": "adapter",
   "packages": [
