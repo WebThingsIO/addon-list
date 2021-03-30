@@ -19,7 +19,7 @@
       "url": "https://github.com/bewee/mqtt-bridge/releases/download/0.0.1/mqtt-bridge-0.0.1.tgz",
       "checksum": "45b151beed875f39cb83f0f7cc3974606e05d7d4a0de6dd876c4eeb04c01431d",
       "gateway": {
-        "min": "0.10.0",
+        "min": "1.0.0",
         "max": "*"
       }
     }
