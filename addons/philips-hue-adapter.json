@@ -1,7 +1,7 @@
 {
   "id": "philips-hue-adapter",
   "name": "Philips Hue",
-  "description": "Philips Hue color light support. Press the button on your Hue bridge to pair devices.",
+  "description": "WebThings Gateway Philips Hue Adapter. Press the link button on your Hue bridge to pair devices.",
   "author": "WebThingsIO",
   "homepage_url": "https://github.com/WebThingsIO/philips-hue-adapter",
   "license_url": "https://raw.githubusercontent.com/WebThingsIO/philips-hue-adapter/master/LICENSE",
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.9.7",
-      "url": "https://github.com/WebThingsIO/philips-hue-adapter/releases/download/v0.9.7/philips-hue-adapter-0.9.7.tgz",
-      "checksum": "4444ac4001de3f84ed780dca7bc401da2fabb99b27609fd9f9ce71b3a1a896ad",
+      "version": "1.0.2",
+      "url": "https://github.com/WebThingsIO/philips-hue-adapter/releases/download/1.0.2/philips-hue-adapter-1.0.2.tgz",
+      "checksum": "5efd39b24fd659075d3560286b51bd677ccc33a5de2f93d76e83f19a129d5cd8",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
