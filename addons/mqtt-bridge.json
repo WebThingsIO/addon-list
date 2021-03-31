@@ -1,0 +1,27 @@
+{
+  "id": "mqtt-bridge",
+  "name": "MQTT Bridge",
+  "description": "Bridge your webthings to MQTT",
+  "author": "bewee",
+  "homepage_url": "https://github.com/bewee/mqtt-bridge#readme",
+  "license_url": "https://raw.githubusercontent.com/bewee/mqtt-bridge/master/LICENSE.md",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/bewee/mqtt-bridge/releases/download/0.0.1/mqtt-bridge-0.0.1.tgz",
+      "checksum": "45b151beed875f39cb83f0f7cc3974606e05d7d4a0de6dd876c4eeb04c01431d",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    }
+  ]
+}
