@@ -3,7 +3,7 @@
   "name": "Konnected.io Adapter",
   "description": "An adapter to configure and add konnected.io boards as things",
   "author": "wfahle",
-  "homepage_url": "https://github.com/WTIOaddons/konnected-adapter",
+  "homepage_url": "https://github.com/WTIOAddons/konnected-adapter",
   "license_url": "https://raw.githubusercontent.com/WTIOAddons/konnected-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
