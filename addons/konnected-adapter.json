@@ -15,9 +15,9 @@
           "3.7"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.0.2/konnected-adapter-0.0.2-linux-arm64-v3.7.tgz",
-      "checksum": "e65d71b093c1cf831035d8b885192667891388438a9f5c8ee8fe1f9c51a1d151",
+      "version": "0.0.3",
+      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.0.3/konnected-adapter-0.0.3-linux-arm64-v3.7.tgz",
+      "checksum": "49c5e8a313965297e879c96c1ecf91c6e4bbec1236301834fc49d25fae664b76",
       "api": {
         "min": 2,
         "max": 2
@@ -35,9 +35,9 @@
           "3.8"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.0.2/konnected-adapter-0.0.2-linux-arm64-v3.8.tgz",
-      "checksum": "ab952b1e2fd3e622b45a2a9f306fe282bb3e8341b35be990ffc1781e06c12ef4",
+      "version": "0.0.3",
+      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.0.3/konnected-adapter-0.0.3-linux-arm64-v3.8.tgz",
+      "checksum": "a65de9446c0abbc9bd78a1a953bcff2d9100aba38af3865e1feb8e357a97e196",
       "api": {
         "min": 2,
         "max": 2
@@ -55,9 +55,9 @@
           "3.9"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.0.2/konnected-adapter-0.0.2-linux-arm64-v3.9.tgz",
-      "checksum": "f7fabe01d3c42a416906ee1730ba9228b4407bc62b8c8db2e826f5306091f3db",
+      "version": "0.0.3",
+      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.0.3/konnected-adapter-0.0.3-linux-arm64-v3.9.tgz",
+      "checksum": "07e9bf32dfff57a3e0fd0fe6899c79e3bef318dc36df01b4f7649541eaeae3cf",
       "api": {
         "min": 2,
         "max": 2
@@ -75,9 +75,9 @@
           "3.7"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.0.2/konnected-adapter-0.0.2-linux-arm-v3.7.tgz",
-      "checksum": "907b04256d0243d05092d735d65fc384218a1318b53078ae4c8f819861498930",
+      "version": "0.0.3",
+      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.0.3/konnected-adapter-0.0.3-linux-arm-v3.7.tgz",
+      "checksum": "c4225859bc1ab064d753be7d7b6046f1a4885b72b73ce5f4c95751b8add6e2f9",
       "api": {
         "min": 2,
         "max": 2
@@ -95,9 +95,9 @@
           "3.8"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.0.2/konnected-adapter-0.0.2-linux-arm-v3.8.tgz",
-      "checksum": "d653c9c3aec20ca2de1cf330c5a29697a4e05e07a119019a7240b0bd277bf06d",
+      "version": "0.0.3",
+      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.0.3/konnected-adapter-0.0.3-linux-arm-v3.8.tgz",
+      "checksum": "e906ff5290cca215c14614decaf4da4fc536e95b9e15e22e59fed7ebf38b0d15",
       "api": {
         "min": 2,
         "max": 2
@@ -115,9 +115,9 @@
           "3.9"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.0.2/konnected-adapter-0.0.2-linux-arm-v3.9.tgz",
-      "checksum": "8afc565729aefdc58ab81168ffcacf1e0624d772f9d976100c1cee52615a4a86",
+      "version": "0.0.3",
+      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.0.3/konnected-adapter-0.0.3-linux-arm-v3.9.tgz",
+      "checksum": "cf42675e5cffb26c488a5f7d3e70bc7d259753eacf61fe4345352fc8e2d13ae0",
       "api": {
         "min": 2,
         "max": 2
@@ -135,9 +135,9 @@
           "3.7"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.0.2/konnected-adapter-0.0.2-linux-x64-v3.7.tgz",
-      "checksum": "3b6935bba4cd034920627f843585d16c7d7b9985b871d372ae3db7ff058460ef",
+      "version": "0.0.3",
+      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.0.3/konnected-adapter-0.0.3-linux-x64-v3.7.tgz",
+      "checksum": "76e469aeef679257747393e951cd621565b505bc972ed1fdac4fbe351feb4d50",
       "api": {
         "min": 2,
         "max": 2
@@ -155,9 +155,9 @@
           "3.8"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.0.2/konnected-adapter-0.0.2-linux-x64-v3.8.tgz",
-      "checksum": "7c72bd84d1f1a689b64e018c002c469ab7096207d6c4503ba0e33ae01e1c6821",
+      "version": "0.0.3",
+      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.0.3/konnected-adapter-0.0.3-linux-x64-v3.8.tgz",
+      "checksum": "53a23fccc8e2192d1a078b19bd87120e971066e159d9d320ba3e05b1bdc87418",
       "api": {
         "min": 2,
         "max": 2
@@ -175,9 +175,9 @@
           "3.9"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.0.2/konnected-adapter-0.0.2-linux-x64-v3.9.tgz",
-      "checksum": "79fd8a5c722dfdef433f5e42128357958a0b1143bb2c0b6397df6e60c9eb761c",
+      "version": "0.0.3",
+      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.0.3/konnected-adapter-0.0.3-linux-x64-v3.9.tgz",
+      "checksum": "46601e7f1e4c2cbe525b241973338cdf96fa35229e4c59a8b6b6db866f9ca7a0",
       "api": {
         "min": 2,
         "max": 2
@@ -195,9 +195,9 @@
           "3.7"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.0.2/konnected-adapter-0.0.2-darwin-x64-v3.7.tgz",
-      "checksum": "0d168778118997cdbe335bb306f88b2977e685780432d1a4a752356e2eb776b2",
+      "version": "0.0.3",
+      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.0.3/konnected-adapter-0.0.3-darwin-x64-v3.7.tgz",
+      "checksum": "6927463fc98c9e05b0b8a4f44541811eb8b7e1e2e8e174d11e3c90574ad273cb",
       "api": {
         "min": 2,
         "max": 2
@@ -215,9 +215,9 @@
           "3.8"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.0.2/konnected-adapter-0.0.2-darwin-x64-v3.8.tgz",
-      "checksum": "d903ca61cc183bd9c7c933585752cad8f79e17ad794387cfcc9474acab74a0b4",
+      "version": "0.0.3",
+      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.0.3/konnected-adapter-0.0.3-darwin-x64-v3.8.tgz",
+      "checksum": "f3a691b1badefe4e1b1d66b848fa8aedf8c9c5856d64f43c46d88cfeab2ceef4",
       "api": {
         "min": 2,
         "max": 2
@@ -235,9 +235,9 @@
           "3.9"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.0.2/konnected-adapter-0.0.2-darwin-x64-v3.9.tgz",
-      "checksum": "69d258dc27692ecbe7be57a4948e44c75c6d485d31fea091d75f57a3617cccb2",
+      "version": "0.0.3",
+      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.0.3/konnected-adapter-0.0.3-darwin-x64-v3.9.tgz",
+      "checksum": "92468075d23e8426bce90950e6a4047eb4aec285df3650f56c10329e10d73bc5",
       "api": {
         "min": 2,
         "max": 2
