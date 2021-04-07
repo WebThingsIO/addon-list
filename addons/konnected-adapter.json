@@ -1,6 +1,6 @@
 {
   "id": "konnected-adapter",
-  "name": "Konnected.io Adapter",
+  "name": "Konnected Adapter",
   "description": "An adapter to configure and add konnected.io boards as things",
   "author": "wfahle",
   "homepage_url": "https://github.com/WTIOAddons/konnected-adapter",
