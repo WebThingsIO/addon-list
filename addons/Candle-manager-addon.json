@@ -6,7 +6,7 @@
   "homepage_url": "https://github.com/createcandle/Candle-manager-addon",
   "license_url": "https://raw.githubusercontent.com/createcandle/Candle-manager-addon/master/LICENSE",
   "primary_type": "adapter",
-    "packages": [
+ "packages": [
     {
       "architecture": "darwin-x64",
       "language": {
@@ -15,9 +15,9 @@
           "3.5"
         ]
       },
-      "version": "1.2.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.4/Candle-manager-addon-1.2.4-darwin-x64-v3.5.tgz",
-      "checksum": "cbdc3b5ca8905373e97d9ae6bc5543030174de3f2edb5f0429ba0f6662f7318c",
+      "version": "1.2.6",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.6/Candle-manager-addon-1.2.6-darwin-x64-v3.5.tgz",
+      "checksum": "411552c4bed4802b32bcf4b81e3e233419a5c0d98b81298688038d8c57eda643",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "3.6"
         ]
       },
-      "version": "1.2.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.4/Candle-manager-addon-1.2.4-darwin-x64-v3.6.tgz",
-      "checksum": "6f6822711cb97f91e2ba2474c2757528f98f7ad59ab5be02d0d8c975728665f9",
+      "version": "1.2.6",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.6/Candle-manager-addon-1.2.6-darwin-x64-v3.6.tgz",
+      "checksum": "33d0f530ce6ba5921b4b8be0cef33479842a31b0033c44f64be6f466183a5183",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -47,9 +47,9 @@
           "3.7"
         ]
       },
-      "version": "1.2.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.4/Candle-manager-addon-1.2.4-darwin-x64-v3.7.tgz",
-      "checksum": "0a690473c345b86b34ea9e326544fcc203bc6a0c2547b531ba1d7fb47d4d7d21",
+      "version": "1.2.6",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.6/Candle-manager-addon-1.2.6-darwin-x64-v3.7.tgz",
+      "checksum": "1de3e932fea59157211b03dd702645c59ddb6a5e8d5dac805196ffa32ff538f2",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -63,9 +63,9 @@
           "3.8"
         ]
       },
-      "version": "1.2.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.4/Candle-manager-addon-1.2.4-darwin-x64-v3.8.tgz",
-      "checksum": "08e53dfc94f98d8a4b0ecc8e9b89efe88852e6d4b968be1a304d416fbeca9dc0",
+      "version": "1.2.6",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.6/Candle-manager-addon-1.2.6-darwin-x64-v3.8.tgz",
+      "checksum": "0c7800506b968190a7979a4eb5933ab6a00dde18b389c9a3fa63c9e11bdc2dbe",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -79,9 +79,9 @@
           "3.9"
         ]
       },
-      "version": "1.2.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.4/Candle-manager-addon-1.2.4-darwin-x64-v3.9.tgz",
-      "checksum": "f0f651b56280fdc3fcd5e4daedcdcd8094f6964168ae06dd3cac064db602ac71",
+      "version": "1.2.6",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.6/Candle-manager-addon-1.2.6-darwin-x64-v3.9.tgz",
+      "checksum": "33342e9745970c4bc027b5f538d68413481da98a1e14e46fec69683e3eb3128c",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,9 +95,9 @@
           "3.5"
         ]
       },
-      "version": "1.2.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.4/Candle-manager-addon-1.2.4-linux-arm-v3.5.tgz",
-      "checksum": "d9b94254e5902b25a2cfba1f05b9b3f261f93e90cf65a0bb71713c816d3a43ea",
+      "version": "1.2.6",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.6/Candle-manager-addon-1.2.6-linux-arm-v3.5.tgz",
+      "checksum": "6adb4eb95aec6bd0a8dd8fabf6be565acc7d262ed90c606dc34586d545bed7ba",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -111,9 +111,9 @@
           "3.6"
         ]
       },
-      "version": "1.2.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.4/Candle-manager-addon-1.2.4-linux-arm-v3.6.tgz",
-      "checksum": "ee1f7b4378c43d52643fb586205c3ea1f7cafbbfc85b454ed6f3dc412d650929",
+      "version": "1.2.6",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.6/Candle-manager-addon-1.2.6-linux-arm-v3.6.tgz",
+      "checksum": "97d856216fa1f267cd52dbc8b92fcbdf8638c51b58bed7e709fb87ba82908b57",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,9 +127,9 @@
           "3.7"
         ]
       },
-      "version": "1.2.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.4/Candle-manager-addon-1.2.4-linux-arm-v3.7.tgz",
-      "checksum": "8f2eafc9fc2382502cb5fdd2ca04b5f2da3ce0ba0628339d8026cfe56805c84c",
+      "version": "1.2.6",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.6/Candle-manager-addon-1.2.6-linux-arm-v3.7.tgz",
+      "checksum": "ac817bf3b11bdd9cf2b71bedf9123b72fc0bec9aa2d63ae4103d7bc15f5f0da1",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -143,9 +143,9 @@
           "3.8"
         ]
       },
-      "version": "1.2.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.4/Candle-manager-addon-1.2.4-linux-arm-v3.8.tgz",
-      "checksum": "4c63d677d6f06cf880f97b893e34b68eac8bb7c6485ab98616988ffea5ce3481",
+      "version": "1.2.6",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.6/Candle-manager-addon-1.2.6-linux-arm-v3.8.tgz",
+      "checksum": "ab262901f084577df511626a85d549049f5bde16c217fc519f36e1632ef3cc61",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -159,9 +159,9 @@
           "3.9"
         ]
       },
-      "version": "1.2.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.4/Candle-manager-addon-1.2.4-linux-arm-v3.9.tgz",
-      "checksum": "3f00f8ec87b6824c1c10853aa237dd5d0a52cd733db7b38e7682f17ca875ca53",
+      "version": "1.2.6",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.6/Candle-manager-addon-1.2.6-linux-arm-v3.9.tgz",
+      "checksum": "8199b524a0838611eb2105776191d80aeb6f3f99219d4e6abae9a61826d64355",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,9 +175,9 @@
           "3.5"
         ]
       },
-      "version": "1.2.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.4/Candle-manager-addon-1.2.4-linux-arm64-v3.5.tgz",
-      "checksum": "4d37aeed79173d182a94849c00f1dffd994eee70e1d8fc77025f4e692a5fd694",
+      "version": "1.2.6",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.6/Candle-manager-addon-1.2.6-linux-arm64-v3.5.tgz",
+      "checksum": "d69e266580c5f062a8f55a3149022d485c2872eab27ed631490a004b88e842da",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,9 +191,9 @@
           "3.6"
         ]
       },
-      "version": "1.2.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.4/Candle-manager-addon-1.2.4-linux-arm64-v3.6.tgz",
-      "checksum": "5d6051bd745008768536b0621f268b04031748ac866889a9e5aa39257e47c011",
+      "version": "1.2.6",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.6/Candle-manager-addon-1.2.6-linux-arm64-v3.6.tgz",
+      "checksum": "37392a8d3fbdff68f0fd488d30272973d6f55bc62ce18a2347349928e5f6ce51",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -207,9 +207,9 @@
           "3.7"
         ]
       },
-      "version": "1.2.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.4/Candle-manager-addon-1.2.4-linux-arm64-v3.7.tgz",
-      "checksum": "a89a130357aa9832e93cfacb49570c6eb86c1e99612b2af14b39337a8831c1c9",
+      "version": "1.2.6",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.6/Candle-manager-addon-1.2.6-linux-arm64-v3.7.tgz",
+      "checksum": "fa45015ee6f319119a03c6dd1bb33944a5531390bf3ccff9a0dd66f7881e2f1d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -223,9 +223,9 @@
           "3.8"
         ]
       },
-      "version": "1.2.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.4/Candle-manager-addon-1.2.4-linux-arm64-v3.8.tgz",
-      "checksum": "3da45739f94fb4e7cdd946d7d1290aab4746a5da9f6c7293c0dab5df28c601bb",
+      "version": "1.2.6",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.6/Candle-manager-addon-1.2.6-linux-arm64-v3.8.tgz",
+      "checksum": "d494e03e0ec359925358d093a9d9eade73a490ec83d9f92f7c45de75281435fd",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -239,9 +239,9 @@
           "3.9"
         ]
       },
-      "version": "1.2.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.4/Candle-manager-addon-1.2.4-linux-arm64-v3.9.tgz",
-      "checksum": "5b7400040ce62ff344377d11fff59d639e6a45474d2740ccb4a61b8bf6d5dc5b",
+      "version": "1.2.6",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.6/Candle-manager-addon-1.2.6-linux-arm64-v3.9.tgz",
+      "checksum": "e12afd491353f021d0b3329488861541e1cb07295303907bf945b26f9299f961",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -255,9 +255,9 @@
           "3.5"
         ]
       },
-      "version": "1.2.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.4/Candle-manager-addon-1.2.4-linux-x64-v3.5.tgz",
-      "checksum": "877a4782acde86c446f3d12c88e8569cc1e711e1d10ee9d98e28007dd2c79883",
+      "version": "1.2.6",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.6/Candle-manager-addon-1.2.6-linux-x64-v3.5.tgz",
+      "checksum": "4a6be1984cf400ed95abc407e1b6efa58e753c65e9c8c3b745a3ebf6db7791e0",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -271,9 +271,9 @@
           "3.6"
         ]
       },
-      "version": "1.2.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.4/Candle-manager-addon-1.2.4-linux-x64-v3.6.tgz",
-      "checksum": "81382433d77c388e920a3178229872844c17347426f26e2342a98c6e0c3cc88f",
+      "version": "1.2.6",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.6/Candle-manager-addon-1.2.6-linux-x64-v3.6.tgz",
+      "checksum": "0e896732f13564b0b0eec544b24665bbb5fb7d86afac98fce32567fee969dfee",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -287,9 +287,9 @@
           "3.7"
         ]
       },
-      "version": "1.2.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.4/Candle-manager-addon-1.2.4-linux-x64-v3.7.tgz",
-      "checksum": "b7a0bbe2ceda5ec2c9b7925a6387229e3665d692ae02cb55236250535a81add1",
+      "version": "1.2.6",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.6/Candle-manager-addon-1.2.6-linux-x64-v3.7.tgz",
+      "checksum": "d8486c3e9ae52ef489d69276ab7cc0176d7dd752ab60ab630629cf1cc827d643",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -303,9 +303,9 @@
           "3.8"
         ]
       },
-      "version": "1.2.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.4/Candle-manager-addon-1.2.4-linux-x64-v3.8.tgz",
-      "checksum": "35bbeea3d028c0f18c7404e4187685c441d570ed1c8d16d57dfa41621a59fba1",
+      "version": "1.2.6",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.6/Candle-manager-addon-1.2.6-linux-x64-v3.8.tgz",
+      "checksum": "e0ab85b9953e8e6acf48b888de754c61f67056e2ef239d3f8bfe3d97ed0c6f34",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -319,9 +319,9 @@
           "3.9"
         ]
       },
-      "version": "1.2.4",
-      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.4/Candle-manager-addon-1.2.4-linux-x64-v3.9.tgz",
-      "checksum": "b176be22b8eafac6dfa6c8d2abdc5f9a9ff7bbcd2166dd495c4866febfc8b509",
+      "version": "1.2.6",
+      "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.2.6/Candle-manager-addon-1.2.6-linux-x64-v3.9.tgz",
+      "checksum": "96fad9cd3bd314b3c64007ed506d9a640a422490eeca898b220d4fce315db91f",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
