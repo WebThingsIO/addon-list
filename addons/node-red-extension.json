@@ -1,7 +1,7 @@
 {
   "id": "node-red-extension",
   "name": "Node-RED",
-  "description": "Use your webthings in Node-RED for advanced home automatization",
+  "description": "Use your webthings in Node-RED for advanced home automation",
   "author": "bewee",
   "homepage_url": "https://github.com/bewee/node-red-extension#readme",
   "license_url": "https://raw.githubusercontent.com/bewee/node-red-extension/master/LICENSE.md",
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.0.4",
-      "url": "https://github.com/bewee/node-red-extension/releases/download/0.0.4/node-red-extension-0.0.4.tgz",
-      "checksum": "398a10fd684a008624c6d8360e62838a869dfbd0ac79c36a220ffc68481e2846",
+      "version": "0.1.0",
+      "url": "https://github.com/bewee/node-red-extension/releases/download/0.1.0/node-red-extension-0.1.0.tgz",
+      "checksum": "c799d92b15df79b833570889457b92c4b82e73f5d6865edc92b18fbbb6c5ad9a",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
