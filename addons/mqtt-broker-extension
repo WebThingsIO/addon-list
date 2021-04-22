@@ -1,0 +1,27 @@
+{
+  "id": "mqtt-broker-extension",
+  "name": "MQTT broker",
+  "description": "Run an MQTT broker in your webthings gateway",
+  "author": "bewee",
+  "homepage_url": "https://github.com/bewee/mqtt-broker-extension#readme",
+  "license_url": "https://raw.githubusercontent.com/bewee/mqtt-broker-extension/master/LICENSE.md",
+  "primary_type": "extension",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/bewee/mqtt-broker-extension/releases/download/0.0.1/mqtt-broker-extension-0.0.1.tgz",
+      "checksum": "2a2dee1a719220aad808182a7ab944703046031aaba87b6931474f4f1fb59ecb",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    }
+  ]
+}
