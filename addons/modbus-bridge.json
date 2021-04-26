@@ -15,9 +15,9 @@
           "64"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.0/modbus-bridge-0.2.0-linux-arm-v10.tgz",
-      "checksum": "f3f3bd7cf3e76d25828eb238568edfdf82bf73b6abd7f70e8ad4353c0db1447b",
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.1/modbus-bridge-0.2.1-linux-arm-v10.tgz",
+      "checksum": "fc0b545af19c2d8854bc0b4b8d2d99defc4967fa921623d8c52debf2459cbdd0",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "64"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.0/modbus-bridge-0.2.0-linux-arm64-v10.tgz",
-      "checksum": "0c4c9c56aba56f7d8b5ecaaa70602bd0a677208d439316c34e144cb1ca68245c",
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.1/modbus-bridge-0.2.1-linux-arm64-v10.tgz",
+      "checksum": "13df6d8f1373985f60d261f8a428beeeb089831a828d2d5efdf3a37c35c31ca1",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -47,9 +47,9 @@
           "64"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.0/modbus-bridge-0.2.0-linux-x64-v10.tgz",
-      "checksum": "e567355bf43bcb771607f26ae469c570141988c9386e5e7f550b79478517589d",
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.1/modbus-bridge-0.2.1-linux-x64-v10.tgz",
+      "checksum": "0be74442e67deac7993652018c0041158598199994f842752802c1e8e924f8eb",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -63,9 +63,9 @@
           "64"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.0/modbus-bridge-0.2.0-darwin-x64-v10.tgz",
-      "checksum": "1f4d98d670cf75c97727e18844451de4f8e670ed8ef8a7e7954309ee130d6a02",
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.1/modbus-bridge-0.2.1-darwin-x64-v10.tgz",
+      "checksum": "661d367e7488a497108302e255b156796e77e6822696c3f9daa157456752fd8a",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -79,9 +79,9 @@
           "72"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.0/modbus-bridge-0.2.0-linux-arm-v12.tgz",
-      "checksum": "085e9839ebe3fa3695d0b5090e1236602ea65ccaa44b4b67478553e0a28e0c41",
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.1/modbus-bridge-0.2.1-linux-arm-v12.tgz",
+      "checksum": "88763cd55d6170a994e1b842ec89bde7f0c65c7ba5e0e9c12c040d3ef0c6251c",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -95,9 +95,9 @@
           "72"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.0/modbus-bridge-0.2.0-linux-arm64-v12.tgz",
-      "checksum": "b4cc581f299277d9c9507b8633861ae424eb5671cb76fb9b3a8b3cfae5d4e3f2",
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.1/modbus-bridge-0.2.1-linux-arm64-v12.tgz",
+      "checksum": "3a30bf544f55f76d64fc174c53eb15f574988a083e1bad35da0d3e814ef4e19b",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -111,9 +111,9 @@
           "72"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.0/modbus-bridge-0.2.0-linux-x64-v12.tgz",
-      "checksum": "ede9282e0f98428405e6e0f01fae658ae3fbcc4467455c5924175b04f282e99a",
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.1/modbus-bridge-0.2.1-linux-x64-v12.tgz",
+      "checksum": "84d9774102d0597fdf3a2cb018057184dc3cce35d2fcc48b2dbb4fc962b16125",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -127,9 +127,9 @@
           "72"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.0/modbus-bridge-0.2.0-darwin-x64-v12.tgz",
-      "checksum": "c7e21256e32229e585d305af39ed774570910e85b9b8ff3055a43d30510b7526",
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.1/modbus-bridge-0.2.1-darwin-x64-v12.tgz",
+      "checksum": "34a36ef154eb93753f8516ec088ffaf0cd8f0f6555330f67194ebdf1c8c65acc",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -143,9 +143,9 @@
           "83"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.0/modbus-bridge-0.2.0-linux-arm-v14.tgz",
-      "checksum": "883d9963f4670b49e7cad8a813b0598077686f3b313980365912c4065ed33961",
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.1/modbus-bridge-0.2.1-linux-arm-v14.tgz",
+      "checksum": "b4f81c03bb9b43a79ccb7df01f31dddb79fcc0e6daadbdedb2f8547899530539",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -159,9 +159,9 @@
           "83"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.0/modbus-bridge-0.2.0-linux-arm64-v14.tgz",
-      "checksum": "fdf5e0dc15c210eb0282a471d2d246a22df4c0454a2e100cfd7fdb921eb77d0f",
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.1/modbus-bridge-0.2.1-linux-arm64-v14.tgz",
+      "checksum": "788aeb767d57c2e37573dfdf29c3d88c8bfd007bfb2d874caadb5c101538574c",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -175,9 +175,9 @@
           "83"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.0/modbus-bridge-0.2.0-linux-x64-v14.tgz",
-      "checksum": "0a086ebce274d337407ee92250dc920163187890a538dddfe43c0a5713416550",
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.1/modbus-bridge-0.2.1-linux-x64-v14.tgz",
+      "checksum": "9d00789b34b73094c4555789e440c33eacfb366bb6c76f5c3bbddcc3caae2b87",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -191,9 +191,9 @@
           "83"
         ]
       },
-      "version": "0.2.0",
-      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.0/modbus-bridge-0.2.0-darwin-x64-v14.tgz",
-      "checksum": "e41cc585a66558a389c2bd2909b92196610b7f1c47a4d9fc1779a3eec310d9b7",
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.1/modbus-bridge-0.2.1-darwin-x64-v14.tgz",
+      "checksum": "22d523fc40d32162c3ae6451004e1c525990ff4e7bc1509a9b90ca3c77e05389",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
