@@ -15,9 +15,9 @@
           "64"
         ]
       },
-      "version": "0.6.0",
-      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.6.0/ruuvitag-adapter-0.6.0-linux-arm-v10.tgz",
-      "checksum": "8fe653d120ac8839ad442727b32777d781b4f1ff6797dfd4a30dad434230cb44",
+      "version": "0.7.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.7.0/ruuvitag-adapter-0.7.0-linux-arm-v10.tgz",
+      "checksum": "6b560bddf28e4887977cc7a03acb9a7f66cebfbcef2b9d02314dc49f96c2aa3b",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "64"
         ]
       },
-      "version": "0.6.0",
-      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.6.0/ruuvitag-adapter-0.6.0-linux-arm64-v10.tgz",
-      "checksum": "66df444d77d804e5735d964898bd4d6b9ae5ca501f997f3d2edeb420ec4c1461",
+      "version": "0.7.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.7.0/ruuvitag-adapter-0.7.0-linux-arm64-v10.tgz",
+      "checksum": "8ad9de8ee9a94171641aea4f08ef6b0b69a8980c0d5444f9fdebbb2d10fd0962",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -47,9 +47,9 @@
           "64"
         ]
       },
-      "version": "0.6.0",
-      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.6.0/ruuvitag-adapter-0.6.0-linux-x64-v10.tgz",
-      "checksum": "daae186d18bd35a6133deb0892bb979339bd8314ab9e087bd515777e6c3a0e8f",
+      "version": "0.7.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.7.0/ruuvitag-adapter-0.7.0-linux-x64-v10.tgz",
+      "checksum": "39d005e6b7fccde1290497aa83f3d833e5337ad680ced46f2d2e2a1d4fc22e3d",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -63,9 +63,9 @@
           "64"
         ]
       },
-      "version": "0.6.0",
-      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.6.0/ruuvitag-adapter-0.6.0-darwin-x64-v10.tgz",
-      "checksum": "72d1f24d6026434fbbfa615d6ca4fcda7a5d9dc51a584aec4dfdc2aa4fd72861",
+      "version": "0.7.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.7.0/ruuvitag-adapter-0.7.0-darwin-x64-v10.tgz",
+      "checksum": "fd4f37e728fcdf03c052d8271c7d50c0b3b55886a729253b4fc8695c8cd77879",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -79,9 +79,9 @@
           "72"
         ]
       },
-      "version": "0.6.0",
-      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.6.0/ruuvitag-adapter-0.6.0-linux-arm-v12.tgz",
-      "checksum": "1a4f4044eccdd62d1e9a2a606be1bb2e2470c7e588b2c7f9bd447284eef7d428",
+      "version": "0.7.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.7.0/ruuvitag-adapter-0.7.0-linux-arm-v12.tgz",
+      "checksum": "e3825ca19ec3e40cc8f5d4ed23ff98adb3692812275292b63ac5936bc6b44497",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -95,9 +95,9 @@
           "72"
         ]
       },
-      "version": "0.6.0",
-      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.6.0/ruuvitag-adapter-0.6.0-linux-arm64-v12.tgz",
-      "checksum": "4c70f10a6a3f1c84658ecb5fca4437931152578a327b17048f20209ffe20c6d5",
+      "version": "0.7.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.7.0/ruuvitag-adapter-0.7.0-linux-arm64-v12.tgz",
+      "checksum": "29aa466caa9abe1f281101abad65b615e9c32dd3556632318be889759b8c974d",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -111,9 +111,9 @@
           "72"
         ]
       },
-      "version": "0.6.0",
-      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.6.0/ruuvitag-adapter-0.6.0-linux-x64-v12.tgz",
-      "checksum": "fdcfaad7077fd0633122457629c47378be1e96d950837f6fcd440557bb87d785",
+      "version": "0.7.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.7.0/ruuvitag-adapter-0.7.0-linux-x64-v12.tgz",
+      "checksum": "bdd3bd20a4bdc49e4101900983cdb7196f335c649f885e1f053ba4690c1ee811",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -127,9 +127,9 @@
           "72"
         ]
       },
-      "version": "0.6.0",
-      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.6.0/ruuvitag-adapter-0.6.0-darwin-x64-v12.tgz",
-      "checksum": "117775c610d04b3e278765de8602c58c0719a870d8de34d6d890f949213b8771",
+      "version": "0.7.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.7.0/ruuvitag-adapter-0.7.0-darwin-x64-v12.tgz",
+      "checksum": "1853f3fb3c32967bc565e155528926493728c3c3c56452a162c9fb935e482e49",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -143,9 +143,9 @@
           "83"
         ]
       },
-      "version": "0.6.0",
-      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.6.0/ruuvitag-adapter-0.6.0-linux-arm-v14.tgz",
-      "checksum": "e393d5540f45bf4f516589515867661c2ac689deee80ec0652f47ea8546a07d4",
+      "version": "0.7.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.7.0/ruuvitag-adapter-0.7.0-linux-arm-v14.tgz",
+      "checksum": "1a2bf0d812e93accf498826e282ca8c3d71a0e7be2f94bab8122b357961d776b",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -159,9 +159,9 @@
           "83"
         ]
       },
-      "version": "0.6.0",
-      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.6.0/ruuvitag-adapter-0.6.0-linux-arm64-v14.tgz",
-      "checksum": "20764110bc96f3069999f32d9b12d759321e98aef5a5220730751d8c0383e7df",
+      "version": "0.7.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.7.0/ruuvitag-adapter-0.7.0-linux-arm64-v14.tgz",
+      "checksum": "e93160f657dd7a28a94af9359369502450ad97758c5eb854fe69ab231d1699c2",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -175,9 +175,9 @@
           "83"
         ]
       },
-      "version": "0.6.0",
-      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.6.0/ruuvitag-adapter-0.6.0-linux-x64-v14.tgz",
-      "checksum": "b45486de4c3854dc82a713ff9a0b68a120f6aa795fc4d86f87cd1dacbd5c9090",
+      "version": "0.7.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.7.0/ruuvitag-adapter-0.7.0-linux-x64-v14.tgz",
+      "checksum": "5da0a317c3c492512767bf8fa49e5e1af3786897ce2579b1cec63a24e172c70d",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -191,9 +191,9 @@
           "83"
         ]
       },
-      "version": "0.6.0",
-      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.6.0/ruuvitag-adapter-0.6.0-darwin-x64-v14.tgz",
-      "checksum": "a61c4d8d105f09aeb9026ef76f1926679f6b7628e25070bea0a60300847b3669",
+      "version": "0.7.0",
+      "url": "https://github.com/tim-hellhake/ruuvitag-adapter/releases/download/0.7.0/ruuvitag-adapter-0.7.0-darwin-x64-v14.tgz",
+      "checksum": "f8d665e2f112225bd5efeda9beaa035ee361f7ffae158901512986bc19261c6e",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
