@@ -8,38 +8,6 @@
   "primary_type": "adapter",
   "packages": [
     {
-      "architecture": "linux-arm",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "64"
-        ]
-      },
-      "version": "0.5.1",
-      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.5.1/kafka-bridge-0.5.1-linux-arm-v10.tgz",
-      "checksum": "294eaef21e7da3898ff6992b3a43f2db2f60afcc98986e0be15cd6f0fd0fcb9d",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "64"
-        ]
-      },
-      "version": "0.5.1",
-      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.5.1/kafka-bridge-0.5.1-linux-arm64-v10.tgz",
-      "checksum": "dce3f2b8c3654873f905b6b13f11bda0ca49c57e07dc3836b127555f21abce6a",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
       "architecture": "linux-x64",
       "language": {
         "name": "nodejs",
@@ -47,9 +15,9 @@
           "64"
         ]
       },
-      "version": "0.5.1",
-      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.5.1/kafka-bridge-0.5.1-linux-x64-v10.tgz",
-      "checksum": "9ba4aba5e2eff687aec651172a1a2b24ef89a5a6a8030144f723e8201658664f",
+      "version": "0.5.2",
+      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.5.2/kafka-bridge-0.5.2-linux-x64-v10.tgz",
+      "checksum": "149eebbed98b3024c0106489e2e3ba7f47a60e5fb0db1ae09e954b30fabb3c64",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -63,41 +31,9 @@
           "64"
         ]
       },
-      "version": "0.5.1",
-      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.5.1/kafka-bridge-0.5.1-darwin-x64-v10.tgz",
-      "checksum": "f997fcf63a6e0f33c01fe63b882d31043130a291ef06070b248696d6efbabc46",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "72"
-        ]
-      },
-      "version": "0.5.1",
-      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.5.1/kafka-bridge-0.5.1-linux-arm-v12.tgz",
-      "checksum": "ee21bdc65dbebcbf64d3f1a7e4a96bf1e73f4c81a772de284982f6b0bc4a0044",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "72"
-        ]
-      },
-      "version": "0.5.1",
-      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.5.1/kafka-bridge-0.5.1-linux-arm64-v12.tgz",
-      "checksum": "fbbdfe4bc5966a9bd4a6f2458320481d1f191408081afaba7b7566bdb07361f7",
+      "version": "0.5.2",
+      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.5.2/kafka-bridge-0.5.2-darwin-x64-v10.tgz",
+      "checksum": "6e37f07e12256238e74509be95d6d45d4e56a882bb50f5c502c8efcb7aa84012",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -111,9 +47,9 @@
           "72"
         ]
       },
-      "version": "0.5.1",
-      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.5.1/kafka-bridge-0.5.1-linux-x64-v12.tgz",
-      "checksum": "3833d1be1d7cb7e9f4658f27efd2509c2e09628302cb3d9b2656d2220137fc0b",
+      "version": "0.5.2",
+      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.5.2/kafka-bridge-0.5.2-linux-x64-v12.tgz",
+      "checksum": "4cc7d55f195aa450580ce1ab3089cb0ee2f726bf641eb836cef88b0a3c3fca9c",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,41 +63,9 @@
           "72"
         ]
       },
-      "version": "0.5.1",
-      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.5.1/kafka-bridge-0.5.1-darwin-x64-v12.tgz",
-      "checksum": "1d1c2d038ba61c42a35cbc9100351e403f4ad4fc5bac20c75125c9144a1a93a5",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "83"
-        ]
-      },
-      "version": "0.5.1",
-      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.5.1/kafka-bridge-0.5.1-linux-arm-v14.tgz",
-      "checksum": "62435f70916b2332e9a88227b051c20f00b7ef75afa2c666524ad26df932ff44",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "83"
-        ]
-      },
-      "version": "0.5.1",
-      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.5.1/kafka-bridge-0.5.1-linux-arm64-v14.tgz",
-      "checksum": "34de8fb59036573733d51237e6dd86c39f8af5aff051ffe20c84eaa34f0720b3",
+      "version": "0.5.2",
+      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.5.2/kafka-bridge-0.5.2-darwin-x64-v12.tgz",
+      "checksum": "1fbf847f8d830de01eac4a10e77031de31b4f7168c0fe25f2010312bc2ecc8fa",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,9 +79,9 @@
           "83"
         ]
       },
-      "version": "0.5.1",
-      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.5.1/kafka-bridge-0.5.1-linux-x64-v14.tgz",
-      "checksum": "c9ca7db65844730d8d78687379ac1b68bad0808552aa99171760a1c7b8dcecf5",
+      "version": "0.5.2",
+      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.5.2/kafka-bridge-0.5.2-linux-x64-v14.tgz",
+      "checksum": "84fa3ba0cf2eb274f7ff6851d82ac4a6b40e04910bee5b8c847ca7a29e695e9d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,9 +95,9 @@
           "83"
         ]
       },
-      "version": "0.5.1",
-      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.5.1/kafka-bridge-0.5.1-darwin-x64-v14.tgz",
-      "checksum": "336479d70010eaf0adb2ee167f77e1501770a3f917b7603dd700c9d0454c87a1",
+      "version": "0.5.2",
+      "url": "https://github.com/tim-hellhake/kafka-bridge/releases/download/0.5.2/kafka-bridge-0.5.2-darwin-x64-v14.tgz",
+      "checksum": "b58b0a8bdc2c393e9d371867376076e55eb6049eef729b3bb8231a0df0e724e6",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
