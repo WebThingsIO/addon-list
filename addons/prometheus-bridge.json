@@ -15,9 +15,9 @@
           "64"
         ]
       },
-      "version": "0.6.1",
-      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.6.1/prometheus-bridge-0.6.1-linux-arm-v10.tgz",
-      "checksum": "8658b0a8f7af129c7c2cbefdb058a51aefb135a81edf1aa23715abec2ad024d5",
+      "version": "0.7.0",
+      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.7.0/prometheus-bridge-0.7.0-linux-arm-v10.tgz",
+      "checksum": "c76a9efe5d604a6c09baf8011db267114857816846363af9562f7b454e5f2a5d",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "64"
         ]
       },
-      "version": "0.6.1",
-      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.6.1/prometheus-bridge-0.6.1-linux-arm64-v10.tgz",
-      "checksum": "946e3e80c2373a0f2a76eebadb840d989519736108b0c98684688c34df5a1f7a",
+      "version": "0.7.0",
+      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.7.0/prometheus-bridge-0.7.0-linux-arm64-v10.tgz",
+      "checksum": "07029bdb640efcda57c90ee0258c7eea0e0a7fd481d4d35d8421b3a85615ac95",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -47,9 +47,9 @@
           "64"
         ]
       },
-      "version": "0.6.1",
-      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.6.1/prometheus-bridge-0.6.1-linux-x64-v10.tgz",
-      "checksum": "5323791981986b939673998cc3a6824185b30a11f8062af3ca90ac850584fd1d",
+      "version": "0.7.0",
+      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.7.0/prometheus-bridge-0.7.0-linux-x64-v10.tgz",
+      "checksum": "f1688ed09e6e48cccd57e6e1a69e796bdc5967fa2bd24eb1b361a470a7318216",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -63,9 +63,9 @@
           "64"
         ]
       },
-      "version": "0.6.1",
-      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.6.1/prometheus-bridge-0.6.1-darwin-x64-v10.tgz",
-      "checksum": "69b6eb98c127166108aae411ffc86f9a673d6575113ef3b7b689d1253a65cf32",
+      "version": "0.7.0",
+      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.7.0/prometheus-bridge-0.7.0-darwin-x64-v10.tgz",
+      "checksum": "f969f8d8dbac572b1b3e56e324a1e4e12488b9e8f470e50802b56ef5fff884e4",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -79,9 +79,9 @@
           "72"
         ]
       },
-      "version": "0.6.1",
-      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.6.1/prometheus-bridge-0.6.1-linux-arm-v12.tgz",
-      "checksum": "b867650f60b929facaedadc74e8fb9ff554033eb4851ace62fb7b501e3e12d56",
+      "version": "0.7.0",
+      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.7.0/prometheus-bridge-0.7.0-linux-arm-v12.tgz",
+      "checksum": "e992379229f4cbf8b388df7c643c3461d2b7e184567c2bb451a5afa8310e2233",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -95,9 +95,9 @@
           "72"
         ]
       },
-      "version": "0.6.1",
-      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.6.1/prometheus-bridge-0.6.1-linux-arm64-v12.tgz",
-      "checksum": "51b4fc78fb2461000c2a2a73d1192c998d0eaf71007f7031c562187f86d60c21",
+      "version": "0.7.0",
+      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.7.0/prometheus-bridge-0.7.0-linux-arm64-v12.tgz",
+      "checksum": "bba5e5f3e638849ba37d1a477d0f68fa745ba8c9ad5f2dcc81d21a93c4a4ce69",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -111,9 +111,9 @@
           "72"
         ]
       },
-      "version": "0.6.1",
-      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.6.1/prometheus-bridge-0.6.1-linux-x64-v12.tgz",
-      "checksum": "becdb8bdb514186da972ab911a423f633a842f33f01665568bbdae399ef04b62",
+      "version": "0.7.0",
+      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.7.0/prometheus-bridge-0.7.0-linux-x64-v12.tgz",
+      "checksum": "3a9c5df4e3efca5dfa3c7c8a445ff24b3d8ffb8e2a3db65605e34210b5dae053",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -127,9 +127,9 @@
           "72"
         ]
       },
-      "version": "0.6.1",
-      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.6.1/prometheus-bridge-0.6.1-darwin-x64-v12.tgz",
-      "checksum": "8ca5c3970a8e998cf235fdaee07eaaf11fbea3ff29ca87177dbf103278341036",
+      "version": "0.7.0",
+      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.7.0/prometheus-bridge-0.7.0-darwin-x64-v12.tgz",
+      "checksum": "0c8b12531997cfed72d967787e0b57b45379ff665282365469eea308f0fdef5d",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -143,9 +143,9 @@
           "83"
         ]
       },
-      "version": "0.6.1",
-      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.6.1/prometheus-bridge-0.6.1-linux-arm-v14.tgz",
-      "checksum": "980fc8eba09a0ffdf9de397a3c4011c864e28304bd0b2dca74c60411a51cdb16",
+      "version": "0.7.0",
+      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.7.0/prometheus-bridge-0.7.0-linux-arm-v14.tgz",
+      "checksum": "4b6dbf454a388b8257c1ef8c0c365a68ffcec889924e25d3843873b92a8d722d",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -159,9 +159,9 @@
           "83"
         ]
       },
-      "version": "0.6.1",
-      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.6.1/prometheus-bridge-0.6.1-linux-arm64-v14.tgz",
-      "checksum": "27168b8a0e74f565ddce8f724048c516919cd5eede97b21499bca701afacf7ac",
+      "version": "0.7.0",
+      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.7.0/prometheus-bridge-0.7.0-linux-arm64-v14.tgz",
+      "checksum": "b28f6956493c3a38a21f8820b64ce16172c3ea0bef6efcebb1113c0840152d9b",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -175,9 +175,9 @@
           "83"
         ]
       },
-      "version": "0.6.1",
-      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.6.1/prometheus-bridge-0.6.1-linux-x64-v14.tgz",
-      "checksum": "56dd9033ad227efdd58ee89d5b4b6f15bc026dc60b9a0b084f199dcbb03fd655",
+      "version": "0.7.0",
+      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.7.0/prometheus-bridge-0.7.0-linux-x64-v14.tgz",
+      "checksum": "beac37f71d6bf991510a239d5b81b52090bdcc6677097d4a8a489a77701b051c",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -191,9 +191,9 @@
           "83"
         ]
       },
-      "version": "0.6.1",
-      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.6.1/prometheus-bridge-0.6.1-darwin-x64-v14.tgz",
-      "checksum": "6dcc98d86806b823c318c110ae0535fddef4dfb6151a9fcfc2183e46decf7ad5",
+      "version": "0.7.0",
+      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.7.0/prometheus-bridge-0.7.0-darwin-x64-v14.tgz",
+      "checksum": "1e93cc7b0fa84bd0678dc75ac7a0c36d40ec1994ee1c4726b38331ef919dd5b5",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
