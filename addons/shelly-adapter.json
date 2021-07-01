@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "1.7.0",
-      "url": "https://github.com/tim-hellhake/shelly-adapter/releases/download/1.7.0/shelly-adapter-1.7.0.tgz",
-      "checksum": "a49ce878be3224081c615c8fe989c6347b055b8bd496097d86cc98604a6759c1",
+      "version": "1.8.0",
+      "url": "https://github.com/tim-hellhake/shelly-adapter/releases/download/1.8.0/shelly-adapter-1.8.0.tgz",
+      "checksum": "25d40cee01d5cd69d88685572fcd956ae638537580f61e67708b067c7f161b98",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
