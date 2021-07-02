@@ -15,6 +15,26 @@
           "any"
         ]
       },
+      "version": "0.4.1",
+      "url": "https://gateway.pinata.cloud/ipfs/QmZhvB7ASRAodbdMq5wRvL41aqZi2cuwer3mogGf7WYJmh/matrix-adapter-0.4.1.tgz",
+      "checksum": "371fc4954f88e4bbe5d75d98f31ac2a2a20800902437ecb545c80e779884159c",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
       "version": "0.3.2",
       "url": "https://gateway.pinata.cloud/ipfs/QmbHhhsh5dYojjuC4Hz2MJyseAVS6ahmCgG7NUNpg6bieB/matrix-adapter-0.3.2.tgz",
       "checksum": "b546a62f12b06d941aff2f24a57cc89c83b8d2db189f515073d041ccc997e255",
