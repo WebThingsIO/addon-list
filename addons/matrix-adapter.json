@@ -18,10 +18,6 @@
       "version": "0.4.1",
       "url": "https://gateway.pinata.cloud/ipfs/QmZhvB7ASRAodbdMq5wRvL41aqZi2cuwer3mogGf7WYJmh/matrix-adapter-0.4.1.tgz",
       "checksum": "371fc4954f88e4bbe5d75d98f31ac2a2a20800902437ecb545c80e779884159c",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
       "gateway": {
         "min": "1.0.0",
         "max": "*"
