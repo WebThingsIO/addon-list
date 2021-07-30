@@ -15,12 +15,13 @@
           "3.5",
           "3.6",
           "3.7",
-          "3.8"
+          "3.8",
+          "3.9"
         ]
       },
-      "version": "0.0.4",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/power-settings-0.0.4.tgz",
-      "checksum": "d246f7d70acbd25fad302a0c73b1fb16549a78819313b979fe989f8431b79dff",
+      "version": "1.0.5",
+      "url": "https://github.com/flatsiedatsie/power-settings/releases/download/1.0.5/power-settings-1.0.5.tgz",
+      "checksum": "2c00b538190fa6fc1ac29e62f31394a00fa3ac20dffb4e7aa750fd321da9f6f6",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

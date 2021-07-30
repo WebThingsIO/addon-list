@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/netgear-adapter-0.0.2.tgz",
-      "checksum": "9746469acae9317a22882f45226c60317e4180b8b9fc86f55bf0dc162a535821",
+      "version": "0.0.4",
+      "url": "https://github.com/mrstegeman/netgear-adapter/releases/download/v0.0.4/netgear-adapter-0.0.4.tgz",
+      "checksum": "1467d1b55fcff0bc85847583ff7220b4b4431fb37c879b1d013276d31a437a40",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

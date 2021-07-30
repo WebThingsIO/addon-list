@@ -1,0 +1,203 @@
+{
+  "id": "modbus-bridge",
+  "name": "Modbus Bridge",
+  "description": "Expose your devices to modbus clients",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/modbus-bridge#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/modbus-bridge/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.1/modbus-bridge-0.2.1-linux-arm-v10.tgz",
+      "checksum": "fc0b545af19c2d8854bc0b4b8d2d99defc4967fa921623d8c52debf2459cbdd0",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.1/modbus-bridge-0.2.1-linux-arm64-v10.tgz",
+      "checksum": "13df6d8f1373985f60d261f8a428beeeb089831a828d2d5efdf3a37c35c31ca1",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.1/modbus-bridge-0.2.1-linux-x64-v10.tgz",
+      "checksum": "0be74442e67deac7993652018c0041158598199994f842752802c1e8e924f8eb",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.1/modbus-bridge-0.2.1-darwin-x64-v10.tgz",
+      "checksum": "661d367e7488a497108302e255b156796e77e6822696c3f9daa157456752fd8a",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.1/modbus-bridge-0.2.1-linux-arm-v12.tgz",
+      "checksum": "88763cd55d6170a994e1b842ec89bde7f0c65c7ba5e0e9c12c040d3ef0c6251c",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.1/modbus-bridge-0.2.1-linux-arm64-v12.tgz",
+      "checksum": "3a30bf544f55f76d64fc174c53eb15f574988a083e1bad35da0d3e814ef4e19b",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.1/modbus-bridge-0.2.1-linux-x64-v12.tgz",
+      "checksum": "84d9774102d0597fdf3a2cb018057184dc3cce35d2fcc48b2dbb4fc962b16125",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.1/modbus-bridge-0.2.1-darwin-x64-v12.tgz",
+      "checksum": "34a36ef154eb93753f8516ec088ffaf0cd8f0f6555330f67194ebdf1c8c65acc",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.1/modbus-bridge-0.2.1-linux-arm-v14.tgz",
+      "checksum": "b4f81c03bb9b43a79ccb7df01f31dddb79fcc0e6daadbdedb2f8547899530539",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.1/modbus-bridge-0.2.1-linux-arm64-v14.tgz",
+      "checksum": "788aeb767d57c2e37573dfdf29c3d88c8bfd007bfb2d874caadb5c101538574c",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.1/modbus-bridge-0.2.1-linux-x64-v14.tgz",
+      "checksum": "9d00789b34b73094c4555789e440c33eacfb366bb6c76f5c3bbddcc3caae2b87",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.2.1",
+      "url": "https://github.com/tim-hellhake/modbus-bridge/releases/download/0.2.1/modbus-bridge-0.2.1-darwin-x64-v14.tgz",
+      "checksum": "22d523fc40d32162c3ae6451004e1c525990ff4e7bc1509a9b90ca3c77e05389",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    }
+  ]
+}

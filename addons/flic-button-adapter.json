@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/flic-button-adapter-0.3.2-linux-arm.tgz",
-      "checksum": "72393635e9e756546450818fe438fe1c092b27e10bf1e8040339649c9b323e29",
+      "version": "0.3.3",
+      "url": "https://github.com/mrstegeman/flic-button-adapter/releases/download/v0.3.3/flic-button-adapter-0.3.3-linux-arm.tgz",
+      "checksum": "39d05128ea3edfa2bb8819d27f702ffd5f8d9614791e5b89f89d5477ed84cc6d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "any"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/flic-button-adapter-0.3.2-linux-x64.tgz",
-      "checksum": "40214251a0e6e34c38ea8cc6262f36b28553ae879b8b816a09e73d204b228c19",
+      "version": "0.3.3",
+      "url": "https://github.com/mrstegeman/flic-button-adapter/releases/download/v0.3.3/flic-button-adapter-0.3.3-linux-x64.tgz",
+      "checksum": "5704d29dd738785b685d4ed2ac533a1ca14c8eccd2db6b0f5df4718fb3703f8b",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

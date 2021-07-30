@@ -15,11 +15,11 @@
           "any"
         ]
       },
-      "version": "0.9.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/sonos-adapter-0.9.1.tgz",
-      "checksum": "0131ac6415f1a22f7d217bbf5f043df077d538535dfd2475690b0ec490dabca7",
+      "version": "0.11.0",
+      "url": "https://github.com/tim-hellhake/sonos-adapter/releases/download/0.11.0/sonos-adapter-0.11.0.tgz",
+      "checksum": "9a081cf798de830a637f832c6d2d3c10eed7578a8ba91971619b1f6bb59713d7",
       "gateway": {
-        "min": "0.10.0",
+        "min": "1.0.0",
         "max": "*"
       }
     }

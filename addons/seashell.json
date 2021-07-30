@@ -15,12 +15,13 @@
           "3.5",
           "3.6",
           "3.7",
-          "3.8"
+          "3.8",
+          "3.9"
         ]
       },
-      "version": "0.0.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/seashell-0.0.1.tgz",
-      "checksum": "040746498d2a148527d5d860121cc5983bf8ed7c48497137af5ef71b26c63eb0",
+      "version": "1.0.1",
+      "url": "https://github.com/flatsiedatsie/seashell/releases/download/1.0.1/seashell-1.0.1.tgz",
+      "checksum": "95b454733dabff146c29ae664598c87a6d4b6d04bcd8aaa40d77be280b46437c",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

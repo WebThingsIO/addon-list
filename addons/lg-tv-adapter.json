@@ -2,9 +2,9 @@
   "id": "lg-tv-adapter",
   "name": "LG webOS TV",
   "description": "LG webOS TV support",
-  "author": "Mozilla IoT",
-  "homepage_url": "https://github.com/mozilla-iot/lg-tv-adapter#readme",
-  "license_url": "https://raw.githubusercontent.com/mozilla-iot/lg-tv-adapter/master/LICENSE",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/lg-tv-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/lg-tv-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -12,76 +12,12 @@
       "language": {
         "name": "nodejs",
         "versions": [
-          "57"
-        ]
-      },
-      "version": "0.3.5",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.5-linux-arm-v8.tgz",
-      "checksum": "b72dcff05851009c29fc9b2162b6b1570fb43cd8e4f075d2387d36bbdcaa7ca2",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.3.5",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.5-linux-arm64-v8.tgz",
-      "checksum": "350d6936d8e26fced5449f3a0d5196c4d619f57220db8a9a2bba7afac48215f8",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-x64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.3.5",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.5-linux-x64-v8.tgz",
-      "checksum": "5776487700b28c8427b1e27249867a26e83053e477f82e5a09843f1fae14687a",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "darwin-x64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.3.5",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.5-darwin-x64-v8.tgz",
-      "checksum": "bbc165e3005fc29c0cb9600d80e05a56657001edea8e3945494eaef55fb34323",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm",
-      "language": {
-        "name": "nodejs",
-        "versions": [
           "64"
         ]
       },
-      "version": "0.3.5",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.5-linux-arm-v10.tgz",
-      "checksum": "358fd877581840a21f8bdf20ba6eadf3b49ae8a9dbf52a2dae0833c3dff3d472",
+      "version": "0.3.6",
+      "url": "https://github.com/WebThingsIO/lg-tv-adapter/releases/download/v0.3.6/lg-tv-adapter-0.3.6-linux-arm-v10.tgz",
+      "checksum": "a9a2f160f90a9bc1acb0c55aeb39e911d9fb14165e72f7b8a2507b8c1332547b",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,9 +31,9 @@
           "64"
         ]
       },
-      "version": "0.3.5",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.5-linux-arm64-v10.tgz",
-      "checksum": "2392a777b5578d0af5e49359af19432a3fcf1640e145974282c227914914b077",
+      "version": "0.3.6",
+      "url": "https://github.com/WebThingsIO/lg-tv-adapter/releases/download/v0.3.6/lg-tv-adapter-0.3.6-linux-arm64-v10.tgz",
+      "checksum": "b9f3884c2c07c2c37e4363fd15fa2aaeed9ffa57ea181cd2543e06c32ae207f3",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -111,9 +47,9 @@
           "64"
         ]
       },
-      "version": "0.3.5",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.5-linux-x64-v10.tgz",
-      "checksum": "d4207f41a0d556276aaf4f3b96916a1dea7dfdb1a9b3b2f63ae97ea26ad7ce2f",
+      "version": "0.3.6",
+      "url": "https://github.com/WebThingsIO/lg-tv-adapter/releases/download/v0.3.6/lg-tv-adapter-0.3.6-linux-x64-v10.tgz",
+      "checksum": "838528cdfd63eb46018b1fa5827bc46ebdcc9a4ef20fbc0e9629b300f33d6dda",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,9 +63,9 @@
           "64"
         ]
       },
-      "version": "0.3.5",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.5-darwin-x64-v10.tgz",
-      "checksum": "f0948d6ba67173df1893cea90151432a30002d7a0257df9c7bcbd0f5ae3e3468",
+      "version": "0.3.6",
+      "url": "https://github.com/WebThingsIO/lg-tv-adapter/releases/download/v0.3.6/lg-tv-adapter-0.3.6-darwin-x64-v10.tgz",
+      "checksum": "88b340551031fe70fdccf8c600322fe2850838e3f8573129e369c69e4a641e45",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -143,9 +79,9 @@
           "72"
         ]
       },
-      "version": "0.3.5",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.5-linux-arm-v12.tgz",
-      "checksum": "74044bebf631438905fe2e23bb1de5294eab271abeeaa391ae0ea7a36b3b4294",
+      "version": "0.3.6",
+      "url": "https://github.com/WebThingsIO/lg-tv-adapter/releases/download/v0.3.6/lg-tv-adapter-0.3.6-linux-arm-v12.tgz",
+      "checksum": "3f1d574a0b259232ca93b6a9d1b6d43692477f5f0ec955c9e4ab7c8c1bbe9006",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -159,9 +95,9 @@
           "72"
         ]
       },
-      "version": "0.3.5",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.5-linux-arm64-v12.tgz",
-      "checksum": "a4bb7a43c57fb32ff33dc7bc474b2f051549c0cb24992b7215fc1a46c40efc93",
+      "version": "0.3.6",
+      "url": "https://github.com/WebThingsIO/lg-tv-adapter/releases/download/v0.3.6/lg-tv-adapter-0.3.6-linux-arm64-v12.tgz",
+      "checksum": "0dda88a9e91de97d72aa8246c9b6c3cfad458e7180f28d67134b1ed82fa8b88b",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,9 +111,9 @@
           "72"
         ]
       },
-      "version": "0.3.5",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.5-linux-x64-v12.tgz",
-      "checksum": "149156c4397d5d78ee86b48b21829deb987dd80c99eba2513bb9127db1c50bf0",
+      "version": "0.3.6",
+      "url": "https://github.com/WebThingsIO/lg-tv-adapter/releases/download/v0.3.6/lg-tv-adapter-0.3.6-linux-x64-v12.tgz",
+      "checksum": "cf44191d11af095ad7a356e72b59534f80f70df0f84bc0961cf169f7f0b8d1bd",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,9 +127,9 @@
           "72"
         ]
       },
-      "version": "0.3.5",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.5-darwin-x64-v12.tgz",
-      "checksum": "a1dbc81b4277230b6974aa55c149cfb2baaba43b10b6d90bddd82e280c7a9144",
+      "version": "0.3.6",
+      "url": "https://github.com/WebThingsIO/lg-tv-adapter/releases/download/v0.3.6/lg-tv-adapter-0.3.6-darwin-x64-v12.tgz",
+      "checksum": "2b015003d6d5b5b3b7b726e7f2cea8c842b7dc54fd2fe6ec47386c745fd87b8c",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -207,9 +143,9 @@
           "83"
         ]
       },
-      "version": "0.3.5",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.5-linux-arm-v14.tgz",
-      "checksum": "b2c295fbd27bc866541cd0773742b32c30abfbfbeaffd201e3ebd46cd64af948",
+      "version": "0.3.6",
+      "url": "https://github.com/WebThingsIO/lg-tv-adapter/releases/download/v0.3.6/lg-tv-adapter-0.3.6-linux-arm-v14.tgz",
+      "checksum": "d474a28fb8f2bd5b1975bd3fde08449440ca638a0fcf4d76d23ea98145e198e9",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -223,9 +159,9 @@
           "83"
         ]
       },
-      "version": "0.3.5",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.5-linux-arm64-v14.tgz",
-      "checksum": "9b720ef9cd051ae1a6b44eaabfed6dc75c64eb39f95d8e0716303d41bc160a2a",
+      "version": "0.3.6",
+      "url": "https://github.com/WebThingsIO/lg-tv-adapter/releases/download/v0.3.6/lg-tv-adapter-0.3.6-linux-arm64-v14.tgz",
+      "checksum": "99905adfd653175d2250e96e88ee382b5862e6e1c771f3a6219185565769c7f6",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -239,9 +175,9 @@
           "83"
         ]
       },
-      "version": "0.3.5",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.5-linux-x64-v14.tgz",
-      "checksum": "cbdb563fae86da660db549dc255a7c85c1c9488e249c8ccfe4033d02d75b7971",
+      "version": "0.3.6",
+      "url": "https://github.com/WebThingsIO/lg-tv-adapter/releases/download/v0.3.6/lg-tv-adapter-0.3.6-linux-x64-v14.tgz",
+      "checksum": "f9eb339c31a100846dde5b5784197aaa0144b849f39e73c443eba43fb4380131",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -255,9 +191,9 @@
           "83"
         ]
       },
-      "version": "0.3.5",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/lg-tv-adapter-0.3.5-darwin-x64-v14.tgz",
-      "checksum": "0a51d4c5ac55153b94d5a47490fb0d4ca05ab2d4be86ca5c91566b29b55561f4",
+      "version": "0.3.6",
+      "url": "https://github.com/WebThingsIO/lg-tv-adapter/releases/download/v0.3.6/lg-tv-adapter-0.3.6-darwin-x64-v14.tgz",
+      "checksum": "d287128aa428804d0619af6a5630443107bd2ca0d7633384e1192e79c236a815",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

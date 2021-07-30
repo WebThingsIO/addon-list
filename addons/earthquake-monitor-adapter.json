@@ -2,9 +2,9 @@
   "id": "earthquake-monitor-adapter",
   "name": "Earthquake Monitor",
   "description": "Earthquake monitor using USGS data",
-  "author": "Mozilla IoT",
-  "homepage_url": "https://github.com/mozilla-iot/earthquake-monitor-adapter",
-  "license_url": "https://raw.githubusercontent.com/mozilla-iot/earthquake-monitor-adapter/master/LICENSE",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/earthquake-monitor-adapter",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/earthquake-monitor-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,12 +15,13 @@
           "3.5",
           "3.6",
           "3.7",
-          "3.8"
+          "3.8",
+          "3.9"
         ]
       },
-      "version": "0.3.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/earthquake-monitor-adapter-0.3.1.tgz",
-      "checksum": "f15357bf0c956a0f7ed3daf4e83559faf20681326f5c6f34116902be79377545",
+      "version": "0.3.2",
+      "url": "https://github.com/WebThingsIO/earthquake-monitor-adapter/releases/download/v0.3.2/earthquake-monitor-adapter-0.3.2.tgz",
+      "checksum": "6c3001a3600b33e8460384fe8c7e954490732006f5e51a6cdc258eb8c8d53213",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

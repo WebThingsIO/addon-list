@@ -2,9 +2,9 @@
   "id": "speed-test-adapter",
   "name": "Speed Test",
   "description": "Internet speed test",
-  "author": "Mozilla IoT",
-  "homepage_url": "https://github.com/mozilla-iot/speed-test-adapter",
-  "license_url": "https://raw.githubusercontent.com/mozilla-iot/speed-test-adapter/master/LICENSE",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/speed-test-adapter",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/speed-test-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,12 +15,13 @@
           "3.5",
           "3.6",
           "3.7",
-          "3.8"
+          "3.8",
+          "3.9"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/speed-test-adapter-0.3.2.tgz",
-      "checksum": "379440e6fb04e83b44c8dfa76e2626c0ef6e25df126aec7c064166c465b64b47",
+      "version": "0.3.3",
+      "url": "https://github.com/WebThingsIO/speed-test-adapter/releases/download/v0.3.3/speed-test-adapter-0.3.3.tgz",
+      "checksum": "810f2015d89d26e202451cba9d66b18bd6aa3a2544c313954e44a858550f106e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

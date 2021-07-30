@@ -2,9 +2,9 @@
   "id": "onvif-adapter",
   "name": "ONVIF",
   "description": "ONVIF Profile S camera adapter.",
-  "author": "Mozilla IoT",
-  "homepage_url": "https://github.com/mozilla-iot/onvif-adapter#readme",
-  "license_url": "https://raw.githubusercontent.com/mozilla-iot/onvif-adapter/master/LICENSE",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/onvif-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/onvif-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.3.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/onvif-adapter-0.3.2.tgz",
-      "checksum": "5bca38be14144710b8f497c8a4d4543f80cc30526934f02ea5bf4e69083b1b6e",
+      "version": "0.3.3",
+      "url": "https://github.com/WebThingsIO/onvif-adapter/releases/download/v0.3.3/onvif-adapter-0.3.3.tgz",
+      "checksum": "7ecc15c6d1f23883ee6318aca5901e21873becf1742e312b5cca3e3b553556cd",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

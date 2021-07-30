@@ -15,13 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/opensensemap-adapter-0.1.1.tgz",
-      "checksum": "4071554eab62576e9d9e4f2832da9b05a4660a1a9666a068ca45adab6f64421c",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.4",
+      "url": "https://github.com/tim-hellhake/opensensemap-adapter/releases/download/0.1.4/opensensemap-adapter-0.1.4.tgz",
+      "checksum": "ea661acb2d0818e064edf12a349a506264dddd427d29dcf561697ee0bec62014",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

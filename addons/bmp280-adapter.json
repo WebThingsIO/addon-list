@@ -12,76 +12,12 @@
       "language": {
         "name": "nodejs",
         "versions": [
-          "57"
-        ]
-      },
-      "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/bmp280-adapter-0.1.1-linux-arm-v8.tgz",
-      "checksum": "334d286e895ee169d17c03fc6b10375b945d96585517dfc5ba0c8131af845732",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/bmp280-adapter-0.1.1-linux-arm64-v8.tgz",
-      "checksum": "30cc5a8803002953df275414e2ab2fc040ab365271ebb7aaed4a99fad3a8c2a7",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-x64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/bmp280-adapter-0.1.1-linux-x64-v8.tgz",
-      "checksum": "7c9ff7d039158a2643e79b00d127e6a993db0c219fa97047e647cfde7d4e452f",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm",
-      "language": {
-        "name": "nodejs",
-        "versions": [
           "64"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/bmp280-adapter-0.1.1-linux-arm-v10.tgz",
-      "checksum": "eb0c7f694cd27bcf54a0ce8d293b188509bda7b031e733a638400b604f6b103c",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.3",
+      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.3/bmp280-adapter-0.1.3-linux-arm-v10.tgz",
+      "checksum": "4de9fa95bdbdfc00905cb9af4a6e0afe01552b9c2d0674b6f5c461a0671151ed",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,13 +31,9 @@
           "64"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/bmp280-adapter-0.1.1-linux-arm64-v10.tgz",
-      "checksum": "2ea3f84d6df5f73d1dc71569461943db4458d23a45498c201ba3a6fbf8e6ceb5",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.3",
+      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.3/bmp280-adapter-0.1.3-linux-arm64-v10.tgz",
+      "checksum": "2e30c1b09cacc803bc2752c3465b41b3bfc23f87d50abd1d8da80898086471e4",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -115,13 +47,9 @@
           "64"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/bmp280-adapter-0.1.1-linux-x64-v10.tgz",
-      "checksum": "fc782477a5d20d16eb9a56f2dec3497b5d55a755cf9ca2bdbec557d86aa61a02",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.3",
+      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.3/bmp280-adapter-0.1.3-linux-x64-v10.tgz",
+      "checksum": "ac194909503de88f51c2aa4018bff03d1aaeb28a5762661744e8c69d9438a4c4",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -135,13 +63,9 @@
           "72"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/bmp280-adapter-0.1.1-linux-arm-v12.tgz",
-      "checksum": "95e31b251c0435d9348c1b8b3b19a8f7f426f662410e5da707031775ba84c178",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.3",
+      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.3/bmp280-adapter-0.1.3-linux-arm-v12.tgz",
+      "checksum": "4b0941d04fa612b6bb30a40fbb89306edcc004f7ba8d04bfea380aa975587714",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -155,13 +79,9 @@
           "72"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/bmp280-adapter-0.1.1-linux-arm64-v12.tgz",
-      "checksum": "fd5fb12f353ff36e21c0f4c79969346c3ced8a46eac05cc4daf9df6472a12f6f",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.3",
+      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.3/bmp280-adapter-0.1.3-linux-arm64-v12.tgz",
+      "checksum": "db506dea60ded904035c5c4c8b3a4eb64449cf865d94fc6804df255c0b285289",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,13 +95,57 @@
           "72"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/bmp280-adapter-0.1.1-linux-x64-v12.tgz",
-      "checksum": "839f90662f3de9edc1c7bc0a441e77faf93e4fcbee6723bd97678e98e5d98642",
-      "api": {
-        "min": 2,
-        "max": 2
+      "version": "0.1.3",
+      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.3/bmp280-adapter-0.1.3-linux-x64-v12.tgz",
+      "checksum": "21353f14c765bb78c204e4439594d3a447bed910a42ad166e96de4288a4173b8",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
       },
+      "version": "0.1.3",
+      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.3/bmp280-adapter-0.1.3-linux-arm-v14.tgz",
+      "checksum": "6304bec91c86437b6b478e0dca54158e80357aa7aae1b021cd6a07f511fe9cd1",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.3",
+      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.3/bmp280-adapter-0.1.3-linux-arm64-v14.tgz",
+      "checksum": "991b20b0b7a4b2542ad50f4cfba2437f78d0c6e95c4a2ecf367583c6494d2c79",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.3",
+      "url": "https://github.com/matco/bmp280-adapter/releases/download/v0.1.3/bmp280-adapter-0.1.3-linux-x64-v14.tgz",
+      "checksum": "9fdd226b61c858a0479db2612eb87c41249aed97f6a371a23eeb17538ebda9f7",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

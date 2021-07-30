@@ -12,36 +12,28 @@
       "language": {
         "name": "nodejs",
         "versions": [
-          "57"
+          "64"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/blinkt-adapter-0.1.0-linux-arm-v8.tgz",
-      "checksum": "bdf03cf2dc2aac98c3059daf34e1d3d8b243f6e8816f3ac84e4a0b677426da83",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.2.1",
+      "url": "https://github.com/pchri/blinkt-adapter/releases/download/v0.2.1/blinkt-adapter-0.2.1-linux-arm-v10.tgz",
+      "checksum": "e9d427531d1d29abf5fa6687ffe6d0de08df2798261b439e64a45db71b40c6f5",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
       }
     },
     {
-      "architecture": "linux-arm",
+      "architecture": "linux-arm64",
       "language": {
         "name": "nodejs",
         "versions": [
           "64"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/blinkt-adapter-0.1.0-linux-arm-v10.tgz",
-      "checksum": "9d9a08bd64f872a9a54c6669c0587613c6263d5412005436d1b9c648d6b95734",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.2.1",
+      "url": "https://github.com/pchri/blinkt-adapter/releases/download/v0.2.1/blinkt-adapter-0.2.1-linux-arm64-v10.tgz",
+      "checksum": "a0ea28c1503ffac10c6a6cc1224274094e4b7232c77a6b30ececcfe285f3fcb0",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -55,13 +47,57 @@
           "72"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/blinkt-adapter-0.1.0-linux-arm-v12.tgz",
-      "checksum": "ff49346804bb99829c4d5c69997894f907d500d78276ffad0a8c5966468be37e",
-      "api": {
-        "min": 2,
-        "max": 2
+      "version": "0.2.1",
+      "url": "https://github.com/pchri/blinkt-adapter/releases/download/v0.2.1/blinkt-adapter-0.2.1-linux-arm-v12.tgz",
+      "checksum": "5846cc06885a9dac3d07d746bb30acc5160a0af329a42ec2388d3914a0d501d8",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
       },
+      "version": "0.2.1",
+      "url": "https://github.com/pchri/blinkt-adapter/releases/download/v0.2.1/blinkt-adapter-0.2.1-linux-arm64-v12.tgz",
+      "checksum": "e8cf4e4585fa2ba57f2e9bd267e005d24344ae73bdde8f52fd9d430b4a5abe9d",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.2.1",
+      "url": "https://github.com/pchri/blinkt-adapter/releases/download/v0.2.1/blinkt-adapter-0.2.1-linux-arm-v14.tgz",
+      "checksum": "7372fd1a8e47f66c3619c291f3abae29a0a4ffccb072446e0505b657f07802b3",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.2.1",
+      "url": "https://github.com/pchri/blinkt-adapter/releases/download/v0.2.1/blinkt-adapter-0.2.1-linux-arm64-v14.tgz",
+      "checksum": "29fd78d3fc5e7f82e641402051fb407734268c5aecc30907776282faad162cf7",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

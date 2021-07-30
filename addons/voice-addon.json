@@ -2,9 +2,9 @@
   "id": "voice-addon",
   "name": "Voice Control",
   "description": "Hands-free voice addon with personalized keyword and local voice processing.",
-  "author": "Mozilla IoT",
-  "homepage_url": "https://github.com/mozilla-iot/voice-addon",
-  "license_url": "https://raw.githubusercontent.com/mozilla-iot/voice-addon/master/LICENSE",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/voice-addon",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/voice-addon/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -12,76 +12,12 @@
       "language": {
         "name": "nodejs",
         "versions": [
-          "57"
-        ]
-      },
-      "version": "2.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-linux-arm-v8.tgz",
-      "checksum": "c35946d6f3a4092c8cb989cf5bd5463f8bf786f1ef9b5095fa5b604c78894bdc",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "2.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-linux-arm64-v8.tgz",
-      "checksum": "ec6890d03512e6929cd2171f4cf65b79e93d9b7b3bef786d13556b6869d4323d",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-x64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "2.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-linux-x64-v8.tgz",
-      "checksum": "0e2a2d3dc7b03e96893c921d5982a8ea19fef290f1d42cb63416f7c94533a907",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "darwin-x64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "2.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-darwin-x64-v8.tgz",
-      "checksum": "9eff89de94262cfd9659336d9a2531bbebb57d7b0d6cc8847a66eeb003cdd054",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm",
-      "language": {
-        "name": "nodejs",
-        "versions": [
           "64"
         ]
       },
-      "version": "2.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-linux-arm-v10.tgz",
-      "checksum": "c94a7baad5d4eec34166f33a65cdc2d72a96e8ce3556583e2a1d83a6463ad4df",
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-linux-arm-v10.tgz",
+      "checksum": "6654066a692f9b2975d1ddb0801564e175123767aa7160efb687aa3c67692c6d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,9 +31,9 @@
           "64"
         ]
       },
-      "version": "2.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-linux-arm64-v10.tgz",
-      "checksum": "f89c0796f26feaa87fc99c60ef3aa11ffc4ea91c1fe7316b45aceb0f1b6f4381",
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-linux-arm64-v10.tgz",
+      "checksum": "893316b3710b864301cb2a319948f27ff5c0e26f4e4f8b2c87ab08ba0ea1e5ec",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -111,9 +47,9 @@
           "64"
         ]
       },
-      "version": "2.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-linux-x64-v10.tgz",
-      "checksum": "cf22a7e2fa1c386357b1ac437900d5232dbda5af610ba5d7545ec21b807f612e",
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-linux-x64-v10.tgz",
+      "checksum": "5793a4db13af488757fb9ba425475dc4503217ae57585d2d5c5d8e2a23f17d77",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,9 +63,9 @@
           "64"
         ]
       },
-      "version": "2.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-darwin-x64-v10.tgz",
-      "checksum": "365fd909933d2b8a568a9d4b108a8b18622ecda7c8c1666863db483a14efca73",
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-darwin-x64-v10.tgz",
+      "checksum": "4cc0ca80187a9bea60f47115846afd83aa5e4da2bf02c6427953ca921e0aefb2",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -143,9 +79,9 @@
           "72"
         ]
       },
-      "version": "2.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-linux-arm-v12.tgz",
-      "checksum": "d876396588083ca983f29f415fb5a2ae46043cb331ab5afdf870c6f402a865d3",
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-linux-arm-v12.tgz",
+      "checksum": "5bd4b2eda473ebe5059a363214bbed0ae2d90c5213dc6f865f42c5460346369d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -159,9 +95,9 @@
           "72"
         ]
       },
-      "version": "2.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-linux-arm64-v12.tgz",
-      "checksum": "c07f8c6926f236abef9b843c754dae6591953a64fc9184d2c36b35fb6695981b",
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-linux-arm64-v12.tgz",
+      "checksum": "195a8c1597577d8e47ceced49f1ad2d87da9a1527b9c4df3b856a480e47b03a0",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,9 +111,9 @@
           "72"
         ]
       },
-      "version": "2.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-linux-x64-v12.tgz",
-      "checksum": "49ccfe3294c63bcbbe4987bcb8d0e160cd4e543f90412934b012f87086c40e6d",
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-linux-x64-v12.tgz",
+      "checksum": "1125e8d2c9b3159f12202e9acde8f0cebc4bb1ef28cc3c87d66b147521d6f3bd",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,9 +127,9 @@
           "72"
         ]
       },
-      "version": "2.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-darwin-x64-v12.tgz",
-      "checksum": "e2c07bd740532f4e5fb95b600cc07de53f8b08e309c82829f67468127beff724",
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-darwin-x64-v12.tgz",
+      "checksum": "7a6b27ee2ed274c9625492f94b6db3ae3e2b7c52ca8b8881c4ddc69e0ef69df2",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -207,9 +143,9 @@
           "83"
         ]
       },
-      "version": "2.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-linux-arm-v14.tgz",
-      "checksum": "5173b5cae6f1f636e331b54857e0e8da7c05e3c749e9b42c1446ca27921a51a9",
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-linux-arm-v14.tgz",
+      "checksum": "9cd1396bec6122d2372f05733c91e9aca84f1042ab31f48a9a84026ff6074cd7",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -223,9 +159,9 @@
           "83"
         ]
       },
-      "version": "2.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-linux-arm64-v14.tgz",
-      "checksum": "1e0c62e2419b4ba0d4c1d206ec71206cffa51a4c3976d5c9858a333c974b1fbe",
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-linux-arm64-v14.tgz",
+      "checksum": "d811df17dd7a26db556371fad66a3a2dbfe5c9686fe34f532d955ddeb332f0b3",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -239,9 +175,9 @@
           "83"
         ]
       },
-      "version": "2.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-linux-x64-v14.tgz",
-      "checksum": "ad769bdc9e8e830fa174cf9a262d24d3c12fdf1a3c5fd415d51c5a83a76f3b5c",
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-linux-x64-v14.tgz",
+      "checksum": "55b6323002eef6591c3f6042e4cadeba89d1b0401a960472ee7457b0ccb7b143",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -255,9 +191,9 @@
           "83"
         ]
       },
-      "version": "2.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voice-addon-2.1.0-darwin-x64-v14.tgz",
-      "checksum": "981db015c3c5c0e71c720bdaac16bdeeb3a6d95ec68d310ac7edfd81d3d619da",
+      "version": "2.2.0",
+      "url": "https://github.com/WebThingsIO/voice-addon/releases/download/v2.2.0/voice-addon-2.2.0-darwin-x64-v14.tgz",
+      "checksum": "87e485827191ab3d261822292ba2cb248976d4cc5e27b1a359201adc5c060687",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

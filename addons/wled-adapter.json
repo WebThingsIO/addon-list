@@ -1,0 +1,27 @@
+{
+  "id": "wled-adapter",
+  "name": "WLED",
+  "description": "Connect your WLED (https://github.com/Aircoookie/WLED) lights",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/wled-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/wled-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.3.1",
+      "url": "https://github.com/tim-hellhake/wled-adapter/releases/download/0.3.1/wled-adapter-0.3.1.tgz",
+      "checksum": "47af2ce22c83fa5de554ef646f8294b3e6ee5170962dce14697fa2df92d3aa3a",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    }
+  ]
+}

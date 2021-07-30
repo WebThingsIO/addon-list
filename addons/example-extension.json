@@ -2,9 +2,9 @@
   "id": "example-extension",
   "name": "Example Extension",
   "description": "Example extension add-on for developers",
-  "author": "Mozilla IoT",
-  "homepage_url": "https://github.com/mozilla-iot/example-extension",
-  "license_url": "https://raw.githubusercontent.com/mozilla-iot/example-extension/master/LICENSE",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/example-extension",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/example-extension/master/LICENSE",
   "primary_type": "extension",
   "packages": [
     {
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/example-extension-0.2.1.tgz",
-      "checksum": "74f90f6b6b25b1957509823fb50a93fb7485034948a4de9fe917e9a66b1a775b",
+      "version": "0.2.2",
+      "url": "https://github.com/WebThingsIO/example-extension/releases/download/v0.2.2/example-extension-0.2.2.tgz",
+      "checksum": "87f587a5721a6d75f8eaef380d0ed69fe5d904a16259e882acdfc52804070d08",
       "test_only": true,
       "gateway": {
         "min": "0.10.0",

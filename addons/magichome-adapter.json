@@ -1,0 +1,31 @@
+{
+  "id": "magichome-adapter",
+  "name": "Magic Home",
+  "description": "Magic Home ledstrip support",
+  "author": "Clivar",
+  "homepage_url": "https://github.com/Clivar/magichome-adapter",
+  "license_url": "https://raw.githubusercontent.com/Clivar/magichome-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5",
+          "3.6",
+          "3.7",
+          "3.8",
+          "3.9"
+        ]
+      },
+      "version": "0.0.3",
+      "url": "https://github.com/Clivar/magichome-adapter/releases/download/0.0.3/magichome-adapter-0.0.3.tgz",
+      "checksum": "3977769d24e7fd1237e77c44394ef76d8e71ef0662019876e7cbda6e2d64048d",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

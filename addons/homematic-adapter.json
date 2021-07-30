@@ -15,15 +15,11 @@
           "any"
         ]
       },
-      "version": "0.1.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/homematic-adapter-0.1.3.tgz",
-      "checksum": "c8eac3e10b3acfb4593bf8d0f4660c3c8a52b07164fb6368277e5ca543ba8df4",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.8.1",
+      "url": "https://github.com/tim-hellhake/homematic-adapter/releases/download/0.8.1/homematic-adapter-0.8.1.tgz",
+      "checksum": "6b61dded934fc8b1b252714b10ba4577f94531e800436dbd59489137df849e41",
       "gateway": {
-        "min": "0.10.0",
+        "min": "1.0.0",
         "max": "*"
       }
     }

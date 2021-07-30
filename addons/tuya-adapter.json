@@ -2,9 +2,9 @@
   "id": "tuya-adapter",
   "name": "Tuya Smart Life",
   "description": "Tuya Smart Life IoT devices support",
-  "author": "Galveston01",
-  "homepage_url": "https://github.com/Galveston01/tuya-adapter",
-  "license_url": "https://raw.githubusercontent.com/Galveston01/tuya-adapter/master/LICENSE.md",
+  "author": "bewee",
+  "homepage_url": "https://github.com/bewee/tuya-adapter",
+  "license_url": "https://raw.githubusercontent.com/bewee/tuya-adapter/master/LICENSE.md",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,13 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/tuya-adapter-0.2.1.tgz",
-      "checksum": "1a948696dba663c55506b8130b84729f86aafb4fd1b0e24bb326588280b0f1ef",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.2.6",
+      "url": "https://github.com/bewee/tuya-adapter/releases/download/v0.2.6/tuya-adapter-0.2.6.tgz",
+      "checksum": "8d1a55e1927502e7d8d38f42c4831ec0acf089648730ad4c962c8e509bd3753b",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

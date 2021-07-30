@@ -1,6 +1,6 @@
 {
   "id": "display-toggle",
-  "name": "Display toggle",
+  "name": "Display Toggle",
   "description": "Turn a Raspberry Pi (touch) screen on and off",
   "author": "Flatsiedatsie",
   "homepage_url": "https://github.com/flatsiedatsie/display-toggle",
@@ -15,12 +15,13 @@
           "3.5",
           "3.6",
           "3.7",
-          "3.8"
+          "3.8",
+          "3.9"
         ]
       },
-      "version": "0.0.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/display-toggle-0.0.1.tgz",
-      "checksum": "6057f45229821be5a654902db6525c0e4fdffcd903cad0333e6fb4bff6aafbf2",
+      "version": "0.0.2",
+      "url": "https://github.com/flatsiedatsie/display-toggle/releases/download/0.0.2/display-toggle-0.0.2.tgz",
+      "checksum": "ab78837ffa7d946aeaa0dbc0abf986c07453b052f6f08d83f5172aab233dc331",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

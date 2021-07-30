@@ -12,96 +12,12 @@
       "language": {
         "name": "nodejs",
         "versions": [
-          "57"
-        ]
-      },
-      "version": "0.1.8",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.8-linux-arm-v8.tgz",
-      "checksum": "64c6b018a9ae719eea18d59ab4c4c14f05251c831c4615dd58302b2ab7c3f743",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.1.8",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.8-linux-arm64-v8.tgz",
-      "checksum": "966b1d0df9b05bdab883d89c62f987550cd85710b3ce110df5ad3cae61716cab",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-x64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.1.8",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.8-linux-x64-v8.tgz",
-      "checksum": "82d354acd7bc62b9b9c8fbd7ce508f5cda6d2649ad3dcd28b186b6c7efe101c7",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "darwin-x64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.1.8",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.8-darwin-x64-v8.tgz",
-      "checksum": "8c3d05be96c871a4c6316e0f6667d30ca39f99be1393a287cfeba6e8a4268f5b",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm",
-      "language": {
-        "name": "nodejs",
-        "versions": [
           "64"
         ]
       },
-      "version": "0.1.8",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.8-linux-arm-v10.tgz",
-      "checksum": "c33fbb34c032a846069e068577adebf216228ac6f8f06a3e19abf038d44340f0",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.9",
+      "url": "https://github.com/tim-hellhake/max-adapter/releases/download/0.1.9/max-adapter-0.1.9-linux-arm-v10.tgz",
+      "checksum": "4412b04eabcd5e5db87ced2e0974781765b264bb301a43650bec5a99f4b97d8d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -115,13 +31,9 @@
           "64"
         ]
       },
-      "version": "0.1.8",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.8-linux-arm64-v10.tgz",
-      "checksum": "175e7cb1dd192ab07464395be158a8672c98fd4f1ba93f3084bc27df9c248584",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.9",
+      "url": "https://github.com/tim-hellhake/max-adapter/releases/download/0.1.9/max-adapter-0.1.9-linux-arm64-v10.tgz",
+      "checksum": "4df136483c8157d214c1e5e26376f450e266e4ea17fe1ee44fd8213b3bc6c602",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -135,13 +47,9 @@
           "64"
         ]
       },
-      "version": "0.1.8",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.8-linux-x64-v10.tgz",
-      "checksum": "051528fd884c120f5763b2a462fbbab1d06f8d8e97d4fd281697563dfa7d46c5",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.9",
+      "url": "https://github.com/tim-hellhake/max-adapter/releases/download/0.1.9/max-adapter-0.1.9-linux-x64-v10.tgz",
+      "checksum": "6fc50416a4b53a75467317b75b4bd27a2fc5bff85e70c3fd5c3769c5de3690ff",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -155,13 +63,9 @@
           "64"
         ]
       },
-      "version": "0.1.8",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.8-darwin-x64-v10.tgz",
-      "checksum": "44b42b87648eae6dd5b386572e50304722490102867542ef0657fd05b4bbb330",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.9",
+      "url": "https://github.com/tim-hellhake/max-adapter/releases/download/0.1.9/max-adapter-0.1.9-darwin-x64-v10.tgz",
+      "checksum": "e38fd9f843253fe5ece983b4d748796b2d512a7573a49130d93b9190bd96f311",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,13 +79,9 @@
           "72"
         ]
       },
-      "version": "0.1.8",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.8-linux-arm-v12.tgz",
-      "checksum": "04a30791560a00439f7ce68eaff0a6a885bb89bc532dc2e7a5df94aa8db70b38",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.9",
+      "url": "https://github.com/tim-hellhake/max-adapter/releases/download/0.1.9/max-adapter-0.1.9-linux-arm-v12.tgz",
+      "checksum": "115d843dc387302f7b5be0b9a7ea1a11463dfbac35ead5f0f76d23ce6bf1763b",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -195,13 +95,9 @@
           "72"
         ]
       },
-      "version": "0.1.8",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.8-linux-arm64-v12.tgz",
-      "checksum": "8aeb3787bc9c7a584d2583dc69ae12b3f60604a38673ca96f275f6344af7a0ad",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.9",
+      "url": "https://github.com/tim-hellhake/max-adapter/releases/download/0.1.9/max-adapter-0.1.9-linux-arm64-v12.tgz",
+      "checksum": "ee6499fe7eece9165f1ad80e527a4dd962ac23d4463434630d99581a915bfe45",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -215,13 +111,9 @@
           "72"
         ]
       },
-      "version": "0.1.8",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.8-linux-x64-v12.tgz",
-      "checksum": "4e73d3a2f2dcddca5cc4dab666e3c9ce9f88c5fa89ff96b3863ec2d9ec7bace6",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.1.9",
+      "url": "https://github.com/tim-hellhake/max-adapter/releases/download/0.1.9/max-adapter-0.1.9-linux-x64-v12.tgz",
+      "checksum": "983663c9a28457d884e2b7ec0caa870c66e94c383f81db9c0e80a85be0af5ed7",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -235,13 +127,73 @@
           "72"
         ]
       },
-      "version": "0.1.8",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/max-adapter-0.1.8-darwin-x64-v12.tgz",
-      "checksum": "d1b1ac5c6bcb36efda51de5816df263ab1405437984f9035fdae9419dedd1dd8",
-      "api": {
-        "min": 2,
-        "max": 2
+      "version": "0.1.9",
+      "url": "https://github.com/tim-hellhake/max-adapter/releases/download/0.1.9/max-adapter-0.1.9-darwin-x64-v12.tgz",
+      "checksum": "73942dbf77336f5df11f82033c3c533dac35a98f216a1a2273b4ce2ad84c754a",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
       },
+      "version": "0.1.9",
+      "url": "https://github.com/tim-hellhake/max-adapter/releases/download/0.1.9/max-adapter-0.1.9-linux-arm-v14.tgz",
+      "checksum": "7c59cf4110e87d12d85f905b6e91e9321f60fffdfa7a10c4494cd708013de922",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.9",
+      "url": "https://github.com/tim-hellhake/max-adapter/releases/download/0.1.9/max-adapter-0.1.9-linux-arm64-v14.tgz",
+      "checksum": "2441e364930e4b59744d952fc04a5f2f8d1a4405c2e281ab8527596b471c3ba6",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.9",
+      "url": "https://github.com/tim-hellhake/max-adapter/releases/download/0.1.9/max-adapter-0.1.9-linux-x64-v14.tgz",
+      "checksum": "68043706e83f8439036d8bb51c2e69c82ecb6c63552a9950f4ee4695d3f9d070",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.9",
+      "url": "https://github.com/tim-hellhake/max-adapter/releases/download/0.1.9/max-adapter-0.1.9-darwin-x64-v14.tgz",
+      "checksum": "c811b66c5dd619d458992c4bb5e9c5da15cab8ab27048ff884b87ae8ecefaa0e",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

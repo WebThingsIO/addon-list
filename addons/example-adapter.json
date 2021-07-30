@@ -2,9 +2,9 @@
   "id": "example-adapter",
   "name": "Example Adapter",
   "description": "Example adapter add-on for developers",
-  "author": "Mozilla IoT",
-  "homepage_url": "https://github.com/mozilla-iot/example-adapter",
-  "license_url": "https://raw.githubusercontent.com/mozilla-iot/example-adapter/master/LICENSE",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/example-adapter",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/example-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.6.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/example-adapter-0.6.3.tgz",
-      "checksum": "f6a46a49452188523fef177f96cc797385fb35c7ae210164bb4c4c1c38091776",
+      "version": "0.6.4",
+      "url": "https://github.com/WebThingsIO/example-adapter/releases/download/v0.6.4/example-adapter-0.6.4.tgz",
+      "checksum": "232d21572f16a8a4ec53ed7e9b46cc26c451094f3c1a6e797a85d97de1f06ae4",
       "test_only": true,
       "gateway": {
         "min": "0.10.0",

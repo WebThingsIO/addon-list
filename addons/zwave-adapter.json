@@ -2,9 +2,9 @@
   "id": "zwave-adapter",
   "name": "Z-Wave",
   "description": "Z-Wave device support",
-  "author": "Mozilla IoT",
-  "homepage_url": "https://github.com/mozilla-iot/zwave-adapter",
-  "license_url": "https://raw.githubusercontent.com/mozilla-iot/zwave-adapter/master/LICENSE",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/zwave-adapter",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/zwave-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -12,76 +12,12 @@
       "language": {
         "name": "nodejs",
         "versions": [
-          "57"
-        ]
-      },
-      "version": "0.10.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.10.7-linux-arm-v8.tgz",
-      "checksum": "ea41f9e5423505e39b1fd40336a76ccf093c54c64b1e16a18ece886da41e00b7",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.10.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.10.7-linux-arm64-v8.tgz",
-      "checksum": "aa9316bf06490c5ad3ad1c387d72f8b52785b38bf226bd69474f2368f6cca110",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-x64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.10.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.10.7-linux-x64-v8.tgz",
-      "checksum": "ec742693924e5ebafb067a6a4a336b167f1ce08187c7c2af246b23cddf61d811",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "darwin-x64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.10.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.10.7-darwin-x64-v8.tgz",
-      "checksum": "c77366bbb30a070ac0ce80f81f916f01d47d84c50326579e5db2ed2088c80adb",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm",
-      "language": {
-        "name": "nodejs",
-        "versions": [
           "64"
         ]
       },
-      "version": "0.10.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.10.7-linux-arm-v10.tgz",
-      "checksum": "0b3c999e06ab57ef3e51c8d471b92ff616df85d34b82bd586136220b6b3a7a2d",
+      "version": "0.10.9",
+      "url": "https://github.com/WebThingsIO/zwave-adapter/releases/download/v0.10.9/zwave-adapter-0.10.9-linux-arm-v10.tgz",
+      "checksum": "d18824a57fd2c1451907052a427ad9073afaab1ad30561da6078278fbd1142d0",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,9 +31,9 @@
           "64"
         ]
       },
-      "version": "0.10.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.10.7-linux-arm64-v10.tgz",
-      "checksum": "7be2485a4fc444982b093af8b255c0a72596cd6e66973080f7832d4d1cabe99a",
+      "version": "0.10.9",
+      "url": "https://github.com/WebThingsIO/zwave-adapter/releases/download/v0.10.9/zwave-adapter-0.10.9-linux-arm64-v10.tgz",
+      "checksum": "4c8859151f89f421f3d30c5a93cf28df39a96e8c565107a53d882db956ac8d78",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -111,9 +47,9 @@
           "64"
         ]
       },
-      "version": "0.10.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.10.7-linux-x64-v10.tgz",
-      "checksum": "9fa325a772ec0ba803a8b4f2aa787c851ec6189843c9ab2fc76c6dea5e3fb0ab",
+      "version": "0.10.9",
+      "url": "https://github.com/WebThingsIO/zwave-adapter/releases/download/v0.10.9/zwave-adapter-0.10.9-linux-x64-v10.tgz",
+      "checksum": "edc8ad713e5c654b446666e438b077612fd04dff53112a8bf69e0a03a6f5f47f",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,9 +63,9 @@
           "64"
         ]
       },
-      "version": "0.10.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.10.7-darwin-x64-v10.tgz",
-      "checksum": "1ce034ea00ae2d11ee0c3df126834ce4c575c58eb88c9f057feb12e7b2b06406",
+      "version": "0.10.9",
+      "url": "https://github.com/WebThingsIO/zwave-adapter/releases/download/v0.10.9/zwave-adapter-0.10.9-darwin-x64-v10.tgz",
+      "checksum": "cbc1c4b92ee53bdb541b317768fcecef30c0e125ff86e77a68fc905d55f95598",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -143,9 +79,9 @@
           "72"
         ]
       },
-      "version": "0.10.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.10.7-linux-arm-v12.tgz",
-      "checksum": "167934908c4b070e4a70e00d527b5054aadbb5b55dda386cb089fb33f2d62f5b",
+      "version": "0.10.9",
+      "url": "https://github.com/WebThingsIO/zwave-adapter/releases/download/v0.10.9/zwave-adapter-0.10.9-linux-arm-v12.tgz",
+      "checksum": "632128995dde1d9c940526e07a2375e126651caf2d73ef82274edcc679f50da4",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -159,9 +95,9 @@
           "72"
         ]
       },
-      "version": "0.10.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.10.7-linux-arm64-v12.tgz",
-      "checksum": "ad8ad1a45927d3e8fa7670dd0b6de32f609108276e38e92fdf4678784ffbcccb",
+      "version": "0.10.9",
+      "url": "https://github.com/WebThingsIO/zwave-adapter/releases/download/v0.10.9/zwave-adapter-0.10.9-linux-arm64-v12.tgz",
+      "checksum": "7045fbfcfecf0c9081240cd7e09080cc2fe2f7f94154eaeb475261cf6b8359ea",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,9 +111,9 @@
           "72"
         ]
       },
-      "version": "0.10.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.10.7-linux-x64-v12.tgz",
-      "checksum": "14ec009051e5c7d6a4a6d9812cf13aed76efddb5f4b28e2d826ef848dfc1654b",
+      "version": "0.10.9",
+      "url": "https://github.com/WebThingsIO/zwave-adapter/releases/download/v0.10.9/zwave-adapter-0.10.9-linux-x64-v12.tgz",
+      "checksum": "7a95fdabdfd4418ec81bcf2de4d6d09f557652148f5bd0e54a3d2d23d758e67f",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,9 +127,9 @@
           "72"
         ]
       },
-      "version": "0.10.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.10.7-darwin-x64-v12.tgz",
-      "checksum": "fa8987b3b2592d5e68d505b28bfa9b02f2356e7af240ffa3ed0a02e84818f209",
+      "version": "0.10.9",
+      "url": "https://github.com/WebThingsIO/zwave-adapter/releases/download/v0.10.9/zwave-adapter-0.10.9-darwin-x64-v12.tgz",
+      "checksum": "8edb2f3986727255b5db0bf846bfd3e2a92a604beb287b6ea0afa23d5d02e555",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -207,9 +143,9 @@
           "83"
         ]
       },
-      "version": "0.10.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.10.7-linux-arm-v14.tgz",
-      "checksum": "204dc79b2b8bf4248d051748642f9b052252ec4297a9e7154de137c2671dbd0c",
+      "version": "0.10.9",
+      "url": "https://github.com/WebThingsIO/zwave-adapter/releases/download/v0.10.9/zwave-adapter-0.10.9-linux-arm-v14.tgz",
+      "checksum": "4af4b972e0372130a383e50e83c0f9f58453889eadc3a949f03fbf2e9bd6aa61",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -223,9 +159,9 @@
           "83"
         ]
       },
-      "version": "0.10.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.10.7-linux-arm64-v14.tgz",
-      "checksum": "69bc57e87240f012bf698d20b851e1d2d71c5b8d6f3f887c79ba8a718cd6752d",
+      "version": "0.10.9",
+      "url": "https://github.com/WebThingsIO/zwave-adapter/releases/download/v0.10.9/zwave-adapter-0.10.9-linux-arm64-v14.tgz",
+      "checksum": "a798dfc400aad36e07053c5b5da0347ed34ec0bec8ddcb0226f62568120823f3",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -239,9 +175,9 @@
           "83"
         ]
       },
-      "version": "0.10.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.10.7-linux-x64-v14.tgz",
-      "checksum": "c06add9ada71669e1a3af3f8b73804b7defd9e38cb6111c8e0a43dbbe9859265",
+      "version": "0.10.9",
+      "url": "https://github.com/WebThingsIO/zwave-adapter/releases/download/v0.10.9/zwave-adapter-0.10.9-linux-x64-v14.tgz",
+      "checksum": "a0aaf254034ad57177990e46ce6e753f21040fea213bfbbd9e34a1ea47ab3967",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -255,9 +191,9 @@
           "83"
         ]
       },
-      "version": "0.10.7",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/zwave-adapter-0.10.7-darwin-x64-v14.tgz",
-      "checksum": "c18e4dc12aa354e2e2a0934c15b505ee02eb1c7fc817b2b1b976463d1b0c6ac2",
+      "version": "0.10.9",
+      "url": "https://github.com/WebThingsIO/zwave-adapter/releases/download/v0.10.9/zwave-adapter-0.10.9-darwin-x64-v14.tgz",
+      "checksum": "d4b662554908875bed5ded6e395f77519d52b69444fef4b2269933f7c4838afa",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

@@ -15,9 +15,9 @@
           "3.5"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-arm-v3.5.tgz",
-      "checksum": "fbb62e94048813c645844595e030fe288c6728b92df6704828b3882163a5d1f3",
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-arm-v3.5.tgz",
+      "checksum": "341cb65ba52b55e353f68f4eacf111ce8175a7f300630d3f5ab01b3ea5231969",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "3.5"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-arm64-v3.5.tgz",
-      "checksum": "b565f6d02ed79491ecef93eedd604bb7492baf87b14c66c490e89bf678deecba",
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-arm64-v3.5.tgz",
+      "checksum": "37d193982918fac301b3299eb6c4a868fd054dadd24c108c7d998ed91ec51b4f",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -47,9 +47,9 @@
           "3.5"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-x64-v3.5.tgz",
-      "checksum": "c7c08d064e540d420b0e3ab67876e847da434a4c4d7313e5b983a4e2dd2143be",
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-x64-v3.5.tgz",
+      "checksum": "cae4da62a84c7281df4a1a06808ec085002d4835099e750eae6a8e01d67e1720",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -63,9 +63,9 @@
           "3.5"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-darwin-x64-v3.5.tgz",
-      "checksum": "22aa933c7a5c8a82cabd424ad3e77497fd603f9831e1f0e40dbe8e1e2b032b11",
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-darwin-x64-v3.5.tgz",
+      "checksum": "7a7342bc3803e3a2199ce8585c35fd61de2193cf1549bdeea59c377b27088355",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -79,9 +79,9 @@
           "3.6"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-arm-v3.6.tgz",
-      "checksum": "63eb917a8a13616976fb2dc74ca5b3ffc769632fff21b5441fd063d8bb08d3c4",
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-arm-v3.6.tgz",
+      "checksum": "a24dc0eacecf0251eed7e7f4d83aa083849d849e42f62fd08cc2502115a6431d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,9 +95,9 @@
           "3.6"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-arm64-v3.6.tgz",
-      "checksum": "b338cba0180c501905dd86fa65df6f1d25d1577d97f5f4da3cc2fce7e20f3583",
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-arm64-v3.6.tgz",
+      "checksum": "32d1b845b690edfc6b8eb396d420e3dc70d64aa107a56ab4b897858c58236644",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -111,9 +111,9 @@
           "3.6"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-x64-v3.6.tgz",
-      "checksum": "1407f2c661df66d3a9f02f9c2348803a0eda204803e4d42bc2a3e4d8e29dade1",
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-x64-v3.6.tgz",
+      "checksum": "bfd8d0c7aaa9cf9aebab2d65e00bee563eeb0f4d4f6e0f2b70298b066ec2573b",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,9 +127,9 @@
           "3.6"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-darwin-x64-v3.6.tgz",
-      "checksum": "0e87da5a34d277f5beecf614e1369970cd9291d2033a88e8b6eb665c805354ba",
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-darwin-x64-v3.6.tgz",
+      "checksum": "9c1ba9bff3f379712db482acf96580599b52d2d2d1883aeff120213d50c2f411",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -143,9 +143,9 @@
           "3.7"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-arm-v3.7.tgz",
-      "checksum": "74e24ee4af18cd71ac6316be21797981233a30f1696d8bc39a9c77211ec3866e",
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-arm-v3.7.tgz",
+      "checksum": "64bb04697213f4043b76a5ddb102f18af7dbd73104086c3c32588543e112e0c0",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -159,9 +159,9 @@
           "3.7"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-arm64-v3.7.tgz",
-      "checksum": "1fea2b81ac70c31676bab892902375c5005bb3a53ba5ab8fc072e0e792857760",
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-arm64-v3.7.tgz",
+      "checksum": "bef9eb6be6d193ffea363975e5469d7fda5d9a04597846e74529b1c554e5889b",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,9 +175,9 @@
           "3.7"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-x64-v3.7.tgz",
-      "checksum": "d62522065a892e75246da6fa0d1569f22fcd53a2037d1672ddba70ea4b186da0",
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-x64-v3.7.tgz",
+      "checksum": "387ffaff79234ca07eba76450923bdaf2f2a19d6d22781906e604104acd1b08a",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,9 +191,9 @@
           "3.7"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-darwin-x64-v3.7.tgz",
-      "checksum": "3acb3787adf4ee1aa45621b40f5a06d96bac752e3cd308655baea58ee12a4b1c",
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-darwin-x64-v3.7.tgz",
+      "checksum": "e5ce8d7b49361b4592f584fb7754ef5b745713554ab9f46a76bae7fc259fc51d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -207,9 +207,9 @@
           "3.8"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-arm-v3.8.tgz",
-      "checksum": "615b7f1e55d72bb2985dec2eeac7a4c500981540b1a95001ad8a1e12c143c776",
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-arm-v3.8.tgz",
+      "checksum": "bc46425e44c1ec9a1fa87fd3341de795ee532678f7df8bd1a9d4c64175c85822",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -223,9 +223,9 @@
           "3.8"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-arm64-v3.8.tgz",
-      "checksum": "59c366c0ffb9aa43efb1191102dfd0564eaea15358119979f1df4b33889af6d5",
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-arm64-v3.8.tgz",
+      "checksum": "46cafbb7b6e729b8f228de7cd5e9c625bafd0a95019f57860c8c6f3397cfaebc",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -239,9 +239,9 @@
           "3.8"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-linux-x64-v3.8.tgz",
-      "checksum": "22d8faa00895e2933336730f0b9365260091102018f33ea76f4396536f1242cb",
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-x64-v3.8.tgz",
+      "checksum": "b7b4bb99de9755095ffb661aa33e3e515fadd5a2ed2753927352a8c4ed7dbe47",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -255,9 +255,73 @@
           "3.8"
         ]
       },
-      "version": "0.0.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/p1-adapter-0.0.2-darwin-x64-v3.8.tgz",
-      "checksum": "7ea239239186b63ecf248c4372c5b75f211de2f38104ff1a94f0497bfe516d13",
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-darwin-x64-v3.8.tgz",
+      "checksum": "9518817beb4c6384a03942ffdb3f6547443d4702750861361a98772f1f834a37",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-arm-v3.9.tgz",
+      "checksum": "0646b219818b5e10853b0e6a3ccc24aa1fe4a15467270893ae994f22629551dd",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-arm64-v3.9.tgz",
+      "checksum": "d64b51bb0311f64ddf6007cc5d10283836a9849dfbd085e247c93715659eab2a",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-linux-x64-v3.9.tgz",
+      "checksum": "f4ae1708c949cd407671555109f40f3ad9be6b2a181aa5834202a400205e11f8",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.3.2",
+      "url": "https://github.com/createcandle/p1-adapter/releases/download/0.3.2/p1-adapter-0.3.2-darwin-x64-v3.9.tgz",
+      "checksum": "596c67c26ec4ec26178ed87b5bf96c8d9b7dc2de22bc5811cc9029026ad9356d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

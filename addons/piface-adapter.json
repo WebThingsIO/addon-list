@@ -15,9 +15,25 @@
           "57"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/piface-adapter-0.1.0-linux-arm-v8.tgz",
-      "checksum": "e035c7ed217f7046758ee250d0147ab661e1fb9482c48cc83b48dd2fe763575d",
+      "version": "0.1.2",
+      "url": "https://github.com/tim-hellhake/piface-adapter/releases/download/0.1.2/piface-adapter-0.1.2-linux-arm-v8.tgz",
+      "checksum": "9ff1258a50e7e1d864f071a2697765b198ea54950ab5e87ec1fd73b37630d1e1",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "57"
+        ]
+      },
+      "version": "0.1.2",
+      "url": "https://github.com/tim-hellhake/piface-adapter/releases/download/0.1.2/piface-adapter-0.1.2-linux-arm64-v8.tgz",
+      "checksum": "153d9113004e5df69f3d43b19acf4f55ccfa7c49d41a656d89c4a538ce7748f4",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -31,9 +47,25 @@
           "64"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/piface-adapter-0.1.0-linux-arm-v10.tgz",
-      "checksum": "1e2ecf4c955c842802bed5205c1bf09e2f1816ebc1b360d590f4a5f2237cdc30",
+      "version": "0.1.2",
+      "url": "https://github.com/tim-hellhake/piface-adapter/releases/download/0.1.2/piface-adapter-0.1.2-linux-arm-v10.tgz",
+      "checksum": "7dc4bc7e4d940b5d7253f711790306cb4d1294d55013d9889443a0e23f0c881c",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.1.2",
+      "url": "https://github.com/tim-hellhake/piface-adapter/releases/download/0.1.2/piface-adapter-0.1.2-linux-arm64-v10.tgz",
+      "checksum": "688c36acf68e35e8fd412bf63c69e9dc4d9dcee415cfcfd09c7fdbe2a82d59c5",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -47,9 +79,57 @@
           "72"
         ]
       },
-      "version": "0.1.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/piface-adapter-0.1.0-linux-arm-v12.tgz",
-      "checksum": "c90fcd2f6745813c9cc1a32a3a0246d79981c096b13cd2d95c9ef4700c4a80f9",
+      "version": "0.1.2",
+      "url": "https://github.com/tim-hellhake/piface-adapter/releases/download/0.1.2/piface-adapter-0.1.2-linux-arm-v12.tgz",
+      "checksum": "b1c0ebbfee66350b4008cb106210aa5f1066c7c1a169d0b32973d1e45ec9a6a6",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.1.2",
+      "url": "https://github.com/tim-hellhake/piface-adapter/releases/download/0.1.2/piface-adapter-0.1.2-linux-arm64-v12.tgz",
+      "checksum": "127bd65dec80c3d52ac1c623551251138106aca027d2f91a07dbe87b856ae1ef",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.2",
+      "url": "https://github.com/tim-hellhake/piface-adapter/releases/download/0.1.2/piface-adapter-0.1.2-linux-arm-v14.tgz",
+      "checksum": "7ae815bc950817bd94f471746a67848fd77847deddf56bbd8c97422bffabd75e",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.1.2",
+      "url": "https://github.com/tim-hellhake/piface-adapter/releases/download/0.1.2/piface-adapter-0.1.2-linux-arm64-v14.tgz",
+      "checksum": "5fc7c20dd74f4d82f67b910a0dd60f27d027c67e5f3075144153d7e389d97c53",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

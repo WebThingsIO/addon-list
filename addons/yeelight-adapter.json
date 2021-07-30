@@ -2,9 +2,9 @@
   "id": "yeelight-adapter",
   "name": "Yeelight",
   "description": "Yeelight smart bulb support",
-  "author": "Mozilla IoT",
-  "homepage_url": "https://github.com/mozilla-iot/yeelight-adapter#readme",
-  "license_url": "https://raw.githubusercontent.com/mozilla-iot/yeelight-adapter/master/LICENSE",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/yeelight-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/yeelight-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.4.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/yeelight-adapter-0.4.1.tgz",
-      "checksum": "fb1d2809f0a23e655ca89b40e359addbf5a3901957f2c45fcdf1959701b7c343",
+      "version": "0.4.3",
+      "url": "https://github.com/WebThingsIO/yeelight-adapter/releases/download/v0.4.3/yeelight-adapter-0.4.3.tgz",
+      "checksum": "13d4efa94878e0951cae8e1d560692dfa615570718132cf04b258bb0267d4328",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

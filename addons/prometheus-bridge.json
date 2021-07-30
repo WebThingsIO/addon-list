@@ -1,0 +1,203 @@
+{
+  "id": "prometheus-bridge",
+  "name": "Prometheus",
+  "description": "Expose your devices to a prometheus server",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/prometheus-bridge#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/prometheus-bridge/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.9.0",
+      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.9.0/prometheus-bridge-0.9.0-linux-arm-v10.tgz",
+      "checksum": "45b5feef2b80d43bf84e921f8c915055a437e437f220dc1c16db8537871ecc0e",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.9.0",
+      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.9.0/prometheus-bridge-0.9.0-linux-arm64-v10.tgz",
+      "checksum": "8d3826a57d64e98132bd78b028652ae9e8b763e02e8d2f48869c9ed9d7f811bf",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.9.0",
+      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.9.0/prometheus-bridge-0.9.0-linux-x64-v10.tgz",
+      "checksum": "63fd4b3c716aec8ed7d4683943f2f9bbef2e0e84efb6a56c7b4b7bf3810a85cb",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "64"
+        ]
+      },
+      "version": "0.9.0",
+      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.9.0/prometheus-bridge-0.9.0-darwin-x64-v10.tgz",
+      "checksum": "80b13d0ffafa5528fa009a526f0f4f1a438fb3e8d94b328ec306e981480a24c4",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.9.0",
+      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.9.0/prometheus-bridge-0.9.0-linux-arm-v12.tgz",
+      "checksum": "0763cd871eb5d61db6495085e70a87f4c7211c7e64a4fd5cf4d886d70223401c",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.9.0",
+      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.9.0/prometheus-bridge-0.9.0-linux-arm64-v12.tgz",
+      "checksum": "faad73a102d872619a6df7385b0e6ebf53884ad7a3a76762613c648f3d943cab",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.9.0",
+      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.9.0/prometheus-bridge-0.9.0-linux-x64-v12.tgz",
+      "checksum": "fab29a319691c69917deb749d9911115176f9908fdefa9b3141e7efda1ed400c",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "72"
+        ]
+      },
+      "version": "0.9.0",
+      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.9.0/prometheus-bridge-0.9.0-darwin-x64-v12.tgz",
+      "checksum": "32e451de696e9fc8596fe5e9face22c0e1c1f6600405767b2888bf338a8a1e60",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.9.0",
+      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.9.0/prometheus-bridge-0.9.0-linux-arm-v14.tgz",
+      "checksum": "224b59e00cfa881741b7633c0cc454424746dc1900b99d56f95fb45b8598724f",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.9.0",
+      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.9.0/prometheus-bridge-0.9.0-linux-arm64-v14.tgz",
+      "checksum": "409ff573afb1d45992499c39c38f7af83d19e8846e7510dbff2d77823309892e",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.9.0",
+      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.9.0/prometheus-bridge-0.9.0-linux-x64-v14.tgz",
+      "checksum": "edc9e5f2198b6417ea70734f43745a4afea4c20122d683f1abb43684f6008380",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "83"
+        ]
+      },
+      "version": "0.9.0",
+      "url": "https://github.com/tim-hellhake/prometheus-bridge/releases/download/0.9.0/prometheus-bridge-0.9.0-darwin-x64-v14.tgz",
+      "checksum": "9cd35c2c52c0914148d1dcaf51357b4170b360abbf7cf2d10d99bf3b71360154",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    }
+  ]
+}

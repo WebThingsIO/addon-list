@@ -1,0 +1,27 @@
+{
+  "id": "webhook-events",
+  "name": "Webhook Events",
+  "description": "Provides a webhook which generates events for rules.",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/webhook-events",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/webhook-events/master/LICENSE",
+  "primary_type": "extension",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.4.0",
+      "url": "https://github.com/WebThingsIO/webhook-events/releases/download/v0.4.0/webhook-events-0.4.0.tgz",
+      "checksum": "d700f635b3974609799c3ed3874a9132e5435e2203cfda5b2038ddc52b0c3e55",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

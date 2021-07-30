@@ -15,12 +15,13 @@
           "3.5",
           "3.6",
           "3.7",
-          "3.8"
+          "3.8",
+          "3.9"
         ]
       },
-      "version": "2.2.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/voco-2.2.2.tgz",
-      "checksum": "cca108c4f455d375713a5173ddebac6f5d81ebe4dadb1d91b90e7fd86be86795",
+      "version": "2.6.1",
+      "url": "https://github.com/createcandle/voco/releases/download/2.6.1/voco-2.6.1.tgz",
+      "checksum": "c45b0c58f4c6e1b03fd223a4d8c43818e37c10ecf768334ceb4018b33caeae0b",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

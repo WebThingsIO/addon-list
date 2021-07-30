@@ -1,0 +1,27 @@
+{
+  "id": "zigbee2mqtt-adapter",
+  "name": "zigbee2mqtt-adapter",
+  "description": "Zigbee device support, via bundled Zigbee2MQTT instance.",
+  "author": "Kabbi",
+  "homepage_url": "https://github.com/kabbi/zigbee2mqtt-adapter",
+  "license_url": "https://github.com/kabbi/zigbee2mqtt-adapter/blob/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "nodejs",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "0.6.1",
+      "url": "https://github.com/kabbi/zigbee2mqtt-adapter/releases/download/0.6.1/zigbee2mqtt-adapter-0.6.1.tgz",
+      "checksum": "0056b15794112a2899f9b88f4443a2e5db5739f0da7414296149c1e07f0211da",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

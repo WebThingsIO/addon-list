@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.4.0",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/netatmo-weather-adapter-0.4.0.tgz",
-      "checksum": "1420fb94ebcb7e31876136d5192f195427a20ff4a32718b9ef89eca63dc9488d",
+      "version": "0.5.0",
+      "url": "https://github.com/tim-hellhake/netatmo-weather-adapter/releases/download/0.5.0/netatmo-weather-adapter-0.5.0.tgz",
+      "checksum": "038b4f541fc8245dec1930ad677767ad821cbbf191f0a740ecdf30bda7bf1a44",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

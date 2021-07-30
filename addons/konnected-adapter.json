@@ -1,0 +1,251 @@
+{
+  "id": "konnected-adapter",
+  "name": "Konnected Adapter",
+  "description": "An adapter to configure and add konnected.io boards as things",
+  "author": "wfahle",
+  "homepage_url": "https://github.com/WTIOAddons/konnected-adapter",
+  "license_url": "https://raw.githubusercontent.com/WTIOAddons/konnected-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.1.1",
+      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.1.1/konnected-adapter-0.1.1-linux-arm64-v3.7.tgz",
+      "checksum": "38fc8f71b4f9467698303060d3e051c745b0e6d76f06003a236c9f500bacd639",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.1.1",
+      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.1.1/konnected-adapter-0.1.1-linux-arm64-v3.8.tgz",
+      "checksum": "00a69f761bd476d25ff23aede8c0be98438309e56a0eabac085cf6b7e4535455",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.1.1",
+      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.1.1/konnected-adapter-0.1.1-linux-arm64-v3.9.tgz",
+      "checksum": "ffa57366043df7b58f36373771ead99be44b48a8edef6dae55066282295f9e48",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.1.1",
+      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.1.1/konnected-adapter-0.1.1-linux-arm-v3.7.tgz",
+      "checksum": "624eb5ee7ff75d7345b2069722bd4e2d5c215d64e75de49d2c94b48deddfbaaf",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.1.1",
+      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.1.1/konnected-adapter-0.1.1-linux-arm-v3.8.tgz",
+      "checksum": "684355684ce23bc80b673204bd87970c6b6e794c476d1bd73f329b7c22ea86d2",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.1.1",
+      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.1.1/konnected-adapter-0.1.1-linux-arm-v3.9.tgz",
+      "checksum": "c069fe31809953bbd06cf17600075ab7c799d9ccb7d3413befaf8bfaae18e1a6",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.1.1",
+      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.1.1/konnected-adapter-0.1.1-linux-x64-v3.7.tgz",
+      "checksum": "7bfd2b59c855838c437b8e142621e6375cb2fc82a20826bbc9fe1439076329fa",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.1.1",
+      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.1.1/konnected-adapter-0.1.1-linux-x64-v3.8.tgz",
+      "checksum": "637cb449cf9a15c9d73a7ea532cf8d52af6b4ed5bde4b005d6381b684124095a",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.1.1",
+      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.1.1/konnected-adapter-0.1.1-linux-x64-v3.9.tgz",
+      "checksum": "095c6513a0ae274d69861b2b791c045e255a225d8247f73e2166a57b8a867b65",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.1.1",
+      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.1.1/konnected-adapter-0.1.1-darwin-x64-v3.7.tgz",
+      "checksum": "9ddfff4b1edc52f8c86528185465d36094bcf3d920e022fcaebcf3ccadd0ec92",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.1.1",
+      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.1.1/konnected-adapter-0.1.1-darwin-x64-v3.8.tgz",
+      "checksum": "765b3b519ea0cabee9a6514b3116292d60bdbb2a51864d52303fbdf75568485b",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.1.1",
+      "url": "https://github.com/WTIOAddons/konnected-adapter/releases/download/v0.1.1/konnected-adapter-0.1.1-darwin-x64-v3.9.tgz",
+      "checksum": "7037f0d94767bf00d25f301b3d21855d1c956ad03248dd41de96aa6bfe7ee074",
+      "api": {
+        "min": 2,
+        "max": 2
+      },
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}

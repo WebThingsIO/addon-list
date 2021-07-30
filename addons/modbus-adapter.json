@@ -15,9 +15,9 @@
           "64"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/modbus-adapter-0.1.1-linux-arm-v10.tgz",
-      "checksum": "aaae7d3334416261636a56c8ba78af52a17a531a34d277a73c41ae78f72357af",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.4.0/modbus-adapter-0.4.0-linux-arm-v10.tgz",
+      "checksum": "a5dbc5501ee483d278bd1bd67211bfcc6fb560904e6855b7764bee1d6739280c",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "64"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/modbus-adapter-0.1.1-linux-arm64-v10.tgz",
-      "checksum": "61959336ed728877b3200a3a515c567619a4c00442b30b0cc8e9f8264536cbe0",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.4.0/modbus-adapter-0.4.0-linux-arm64-v10.tgz",
+      "checksum": "dd2532796d68df25ce5ea8fac7f4a545a401dbfb4e2467067d17ad13d258488b",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -47,9 +47,9 @@
           "64"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/modbus-adapter-0.1.1-linux-x64-v10.tgz",
-      "checksum": "9bcff411f734a0deeee9ff8c8300a9fa5b33c674471278bda44322209ee901b6",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.4.0/modbus-adapter-0.4.0-linux-x64-v10.tgz",
+      "checksum": "9066319acc9958ffc3024d1298412149fccd7122205fb545e80fd94a0c8e9e42",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -63,9 +63,9 @@
           "64"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/modbus-adapter-0.1.1-darwin-x64-v10.tgz",
-      "checksum": "bc85a3191106445afd4f1be9ec8b119b2554de740213904e9a0caa1372f55b30",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.4.0/modbus-adapter-0.4.0-darwin-x64-v10.tgz",
+      "checksum": "1362d2fcb3d14cb5fd88bad12ae7629052690951a88e65ef4fd01eed4b1291fa",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -79,9 +79,9 @@
           "72"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/modbus-adapter-0.1.1-linux-arm-v12.tgz",
-      "checksum": "08aa2a7cf359335a6334abf3340e01b4bedb8f3d7961e0b6bd6671f54bb10a90",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.4.0/modbus-adapter-0.4.0-linux-arm-v12.tgz",
+      "checksum": "6702950742a9e42ff4557dc3a4213629a5d73977bf6ec67e7e3afa6b863ac4fe",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,9 +95,9 @@
           "72"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/modbus-adapter-0.1.1-linux-arm64-v12.tgz",
-      "checksum": "487f222cf02bdf28748021b636ddf0d54bd6f46dad01c3918e040d227cb28d5d",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.4.0/modbus-adapter-0.4.0-linux-arm64-v12.tgz",
+      "checksum": "e4120acf27f8a14c8743d0ef6b2474d701bf333445c453e862999d6dc42e2249",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -111,9 +111,9 @@
           "72"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/modbus-adapter-0.1.1-linux-x64-v12.tgz",
-      "checksum": "51be871061cc61609059df9d386c9b2e1c15f16a4c3a157a3df64bf60baa681d",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.4.0/modbus-adapter-0.4.0-linux-x64-v12.tgz",
+      "checksum": "7c8e9c13fbf08a5338727f333b4f9495d717e4633cd56c356483f4a8f579179d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,9 +127,9 @@
           "72"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/modbus-adapter-0.1.1-darwin-x64-v12.tgz",
-      "checksum": "90fa22c3188cbc9c2bfa1705a51ea3d5027d5d2013fe30c4e88e0d9cef33f2b2",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.4.0/modbus-adapter-0.4.0-darwin-x64-v12.tgz",
+      "checksum": "019f4d31f1d6d5770793c146cbca2277526867b1ac5027b4e12113be46273fe4",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -143,9 +143,9 @@
           "83"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/modbus-adapter-0.1.1-linux-arm-v14.tgz",
-      "checksum": "a25b9235d53114332e527be18e795f073870c0f6f11e2a3ed20315b9fdab541a",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.4.0/modbus-adapter-0.4.0-linux-arm-v14.tgz",
+      "checksum": "fbcf5326103d2549f206c6e6ddbe64abcb63af100487fb32246df75c01046d66",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -159,9 +159,9 @@
           "83"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/modbus-adapter-0.1.1-linux-arm64-v14.tgz",
-      "checksum": "9d96db48d38238df86d982d38d77da9e3f09ad7451d7aca69491c58b1386be3b",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.4.0/modbus-adapter-0.4.0-linux-arm64-v14.tgz",
+      "checksum": "5d8db855a662e3749a18230391da3f21024c267ceacc501e0fa1a3bd0b6c0cd0",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,9 +175,9 @@
           "83"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/modbus-adapter-0.1.1-linux-x64-v14.tgz",
-      "checksum": "0244fbe05ed7910d26537b7093360715d44e34bb3cc40d097f989ff10f6958ce",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.4.0/modbus-adapter-0.4.0-linux-x64-v14.tgz",
+      "checksum": "c423dbb9c22bbbc599913ecc083a79c9ff4fa44aba913ae3a26524d728e0a680",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,9 +191,9 @@
           "83"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/modbus-adapter-0.1.1-darwin-x64-v14.tgz",
-      "checksum": "3c500758a1e9891db1d16d8349019c5a7f8543c3e1832695dc0f9159aa6585a5",
+      "version": "0.4.0",
+      "url": "https://github.com/tim-hellhake/modbus-adapter/releases/download/0.4.0/modbus-adapter-0.4.0-darwin-x64-v14.tgz",
+      "checksum": "083ab5f182c27fd169e6b5b0e5c5bcd858b44b85f012b22f37b950614adc0e1c",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

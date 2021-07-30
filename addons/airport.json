@@ -15,12 +15,13 @@
           "3.5",
           "3.6",
           "3.7",
-          "3.8"
+          "3.8",
+          "3.9"
         ]
       },
-      "version": "0.0.4",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/airport-0.0.4.tgz",
-      "checksum": "d67149bd178f0d3ac31618709bce3c5fc85c6b19eeaeeeb71ab2af1b7ceca3f6",
+      "version": "1.0.2",
+      "url": "https://github.com/flatsiedatsie/airport/releases/download/1.0.2/airport-1.0.2.tgz",
+      "checksum": "f7764b816d373538d31a86fc1a8c61a5969e424de41f4cec106a76eb4541bd03",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

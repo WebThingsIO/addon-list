@@ -61,7 +61,7 @@ A convenience script is available [here][script] to make the transition from
 
 ```json
 {
-  "author": "Mozilla IoT",
+  "author": "WebThingsIO",
   "description": "HomeKit device adapter.",
   "gateway_specific_settings": {
     "webthings": {
@@ -70,7 +70,7 @@ A convenience script is available [here][script] to make the transition from
       "exec": "{nodeLoader} {path}"
     }
   },
-  "homepage_url": "https://github.com/mozilla-iot/homekit-adapter",
+  "homepage_url": "https://github.com/WebThingsIO/homekit-adapter",
   "id": "homekit-adapter",
   "license": "MPL-2.0",
   "manifest_version": 1,
@@ -100,7 +100,7 @@ A convenience script is available [here][script] to make the transition from
 
 ```json
 {
-  "author": "Mozilla IoT",
+  "author": "WebThingsIO",
   "description": "Send notifications through Pushover.",
   "gateway_specific_settings": {
     "webthings": {
@@ -109,7 +109,7 @@ A convenience script is available [here][script] to make the transition from
       "exec": "{nodeLoader} {path}"
     }
   },
-  "homepage_url": "https://github.com/mozilla-iot/pushover-notifier",
+  "homepage_url": "https://github.com/WebThingsIO/pushover-notifier",
   "id": "pushover-notifier",
   "license": "MPL-2.0",
   "manifest_version": 1,
@@ -183,4 +183,4 @@ A convenience script is available [here][script] to make the transition from
 [author]: https://docs.npmjs.com/files/package.json#people-fields-author-contributors
 [browser_specific_settings]: https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/manifest.json/browser_specific_settings
 [semver]: https://semver.org/
-[script]: https://github.com/mozilla-iot/addon-list/blob/master/tools/package-to-manifest.py
+[script]: https://github.com/WebThingsIO/addon-list/blob/master/tools/package-to-manifest.py

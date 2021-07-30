@@ -3,8 +3,8 @@
   "name": "MicroBlocks",
   "description": "MicroBlocks board support",
   "author": "MicroBlocks",
-  "homepage_url": "https://github.com/mozilla-iot/microblocks-adapter",
-  "license_url": "https://raw.githubusercontent.com/mozilla-iot/microblocks-adapter/master/LICENSE",
+  "homepage_url": "https://github.com/bromagosa/microblocks-adapter",
+  "license_url": "https://raw.githubusercontent.com/bromagosa/microblocks-adapter/master/LICENSE",
   "primary_type": "adapter",
   "packages": [
     {
@@ -12,76 +12,12 @@
       "language": {
         "name": "nodejs",
         "versions": [
-          "57"
-        ]
-      },
-      "version": "0.5.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.5.3-linux-arm-v8.tgz",
-      "checksum": "6539171cb36bd135012b558c081cacce6bf19b53f5acfb7d69d426e8e68c714e",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.5.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.5.3-linux-arm64-v8.tgz",
-      "checksum": "eb7f64467272a74cc93ec024a78501461b443e3112bafc5d1bb87a06e4090369",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-x64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.5.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.5.3-linux-x64-v8.tgz",
-      "checksum": "31cab6069face460b545b78997ffca1785cb3193a3743c01176a7ac557b2209d",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "darwin-x64",
-      "language": {
-        "name": "nodejs",
-        "versions": [
-          "57"
-        ]
-      },
-      "version": "0.5.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.5.3-darwin-x64-v8.tgz",
-      "checksum": "c7639cfc1f00b5e2271cbe36ff971305c4febe6057bcbf014139465779617355",
-      "gateway": {
-        "min": "0.10.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm",
-      "language": {
-        "name": "nodejs",
-        "versions": [
           "64"
         ]
       },
-      "version": "0.5.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.5.3-linux-arm-v10.tgz",
-      "checksum": "5dbb413cb88ffed37556c1d0a0228c9cc3f7414855d487b7fd26f65a036eb354",
+      "version": "0.5.5",
+      "url": "https://github.com/bromagosa/microblocks-adapter/releases/download/v0.5.5/microblocks-adapter-0.5.5-linux-arm-v10.tgz",
+      "checksum": "b3fcda0d10be102810b7be3c558d05d7b9124494181e77f33a09533ffac89be8",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -95,9 +31,9 @@
           "64"
         ]
       },
-      "version": "0.5.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.5.3-linux-arm64-v10.tgz",
-      "checksum": "a2a3f3c06c908fe44c941ec5bc8667672e680a358a02cff5c008c2578f6dc556",
+      "version": "0.5.5",
+      "url": "https://github.com/bromagosa/microblocks-adapter/releases/download/v0.5.5/microblocks-adapter-0.5.5-linux-arm64-v10.tgz",
+      "checksum": "c3499dee8f073abae11689d2cc4a0f2cacd3203b3bb13b05c2056ac66c41f213",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -111,9 +47,9 @@
           "64"
         ]
       },
-      "version": "0.5.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.5.3-linux-x64-v10.tgz",
-      "checksum": "28d19252e243f9bfbfbeef09083104f3b5fb1a7202c7708442ffad07bbfc0b94",
+      "version": "0.5.5",
+      "url": "https://github.com/bromagosa/microblocks-adapter/releases/download/v0.5.5/microblocks-adapter-0.5.5-linux-x64-v10.tgz",
+      "checksum": "60209ea4e1077d516663c2fa38bf35c657120cbfb50d7a98651347a0903221d2",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -127,9 +63,9 @@
           "64"
         ]
       },
-      "version": "0.5.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.5.3-darwin-x64-v10.tgz",
-      "checksum": "7971ea9edf7fa8c4fc4ec8858591e178f8951928a642c832d65a242611220a1f",
+      "version": "0.5.5",
+      "url": "https://github.com/bromagosa/microblocks-adapter/releases/download/v0.5.5/microblocks-adapter-0.5.5-darwin-x64-v10.tgz",
+      "checksum": "7097f1e5d91c0ba1e51d65e331bd86ae34d88700d40cd21200df213d9a371a4a",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -143,9 +79,9 @@
           "72"
         ]
       },
-      "version": "0.5.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.5.3-linux-arm-v12.tgz",
-      "checksum": "1f474749ebad6b4efdc8c46241cddcedb6cf48d30dbd0eba036a1bf9480ed714",
+      "version": "0.5.5",
+      "url": "https://github.com/bromagosa/microblocks-adapter/releases/download/v0.5.5/microblocks-adapter-0.5.5-linux-arm-v12.tgz",
+      "checksum": "036f1e69b83450bfe5dcfd0b2f03d83caeff97033657db312be92cdc67f14dc5",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -159,9 +95,9 @@
           "72"
         ]
       },
-      "version": "0.5.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.5.3-linux-arm64-v12.tgz",
-      "checksum": "36cf2a79913fad4253a25c56c283ef034b95fdd9edd124d4ae0107ac08956806",
+      "version": "0.5.5",
+      "url": "https://github.com/bromagosa/microblocks-adapter/releases/download/v0.5.5/microblocks-adapter-0.5.5-linux-arm64-v12.tgz",
+      "checksum": "b72da7803f9d7f92711a36e6eaa1de99dffce3c8ce7031d85bcfb5a50e17c428",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -175,9 +111,9 @@
           "72"
         ]
       },
-      "version": "0.5.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.5.3-linux-x64-v12.tgz",
-      "checksum": "d13223f67c89bbfd3432ef79ca9561733ad3248737dff43639b32fdba11939d0",
+      "version": "0.5.5",
+      "url": "https://github.com/bromagosa/microblocks-adapter/releases/download/v0.5.5/microblocks-adapter-0.5.5-linux-x64-v12.tgz",
+      "checksum": "1a9984141a352232b1e15e0ce41e695a9389fd6fd7e7da8e1dba2658b12ff201",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -191,9 +127,9 @@
           "72"
         ]
       },
-      "version": "0.5.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.5.3-darwin-x64-v12.tgz",
-      "checksum": "7df5412682d8d6570b5be148c1506ef2add4292abc488fcf21ca2232b23adadf",
+      "version": "0.5.5",
+      "url": "https://github.com/bromagosa/microblocks-adapter/releases/download/v0.5.5/microblocks-adapter-0.5.5-darwin-x64-v12.tgz",
+      "checksum": "cd23a5724ad9154a10e6c601b64e13de5535b8a47b4c5273c502c5c2b23407c2",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -207,9 +143,9 @@
           "83"
         ]
       },
-      "version": "0.5.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.5.3-linux-arm-v14.tgz",
-      "checksum": "f0a9ce5ebcda3e2063bf096a6a042d094b13d642d65f9bd662688f384721d9f6",
+      "version": "0.5.5",
+      "url": "https://github.com/bromagosa/microblocks-adapter/releases/download/v0.5.5/microblocks-adapter-0.5.5-linux-arm-v14.tgz",
+      "checksum": "b979ad113f96ca5cca38799fc302b84f28bb8c7a9fca1ce26a74c4523385e740",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -223,9 +159,9 @@
           "83"
         ]
       },
-      "version": "0.5.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.5.3-linux-arm64-v14.tgz",
-      "checksum": "5b74316dde5031e2ab92ce9b234566c498796c827672719640f04d297ba613b6",
+      "version": "0.5.5",
+      "url": "https://github.com/bromagosa/microblocks-adapter/releases/download/v0.5.5/microblocks-adapter-0.5.5-linux-arm64-v14.tgz",
+      "checksum": "80158169a78a9b4a18ee280f349244d46cef3c1f87fbc077fc2f4771a486c954",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -239,9 +175,9 @@
           "83"
         ]
       },
-      "version": "0.5.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.5.3-linux-x64-v14.tgz",
-      "checksum": "787744872c58299a119d8bccbdf32b57eac963c4aaf79bf04defd9bdc63f0f49",
+      "version": "0.5.5",
+      "url": "https://github.com/bromagosa/microblocks-adapter/releases/download/v0.5.5/microblocks-adapter-0.5.5-linux-x64-v14.tgz",
+      "checksum": "4b80c4264afb11e14b0a4bf1295b65debf734b340d96cb462fec9268d3d88044",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
@@ -255,9 +191,9 @@
           "83"
         ]
       },
-      "version": "0.5.3",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/microblocks-adapter-0.5.3-darwin-x64-v14.tgz",
-      "checksum": "6d24e97ee5d1649598915d403e835077b12ef0f066cc01c686b994d1dcd0703c",
+      "version": "0.5.5",
+      "url": "https://github.com/bromagosa/microblocks-adapter/releases/download/v0.5.5/microblocks-adapter-0.5.5-darwin-x64-v14.tgz",
+      "checksum": "cacf9eea9fd62d4a691cf7a31a3696d1457d1634278a901acfe0cb24f3c6d0a0",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

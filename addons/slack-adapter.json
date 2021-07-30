@@ -15,13 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.2",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/slack-adapter-0.2.2.tgz",
-      "checksum": "f92c7e2efc09043b297ce4ed979480871564f8d051c3ca85d8114044ab4b4118",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.2.3",
+      "url": "https://github.com/tim-hellhake/slack-adapter/releases/download/0.2.3/slack-adapter-0.2.3.tgz",
+      "checksum": "c53315c5aa13c910debc29ea2735405b04c0d4139eefc816d98020cc940e822d",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

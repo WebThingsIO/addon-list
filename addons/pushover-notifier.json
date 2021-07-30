@@ -2,9 +2,9 @@
   "id": "pushover-notifier",
   "name": "Pushover",
   "description": "Send notifications through Pushover. Needs to be configured with user and app tokens.",
-  "author": "Mozilla IoT",
-  "homepage_url": "https://github.com/mozilla-iot/pushover-notifier",
-  "license_url": "https://raw.githubusercontent.com/mozilla-iot/pushover-notifier/master/LICENSE",
+  "author": "WebThingsIO",
+  "homepage_url": "https://github.com/WebThingsIO/pushover-notifier",
+  "license_url": "https://raw.githubusercontent.com/WebThingsIO/pushover-notifier/master/LICENSE",
   "primary_type": "notifier",
   "packages": [
     {
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://s3-us-west-2.amazonaws.com/mozilla-gateway-addons/pushover-notifier-0.1.1.tgz",
-      "checksum": "72cdde60daca9a287fd966aca7491b691197298f2f5b97cc8b417596e3d46e8c",
+      "version": "0.1.2",
+      "url": "https://github.com/WebThingsIO/pushover-notifier/releases/download/v0.1.2/pushover-notifier-0.1.2.tgz",
+      "checksum": "2900841e73f2d1020f032a37972239945604cf2ee8275c2f3f15d1605dc50843",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
