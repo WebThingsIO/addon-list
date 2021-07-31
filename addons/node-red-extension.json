@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.3",
-      "url": "https://github.com/bewee/node-red-extension/releases/download/0.2.3/node-red-extension-0.2.3.tgz",
-      "checksum": "3efdd1da70f1814255d1a03a3316a8aa62edf35b597ee71062076b6c64ec0335",
+      "version": "0.2.4",
+      "url": "https://github.com/bewee/node-red-extension/releases/download/0.2.4/node-red-extension-0.2.4.tgz",
+      "checksum": "900fdf5668c08fa6ad8edf85e2e0bed3c9c9106cceb9a3d5452f263274befd29",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
