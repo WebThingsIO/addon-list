@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://github.com/tim-hellhake/dmx-adapter/releases/download/0.1.7/dmx-adapter-0.1.7-darwin-x64.tgz",
-      "checksum": "aabc92d857a35cc779d2cfa37857afad7d7f9b2e10827570317335a84bbfdfc7",
+      "version": "0.1.8",
+      "url": "https://github.com/tim-hellhake/dmx-adapter/releases/download/0.1.8/dmx-adapter-0.1.8-darwin-x64.tgz",
+      "checksum": "c135eb4a742648a9ce65402d0e536f1ae50b2518f4e68a21c08def379bbf1d92",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -31,9 +31,9 @@
           "any"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://github.com/tim-hellhake/dmx-adapter/releases/download/0.1.7/dmx-adapter-0.1.7-linux-arm.tgz",
-      "checksum": "17276ebcde8ca388d94e9145dede95a80e26c94d4a5709488ca5f97ebe307828",
+      "version": "0.1.8",
+      "url": "https://github.com/tim-hellhake/dmx-adapter/releases/download/0.1.8/dmx-adapter-0.1.8-linux-arm.tgz",
+      "checksum": "02d5cd3acbc5875057ed1a8cb2345511d905311a99c81051544ed95ec08ea913",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -47,9 +47,9 @@
           "any"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://github.com/tim-hellhake/dmx-adapter/releases/download/0.1.7/dmx-adapter-0.1.7-linux-arm64.tgz",
-      "checksum": "dd8ebcabb00d0fa9cd8348deae05c8c53a6b1761370b9e0cda6b03d2a0393e2b",
+      "version": "0.1.8",
+      "url": "https://github.com/tim-hellhake/dmx-adapter/releases/download/0.1.8/dmx-adapter-0.1.8-linux-arm64.tgz",
+      "checksum": "48b9aa7d3da75c08715affcc6846ea2468f97ce1b361a826cf64c94ce75b1eff",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -63,9 +63,9 @@
           "any"
         ]
       },
-      "version": "0.1.7",
-      "url": "https://github.com/tim-hellhake/dmx-adapter/releases/download/0.1.7/dmx-adapter-0.1.7-linux-x64.tgz",
-      "checksum": "7df92e327db77462ff41a99a6c7d9c0f71b24062bdf2eedaeae0966a14fdd1b8",
+      "version": "0.1.8",
+      "url": "https://github.com/tim-hellhake/dmx-adapter/releases/download/0.1.8/dmx-adapter-0.1.8-linux-x64.tgz",
+      "checksum": "9aa2debe610fc25da5d6eec23325cedf4cbadca56209b3a85400ceade62b1916",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
