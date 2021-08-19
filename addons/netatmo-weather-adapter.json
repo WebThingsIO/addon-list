@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.5.1",
-      "url": "https://github.com/tim-hellhake/netatmo-weather-adapter/releases/download/0.5.1/netatmo-weather-adapter-0.5.1.tgz",
-      "checksum": "773706121e477749505f8996bb8df8f57d98a79cc1a00b535c00e6a4c73d4cbf",
+      "version": "0.5.2",
+      "url": "https://github.com/tim-hellhake/netatmo-weather-adapter/releases/download/0.5.2/netatmo-weather-adapter-0.5.2.tgz",
+      "checksum": "88232ede409f8ab974a67430d2171fde9f351f23d9a4630c4ebd228d12161181",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
