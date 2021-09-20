@@ -15,41 +15,9 @@
           "any"
         ]
       },
-      "version": "0.1.12",
-      "url": "https://github.com/tim-hellhake/dmx-adapter/releases/download/0.1.12/dmx-adapter-0.1.12-darwin-x64.tgz",
-      "checksum": "80baef353e42e925dcbb4f9d568021fb119c2119876f5cf3fe38b093b16c3f4a",
-      "gateway": {
-        "min": "1.0.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm",
-      "language": {
-        "name": "binary",
-        "versions": [
-          "any"
-        ]
-      },
-      "version": "0.1.12",
-      "url": "https://github.com/tim-hellhake/dmx-adapter/releases/download/0.1.12/dmx-adapter-0.1.12-linux-arm.tgz",
-      "checksum": "9d65c3cb8272f10af9d063c214798cf0bc4633bd7f06894c490caba12316fb71",
-      "gateway": {
-        "min": "1.0.0",
-        "max": "*"
-      }
-    },
-    {
-      "architecture": "linux-arm64",
-      "language": {
-        "name": "binary",
-        "versions": [
-          "any"
-        ]
-      },
-      "version": "0.1.12",
-      "url": "https://github.com/tim-hellhake/dmx-adapter/releases/download/0.1.12/dmx-adapter-0.1.12-linux-arm64.tgz",
-      "checksum": "7dd1718145a5894f6235e0bbb642019d059abfe004be955b5f56255c5e880b2e",
+      "version": "0.1.14",
+      "url": "https://github.com/tim-hellhake/dmx-adapter/releases/download/0.1.14/dmx-adapter-0.1.14-darwin-x64.tgz",
+      "checksum": "9ac9cc8547f1f885b341c8daddd820d427b9fcf32edcc7e907e6f7c4f8ca4c37",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
@@ -63,9 +31,9 @@
           "any"
         ]
       },
-      "version": "0.1.12",
-      "url": "https://github.com/tim-hellhake/dmx-adapter/releases/download/0.1.12/dmx-adapter-0.1.12-linux-x64.tgz",
-      "checksum": "089774bae9d8a2d747b680f2f43c48cffac30f02601751908343a7e7ba906834",
+      "version": "0.1.14",
+      "url": "https://github.com/tim-hellhake/dmx-adapter/releases/download/0.1.14/dmx-adapter-0.1.14-linux-x64.tgz",
+      "checksum": "54dd2ffffb66b57924627bf37c9cfc45d4433b80dc4876a7f196d9c432e1716b",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
