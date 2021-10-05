@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "1.4.2",
-      "url": "https://github.com/chas-iot/psi-sg/releases/download/v1.4.2/psi-sg-1.4.2.tgz",
-      "checksum": "a2b5e455998e88686dc4b9f263bf4b58d7727fc9021cf3dfef20dd7efde6f172",
+      "version": "1.4.4",
+      "url": "https://github.com/chas-iot/psi-sg/releases/download/v1.4.4/psi-sg-1.4.4.tgz",
+      "checksum": "d049274ed2e1f820430c5e0cd8488417070beb7c276d35768c1cf2ef8a7db495",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
