@@ -1,9 +1,9 @@
 {
     "id": "denon-adapter",
-    "name": "Denon HEOS",
-    "description": "Supports Denon AVRs and HEOS devices.",
+    "name": "Denon AVR & HEOS",
+    "description": "Adapter for Denon AVRs and possibly other HEOS devices",
     "author": "Martin Giger",
-    "homepage_url": "https://git.humanoids.be/freaktechnik/denon-adapter",
+    "homepage_url": "https://github.com/freaktechnik/denon-adapter",
     "license_url": "https://git.humanoids.be/freaktechnik/denon-adapter/raw/branch/main/LICENSE",
     "primary_type": "adapter",
     "packages": [
