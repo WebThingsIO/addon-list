@@ -15,13 +15,9 @@
           "any"
         ]
       },
-      "version": "0.2.5",
-      "url": "https://github.com/tim-hellhake/cron-adapter/releases/download/0.2.5/cron-adapter-0.2.5.tgz",
-      "checksum": "64665871cffa12b6f73630c2d5c9c17de8246d950160bad28f2cfe7636f74362",
-      "api": {
-        "min": 2,
-        "max": 2
-      },
+      "version": "0.2.6",
+      "url": "https://github.com/tim-hellhake/cron-adapter/releases/download/0.2.6/cron-adapter-0.2.6.tgz",
+      "checksum": "4a2f2add33c5d9fd983f8170d079a2c9ccdba84381eea8a4310b94fc81c05c83",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
