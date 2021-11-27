@@ -1,0 +1,107 @@
+{
+  "id": "hotspot",
+  "name": "Candle Hotspot",
+  "description": "Let your Raspberry Pi generate a wifi hotspot. Connect your wifi-based smart home devices to this hotspot. You can then learn which servers these devices are connecting to, and even block unwanted connections.",
+  "author": "CreateCandle",
+  "homepage_url": "https://github.com/createcandle/hotspot",
+  "license_url": "https://raw.githubusercontent.com/createcandle/hotspot/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.0.6",
+      "url": "https://github.com/createcandle/hotspot/releases/download/0.0.6/hotspot-0.0.6-linux-arm-v3.7.tgz",
+      "checksum": "b912c1330b1893f419edf220a9fc25aa2ad2e8ee689badbe445c89db4d85d9c2",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.0.6",
+      "url": "https://github.com/createcandle/hotspot/releases/download/0.0.6/hotspot-0.0.6-linux-arm-v3.8.tgz",
+      "checksum": "170584721cb7c629af32e8a547233f25980c515a66a5591ece41e689da4d7062",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.0.6",
+      "url": "https://github.com/createcandle/hotspot/releases/download/0.0.6/hotspot-0.0.6-linux-arm-v3.9.tgz",
+      "checksum": "dd18572401bae317b1dadc24dbb4b6aaff923b6a03eff8dc40de80edbd9dd0ea",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.0.6",
+      "url": "https://github.com/createcandle/hotspot/releases/download/0.0.6/hotspot-0.0.6-linux-arm64-v3.7.tgz",
+      "checksum": "f223e53090ee8373247e5d963983fa4d6d6b8e913408a6da838ad059676f777f",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.0.6",
+      "url": "https://github.com/createcandle/hotspot/releases/download/0.0.6/hotspot-0.0.6-linux-arm64-v3.8.tgz",
+      "checksum": "1c7a52a72c24bb5a97c6995231f13bcbbeb0ddb204766c35081b5a7439aca386",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.0.6",
+      "url": "https://github.com/createcandle/hotspot/releases/download/0.0.6/hotspot-0.0.6-linux-arm64-v3.9.tgz",
+      "checksum": "fab54778fa2ed83aeae48d5e36ac93bdecab1cecf5609e58bf43ceb6ff3d2898",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
