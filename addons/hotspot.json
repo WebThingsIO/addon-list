@@ -1,6 +1,6 @@
 {
   "id": "hotspot",
-  "name": "Candle Hotspot",
+  "name": "Candle hotspot",
   "description": "Let your Raspberry Pi generate a wifi hotspot. Connect your wifi-based smart home devices to this hotspot. You can then learn which servers these devices are connecting to, and even block unwanted connections.",
   "author": "CandleSmartHome.com",
   "homepage_url": "https://github.com/createcandle/hotspot",
