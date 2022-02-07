@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.10.1",
-      "url": "https://github.com/WebThingsIO/virtual-things-adapter/releases/download/v0.10.1/virtual-things-adapter-0.10.1.tgz",
-      "checksum": "d87ecadee9da3a8e3f564709dab787fd902d9d5a5d49d9abbd4c859db0e2c72a",
+      "version": "0.11.0",
+      "url": "https://github.com/WebThingsIO/virtual-things-adapter/releases/download/v0.11.0/virtual-things-adapter-0.11.0.tgz",
+      "checksum": "b47319271a7abffd6482653939bd638c160dc72c97d2eefd24967704e7051c87",
       "gateway": {
         "min": "0.10.0",
         "max": "*"

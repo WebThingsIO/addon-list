@@ -1,7 +1,7 @@
 {
   "id": "netatmo-weather-adapter",
   "name": "Netatmo Weather Station",
-  "description": "Netatmo weather station support. Requires Netatmo Smart Home API credentials.",
+  "description": "WoT adapter for netatmo weather stations",
   "author": "Tim Hellhake",
   "homepage_url": "https://github.com/tim-hellhake/netatmo-weather-adapter#readme",
   "license_url": "https://raw.githubusercontent.com/tim-hellhake/netatmo-weather-adapter/master/LICENSE",
@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "0.5.0",
-      "url": "https://github.com/tim-hellhake/netatmo-weather-adapter/releases/download/0.5.0/netatmo-weather-adapter-0.5.0.tgz",
-      "checksum": "038b4f541fc8245dec1930ad677767ad821cbbf191f0a740ecdf30bda7bf1a44",
+      "version": "0.5.2",
+      "url": "https://github.com/tim-hellhake/netatmo-weather-adapter/releases/download/0.5.2/netatmo-weather-adapter-0.5.2.tgz",
+      "checksum": "88232ede409f8ab974a67430d2171fde9f351f23d9a4630c4ebd228d12161181",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
