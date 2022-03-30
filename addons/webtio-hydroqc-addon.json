@@ -1,6 +1,6 @@
 {
   "id": "webtio-hydroqc-addon",
-  "name": "Hydro-Quebec winter credit program adapter",
+  "name": "Hydro Quebec Winter Credit program",
   "description": "Hydro-Quebec winter credit program to reduce usage during peak",
   "author": "Arist0v",
   "homepage_url": "https://github.com/Bad-Wolf-developpement/webtio-hydroqc-addon",
