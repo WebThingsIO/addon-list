@@ -17,9 +17,9 @@
           "3.9"
         ]
       },
-      "version": "0.1.1",
-      "url": "https://github.com/Bad-Wolf-developpement/webtio-hydroqc-addon/releases/download/v0.1.1-beta/webtio-hydroqc-addon-0.1.1.tgz",
-      "checksum": "456b777176a8e839fd027a9229fc2a60fa8db5ece7580c7c50e515bc2248b7a2",
+      "version": "0.1.2",
+      "url": "https://github.com/Bad-Wolf-developpement/webtio-hydroqc-addon/releases/download/v0.1.2-beta/webtio-hydroqc-addon-0.1.2.tgz",
+      "checksum": "89b464988fe15c8d4f16415f9f42bc9e848c5de66442de94c30ac2df3dc974c8",
       "gateway": {
         "min": "0.10.0",
         "max": "*"
