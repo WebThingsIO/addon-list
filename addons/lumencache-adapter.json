@@ -1,0 +1,75 @@
+{
+  "id": "lumencache-adapter",
+  "name": "Lumencache",
+  "description": "Connect your lumencache devices",
+  "author": "Tim Hellhake",
+  "homepage_url": "https://github.com/tim-hellhake/lumencache-adapter#readme",
+  "license_url": "https://raw.githubusercontent.com/tim-hellhake/lumencache-adapter/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "binary",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "1.0.0",
+      "url": "https://github.com/tim-hellhake/lumencache-adapter/releases/download/1.0.0/lumencache-adapter-1.0.0-darwin-x64.tgz",
+      "checksum": "cc6d1e600054e1b0f9389c2294eeebec1b538a77868b10a4541ad87030e6dc6d",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "binary",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "1.0.0",
+      "url": "https://github.com/tim-hellhake/lumencache-adapter/releases/download/1.0.0/lumencache-adapter-1.0.0-linux-arm.tgz",
+      "checksum": "2ffbd03606038d59fa648b80aae474d6050190a435bc535376d327350797febf",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "binary",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "1.0.0",
+      "url": "https://github.com/tim-hellhake/lumencache-adapter/releases/download/1.0.0/lumencache-adapter-1.0.0-linux-arm64.tgz",
+      "checksum": "735042981fa05dd24be1382f00c8d1d392b09c96c80ba74ea8bf52b86b8c2a23",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "binary",
+        "versions": [
+          "any"
+        ]
+      },
+      "version": "1.0.0",
+      "url": "https://github.com/tim-hellhake/lumencache-adapter/releases/download/1.0.0/lumencache-adapter-1.0.0-linux-x64.tgz",
+      "checksum": "ef0b2e8f274e1b3572d83505be7d366a405dde6eca310237a6eb09b4db727efc",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    }
+  ]
+}
