@@ -1,0 +1,27 @@
+{
+  "id": "avocet",
+  "name": "Avocet",
+  "description": "Lightweight, local and polyglot voice assistant. Built on PicoVoice for the Respeaker 2-MIC hat",
+  "author": "Bleznudd",
+  "homepage_url": "https://github.com/Bleznudd/avocet",
+  "license_url": "https://github.com/Bleznudd/avocet/blob/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://github.com/Bleznudd/avocet/releases/download/v0.1/avocet-0.1.tgz",
+      "checksum": "5f7775d4fe5ca6ab875af939ce5a485b50052f0159dbc8b0ce219b0fe1f9326d",
+      "gateway": {
+        "min": "1.0.0",
+        "max": "*"
+      }
+    }
+  ]
+}
