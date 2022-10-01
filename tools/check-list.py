@@ -533,6 +533,7 @@ def main():
 
             for attempt in range(MAX_DOWNLOAD_ATTEMPTS):
                 try:
+                    print('Downloading {}'.format(url))
                     urllib.request.urlretrieve(url, 'package.tgz')
                     break
                 except urllib.error.URLError:
