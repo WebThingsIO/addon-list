@@ -15,9 +15,9 @@
           "any"
         ]
       },
-      "version": "2.0.0",
-      "url": "https://github.com/MichaelKohler/netatmo-energy-adapter/releases/download/v2.0.0/netatmo-energy-adapter-2.0.0.tgz",
-      "checksum": "c042590836ef67ee3cc94988d639c9822bb0f0d124839cb566a9f2682f1095d5",
+      "version": "2.0.1",
+      "url": "https://github.com/MichaelKohler/netatmo-energy-adapter/releases/download/v2.0.1/netatmo-energy-adapter-2.0.1.tgz",
+      "checksum": "13b220327e71d70461094c3cc9988cbd7b7406d36fdfc92128accef77499b196",
       "gateway": {
         "min": "1.0.0",
         "max": "*"
