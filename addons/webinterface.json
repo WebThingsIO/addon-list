@@ -1,0 +1,31 @@
+{
+  "id": "webinterface",
+  "name": "Candle web interface",
+  "description": "Control to your things from the internet. Encrypted, privacy friendly, and open source.",
+  "author": "Candle smart home",
+  "homepage_url": "https://github.com/createcandle/webinterface",
+  "license_url": "https://raw.githubusercontent.com/createcandle/webinterface/master/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "any",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.5",
+          "3.6",
+          "3.7",
+          "3.8",
+          "3.9"
+        ]
+      },
+      "version": "0.0.1",
+      "url": "https://github.com/createcandle/webinterface/raw/main/webinterface-0.0.1.tgz",
+      "checksum": "52c6a146335d3f754967126c47427e926d0b8a235306934bbeb0127a691ea62d",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
