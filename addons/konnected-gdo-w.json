@@ -1,0 +1,251 @@
+{
+  "id": "konnected-gdo-w",
+  "name": "Konnected GDO White",
+  "description": "Konnected Garage Door Opener (GDO White) addon for WebThings Gateway",
+  "author": "wfahle",
+  "homepage_url": "https://github.com/WTIOAddons/konnected-gdo-w",
+  "license_url": "https://raw.githubusercontent.com/WTIOAddons/konnected-gdo-w/main/LICENSE",
+  "primary_type": "adapter",
+  "packages": [
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://github.com/WTIOAddons/konnected-gdo-w/releases/download/v0.1.0/konnected-gdo-w-0.1.0-linux-arm64-v3.7.tgz",
+      "checksum": "949dc53aee25de2d513ed31d61003f07441643c5a6332d0119e6ed4f80e570a6",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://github.com/WTIOAddons/konnected-gdo-w/releases/download/v0.1.0/konnected-gdo-w-0.1.0-linux-arm64-v3.8.tgz",
+      "checksum": "fb1d4a2204793ea22ceea26ff882bf86578dcd642ae70ebdb87128241841d2c5",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://github.com/WTIOAddons/konnected-gdo-w/releases/download/v0.1.0/konnected-gdo-w-0.1.0-linux-arm64-v3.9.tgz",
+      "checksum": "3a7d5de0fdcfca107e6d175ed4a60fd109aa3d0703b3658025c83ddca9e52814",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.11"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://github.com/WTIOAddons/konnected-gdo-w/releases/download/v0.1.0/konnected-gdo-w-0.1.0-linux-arm64-v3.11.tgz",
+      "checksum": "6947bebaf997b2fda97f960c39d88b2bc83ec2e9cc28090a1d6063333296ff13",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://github.com/WTIOAddons/konnected-gdo-w/releases/download/v0.1.0/konnected-gdo-w-0.1.0-linux-arm-v3.7.tgz",
+      "checksum": "44c3d724fa184ee04dc8ef230aa69249ecbc417906ff5d9edb855b98eb4cf48d",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://github.com/WTIOAddons/konnected-gdo-w/releases/download/v0.1.0/konnected-gdo-w-0.1.0-linux-arm-v3.8.tgz",
+      "checksum": "a8ce2bd2fc8552c7be9c7a12d5f757b40368bf4aedfde00033840e21a551009b",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://github.com/WTIOAddons/konnected-gdo-w/releases/download/v0.1.0/konnected-gdo-w-0.1.0-linux-arm-v3.9.tgz",
+      "checksum": "b0bd664da9d2ba2cd342b4d3d1bcfeac7cb089e487674b7224e1c3e7284a6fbb",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-arm",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.11"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://github.com/WTIOAddons/konnected-gdo-w/releases/download/v0.1.0/konnected-gdo-w-0.1.0-linux-arm-v3.11.tgz",
+      "checksum": "0aa9e9e294d01fe33b4412f86dfa13a5cdbe2b7d4e8073dd396298913697ba84",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.7"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://github.com/WTIOAddons/konnected-gdo-w/releases/download/v0.1.0/konnected-gdo-w-0.1.0-linux-x64-v3.7.tgz",
+      "checksum": "a12da65097a21ab2c4c55eaf23507e96607e9c2d1c613a7fc26de7a56a5634c5",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://github.com/WTIOAddons/konnected-gdo-w/releases/download/v0.1.0/konnected-gdo-w-0.1.0-linux-x64-v3.8.tgz",
+      "checksum": "32cf577d820fd7fd90e8a0d3e6ae9506c90b274d08abef96062ab84546957eec",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://github.com/WTIOAddons/konnected-gdo-w/releases/download/v0.1.0/konnected-gdo-w-0.1.0-linux-x64-v3.9.tgz",
+      "checksum": "5621c1e3d8759d109c3818a878ebaea33fbf9ae62f5022a3f0fe8b4d23a7989d",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "linux-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.11"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://github.com/WTIOAddons/konnected-gdo-w/releases/download/v0.1.0/konnected-gdo-w-0.1.0-linux-x64-v3.11.tgz",
+      "checksum": "1e3e3d8a55a627fb4191f42b04eec641d970b2c3fa92b805a0a6cd2157db710a",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.8"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://github.com/WTIOAddons/konnected-gdo-w/releases/download/v0.1.0/konnected-gdo-w-0.1.0-darwin-x64-v3.8.tgz",
+      "checksum": "f44514b407b58bba66b652cbfa91198637bb91e81492eda8c87f49921ec41a4c",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.9"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://github.com/WTIOAddons/konnected-gdo-w/releases/download/v0.1.0/konnected-gdo-w-0.1.0-darwin-x64-v3.9.tgz",
+      "checksum": "c761a275ee71ba7fd24164e26927ab9a68cf9734f2a4462299f6f7df6f50a5ae",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    },
+    {
+      "architecture": "darwin-x64",
+      "language": {
+        "name": "python",
+        "versions": [
+          "3.11"
+        ]
+      },
+      "version": "0.1.0",
+      "url": "https://github.com/WTIOAddons/konnected-gdo-w/releases/download/v0.1.0/konnected-gdo-w-0.1.0-darwin-x64-v3.11.tgz",
+      "checksum": "2e551518613e10445fa8e2ae0c617f1d01a0ffa9f2c5be4423df11d9b633b8f1",
+      "gateway": {
+        "min": "0.10.0",
+        "max": "*"
+      }
+    }
+  ]
+}
