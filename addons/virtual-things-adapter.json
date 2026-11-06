@@ -44,7 +44,7 @@
       "language": {
         "name": "nodejs",
         "versions": [
-          "115"
+          "any"
         ]
       },
       "version": "2.1.0",
