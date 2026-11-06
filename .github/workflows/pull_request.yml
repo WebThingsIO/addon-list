@@ -7,13 +7,13 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
     - uses: actions/checkout@v2
-    - name: Set up Python 3.9
-      uses: actions/setup-python@v2
+    - name: Set up Python 3.12
+      uses: actions/setup-python@v7
       with:
-        python-version: 3.9
+        python-version: '3.12'
     - name: Install dependencies
       run: |
         sudo apt -qq update
